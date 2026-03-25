@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 3,
-  "sold": 2,
+  "available": 4,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -22,13 +22,13 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 71.55,
-      "quantity": 0,
+      "price": 71.41,
+      "quantity": 1,
       "condition": "GD",
-      "comment": "RELISTED! ",
-      "date": 1773763519.53329,
-      "ended": true,
-      "new": true,
+      "comment": "",
+      "date": 1774414140.722314,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           70.69,
@@ -37,12 +37,24 @@
         [
           70.67,
           1771834958.7931242
+        ],
+        [
+          71.55,
+          1773763519.53329
+        ],
+        [
+          71.24,
+          1774138363.678425
+        ],
+        [
+          71.33,
+          1774262864.929621
         ]
       ],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -83,7 +95,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM",
-      "date": 1773849136.6572013,
+      "date": 1774414140.722314,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -109,7 +121,7 @@
       "comment": "PSA 10",
       "date": 1773763519.53329,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           950.0,
@@ -119,7 +131,7 @@
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -136,7 +148,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1773849136.6572013,
+      "date": 1774414140.722314,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -160,7 +172,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1773849136.6572013,
+      "date": 1774414140.722314,
       "ended": false,
       "new": false,
       "previous_prices": [],
