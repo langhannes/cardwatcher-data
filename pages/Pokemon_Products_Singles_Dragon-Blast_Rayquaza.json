@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 4,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Rayquaza (BW5t 055)",
@@ -248,6 +248,30 @@
       "card": "Rayquaza  (BW5t 055)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
       "seller": {
+        "name": "Krypi",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "",
+      "date": 1775645809.5915666,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1775428288.957969,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza  (BW5t 055)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
+      "seller": {
         "name": "ViggoEdits",
         "country": "Item location: Denmark"
       },
@@ -265,6 +289,30 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza  (BW5t 055)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
+      "seller": {
+        "name": "All-for-one88",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 750.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa7",
+      "date": 1775645809.5915666,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1775645809.5915666,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -300,14 +348,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 1499.0,
+      "price": 1500.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved + toploader + extra foil!",
-      "date": 1775086669.4447012,
+      "date": 1775645809.5915666,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          1499.0,
+          1775172469.5315216
+        ]
+      ],
       "first_date": 1771425630.755882,
       "last_date": 0.0,
       "price_is_new": false,
@@ -357,7 +410,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1775086669.4447012,
+      "date": 1775645809.5915666,
       "ended": false,
       "new": false,
       "previous_prices": [],

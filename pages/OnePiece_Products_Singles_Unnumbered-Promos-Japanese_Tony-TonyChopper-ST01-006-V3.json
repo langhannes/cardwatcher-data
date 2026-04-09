@@ -9,8 +9,8 @@
   ],
   "only_germany": "False",
   "available": 17,
-  "sold": 2,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Tony Tony.Chopper (ST01-006) (V.3)",
@@ -153,8 +153,8 @@
       "price": 79.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1775089043.3091893,
+      "comment": "",
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -170,7 +170,7 @@
       "first_date": 1770746063.1997218,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -389,7 +389,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -501,7 +501,7 @@
       "comment": "RELISTED! ",
       "date": 1775002768.3344855,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           80.0,
@@ -515,7 +515,7 @@
       "first_date": 1765402411.600737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -615,11 +615,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "S-Chinese",
-      "price": 94.33,
+      "price": 94.52,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -818,11 +818,23 @@
         [
           94.75,
           1775002768.3344855
+        ],
+        [
+          94.33,
+          1775089043.3091893
+        ],
+        [
+          94.57,
+          1775174836.305224
+        ],
+        [
+          94.42,
+          1775430666.0469573
         ]
       ],
       "first_date": 1765402411.600737,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -837,55 +849,14 @@
       },
       "language": "S-Chinese",
       "price": 95.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1774918536.6532652,
-      "ended": true,
+      "date": 1775648174.5693624,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1770037523.3824046,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
-      "seller": {
-        "name": "GamersAcademy",
-        "country": "Item location: Austria"
-      },
-      "language": "S-Chinese",
-      "price": 95.21,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1774918536.6532652,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          99.98,
-          1773912091.6217597
-        ],
-        [
-          99.99,
-          1774213577.9419239
-        ],
-        [
-          99.98,
-          1774463154.831281
-        ],
-        [
-          96.98,
-          1774536857.055662
-        ]
-      ],
-      "first_date": 1773713746.1852932,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -934,7 +905,31 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1775002768.3344855,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
+      "seller": {
+        "name": "ABCGAMES",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "QUAD: VERDE",
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -955,11 +950,11 @@
       },
       "language": "S-Chinese",
       "price": 99.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "#763",
-      "date": 1775089043.3091893,
-      "ended": false,
+      "date": 1775430666.0469573,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -987,19 +982,19 @@
       "card": "Tony Tony.Chopper (ST01-006) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
       "seller": {
-        "name": "ABCGAMES",
-        "country": "Item location: Italy"
+        "name": "FreshE2001",
+        "country": "Item location: Germany"
       },
       "language": "S-Chinese",
-      "price": 99.99,
+      "price": 100.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "QUAD: VERDE",
-      "date": 1775089043.3091893,
+      "condition": "MT",
+      "comment": "PSA9",
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1775002768.3344855,
+      "first_date": 1772661455.2082663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1011,21 +1006,91 @@
       "card": "Tony Tony.Chopper (ST01-006) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
       "seller": {
-        "name": "FreshE2001",
+        "name": "Bolle88",
         "country": "Item location: Germany"
       },
       "language": "S-Chinese",
       "price": 100.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA9",
-      "date": 1775089043.3091893,
-      "ended": false,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1775430666.0469573,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "first_date": 1772661455.2082663,
+      "previous_prices": [
+        [
+          119.0,
+          1770321407.0603423
+        ],
+        [
+          110.0,
+          1773100829.7257495
+        ],
+        [
+          100.0,
+          1773383997.058742
+        ],
+        [
+          110.0,
+          1775174836.305224
+        ]
+      ],
+      "first_date": 1770037523.3824046,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
+      "seller": {
+        "name": "GamersAcademy",
+        "country": "Item location: Austria"
+      },
+      "language": "S-Chinese",
+      "price": 103.03,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1775648174.5693624,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          99.98,
+          1773912091.6217597
+        ],
+        [
+          99.99,
+          1774213577.9419239
+        ],
+        [
+          99.98,
+          1774463154.831281
+        ],
+        [
+          96.98,
+          1774536857.055662
+        ],
+        [
+          95.21,
+          1775174836.305224
+        ],
+        [
+          112.9,
+          1775430666.0469573
+        ],
+        [
+          106.22,
+          1775553832.357562
+        ]
+      ],
+      "first_date": 1773713746.1852932,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1043,48 +1108,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#2601 - Toploader",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1766529372.2858481,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
-      "seller": {
-        "name": "Bolle88",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 110.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1775089043.3091893,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          119.0,
-          1770321407.0603423
-        ],
-        [
-          110.0,
-          1773100829.7257495
-        ],
-        [
-          100.0,
-          1773383997.058742
-        ]
-      ],
-      "first_date": 1770037523.3824046,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1261,12 +1289,12 @@
       "comment": "Bgs 9.5",
       "date": 1775002768.3344855,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1774918536.6532652,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1480,7 +1508,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "bgs9.5",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1504,7 +1532,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10! Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1537,7 +1565,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1618,7 +1646,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "got whole set pm for info (wo nami)",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1642,7 +1670,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 / safe shipping",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1730,30 +1758,6 @@
       "card": "Tony Tony.Chopper (ST01-006) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
       "seller": {
-        "name": "KaidoK",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 244.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1775089043.3091893,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1770227661.1655893,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
-      "seller": {
         "name": "bendito45",
         "country": "Item location: Spain"
       },
@@ -1762,7 +1766,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10!",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1776,6 +1780,54 @@
         ]
       ],
       "first_date": 1765402411.600737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
+      "seller": {
+        "name": "KaidoK",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 244.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1775553832.357562,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770227661.1655893,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
+      "seller": {
+        "name": "OrionTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 245.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1775648174.5693624,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1775174836.305224,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2002,7 +2054,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Chopper. Luffy. Zoro. Sanji PSA 10",
-      "date": 1775089043.3091893,
+      "date": 1775648174.5693624,
       "ended": false,
       "new": false,
       "previous_prices": [
