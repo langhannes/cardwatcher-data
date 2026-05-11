@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 10,
+  "available": 8,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Latios EX  (XY6 082)",
@@ -26,10 +26,11 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774137769.9998093,
       "last_date": 0.0,
       "price_is_new": false,
@@ -50,10 +51,11 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -70,11 +72,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 65.1,
+      "price": 65.46,
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -217,8 +219,65 @@
         [
           65.03,
           1776433564.1661685
+        ],
+        [
+          65.1,
+          1776629584.0302346
+        ],
+        [
+          65.18,
+          1776859061.9627378
+        ],
+        [
+          65.34,
+          1776926361.6928768
+        ],
+        [
+          65.42,
+          1777192041.2304318
+        ],
+        [
+          65.38,
+          1777283829.026128
+        ],
+        [
+          65.42,
+          1777396538.7796767
+        ],
+        [
+          65.39,
+          1777495597.547563
+        ],
+        [
+          65.4,
+          1777586246.821208
+        ],
+        [
+          65.6,
+          1777746334.4295502
+        ],
+        [
+          65.62,
+          1777882725.7493145
+        ],
+        [
+          65.57,
+          1777972641.2655017
+        ],
+        [
+          65.62,
+          1778033869.8910947
+        ],
+        [
+          65.53,
+          1778198167.7715216
+        ],
+        [
+          65.52,
+          1778400759.232325
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": true,
@@ -236,13 +295,14 @@
       },
       "language": "Japanese",
       "price": 70.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Front EX+ // Back GD",
       "date": 1776536801.2345276,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -263,10 +323,24 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Really near to excellent",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1777283829.026128
+        ],
+        [
+          1,
+          1777746334.4295502
+        ],
+        [
+          0,
+          1777746334.4295502
+        ]
+      ],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -287,10 +361,11 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774957361.867533,
       "last_date": 0.0,
       "price_is_new": false,
@@ -310,8 +385,8 @@
       "price": 170.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1776536801.2345276,
+      "comment": "",
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -320,10 +395,11 @@
           1774137769.9998093
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -340,10 +416,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -368,6 +445,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -385,13 +463,14 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
       "date": 1776536801.2345276,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -412,10 +491,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 POP 213",
-      "date": 1776536801.2345276,
+      "date": 1778486922.5605135,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773226038.229203,
       "last_date": 0.0,
       "price_is_new": false,

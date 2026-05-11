@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 41,
+  "available": 37,
   "sold": 2,
-  "inserted": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Dracule Mihawk (OP12-030)",
@@ -30,6 +30,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771443581.9490583,
       "last_date": 0.0,
       "price_is_new": false,
@@ -54,6 +55,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770924892.6278665,
       "last_date": 0.0,
       "price_is_new": false,
@@ -83,6 +85,7 @@
           1770198293.8148031
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770198293.8148031,
       "last_date": 0.0,
       "price_is_new": false,
@@ -100,17 +103,23 @@
       },
       "language": "S-Chinese",
       "price": 49.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipment. In good condition. A809",
-      "date": 1776461358.311598,
-      "ended": true,
-      "new": true,
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1776461358.311598
+        ]
+      ],
       "first_date": 1775657638.6357386,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -144,6 +153,7 @@
           1771919025.0764034
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768160702.0489037,
       "last_date": 0.0,
       "price_is_new": false,
@@ -177,7 +187,33 @@
           1771855474.613053
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768160702.0489037,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "TheBazaarTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777218383.834982,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -210,6 +246,7 @@
           1775440162.450411
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1774928028.5813124,
       "last_date": 0.0,
       "price_is_new": false,
@@ -234,6 +271,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1775563291.5289626,
       "last_date": 0.0,
       "price_is_new": false,
@@ -263,6 +301,7 @@
           1768160702.0489037
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768160702.0489037,
       "last_date": 0.0,
       "price_is_new": false,
@@ -287,6 +326,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1776182913.5313404,
       "last_date": 0.0,
       "price_is_new": false,
@@ -316,6 +356,7 @@
           1772037583.63863
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772037583.63863,
       "last_date": 0.0,
       "price_is_new": false,
@@ -340,6 +381,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773184282.5635922,
       "last_date": 0.0,
       "price_is_new": false,
@@ -373,6 +415,7 @@
           1775012250.5230765
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1773920243.5330687,
       "last_date": 0.0,
       "price_is_new": false,
@@ -397,6 +440,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1775657638.6357386,
       "last_date": 0.0,
       "price_is_new": false,
@@ -462,6 +506,7 @@
           1772562686.3855877
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770717845.896711,
       "last_date": 0.0,
       "price_is_new": false,
@@ -495,6 +540,7 @@
           1771651030.1235912
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770292641.7227538,
       "last_date": 0.0,
       "price_is_new": false,
@@ -519,6 +565,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772673673.7972503,
       "last_date": 0.0,
       "price_is_new": false,
@@ -640,84 +687,8 @@
           1775870510.7364116
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772467218.5965886,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "LA-collectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 69.89,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Strict grading | Daily shipping | Safely packed with toploader!!",
-      "date": 1772722125.3679228,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          92.95,
-          1771651030.1235912
-        ],
-        [
-          83.95,
-          1771855474.613053
-        ],
-        [
-          79.95,
-          1771919025.0764034
-        ],
-        [
-          77.95,
-          1772132841.095788
-        ],
-        [
-          67.98,
-          1772304306.5948925
-        ],
-        [
-          74.95,
-          1772562686.3855877
-        ],
-        [
-          67.98,
-          1772673673.7972503
-        ]
-      ],
-      "first_date": 1771517291.1331403,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "LA-collectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 69.89,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Strict grading | Daily shipping | Safely packed with toploader!!",
-      "date": 1772673673.7972503,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1772673673.7972503,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -741,6 +712,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774625845.887924,
       "last_date": 0.0,
       "price_is_new": false,
@@ -778,6 +750,7 @@
           1772132841.095788
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768160702.0489037,
       "last_date": 0.0,
       "price_is_new": false,
@@ -795,17 +768,57 @@
       },
       "language": "Japanese",
       "price": 69.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "More OP in stock!",
-      "date": 1776461358.311598,
-      "ended": true,
-      "new": true,
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777614826.2549615
+        ],
+        [
+          0,
+          1777614826.2549615
+        ]
+      ],
       "first_date": 1773184282.5635922,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "BecksBenni",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Pack-sleeve-toploader",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1777910899.9894817
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776081906.9780202,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -826,6 +839,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1775440162.450411,
       "last_date": 0.0,
       "price_is_new": false,
@@ -850,6 +864,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773725070.1003165,
       "last_date": 0.0,
       "price_is_new": false,
@@ -874,6 +889,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772467218.5965886,
       "last_date": 0.0,
       "price_is_new": false,
@@ -898,6 +914,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772304306.5948925,
       "last_date": 0.0,
       "price_is_new": false,
@@ -922,6 +939,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772037583.63863,
       "last_date": 0.0,
       "price_is_new": false,
@@ -946,10 +964,86 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Bennibo25",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 73.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeved + Toploader",
+      "date": 1778363370.9102151,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          120.0,
+          1769957836.0436568
+        ],
+        [
+          119.0,
+          1770198293.8148031
+        ],
+        [
+          115.0,
+          1771000792.3605745
+        ],
+        [
+          105.0,
+          1771443581.9490583
+        ],
+        [
+          93.0,
+          1772562686.3855877
+        ],
+        [
+          74.0,
+          1772819706.7024965
+        ],
+        [
+          85.0,
+          1773783662.0266514
+        ],
+        [
+          80.0,
+          1774625845.887924
+        ],
+        [
+          78.0,
+          1775870510.7364116
+        ],
+        [
+          75.0,
+          1777775461.2668948
+        ],
+        [
+          70.0,
+          1778160558.3513348
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778363370.9102151
+        ]
+      ],
+      "first_date": 1769957836.0436568,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -963,11 +1057,11 @@
       },
       "language": "Japanese",
       "price": 73.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777317441.3089378,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1013,12 +1107,123 @@
         [
           70.0,
           1776461358.311598
+        ],
+        [
+          73.0,
+          1776657359.7628205
+        ],
+        [
+          74.0,
+          1776954170.300003
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777317441.3089378
         ]
       ],
       "first_date": 1775098527.3268006,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "amazingtoys",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 73.88,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          96.02,
+          1774372399.4163635
+        ],
+        [
+          91.22,
+          1774472685.6064026
+        ],
+        [
+          87.94,
+          1774625845.887924
+        ],
+        [
+          79.98,
+          1775870510.7364116
+        ],
+        [
+          75.98,
+          1776657359.7628205
+        ],
+        [
+          74.94,
+          1777317441.3089378
+        ],
+        [
+          74.88,
+          1777614826.2549615
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1774372399.4163635,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 73.89,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Strict grading | Packed carefully with toploader | More Japanese Cards for OP/PKM/YUGI available!",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          69.89,
+          1772673673.7972503
+        ],
+        [
+          74.89,
+          1777614826.2549615
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778160558.3513348
+        ],
+        [
+          0,
+          1778160558.3513348
+        ]
+      ],
+      "first_date": 1772673673.7972503,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1035,7 +1240,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1044,7 +1249,38 @@
           1774625845.887924
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771792132.3038833,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Emo2305",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 74.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1777460982.023228,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777460982.023228
+        ]
+      ],
+      "first_date": 1776886838.8829663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1064,11 +1300,104 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scrivici al 3516454980 o su Instagram @gamestimelameziaterme",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777614826.2549615
+        ],
+        [
+          0,
+          1777614826.2549615
+        ]
+      ],
       "first_date": 1773184282.5635922,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "GS-GameOn",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 74.94,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1776954170.300003,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1776954170.300003,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 74.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Strict grading | Packed carefully with toploader | More Japanese Cards for OP/PKM/YUGI available!",
+      "date": 1776886838.8829663,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          92.95,
+          1771651030.1235912
+        ],
+        [
+          83.95,
+          1771855474.613053
+        ],
+        [
+          79.95,
+          1771919025.0764034
+        ],
+        [
+          77.95,
+          1772132841.095788
+        ],
+        [
+          67.98,
+          1772304306.5948925
+        ],
+        [
+          74.95,
+          1772562686.3855877
+        ],
+        [
+          67.98,
+          1772673673.7972503
+        ],
+        [
+          69.89,
+          1772722125.3679228
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771517291.1331403,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1097,92 +1426,8 @@
           1771651030.1235912
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771517291.1331403,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "Bennibo25",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 75.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved + Toploader",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          120.0,
-          1769957836.0436568
-        ],
-        [
-          119.0,
-          1770198293.8148031
-        ],
-        [
-          115.0,
-          1771000792.3605745
-        ],
-        [
-          105.0,
-          1771443581.9490583
-        ],
-        [
-          93.0,
-          1772562686.3855877
-        ],
-        [
-          74.0,
-          1772819706.7024965
-        ],
-        [
-          85.0,
-          1773783662.0266514
-        ],
-        [
-          80.0,
-          1774625845.887924
-        ],
-        [
-          78.0,
-          1775870510.7364116
-        ]
-      ],
-      "first_date": 1769957836.0436568,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "BecksBenni",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 75.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Pack-sleeve-toploader",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1776081906.9780202,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1202,7 +1447,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask me for photo",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1219,7 +1464,68 @@
           1773051596.087904
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "CardtopiaPoke",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeve + Toploader! Quick shipping!",
+      "date": 1777775461.2668948,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777775461.2668948
+        ]
+      ],
+      "first_date": 1777317441.3089378,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "garlikane",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1777775461.2668948,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777775461.2668948
+        ]
+      ],
+      "first_date": 1777460982.023228,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1243,6 +1549,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774221770.0994518,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1267,6 +1574,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773051596.087904,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1291,48 +1599,8 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773244009.871361,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "amazingtoys",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 75.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          96.02,
-          1774372399.4163635
-        ],
-        [
-          91.22,
-          1774472685.6064026
-        ],
-        [
-          87.94,
-          1774625845.887924
-        ],
-        [
-          79.98,
-          1775870510.7364116
-        ]
-      ],
-      "first_date": 1774372399.4163635,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1349,16 +1617,22 @@
       },
       "language": "Japanese",
       "price": 75.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "A1 SP",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777910899.9894817,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           69.88,
           1773184282.5635922
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777910899.9894817
         ]
       ],
       "first_date": 1772673673.7972503,
@@ -1381,7 +1655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "every order comes with a little present",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1394,6 +1668,7 @@
           1775870510.7364116
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770717845.896711,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1423,31 +1698,8 @@
           1772722125.3679228
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771792132.3038833,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "Collector-D",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 78.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Ask for pictures / Check my website !",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1776182913.5313404,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1471,6 +1723,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774472685.6064026,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1508,6 +1761,7 @@
           1771855474.613053
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770770162.9463077,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1537,31 +1791,8 @@
           1773051596.087904
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771443581.9490583,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "gdoc-shop",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 79.99,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "Your One Piece Card Expert with a Massive Selection!",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1774625845.887924,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1581,11 +1812,62 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved+toploader",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771792132.3038833,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Samouyel",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 79.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved + Toploader",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777910899.9894817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "gdoc-shop",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 79.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Your One Piece Card Expert with a Massive Selection!",
+      "date": 1777218383.834982,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1774625845.887924,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1614,7 +1896,142 @@
           1772722125.3679228
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772132841.095788,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Mat56",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sleeve & top",
+      "date": 1776954170.300003,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          90.0,
+          1772304306.5948925
+        ],
+        [
+          100.0,
+          1772389601.1705976
+        ],
+        [
+          95.0,
+          1772467218.5965886
+        ],
+        [
+          90.0,
+          1776564605.2541857
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1772304306.5948925,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "amazingtoys",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 81.37,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          99.9,
+          1778092581.7720947
+        ],
+        [
+          94.91,
+          1778160558.3513348
+        ],
+        [
+          90.16,
+          1778264457.994637
+        ],
+        [
+          85.65,
+          1778363370.9102151
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778092581.7720947,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "KHRoXaS01",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 84.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          89.0,
+          1772132841.095788
+        ],
+        [
+          84.0,
+          1772819706.7024965
+        ],
+        [
+          96.0,
+          1773395331.186103
+        ],
+        [
+          90.0,
+          1773920243.5330687
+        ],
+        [
+          80.0,
+          1774546365.8275516
+        ],
+        [
+          85.0,
+          1777218383.834982
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1772037583.63863,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1643,6 +2060,7 @@
           1771651030.1235912
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771297088.9183156,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1680,6 +2098,7 @@
           1771517291.1331403
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770838587.639,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1692,40 +2111,50 @@
       "card": "Dracule Mihawk (OP12-030)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
       "seller": {
-        "name": "KHRoXaS01",
-        "country": "Item location: Italy"
+        "name": "Collector-D",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 85.0,
-      "quantity": 3,
+      "price": 84.99,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1776564605.2541857,
+      "comment": "Ask for pictures / Check my website !",
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          89.0,
-          1772132841.095788
-        ],
-        [
-          84.0,
-          1772819706.7024965
-        ],
-        [
-          96.0,
-          1773395331.186103
-        ],
-        [
-          90.0,
-          1773920243.5330687
-        ],
-        [
-          80.0,
-          1774546365.8275516
+          78.99,
+          1776657359.7628205
         ]
       ],
-      "first_date": 1772037583.63863,
+      "previous_quantities": [],
+      "first_date": 1776182913.5313404,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "SilentX",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 85.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "shipping with toploader",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1776886838.8829663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1749,6 +2178,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773184282.5635922,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1778,6 +2208,7 @@
           1771651030.1235912
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771248183.150554,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1802,6 +2233,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771651030.1235912,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1826,6 +2258,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1855,6 +2288,7 @@
           1773920243.5330687
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1773335894.6590757,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1916,6 +2350,7 @@
           1775098527.3268006
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1773725070.1003165,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1933,16 +2368,22 @@
       },
       "language": "Japanese",
       "price": 89.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster to Sleeve / Ask for pictures",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777460982.023228,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           95.0,
           1776182913.5313404
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777460982.023228
         ]
       ],
       "first_date": 1775184316.1724963,
@@ -1969,6 +2410,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768160702.0489037,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1989,7 +2431,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1998,6 +2440,7 @@
           1772819706.7024965
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771443581.9490583,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2018,48 +2461,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1776182913.5313404,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "Mat56",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 90.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sleeve & top",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          90.0,
-          1772304306.5948925
-        ],
-        [
-          100.0,
-          1772389601.1705976
-        ],
-        [
-          95.0,
-          1772467218.5965886
-        ]
-      ],
-      "first_date": 1772304306.5948925,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2079,7 +2486,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2096,7 +2503,33 @@
           1772467218.5965886
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771356169.1107497,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Benimaru-Shinmon",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 90.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Safe and fast delivery - Sleeve Toploader",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778449530.3579128,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2129,6 +2562,7 @@
           1773395331.186103
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769776540.0597274,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2158,6 +2592,7 @@
           1771651030.1235912
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770924892.6278665,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2182,6 +2617,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769100841.9246306,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2211,6 +2647,7 @@
           1768160702.0489037
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2235,6 +2672,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2264,6 +2702,7 @@
           1768160702.0489037
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2288,6 +2727,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771248183.150554,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2305,11 +2745,11 @@
       },
       "language": "Japanese",
       "price": 94.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "From Pack to Sleeve / + cards in stock",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777910899.9894817,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2323,6 +2763,12 @@
         [
           104.99,
           1772304306.5948925
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777910899.9894817
         ]
       ],
       "first_date": 1767869068.4434254,
@@ -2358,6 +2804,7 @@
           1769596575.7203937
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2382,7 +2829,33 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "JJpoke",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 97.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "__JJpoke__ high quality control. front/back photos available. search in store or ask us",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1776886838.8829663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2402,7 +2875,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved/toploader",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2415,6 +2888,7 @@
           1774928028.5813124
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769165033.043255,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2435,7 +2909,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2468,6 +2942,7 @@
           1772562686.3855877
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2492,6 +2967,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769596575.7203937,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2516,6 +2992,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772722125.3679228,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2536,11 +3013,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771000792.3605745,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Jester10",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "S-Chinese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1776886838.8829663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2557,13 +3060,23 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777996628.9187899,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1777218383.834982
+        ],
+        [
+          1,
+          1777996628.9187899
+        ]
+      ],
       "first_date": 1770924892.6278665,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2581,13 +3094,23 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Guardare Foto",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777996628.9187899,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1777218383.834982
+        ],
+        [
+          1,
+          1777996628.9187899
+        ]
+      ],
       "first_date": 1773783662.0266514,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2612,6 +3135,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1775563291.5289626,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2636,6 +3160,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771000792.3605745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2665,6 +3190,7 @@
           1769626899.9731061
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769596575.7203937,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2694,6 +3220,7 @@
           1770838587.639
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770198293.8148031,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2727,6 +3254,7 @@
           1769626899.9731061
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2751,6 +3279,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770292641.7227538,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2780,6 +3309,7 @@
           1769858352.8657198
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769858352.8657198,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2825,6 +3355,7 @@
           1770198293.8148031
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769507056.0905857,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2854,6 +3385,7 @@
           1768771355.2552521
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2874,7 +3406,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2887,6 +3419,7 @@
           1770292641.7227538
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2904,11 +3437,11 @@
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "AOG GEM MINT 10",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1776657359.7628205,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2916,6 +3449,7 @@
           1775870510.7364116
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1774928028.5813124,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2940,6 +3474,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1775440162.450411,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2960,7 +3495,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2969,6 +3504,7 @@
           1771517291.1331403
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3002,6 +3538,7 @@
           1775012250.5230765
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772673673.7972503,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3026,6 +3563,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770770162.9463077,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3050,6 +3588,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769100841.9246306,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3074,6 +3613,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769350625.8532996,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3098,6 +3638,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769507056.0905857,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3122,6 +3663,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769100841.9246306,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3146,6 +3688,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3170,6 +3713,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3187,17 +3731,31 @@
       },
       "language": "Japanese",
       "price": 112.89,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Store in Udine",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
+      "comment": "RELISTED! Store in Udine",
+      "date": 1778363370.9102151,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778160558.3513348
+        ],
+        [
+          0,
+          1778160558.3513348
+        ],
+        [
+          1,
+          1778363370.9102151
+        ]
+      ],
       "first_date": 1770924892.6278665,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3235,6 +3793,7 @@
           1769626899.9731061
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769165033.043255,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3259,6 +3818,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769596575.7203937,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3283,6 +3843,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769596575.7203937,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3307,6 +3868,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770924892.6278665,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3331,6 +3893,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768771355.2552521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3355,6 +3918,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769626899.9731061,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3379,6 +3943,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769507056.0905857,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3403,6 +3968,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770717845.896711,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3427,6 +3993,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769100841.9246306,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3447,7 +4014,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-5",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3456,6 +4023,7 @@
           1768160702.0489037
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3480,6 +4048,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3521,6 +4090,7 @@
           1772722125.3679228
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772037583.63863,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3541,7 +4111,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3550,31 +4120,8 @@
           1767869068.4434254
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
-        "name": "LLall",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 120.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "delivered quickly under double sleeve + toploader",
-      "date": 1776564605.2541857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1774221770.0994518,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3591,14 +4138,45 @@
       },
       "language": "S-Chinese",
       "price": 120.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776564605.2541857,
-      "ended": false,
+      "date": 1777317441.3089378,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777317441.3089378
+        ]
+      ],
       "first_date": 1769350625.8532996,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "LLall",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "delivered quickly under double sleeve + toploader",
+      "date": 1776657359.7628205,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1774221770.0994518,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3618,10 +4196,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC Gold Label ! Check my profil to see all cards !",
-      "date": 1776564605.2541857,
+      "date": 1778449530.3579128,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772304306.5948925,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3646,7 +4225,33 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1767869068.4434254,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
+        "name": "Fabytech88",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 230.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10  SOLO SPEDIZIONE TRACCIATA",
+      "date": 1778449530.3579128,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777460982.023228,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

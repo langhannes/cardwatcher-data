@@ -11,7 +11,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -31,6 +31,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1730793508.65069,
       "last_date": 0.0,
       "price_is_new": false,
@@ -55,6 +56,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773718744.874474,
       "last_date": 0.0,
       "price_is_new": false,
@@ -79,6 +81,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769801530.4244914,
       "last_date": 0.0,
       "price_is_new": false,
@@ -99,10 +102,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SOR // Graded 9.5 - Guard&Grading",
-      "date": 1776558918.70887,
+      "date": 1778445100.8365393,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771286416.9627044,
       "last_date": 0.0,
       "price_is_new": false,
@@ -132,6 +136,7 @@
           35.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1719386373.4163008,
       "last_date": 0.0,
       "price_is_new": false,
@@ -149,11 +154,11 @@
       },
       "language": "Japanese",
       "price": 1399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 9 - 9 | 9.5 | 9.5 | 8.5",
-      "date": 1776558918.70887,
-      "ended": false,
+      "date": 1777770143.5178921,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -163,6 +168,16 @@
         [
           2399.0,
           1775434829.6839783
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776948479.0311358
+        ],
+        [
+          1,
+          1777770143.5178921
         ]
       ],
       "first_date": 1768161142.2337966,
@@ -189,6 +204,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711009308.999026,
       "last_date": 0.0,
       "price_is_new": false,
@@ -238,6 +254,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1716881312.2641027,
       "last_date": 0.0,
       "price_is_new": false,
@@ -262,6 +279,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755773983.942184,
       "last_date": 0.0,
       "price_is_new": false,
@@ -315,6 +333,7 @@
           1773718744.874474
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1761774366.1031413,
       "last_date": 0.0,
       "price_is_new": false,
@@ -339,6 +358,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755773983.942184,
       "last_date": 0.0,
       "price_is_new": false,
@@ -356,16 +376,26 @@
       },
       "language": "Japanese",
       "price": 2399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1776558918.70887,
-      "ended": false,
+      "date": 1777770143.5178921,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           1899.0,
           1769372865.297779
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776948479.0311358
+        ],
+        [
+          1,
+          1777770143.5178921
         ]
       ],
       "first_date": 1768771593.0927832,
@@ -392,6 +422,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711009308.999026,
       "last_date": 0.0,
       "price_is_new": false,
@@ -416,6 +447,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1736842208.741176,
       "last_date": 0.0,
       "price_is_new": false,

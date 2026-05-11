@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 3,
+  "available": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -22,12 +22,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 71.11,
-      "quantity": 0,
+      "price": 71.41,
+      "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1776243556.474802,
-      "ended": true,
+      "date": 1778487490.8067667,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -97,11 +97,57 @@
         [
           70.86,
           1776111294.8470328
+        ],
+        [
+          71.11,
+          1776859381.3004992
+        ],
+        [
+          71.28,
+          1776926679.8210638
+        ],
+        [
+          71.36,
+          1777192360.2019894
+        ],
+        [
+          71.32,
+          1777284236.5184526
+        ],
+        [
+          71.37,
+          1777396948.4631083
+        ],
+        [
+          71.34,
+          1777586583.8689094
+        ],
+        [
+          71.59,
+          1778034441.4286418
+        ],
+        [
+          71.49,
+          1778198737.8983593
+        ],
+        [
+          71.48,
+          1778401327.780753
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777586583.8689094
+        ],
+        [
+          0,
+          1777586583.8689094
         ]
       ],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -123,6 +169,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
@@ -143,11 +190,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM",
-      "date": 1776537121.5761242,
+      "date": 1778487490.8067667,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772545477.032725,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MLatios EX  (XY6 083)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MLatios-EX-V2",
+      "seller": {
+        "name": "TCG-CREW",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 339.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1778487490.8067667,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777586583.8689094,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -176,6 +249,7 @@
           1773375193.216352
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
@@ -196,10 +270,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1776537121.5761242,
+      "date": 1778487490.8067667,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
@@ -220,10 +295,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1776537121.5761242,
+      "date": 1778487490.8067667,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
@@ -248,6 +324,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
       "price_is_new": false,
@@ -272,6 +349,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772287804.312021,
       "last_date": 0.0,
       "price_is_new": false,

@@ -9,7 +9,7 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 10,
+  "available": 6,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -22,11 +22,11 @@
       },
       "language": "Japanese",
       "price": 80.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776536483.8752353,
-      "ended": false,
+      "date": 1776926044.99113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -34,6 +34,7 @@
           1775898713.310947
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1774956776.1114202,
       "last_date": 0.0,
       "price_is_new": false,
@@ -51,11 +52,11 @@
       },
       "language": "Japanese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776536483.8752353,
-      "ended": false,
+      "date": 1777882388.4936976,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -65,6 +66,12 @@
         [
           100.0,
           1773225664.2880287
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777882388.4936976
         ]
       ],
       "first_date": 1769284825.7249908,
@@ -96,6 +103,7 @@
           1771897171.2479048
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769284825.7249908,
       "last_date": 0.0,
       "price_is_new": false,
@@ -113,13 +121,19 @@
       },
       "language": "Japanese",
       "price": 89.96,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776536483.8752353,
-      "ended": false,
+      "date": 1778197597.9985647,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778197597.9985647
+        ]
+      ],
       "first_date": 1773704056.6016319,
       "last_date": 0.0,
       "price_is_new": false,
@@ -140,11 +154,54 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776536483.8752353,
+      "date": 1778486356.4497366,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769605185.536917,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zeus (OP11-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zeus-OP11-106-V1",
+      "seller": {
+        "name": "mickasy",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 114.98,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1778486356.4497366,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          139.99,
+          1774654678.9513013
+        ],
+        [
+          119.99,
+          1775213636.406096
+        ],
+        [
+          122.22,
+          1775898713.310947
+        ],
+        [
+          119.98,
+          1777191725.8109071
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1772019531.6888354,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -164,10 +221,11 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1776536483.8752353,
+      "date": 1778486356.4497366,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771224915.1096067,
       "last_date": 0.0,
       "price_is_new": false,
@@ -184,12 +242,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 118.37,
-      "quantity": 1,
+      "price": 119.14,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1776536483.8752353,
-      "ended": false,
+      "date": 1778197597.9985647,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -387,46 +445,63 @@
         [
           118.24,
           1776433248.515552
+        ],
+        [
+          118.37,
+          1776629267.9449055
+        ],
+        [
+          118.51,
+          1776858745.1834023
+        ],
+        [
+          118.79,
+          1776926044.99113
+        ],
+        [
+          118.94,
+          1777191725.8109071
+        ],
+        [
+          118.87,
+          1777283421.9471724
+        ],
+        [
+          118.94,
+          1777396132.8624132
+        ],
+        [
+          118.89,
+          1777495261.8360693
+        ],
+        [
+          118.9,
+          1777585912.4639854
+        ],
+        [
+          119.27,
+          1777745998.6000044
+        ],
+        [
+          119.31,
+          1777882388.4936976
+        ],
+        [
+          119.21,
+          1777972308.3735032
+        ],
+        [
+          119.31,
+          1778033300.1892455
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778197597.9985647
         ]
       ],
       "first_date": 1769284825.7249908,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zeus (OP11-106) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zeus-OP11-106-V1",
-      "seller": {
-        "name": "mickasy",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 119.98,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1776536483.8752353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          139.99,
-          1774654678.9513013
-        ],
-        [
-          119.99,
-          1775213636.406096
-        ],
-        [
-          122.22,
-          1775898713.310947
-        ]
-      ],
-      "first_date": 1772019531.6888354,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -450,6 +525,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772797558.3960605,
       "last_date": 0.0,
       "price_is_new": false,
@@ -470,10 +546,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Bandai Card Fest Japan Chiba 2025 to toploader binder",
-      "date": 1776536483.8752353,
+      "date": 1778486356.4497366,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769284825.7249908,
       "last_date": 0.0,
       "price_is_new": false,
@@ -498,6 +575,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772544721.8447776,
       "last_date": 0.0,
       "price_is_new": false,

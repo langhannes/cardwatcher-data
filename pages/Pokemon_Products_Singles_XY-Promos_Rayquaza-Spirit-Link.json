@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 4,
-  "sold": 1,
+  "available": 2,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -23,13 +23,19 @@
       },
       "language": "Japanese",
       "price": 39.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "#3",
-      "date": 1776580247.749265,
-      "ended": false,
+      "date": 1777795738.2307246,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777795738.2307246
+        ]
+      ],
       "first_date": 1776096656.206836,
       "last_date": 0.0,
       "price_is_new": false,
@@ -46,22 +52,87 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 44.98,
+      "price": 45.23,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1776580247.749265,
+      "date": 1778464699.2149625,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           44.93,
           1776386717.9893703
+        ],
+        [
+          44.98,
+          1776580247.749265
+        ],
+        [
+          44.93,
+          1776672994.7863467
+        ],
+        [
+          45.04,
+          1776902485.0390875
+        ],
+        [
+          45.14,
+          1776969825.2027404
+        ],
+        [
+          45.17,
+          1777274254.0568688
+        ],
+        [
+          45.2,
+          1777386929.1975758
+        ],
+        [
+          45.18,
+          1777476022.221207
+        ],
+        [
+          45.19,
+          1777544633.959321
+        ],
+        [
+          45.4,
+          1777635065.4755552
+        ],
+        [
+          45.32,
+          1777795738.2307246
+        ],
+        [
+          45.34,
+          1777931645.8143625
+        ],
+        [
+          45.3,
+          1778012006.6750956
+        ],
+        [
+          45.34,
+          1778107843.2284808
+        ],
+        [
+          45.28,
+          1778175836.8125346
+        ],
+        [
+          45.24,
+          1778279729.2592268
+        ],
+        [
+          45.27,
+          1778378536.020488
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1776386717.9893703,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -79,7 +150,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776580247.749265,
+      "date": 1778464699.2149625,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -90,6 +161,16 @@
         [
           74.95,
           1772536598.4116876
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777544633.959321
+        ],
+        [
+          0,
+          1777544633.959321
         ]
       ],
       "first_date": 1770200923.4825807,
@@ -116,6 +197,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773364442.05454,
       "last_date": 0.0,
       "price_is_new": false,
@@ -145,6 +227,7 @@
           1771251257.383474
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770200923.4825807,
       "last_date": 0.0,
       "price_is_new": false,
@@ -167,12 +250,13 @@
       "comment": "PSA 9",
       "date": 1776477006.3920326,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770200923.4825807,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -186,13 +270,14 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
       "date": 1776580247.749265,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773838452.8096337,
       "last_date": 0.0,
       "price_is_new": false,

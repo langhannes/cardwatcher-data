@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
+  "available": 10,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -39,6 +39,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1709035339.8525155,
       "last_date": 0.0,
       "price_is_new": false,
@@ -63,6 +64,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1736842248.6286068,
       "last_date": 0.0,
       "price_is_new": false,
@@ -87,6 +89,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1718098258.3860264,
       "last_date": 0.0,
       "price_is_new": false,
@@ -120,11 +123,42 @@
           28.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1718098258.3860264,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MCharizard EX  (XY2 089)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_MCharizard-EX-V3",
+      "seller": {
+        "name": "Tema6",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1778440586.115654,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1776553601.3479176
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776071622.204106,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -140,10 +174,11 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "AiGrading 5. ask for the code if u need",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1740082361.2118495,
       "last_date": 0.0,
       "price_is_new": false,
@@ -168,35 +203,12 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1763818306.8002527,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MCharizard EX  (XY2 089)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_MCharizard-EX-V3",
-      "seller": {
-        "name": "Tema6",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 450.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1776553601.3479176,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1776071622.204106,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -216,6 +228,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774536057.675013,
       "last_date": 0.0,
       "price_is_new": false,
@@ -240,6 +253,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773712778.3088121,
       "last_date": 0.0,
       "price_is_new": false,
@@ -260,10 +274,11 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1776071622.204106,
       "last_date": 0.0,
       "price_is_new": false,
@@ -284,10 +299,11 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1771637691.4325478,
       "last_date": 0.0,
       "price_is_new": false,
@@ -308,10 +324,11 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773099644.2572358,
       "last_date": 0.0,
       "price_is_new": false,
@@ -329,13 +346,23 @@
       },
       "language": "Japanese",
       "price": 690.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "toploader or cardsaver",
-      "date": 1776360081.2702892,
-      "ended": true,
+      "date": 1778440586.115654,
+      "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777603221.3773956
+        ],
+        [
+          0,
+          1777603221.3773956
+        ]
+      ],
       "first_date": 1765525426.0484798,
       "last_date": 0.0,
       "price_is_new": false,
@@ -360,12 +387,52 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1709035339.8525155,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 2,
+      "archived": false
+    },
+    {
+      "card": "MCharizard EX  (XY2 089)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_MCharizard-EX-V3",
+      "seller": {
+        "name": "GZCARDS-AB",
+        "country": "Item location: Sweden"
+      },
+      "language": "Japanese",
+      "price": 825.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1778440586.115654,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          925.0,
+          1774536057.675013
+        ],
+        [
+          850.0,
+          1776259999.3566532
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776259999.3566532
+        ]
+      ],
+      "first_date": 1773712778.3088121,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
       "archived": false
     },
     {
@@ -380,7 +447,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -389,36 +456,8 @@
           1775174040.3902931
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1774363631.602522,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MCharizard EX  (XY2 089)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_MCharizard-EX-V3",
-      "seller": {
-        "name": "GZCARDS-AB",
-        "country": "Item location: Sweden"
-      },
-      "language": "Japanese",
-      "price": 850.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1776259999.3566532,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          925.0,
-          1774536057.675013
-        ]
-      ],
-      "first_date": 1773712778.3088121,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -442,6 +481,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1761774391.2593095,
       "last_date": 0.0,
       "price_is_new": false,
@@ -471,6 +511,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1713351379.8355715,
       "last_date": 0.0,
       "price_is_new": false,
@@ -495,6 +536,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1761774391.2593095,
       "last_date": 0.0,
       "price_is_new": false,
@@ -532,6 +574,7 @@
           48.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1709035339.8525155,
       "last_date": 0.0,
       "price_is_new": false,
@@ -565,6 +608,7 @@
           1766529489.8440745
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1763818306.8002527,
       "last_date": 0.0,
       "price_is_new": false,
@@ -589,6 +633,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755855995.9120564,
       "last_date": 0.0,
       "price_is_new": false,
@@ -609,10 +654,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755855995.9120564,
       "last_date": 0.0,
       "price_is_new": false,
@@ -637,6 +683,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1764588828.087989,
       "last_date": 0.0,
       "price_is_new": false,
@@ -661,6 +708,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1763818306.8002527,
       "last_date": 0.0,
       "price_is_new": false,
@@ -681,10 +729,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1776553601.3479176,
+      "date": 1778440586.115654,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1776450355.1226625,
       "last_date": 0.0,
       "price_is_new": false,
@@ -709,6 +758,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1709035339.8525155,
       "last_date": 0.0,
       "price_is_new": false,

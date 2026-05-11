@@ -30,6 +30,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1740082766.7923734,
       "last_date": 0.0,
       "price_is_new": false,
@@ -59,6 +60,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1709035248.801968,
       "last_date": 0.0,
       "price_is_new": false,
@@ -88,6 +90,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1711651844.721521,
       "last_date": 0.0,
       "price_is_new": false,
@@ -112,6 +115,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1718098050.3465598,
       "last_date": 0.0,
       "price_is_new": false,
@@ -145,6 +149,7 @@
           1773200147.9619
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1740082766.7923734,
       "last_date": 0.0,
       "price_is_new": false,
@@ -169,6 +174,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1720079257.1719754,
       "last_date": 0.0,
       "price_is_new": false,
@@ -193,6 +199,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1709035248.801968,
       "last_date": 0.0,
       "price_is_new": false,
@@ -226,6 +233,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1713505960.201089,
       "last_date": 0.0,
       "price_is_new": false,
@@ -250,11 +258,67 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1709035248.801968,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "myychll",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for Photos",
+      "date": 1778458614.5026672,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777469297.0703378,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "myychll",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 400.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "Ask for Photos",
+      "date": 1777381245.885824,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777381245.885824
+        ]
+      ],
+      "first_date": 1777381245.885824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -274,6 +338,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1740082766.7923734,
       "last_date": 0.0,
       "price_is_new": false,
@@ -298,6 +363,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1709035248.801968,
       "last_date": 0.0,
       "price_is_new": false,
@@ -327,6 +393,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1725369659.7905595,
       "last_date": 0.0,
       "price_is_new": false,
@@ -351,6 +418,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774150.0940225,
       "last_date": 0.0,
       "price_is_new": false,
@@ -375,6 +443,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774150.0940225,
       "last_date": 0.0,
       "price_is_new": false,
@@ -392,13 +461,19 @@
       },
       "language": "Japanese",
       "price": 599.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "cl",
-      "date": 1776571626.9087312,
-      "ended": false,
+      "date": 1778169723.941028,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778169723.941028
+        ]
+      ],
       "first_date": 1764588803.6463687,
       "last_date": 0.0,
       "price_is_new": false,
@@ -416,14 +491,50 @@
       },
       "language": "Japanese",
       "price": 620.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "The letter is in English.",
-      "date": 1776571626.9087312,
-      "ended": false,
+      "date": 1777626153.390953,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777626153.390953
+        ]
+      ],
       "first_date": 1771230924.0048175,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "Sergius223",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 625.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "The letter is in English.",
+      "date": 1777786813.5190904,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777786813.5190904
+        ]
+      ],
+      "first_date": 1777786813.5190904,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -447,6 +558,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1764588803.6463687,
       "last_date": 0.0,
       "price_is_new": false,
@@ -471,6 +583,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1740082766.7923734,
       "last_date": 0.0,
       "price_is_new": false,
@@ -500,6 +613,7 @@
           1775190913.2514753
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1775018846.9836264,
       "last_date": 0.0,
       "price_is_new": false,
@@ -529,6 +643,7 @@
           1773938415.5181406
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1773745990.863691,
       "last_date": 0.0,
       "price_is_new": false,
@@ -553,6 +668,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1763817878.3215978,
       "last_date": 0.0,
       "price_is_new": false,
@@ -577,6 +693,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1725369659.7905595,
       "last_date": 0.0,
       "price_is_new": false,
@@ -601,6 +718,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1736842163.3566797,
       "last_date": 0.0,
       "price_is_new": false,
@@ -625,11 +743,37 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1720783482.1245358,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "CHellaStore",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1299.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "C1-035. small whitening send in toploader",
+      "date": 1778458614.5026672,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778101724.9495728,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -649,6 +793,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774150.0940225,
       "last_date": 0.0,
       "price_is_new": false,
@@ -669,10 +814,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1776571626.9087312,
+      "date": 1778458614.5026672,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774390795.6355152,
       "last_date": 0.0,
       "price_is_new": false,
@@ -702,6 +848,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1761774353.8732572,
       "last_date": 0.0,
       "price_is_new": false,
@@ -726,6 +873,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774150.0940225,
       "last_date": 0.0,
       "price_is_new": false,
@@ -750,6 +898,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1763817878.3215978,
       "last_date": 0.0,
       "price_is_new": false,
@@ -774,6 +923,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1763817878.3215978,
       "last_date": 0.0,
       "price_is_new": false,
@@ -807,6 +957,7 @@
           1770224207.6369414
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1765402372.2435791,
       "last_date": 0.0,
       "price_is_new": false,
@@ -840,6 +991,7 @@
           1771879062.8093803
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1761774353.8732572,
       "last_date": 0.0,
       "price_is_new": false,

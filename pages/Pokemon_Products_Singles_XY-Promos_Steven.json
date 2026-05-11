@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -23,11 +23,11 @@
       },
       "language": "Japanese",
       "price": 179.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "some default",
-      "date": 1776580805.9608464,
-      "ended": false,
+      "date": 1778280214.0799518,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -37,6 +37,12 @@
         [
           199.9,
           1768771661.9279714
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778280214.0799518
         ]
       ],
       "first_date": 1764588838.784815,
@@ -59,7 +65,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1776580805.9608464,
+      "date": 1778465180.512747,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -68,6 +74,7 @@
           1767092128.6595366
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1764588838.784815,
       "last_date": 0.0,
       "price_is_new": false,
@@ -85,16 +92,22 @@
       },
       "language": "Japanese",
       "price": 549.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1776580805.9608464,
-      "ended": false,
+      "date": 1778280214.0799518,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           699.9,
           1768771661.9279714
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778280214.0799518
         ]
       ],
       "first_date": 1768161211.1724255,
@@ -121,6 +134,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1764588838.784815,
       "last_date": 0.0,
       "price_is_new": false,
@@ -145,6 +159,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1713603018.0444982,
       "last_date": 0.0,
       "price_is_new": false,
@@ -169,6 +184,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711009850.00585,
       "last_date": 0.0,
       "price_is_new": false,

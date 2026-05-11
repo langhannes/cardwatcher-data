@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
-  "sold": 2,
+  "available": 10,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -39,6 +39,7 @@
           937.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1711547704.379745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -80,6 +81,7 @@
           9.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1714742827.2019103,
       "last_date": 0.0,
       "price_is_new": false,
@@ -113,6 +115,7 @@
           82731.48
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1736842062.4199731,
       "last_date": 0.0,
       "price_is_new": false,
@@ -137,6 +140,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1772947667.3408442,
       "last_date": 0.0,
       "price_is_new": false,
@@ -166,6 +170,7 @@
           82731.48
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1740082731.4838037,
       "last_date": 0.0,
       "price_is_new": false,
@@ -186,7 +191,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "ask for pictures",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -195,6 +200,7 @@
           1770863286.1813602
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1761774310.7398784,
       "last_date": 0.0,
       "price_is_new": false,
@@ -224,6 +230,7 @@
           1766529410.954517
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1765638588.282794,
       "last_date": 0.0,
       "price_is_new": false,
@@ -248,6 +255,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711547704.379745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -270,7 +278,7 @@
       "comment": "RELISTED! FRONT EX BACK GOOD",
       "date": 1776446206.2112062,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           87.95,
@@ -281,10 +289,11 @@
           774123.651
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1714478506.6845462,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -301,10 +310,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "9-22 (2) See pics. Double sleeved. daily shipping. contact for reduced shipping!",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711547704.379745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -338,6 +348,7 @@
           937.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1725369493.3021393,
       "last_date": 0.0,
       "price_is_new": false,
@@ -362,6 +373,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1725369493.3021393,
       "last_date": 0.0,
       "price_is_new": false,
@@ -382,10 +394,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773707623.979155,
       "last_date": 0.0,
       "price_is_new": false,
@@ -410,6 +423,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1718097552.7358322,
       "last_date": 0.0,
       "price_is_new": false,
@@ -430,10 +444,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 8",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774123.6516852,
       "last_date": 0.0,
       "price_is_new": false,
@@ -458,6 +473,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1724669202.5940511,
       "last_date": 0.0,
       "price_is_new": false,
@@ -519,6 +535,7 @@
           2062.4
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1720783093.011533,
       "last_date": 0.0,
       "price_is_new": false,
@@ -536,13 +553,19 @@
       },
       "language": "Japanese",
       "price": 200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1776067773.32795,
-      "ended": true,
+      "date": 1778437414.7336402,
+      "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1776067773.32795
+        ]
+      ],
       "first_date": 1764750763.1318216,
       "last_date": 0.0,
       "price_is_new": false,
@@ -567,6 +590,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1714478506.6845462,
       "last_date": 0.0,
       "price_is_new": false,
@@ -589,7 +613,7 @@
       "comment": "PSA 9",
       "date": 1776446206.2112062,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           225.0,
@@ -600,10 +624,11 @@
           1775856384.4764876
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1775084390.4540648,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -624,6 +649,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1715599470.7758136,
       "last_date": 0.0,
       "price_is_new": false,
@@ -648,6 +674,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711547704.379745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -665,14 +692,45 @@
       },
       "language": "Japanese",
       "price": 244.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Strict grading!| Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1776549455.153906,
+      "date": 1777446775.6110525,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777446775.6110525
+        ]
+      ],
+      "first_date": 1775643534.4813807,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "SpielRaum",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "### 12370",
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1775643534.4813807,
+      "previous_quantities": [],
+      "first_date": 1777446775.6110525,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -696,6 +754,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774360099.017292,
       "last_date": 0.0,
       "price_is_new": false,
@@ -716,10 +775,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unlimited. front perfect back with white dots",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1766080306.742808,
       "last_date": 0.0,
       "price_is_new": false,
@@ -744,6 +804,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774123.6516852,
       "last_date": 0.0,
       "price_is_new": false,
@@ -768,6 +829,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1761774310.7398784,
       "last_date": 0.0,
       "price_is_new": false,
@@ -792,6 +854,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1773377886.7068346,
       "last_date": 0.0,
       "price_is_new": false,
@@ -812,10 +875,11 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1776549455.153906,
+      "date": 1778437414.7336402,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774123.6516852,
       "last_date": 0.0,
       "price_is_new": false,
@@ -840,6 +904,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1722945414.4385226,
       "last_date": 0.0,
       "price_is_new": false,
@@ -869,6 +934,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1716185202.2283766,
       "last_date": 0.0,
       "price_is_new": false,
@@ -902,6 +968,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1712311194.2251582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -931,11 +998,37 @@
           1771335670.1932518
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770741021.7786539,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "FellenTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 399.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1778437414.7336402,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1777895527.55159,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -955,6 +1048,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1730791937.3035555,
       "last_date": 0.0,
       "price_is_new": false,
@@ -984,6 +1078,7 @@
           1774531818.397171
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1770221438.6999674,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1008,6 +1103,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1711547704.379745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1037,6 +1133,7 @@
           2062.4
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1727683481.106225,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1061,6 +1158,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1764750763.1318216,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1085,7 +1183,43 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1761774310.7398784,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "flo9710",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Fast Shipping || PSA 10 13806799 unlimited differenzbesteuert",
+      "date": 1778437414.7336402,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          5000.0,
+          1776939019.813438
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776939019.813438
+        ]
+      ],
+      "first_date": 1776871697.519802,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

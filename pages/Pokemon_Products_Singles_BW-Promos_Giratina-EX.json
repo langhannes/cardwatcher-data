@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 0,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -30,7 +30,43 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774116.0991836,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Giratina EX  (BW-P 146)",
+      "canonical_name": "Pokemon_Products_Singles_BW-Promos_Giratina-EX",
+      "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 7500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Bgs 8",
+      "date": 1778468659.420882,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          20000.0,
+          1775203947.5304334
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775203947.5304334
+        ]
+      ],
+      "first_date": 1774566034.1719022,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -54,31 +90,8 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1770760995.6227942,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Giratina EX  (BW-P 146)",
-      "canonical_name": "Pokemon_Products_Singles_BW-Promos_Giratina-EX",
-      "seller": {
-        "name": "Marcos200200",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 20000.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Psa 10",
-      "date": 1775203947.5304334,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1774566034.1719022,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

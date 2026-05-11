@@ -8,7 +8,7 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 14,
+  "available": 11,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -37,6 +37,7 @@
           1770324379.8939362
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767728993.760828,
       "last_date": 0.0,
       "price_is_new": false,
@@ -57,17 +58,18 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "no cards. send message for pics",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1776473703.639801,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": true
     },
     {
       "card": "Chinese Anniversary Nami Gift Box",
@@ -78,16 +80,22 @@
       },
       "language": "S-Chinese",
       "price": 1799.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "3rd Anniversary Bonney. OVP Sealed.",
-      "date": 1776576946.4988015,
-      "ended": false,
+      "date": 1777764256.6121929,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           2499.0,
           1774245065.3650951
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777764256.6121929
         ]
       ],
       "first_date": 1773690874.5695233,
@@ -110,10 +118,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selling only Nami card. number 2405 out of 4500",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1774395812.2083669,
       "last_date": 0.0,
       "price_is_new": false,
@@ -155,6 +164,7 @@
           1774939639.0972955
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1768771177.83022,
       "last_date": 0.0,
       "price_is_new": false,
@@ -171,11 +181,11 @@
         "country": "Item location: Germany"
       },
       "language": "S-Chinese",
-      "price": 5000.0,
+      "price": 6000.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Opend 1 time to Check Items. Cards sleved and Toploaded",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -202,38 +212,18 @@
         [
           4000.0,
           1775882126.8797514
-        ]
-      ],
-      "first_date": 1767728993.760828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Chinese Anniversary Nami Gift Box",
-      "canonical_name": "OnePiece_Products_Promo-Products_Chinese-Anniversary-Nami-Gift-Box",
-      "seller": {
-        "name": "Leafiax3",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 6000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Opened one time to check content",
-      "date": 1776576946.4988015,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
+        ],
         [
-          8000.0,
-          1769940007.9202206
+          5000.0,
+          1776966525.2590683
+        ],
+        [
+          4000.0,
+          1778083595.8633652
         ]
       ],
-      "first_date": 1769940007.9202206,
+      "previous_quantities": [],
+      "first_date": 1767728993.760828,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -253,7 +243,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Checked item. still in bandai box. low serial nami",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -270,7 +260,42 @@
           1772495748.1479824
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767728993.760828,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Chinese Anniversary Nami Gift Box",
+      "canonical_name": "OnePiece_Products_Promo-Products_Chinese-Anniversary-Nami-Gift-Box",
+      "seller": {
+        "name": "Leafiax3",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 7000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Opened one time to check content",
+      "date": 1778440948.286221,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          8000.0,
+          1769940007.9202206
+        ],
+        [
+          6000.0,
+          1778255467.6180606
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1769940007.9202206,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -290,7 +315,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "factory sealed. not opened. can send pictures",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -299,7 +324,38 @@
           1773943451.8791306
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1772930225.048455,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Chinese Anniversary Nami Gift Box",
+      "canonical_name": "OnePiece_Products_Promo-Products_Chinese-Anniversary-Nami-Gift-Box",
+      "seller": {
+        "name": "Pancakelishios",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 7999.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "All 6 Cards in PSA10 + Original Red + Brown Box with all OVP accessories",
+      "date": 1778440948.286221,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          9999.0,
+          1777271855.6136642
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776093536.0481367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -319,10 +375,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory Seald. Original packaging.",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769496453.420756,
       "last_date": 0.0,
       "price_is_new": false,
@@ -343,7 +400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "factory sealed DM for infos before buying. Pro shop in Brest. Insta @tyzeftcg",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -356,31 +413,8 @@
           1775669250.746003
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767728993.760828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Chinese Anniversary Nami Gift Box",
-      "canonical_name": "OnePiece_Products_Promo-Products_Chinese-Anniversary-Nami-Gift-Box",
-      "seller": {
-        "name": "Pancakelishios",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 9999.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "All 6 Cards in PSA10 + Original Red + Brown Box with all OVP accessories",
-      "date": 1776576946.4988015,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1776093536.0481367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -409,6 +443,7 @@
           1769676151.4907498
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1769676151.4907498,
       "last_date": 0.0,
       "price_is_new": false,
@@ -429,10 +464,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory sealed never open",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1769092004.6371205,
       "last_date": 0.0,
       "price_is_new": false,
@@ -453,7 +489,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unsealed. Ask for pictures. Super low Serial (<100)",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -462,6 +498,7 @@
           1768163217.2230592
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767728993.760828,
       "last_date": 0.0,
       "price_is_new": false,
@@ -482,7 +519,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Set Brown OVP - For single cards message",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -491,6 +528,7 @@
           1768163217.2230592
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1767728993.760828,
       "last_date": 0.0,
       "price_is_new": false,
@@ -511,10 +549,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed!! Ask for pictures (original brown bandai shipment box)",
-      "date": 1776576946.4988015,
+      "date": 1778440948.286221,
       "ended": false,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1768771177.83022,
       "last_date": 0.0,
       "price_is_new": false,

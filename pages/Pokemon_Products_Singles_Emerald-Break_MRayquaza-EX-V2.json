@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 4,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "MRayquaza EX (XY6 086)",
@@ -39,6 +39,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1714129006.179145,
       "last_date": 0.0,
       "price_is_new": false,
@@ -63,6 +64,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1721724722.9682112,
       "last_date": 0.0,
       "price_is_new": false,
@@ -87,6 +89,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1725369634.512777,
       "last_date": 0.0,
       "price_is_new": false,
@@ -116,6 +119,7 @@
           0.0
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1709035342.6888988,
       "last_date": 0.0,
       "price_is_new": false,
@@ -140,6 +144,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1730791945.3853617,
       "last_date": 0.0,
       "price_is_new": false,
@@ -164,6 +169,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1730791945.3853617,
       "last_date": 0.0,
       "price_is_new": false,
@@ -188,6 +194,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1727683505.1799347,
       "last_date": 0.0,
       "price_is_new": false,
@@ -212,6 +219,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774483.0891087,
       "last_date": 0.0,
       "price_is_new": false,
@@ -241,6 +249,7 @@
           1767385162.1868372
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1764750914.5943944,
       "last_date": 0.0,
       "price_is_new": false,
@@ -265,6 +274,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1755774483.0891087,
       "last_date": 0.0,
       "price_is_new": false,
@@ -289,6 +299,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1736842096.3050122,
       "last_date": 0.0,
       "price_is_new": false,
@@ -306,37 +317,19 @@
       },
       "language": "Japanese",
       "price": 1100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Many more japanese vintage:)",
-      "date": 1776554890.390786,
-      "ended": false,
+      "date": 1778153066.733858,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": 1774616726.1834688,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MRayquaza EX  (XY6 086)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
-      "seller": {
-        "name": "Marcos200200",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1200.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Many more japanese vintage:)",
-      "date": 1776554890.390786,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778153066.733858
+        ]
+      ],
       "first_date": 1774616726.1834688,
       "last_date": 0.0,
       "price_is_new": false,
@@ -357,11 +350,72 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Many more japanese vintage:)",
-      "date": 1776554890.390786,
+      "date": 1778442055.3464162,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1200.0,
+          1778355895.9101756
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1774616726.1834688,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1300.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "Many more japanese vintage:)",
+      "date": 1778355895.9101756,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778355895.9101756
+        ]
+      ],
+      "first_date": 1774616726.1834688,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
+        "name": "GS-GameOn",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "[BGS 8.5]",
+      "date": 1778442055.3464162,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1774616726.1834688,
+      "previous_quantities": [],
+      "first_date": 1777766467.7507405,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -378,11 +432,11 @@
       },
       "language": "Japanese",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 8.5",
-      "date": 1776554890.390786,
-      "ended": false,
+      "date": 1776944460.4884248,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -390,6 +444,7 @@
           1776072821.7733278
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1774918938.598438,
       "last_date": 0.0,
       "price_is_new": false,
@@ -419,6 +474,7 @@
           1767729154.963086
         ]
       ],
+      "previous_quantities": [],
       "first_date": 1765638592.738795,
       "last_date": 0.0,
       "price_is_new": false,
@@ -443,6 +499,7 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [],
       "first_date": 1761774702.7979894,
       "last_date": 0.0,
       "price_is_new": false,
@@ -459,12 +516,12 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 6000.0,
-      "quantity": 0,
+      "price": 6900.0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1775861431.4794874,
-      "ended": true,
+      "comment": "RELISTED! PSA10",
+      "date": 1778442055.3464162,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -482,13 +539,60 @@
         [
           5000.0,
           1775733727.1492782
+        ],
+        [
+          6000.0,
+          1775861431.4794874
+        ],
+        [
+          5999.0,
+          1778153066.733858
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775861431.4794874
+        ],
+        [
+          1,
+          1778153066.733858
+        ],
+        [
+          0,
+          1778153066.733858
         ]
       ],
       "first_date": 1770317978.2156634,
       "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 7000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa10",
+      "date": 1778442055.3464162,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778256940.7521615,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 1,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     }
