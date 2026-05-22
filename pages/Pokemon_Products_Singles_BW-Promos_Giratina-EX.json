@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -48,11 +48,11 @@
       },
       "language": "Japanese",
       "price": 7500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Bgs 8",
       "date": 1778468659.420882,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -64,6 +64,10 @@
         [
           0,
           1775203947.5304334
+        ],
+        [
+          1,
+          1778468659.420882
         ]
       ],
       "first_date": 1774566034.1719022,

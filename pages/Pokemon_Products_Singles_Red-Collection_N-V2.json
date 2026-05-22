@@ -23,14 +23,19 @@
       },
       "language": "Japanese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "",
-      "date": 1778461853.5262594,
-      "ended": false,
+      "date": 1779027119.2750773,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779027119.2750773
+        ]
+      ],
       "first_date": 1778104981.9375381,
       "last_date": 0.0,
       "price_is_new": false,
@@ -171,6 +176,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "N (BW2 071)",
+      "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
+      "seller": {
+        "name": "EckosSpace",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.99,
+      "quantity": 1,
+      "condition": "PL",
+      "comment": "Sehr selten! Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.",
+      "date": 1779462094.5892916,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779154203.0046954,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -338,7 +368,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading | Daily shipping | Safely packed!",
-      "date": 1778461853.5262594,
+      "date": 1779462094.5892916,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -355,7 +385,16 @@
           1766080348.8437524
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778596707.649984
+        ],
+        [
+          0,
+          1778596707.649984
+        ]
+      ],
       "first_date": 1755774158.8807933,
       "last_date": 0.0,
       "price_is_new": false,

@@ -22,11 +22,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 71.41,
+      "price": 71.45,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1778487490.8067667,
+      "date": 1779485844.452585,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -133,6 +133,34 @@
         [
           71.48,
           1778401327.780753
+        ],
+        [
+          71.41,
+          1778487490.8067667
+        ],
+        [
+          71.39,
+          1778622386.3259604
+        ],
+        [
+          71.37,
+          1778762133.1471002
+        ],
+        [
+          70.97,
+          1778836931.2113168
+        ],
+        [
+          70.83,
+          1779053113.5507138
+        ],
+        [
+          71.24,
+          1779180170.2814345
+        ],
+        [
+          71.41,
+          1779329789.1834004
         ]
       ],
       "previous_quantities": [
@@ -147,7 +175,7 @@
       ],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -190,7 +218,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM",
-      "date": 1778487490.8067667,
+      "date": 1779485844.452585,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -215,7 +243,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1778487490.8067667,
+      "date": 1779485844.452585,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -270,32 +298,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778487490.8067667,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771629003.357879,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MLatios EX  (XY6 083)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MLatios-EX-V2",
-      "seller": {
-        "name": "Michibenina123",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 849.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1778487490.8067667,
+      "date": 1779485844.452585,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -330,6 +333,36 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MLatios EX  (XY6 083)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MLatios-EX-V2",
+      "seller": {
+        "name": "Michibenina123",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1779485844.452585,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          849.0,
+          1779053113.5507138
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771629003.357879,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },

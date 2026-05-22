@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -275,14 +275,19 @@
         "country": "Item location: Germany"
       },
       "language": "Korean",
-      "price": 400.0,
+      "price": 350.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for Photos",
-      "date": 1778458614.5026672,
+      "date": 1779459577.1634421,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          400.0,
+          1779024346.135486
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1777469297.0703378,
       "last_date": 0.0,
@@ -761,14 +766,19 @@
       },
       "language": "Japanese",
       "price": 1299.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "C1-035. small whitening send in toploader",
-      "date": 1778458614.5026672,
-      "ended": false,
+      "date": 1778808690.1414258,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778808690.1414258
+        ]
+      ],
       "first_date": 1778101724.9495728,
       "last_date": 0.0,
       "price_is_new": false,
@@ -814,7 +824,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1778458614.5026672,
+      "date": 1779459577.1634421,
       "ended": false,
       "new": false,
       "previous_prices": [],

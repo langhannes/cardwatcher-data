@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
-  "sold": 0,
+  "available": 8,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -190,7 +190,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -254,14 +254,19 @@
       },
       "language": "Korean",
       "price": 179.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "EX+ Ask for photos",
-      "date": 1778492715.3150556,
-      "ended": false,
+      "date": 1779058265.895358,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779058265.895358
+        ]
+      ],
       "first_date": 1775417376.9117386,
       "last_date": 0.0,
       "price_is_new": false,
@@ -282,7 +287,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -364,18 +369,23 @@
       },
       "language": "Japanese",
       "price": 199.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "",
-      "date": 1778492715.3150556,
-      "ended": false,
-      "new": false,
+      "date": 1779334951.8824031,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779334951.8824031
+        ]
+      ],
       "first_date": 1769609062.936411,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -544,11 +554,11 @@
       },
       "language": "Japanese",
       "price": 279.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1778492715.3150556,
-      "ended": false,
+      "date": 1778767260.309596,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -564,7 +574,12 @@
           1768771496.7243795
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778767260.309596
+        ]
+      ],
       "first_date": 1755774127.8843322,
       "last_date": 0.0,
       "price_is_new": false,
@@ -796,14 +811,19 @@
       },
       "language": "Japanese",
       "price": 375.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "MC135 (Unlimited)",
-      "date": 1777288018.9007094,
-      "ended": true,
+      "date": 1779415084.0126574,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          0,
+          1777288018.9007094
+        ]
+      ],
       "first_date": 1764750766.989301,
       "last_date": 0.0,
       "price_is_new": false,
@@ -849,7 +869,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See scans and check my other cards! Map T1",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -896,11 +916,11 @@
       },
       "language": "Japanese",
       "price": 399.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "CGC 7.5 ship only parcel",
-      "date": 1778492715.3150556,
-      "ended": false,
+      "comment": "RELISTED! CGC 7.5 ship only parcel",
+      "date": 1778842095.2973466,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -936,6 +956,18 @@
         [
           0,
           1777288018.9007094
+        ],
+        [
+          1,
+          1778625659.162452
+        ],
+        [
+          0,
+          1778625659.162452
+        ],
+        [
+          1,
+          1778842095.2973466
         ]
       ],
       "first_date": 1721724711.77536,
@@ -958,7 +990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1127,12 +1159,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 9",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1761774304.1918845,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Lugia EX  (XY7 092)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Lugia-EX-V2",
+      "seller": {
+        "name": "QyosS",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 8",
+      "date": 1779415084.0126574,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779334951.8824031,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1378,7 +1435,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778492715.3150556,
+      "date": 1779415084.0126574,
       "ended": false,
       "new": false,
       "previous_prices": [],

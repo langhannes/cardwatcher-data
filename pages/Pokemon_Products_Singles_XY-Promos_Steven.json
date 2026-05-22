@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -23,11 +23,11 @@
       },
       "language": "Japanese",
       "price": 179.9,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "some default",
-      "date": 1778280214.0799518,
-      "ended": true,
+      "date": 1779465110.6803238,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -42,6 +42,10 @@
       "previous_quantities": [
         [
           1,
+          1778280214.0799518
+        ],
+        [
+          0,
           1778280214.0799518
         ]
       ],
@@ -62,11 +66,11 @@
       },
       "language": "Japanese",
       "price": 330.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1778465180.512747,
-      "ended": false,
+      "date": 1779030441.346907,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -74,7 +78,12 @@
           1767092128.6595366
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779030441.346907
+        ]
+      ],
       "first_date": 1764588838.784815,
       "last_date": 0.0,
       "price_is_new": false,
@@ -92,11 +101,11 @@
       },
       "language": "Japanese",
       "price": 549.9,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1778280214.0799518,
-      "ended": true,
+      "date": 1779465110.6803238,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -107,6 +116,10 @@
       "previous_quantities": [
         [
           1,
+          1778280214.0799518
+        ],
+        [
+          0,
           1778280214.0799518
         ]
       ],

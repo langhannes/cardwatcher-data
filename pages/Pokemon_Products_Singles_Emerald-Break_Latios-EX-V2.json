@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 8,
+  "available": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1778486922.5605135,
+      "date": 1779485327.7303414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1778486922.5605135,
+      "date": 1779485327.7303414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -72,11 +72,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 65.46,
+      "price": 65.49,
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1778486922.5605135,
+      "date": 1779485327.7303414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -275,6 +275,34 @@
         [
           65.52,
           1778400759.232325
+        ],
+        [
+          65.46,
+          1778486922.5605135
+        ],
+        [
+          65.44,
+          1778621816.7002885
+        ],
+        [
+          65.42,
+          1778761575.2531114
+        ],
+        [
+          65.05,
+          1778836372.0647788
+        ],
+        [
+          64.93,
+          1779052551.6891465
+        ],
+        [
+          65.3,
+          1779179607.7451844
+        ],
+        [
+          65.46,
+          1779410332.5003834
         ]
       ],
       "previous_quantities": [],
@@ -320,11 +348,11 @@
       },
       "language": "Japanese",
       "price": 73.75,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Really near to excellent",
-      "date": 1778486922.5605135,
-      "ended": false,
+      "date": 1778914393.7112966,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -339,6 +367,10 @@
         [
           0,
           1777746334.4295502
+        ],
+        [
+          1,
+          1778914393.7112966
         ]
       ],
       "first_date": 1771628713.2180197,
@@ -361,7 +393,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1778486922.5605135,
+      "date": 1779485327.7303414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -383,11 +415,11 @@
       },
       "language": "Japanese",
       "price": 170.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1778486922.5605135,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -395,7 +427,12 @@
           1774137769.9998093
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778486922.5605135
+        ]
+      ],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -416,7 +453,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778486922.5605135,
+      "date": 1779485327.7303414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -488,14 +525,19 @@
       },
       "language": "Japanese",
       "price": 850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 POP 213",
-      "date": 1778486922.5605135,
-      "ended": false,
+      "date": 1778761575.2531114,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778761575.2531114
+        ]
+      ],
       "first_date": 1773226038.229203,
       "last_date": 0.0,
       "price_is_new": false,

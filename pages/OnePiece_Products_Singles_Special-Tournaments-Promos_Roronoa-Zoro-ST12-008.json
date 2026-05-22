@@ -8,8 +8,8 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 5,
-  "sold": 1,
+  "available": 6,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -2308,14 +2308,19 @@
       },
       "language": "English",
       "price": 1800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "still sealed",
       "date": 1778438103.0452442,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778438103.0452442
+        ]
+      ],
       "first_date": 1774361033.7782512,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2358,6 +2363,36 @@
       "card": "Roronoa Zoro (ST12-008)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
       "seller": {
+        "name": "radiax10",
+        "country": "Item location: Portugal"
+      },
+      "language": "English",
+      "price": 1950.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779278011.5792532,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779278011.5792532
+        ]
+      ],
+      "first_date": 1779001367.9347377,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
         "name": "Episebsie",
         "country": "Item location: Germany"
       },
@@ -2366,7 +2401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. bases for negotiations",
-      "date": 1778438103.0452442,
+      "date": 1779433276.5707831,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2430,7 +2465,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778438103.0452442,
+      "date": 1779433276.5707831,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2460,44 +2495,6 @@
       "card": "Roronoa Zoro (ST12-008)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
       "seller": {
-        "name": "SmokisColosseum",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 2450.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "check out my other stuff",
-      "date": 1778351945.6795168,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777600239.1946537
-        ],
-        [
-          0,
-          1777600239.1946537
-        ],
-        [
-          1,
-          1778351945.6795168
-        ]
-      ],
-      "first_date": 1774532942.0583737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (ST12-008)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
-      "seller": {
         "name": "Kororuno",
         "country": "Item location: Germany"
       },
@@ -2506,7 +2503,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. great Conditioning",
-      "date": 1778438103.0452442,
+      "date": 1779433276.5707831,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2595,15 +2592,92 @@
       "card": "Roronoa Zoro (ST12-008)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
       "seller": {
+        "name": "Vasilis33",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 3200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Psa 10 open negociation",
+      "date": 1779278011.5792532,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779278011.5792532
+        ]
+      ],
+      "first_date": 1778572980.486593,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
+        "name": "SmokisColosseum",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 3350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "check out my other stuff",
+      "date": 1779433276.5707831,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2450.0,
+          1778351945.6795168
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777600239.1946537
+        ],
+        [
+          0,
+          1777600239.1946537
+        ],
+        [
+          1,
+          1778351945.6795168
+        ],
+        [
+          0,
+          1778351945.6795168
+        ]
+      ],
+      "first_date": 1774532942.0583737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
         "name": "dx-11",
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 3600.0,
+      "price": 3450.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1778438103.0452442,
+      "comment": "PSA 10  - obo dm negotation",
+      "date": 1779433276.5707831,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2618,12 +2692,50 @@
         [
           4000.0,
           1778080743.3070564
+        ],
+        [
+          3600.0,
+          1778788767.487576
         ]
       ],
       "previous_quantities": [],
       "first_date": 1771902096.8452172,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
+        "name": "TcgTri0",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 3988.78,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "bgs 10 open to offers or trades Dm on IG",
+      "date": 1779433276.5707831,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3982.81,
+          1779278011.5792532
+        ],
+        [
+          3986.95,
+          1779364977.9156182
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779278011.5792532,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

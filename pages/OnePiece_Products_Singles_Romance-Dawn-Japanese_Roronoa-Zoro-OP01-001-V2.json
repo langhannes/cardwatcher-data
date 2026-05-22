@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 51,
-  "sold": 1,
+  "available": 35,
+  "sold": 3,
   "inserted": 0,
   "listings": [
     {
@@ -110,7 +110,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -216,31 +216,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "miorxu",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771917552.4589968,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "Tee16",
         "country": "Item location: Germany"
       },
@@ -249,7 +224,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -267,6 +242,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
+        "name": "miorxu",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779378030.6850455,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779378030.6850455
+        ]
+      ],
+      "first_date": 1771917552.4589968,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -433,7 +438,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1082,7 +1087,7 @@
       "comment": "",
       "date": 1778362961.4586363,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           89.0,
@@ -1110,7 +1115,7 @@
       "first_date": 1776270489.8835604,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1739,17 +1744,21 @@
       },
       "language": "Japanese",
       "price": 89.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "(Box-K)",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778877425.9405665,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           0,
           1776460873.723358
+        ],
+        [
+          1,
+          1778877425.9405665
         ]
       ],
       "first_date": 1772303837.5632725,
@@ -1819,11 +1828,11 @@
       },
       "language": "S-Chinese",
       "price": 90.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Specialized in OP and Poke Chinese products. PM for any infos.",
       "date": 1778449119.7651296,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1831,7 +1840,12 @@
           4930658.1223
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778449119.7651296
+        ]
+      ],
       "first_date": 1755774054.9176927,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2114,7 +2128,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778264047.309997,
+      "date": 1779012285.661628,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -2122,6 +2136,22 @@
         [
           1,
           1778264047.309997
+        ],
+        [
+          0,
+          1778264047.309997
+        ],
+        [
+          1,
+          1778724639.1138954
+        ],
+        [
+          0,
+          1778724639.1138954
+        ],
+        [
+          1,
+          1779012285.661628
         ]
       ],
       "first_date": 1778264047.309997,
@@ -2191,31 +2221,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "creucreu",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 95.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "BOOSTER > SLEEVES > TOP",
-      "date": 1755774054.9176927,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1755774054.9176927,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "LeoLu07",
         "country": "Item location: Italy"
       },
@@ -2240,6 +2245,36 @@
         ]
       ],
       "first_date": 1773183935.4725194,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
+        "name": "abedey",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 98.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "fast ship (-5% from 4 cards OP)",
+      "date": 1778724639.1138954,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778724639.1138954
+        ]
+      ],
+      "first_date": 1778724639.1138954,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2276,6 +2311,36 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "andclp88",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1776081452.3113382
+        ]
+      ],
+      "first_date": 1773783124.9626894,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "Urzas-Consulting",
         "country": "Item location: Italy"
       },
@@ -2300,31 +2365,6 @@
         ]
       ],
       "first_date": 1770195025.910812,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
-        "name": "andclp88",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1776081452.3113382,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1773783124.9626894,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2394,7 +2434,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Täglicher Versand / Große Auswahl an Einzelkarten",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2722,31 +2762,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "CardGamePontediLegno",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 104.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "store in Ponte di Legno (BS)",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776081452.3113382,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "MangakaZe",
         "country": "Item location: Italy"
       },
@@ -2780,7 +2795,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3047,11 +3062,11 @@
       },
       "language": "Japanese",
       "price": 109.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "toploader or cardsaver",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778877425.9405665,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -3062,6 +3077,10 @@
         [
           0,
           1777614336.4794624
+        ],
+        [
+          1,
+          1778877425.9405665
         ]
       ],
       "first_date": 1772721727.9416223,
@@ -3111,11 +3130,11 @@
       },
       "language": "Japanese",
       "price": 109.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778724639.1138954,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3139,77 +3158,13 @@
         [
           0,
           1778092171.727867
-        ]
-      ],
-      "first_date": 1771245220.141553,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
-        "name": "raulrubio",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "See my other cards JP2",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          200.0,
-          1775098074.9467058
-        ],
-        [
-          115.0,
-          1775742354.0161884
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1770195025.910812,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
-        "name": "OnlyFun-bazar",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778092171.727867,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          0,
-          1776953687.3982944
         ],
         [
           1,
-          1778092171.727867
+          1778724639.1138954
         ]
       ],
-      "first_date": 1774221376.1943462,
+      "first_date": 1771245220.141553,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3436,11 +3391,11 @@
       },
       "language": "Japanese",
       "price": 115.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778877425.9405665,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3448,7 +3403,12 @@
           1772673323.1388683
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778877425.9405665
+        ]
+      ],
       "first_date": 1769854494.9021761,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3761,25 +3721,25 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Rising-Phoenix",
+        "name": "Fr4bbio",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 119.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "R.P. - 246 Photos available on Rising Phoenix Ebay store!",
-      "date": 1778449119.7651296,
+      "comment": "Real Conditions",
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          119.99,
-          1770921837.345052
+          124.0,
+          1771854021.5013628
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1770195025.910812,
+      "first_date": 1769096833.910274,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3791,25 +3751,30 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Fr4bbio",
+        "name": "Rising-Phoenix",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 119.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Real Conditions",
+      "comment": "R.P. - 246 Photos available on Rising Phoenix Ebay store!",
       "date": 1778449119.7651296,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
-          124.0,
-          1771854021.5013628
+          119.99,
+          1770921837.345052
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1769096833.910274,
+      "previous_quantities": [
+        [
+          1,
+          1778449119.7651296
+        ]
+      ],
+      "first_date": 1770195025.910812,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3896,6 +3861,44 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "raulrubio",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "See my other cards JP2",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          200.0,
+          1775098074.9467058
+        ],
+        [
+          115.0,
+          1775742354.0161884
+        ],
+        [
+          110.0,
+          1779288937.7148206
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770195025.910812,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "Blvckdivmond",
         "country": "Item location: Germany"
       },
@@ -3904,7 +3907,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeves + toploader",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3913,7 +3916,16 @@
           1775802622.3086667
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779139385.4067101
+        ],
+        [
+          0,
+          1779139385.4067101
+        ]
+      ],
       "first_date": 1771294146.2348561,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3931,14 +3943,19 @@
       },
       "language": "Japanese",
       "price": 120.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778877425.9405665,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778877425.9405665
+        ]
+      ],
       "first_date": 1770834627.5609865,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4069,36 +4086,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Hansecollectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 124.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          144.95,
-          1773394795.64391
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1770714573.9883585,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "AlexanderKarev",
         "country": "Item location: Germany"
       },
@@ -4125,6 +4112,53 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
+        "name": "OnlyFun-bazar",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 125.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779378030.6850455,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          110.0,
+          1778092171.727867
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776953687.3982944
+        ],
+        [
+          1,
+          1778092171.727867
+        ],
+        [
+          0,
+          1778092171.727867
+        ],
+        [
+          1,
+          1779378030.6850455
+        ]
+      ],
+      "first_date": 1774221376.1943462,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4322,6 +4356,36 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "CardGamePontediLegno",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 129.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "store in Ponte di Legno (BS)",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          104.9,
+          1779288937.7148206
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776081452.3113382,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "KEEPSEVEN",
         "country": "Item location: Germany"
       },
@@ -4396,7 +4460,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4485,7 +4549,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4610,7 +4674,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4640,31 +4704,6 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 - New on CM. well known webshop",
-      "date": 1755774054.9176927,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1755774054.9176927,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
-        "name": "Pokelenz",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 134.99,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10 Sammlungs Auflösung",
       "date": 1755774054.9176927,
       "ended": true,
       "new": false,
@@ -4942,6 +4981,45 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "creucreu",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 140.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for picture",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          95.0,
+          1755774054.9176927
+        ],
+        [
+          120.0,
+          1779378030.6850455
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1755774054.9176927
+        ]
+      ],
+      "first_date": 1755774054.9176927,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "mar-cards",
         "country": "Item location: Germany"
       },
@@ -5085,6 +5163,49 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed - Toploader - Fast Secured Shipping",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          144.95,
+          1773394795.64391
+        ],
+        [
+          124.95,
+          1778724639.1138954
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778724639.1138954
+        ],
+        [
+          0,
+          1778724639.1138954
+        ]
+      ],
+      "first_date": 1770714573.9883585,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "shibetcg",
         "country": "Item location: Netherlands"
       },
@@ -5127,7 +5248,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5152,7 +5273,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5174,14 +5295,19 @@
       },
       "language": "Japanese",
       "price": 149.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778583971.7340217,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778583971.7340217
+        ]
+      ],
       "first_date": 1773394795.64391,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5249,31 +5375,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Richykroee",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "AOG 9.5 First Print",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769346890.7006578,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "Zacafiera",
         "country": "Item location: Spain"
       },
@@ -5282,7 +5383,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect from booster to sleeve",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5307,12 +5408,42 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Booster To Sleeve",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1755774054.9176927,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
+        "name": "Richykroee",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "AOG 9.5 First Print",
+      "date": 1778877425.9405665,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778877425.9405665
+        ]
+      ],
+      "first_date": 1769346890.7006578,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5526,23 +5657,28 @@
       },
       "language": "Japanese",
       "price": 151.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
+      "date": 1779378030.6850455,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           111.0,
           1768160605.011891
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779378030.6850455
+        ]
+      ],
       "first_date": 1767728769.1835747,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5589,7 +5725,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Booster into sleeve. toploader. nice centering",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5639,7 +5775,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5774,11 +5910,11 @@
       },
       "language": "Japanese",
       "price": 169.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster --> sleeve --> Toploader please ask for fotos :)",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778583971.7340217,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5786,7 +5922,12 @@
           1768160605.011891
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778583971.7340217
+        ]
+      ],
       "first_date": 1768160605.011891,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6044,7 +6185,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6301,11 +6442,11 @@
       },
       "language": "Japanese",
       "price": 199.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 10 case corner little dmg",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1779012285.661628,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6341,7 +6482,12 @@
           1775183861.7565181
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779012285.661628
+        ]
+      ],
       "first_date": 1740082587.6136763,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6469,6 +6615,45 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
+        "name": "Pokelenz",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "RELISTED! PSA 10",
+      "date": 1779288937.7148206,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          134.99,
+          1755774054.9176927
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1755774054.9176927
+        ],
+        [
+          1,
+          1779288937.7148206
+        ]
+      ],
+      "first_date": 1755774054.9176927,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
         "name": "Bmb1901",
         "country": "Item location: Germany"
       },
@@ -6502,7 +6687,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 | New on CM | Top vendor on Vinted",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6670,7 +6855,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Grad 10",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6744,8 +6929,8 @@
       "price": 240.0,
       "quantity": 0,
       "condition": "MT",
-      "comment": "PSA 10 JP",
-      "date": 1778160148.7465038,
+      "comment": "RELISTED! PSA 10 Japanese",
+      "date": 1778799437.308275,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -6753,6 +6938,14 @@
         [
           1,
           1778160148.7465038
+        ],
+        [
+          0,
+          1778160148.7465038
+        ],
+        [
+          1,
+          1778799437.308275
         ]
       ],
       "first_date": 1774927574.0945795,
@@ -6817,41 +7010,6 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "DateACard",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 249.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "VI | PSA 10",
-      "date": 1778449119.7651296,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          300.0,
-          1768160605.011891
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1768160605.011891
-        ]
-      ],
-      "first_date": 1761774465.3621576,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
-      "seller": {
         "name": "ilGerry04",
         "country": "Item location: Switzerland"
       },
@@ -6860,7 +7018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6877,20 +7035,42 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Omarelhallak",
-        "country": "Item location: Germany"
+        "name": "DateACard",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "price": 249.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! VI | PSA 10",
+      "date": 1779288937.7148206,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1767384855.669662,
+      "previous_prices": [
+        [
+          300.0,
+          1768160605.011891
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1768160605.011891
+        ],
+        [
+          1,
+          1779012285.661628
+        ],
+        [
+          0,
+          1779012285.661628
+        ],
+        [
+          1,
+          1779288937.7148206
+        ]
+      ],
+      "first_date": 1761774465.3621576,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6902,34 +7082,25 @@
       "card": "Roronoa Zoro (OP01-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
       "seller": {
-        "name": "Jimmytherevenge",
-        "country": "Item location: Italy"
+        "name": "Omarelhallak",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 250.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Psa10",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1778724639.1138954,
+      "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          260.0,
-          1778160148.7465038
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1778160148.7465038
-        ],
-        [
-          0,
-          1778160148.7465038
+          1778724639.1138954
         ]
       ],
-      "first_date": 1772303837.5632725,
+      "first_date": 1767384855.669662,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7005,14 +7176,19 @@
       },
       "language": "Japanese",
       "price": 265.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778583971.7340217,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778583971.7340217
+        ]
+      ],
       "first_date": 1770195025.910812,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7039,6 +7215,49 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1720078504.682961,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Roronoa-Zoro-OP01-001-V2",
+      "seller": {
+        "name": "Jimmytherevenge",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 270.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa10",
+      "date": 1779448739.414724,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          260.0,
+          1778160148.7465038
+        ],
+        [
+          250.0,
+          1778877425.9405665
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778160148.7465038
+        ],
+        [
+          0,
+          1778160148.7465038
+        ]
+      ],
+      "first_date": 1772303837.5632725,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7083,7 +7302,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7172,7 +7391,16 @@
           1777996216.0170207
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778799437.308275
+        ],
+        [
+          0,
+          1778799437.308275
+        ]
+      ],
       "first_date": 1725369039.9376545,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7218,7 +7446,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 Gem mint",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7248,7 +7476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7328,7 +7556,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7350,11 +7578,11 @@
       },
       "language": "Japanese",
       "price": 399.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1778449119.7651296,
-      "ended": false,
+      "date": 1778877425.9405665,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7382,7 +7610,12 @@
           1768771275.487589
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778877425.9405665
+        ]
+      ],
       "first_date": 1761774465.3621576,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7400,11 +7633,11 @@
       },
       "language": "Japanese",
       "price": 500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10 cont. for foto",
       "date": 1778449119.7651296,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7416,7 +7649,12 @@
           1778160148.7465038
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778449119.7651296
+        ]
+      ],
       "first_date": 1730791691.112689,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7437,7 +7675,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7492,7 +7730,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7517,7 +7755,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Booster to sleeve! Fast shipping #BeYZA",
-      "date": 1778449119.7651296,
+      "date": 1779448739.414724,
       "ended": false,
       "new": false,
       "previous_prices": [

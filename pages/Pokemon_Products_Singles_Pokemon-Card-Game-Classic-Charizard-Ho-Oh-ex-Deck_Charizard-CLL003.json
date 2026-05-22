@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 29,
-  "sold": 2,
-  "inserted": 2,
+  "available": 34,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Charizard (CLL 003)",
@@ -291,40 +291,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1706791199.3927624,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "Misterbale",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 79.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Discounts for bigger orders | Ask for pics",
-      "date": 1722945436.4350655,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          95.9,
-          12679728.08268
-        ],
-        [
-          84.49,
-          1720783523.500233
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1712679728.0826807,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4278,7 +4244,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4300,11 +4266,11 @@
       },
       "language": "Japanese",
       "price": 225.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Top-Condition. Sleeve + Toploader. Fast Shipping.",
       "date": 1778434389.5146868,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4320,56 +4286,13 @@
         [
           0,
           1777980626.0822923
+        ],
+        [
+          1,
+          1778434389.5146868
         ]
       ],
       "first_date": 1777980626.0822923,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "derPrime",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 228.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved",
-      "date": 1778434389.5146868,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          268.5,
-          1774994506.2176862
-        ],
-        [
-          248.5,
-          1775785335.236427
-        ],
-        [
-          238.5,
-          1777504351.3725097
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777504351.3725097
-        ],
-        [
-          0,
-          1777504351.3725097
-        ]
-      ],
-      "first_date": 1774994506.2176862,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4482,11 +4405,11 @@
       },
       "language": "Japanese",
       "price": 230.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Printline. ask for pictures",
-      "date": 1778434389.5146868,
-      "ended": false,
+      "date": 1778863151.2759838,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -4497,6 +4420,10 @@
         [
           0,
           1777594982.3570106
+        ],
+        [
+          1,
+          1778863151.2759838
         ]
       ],
       "first_date": 1777504351.3725097,
@@ -4642,6 +4569,49 @@
       "card": "Charizard  (CLL 003)",
       "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
       "seller": {
+        "name": "Misterbale",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 239.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          95.9,
+          12679728.08268
+        ],
+        [
+          84.49,
+          1720783523.500233
+        ],
+        [
+          79.9,
+          1722945436.4350655
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1722945436.4350655
+        ]
+      ],
+      "first_date": 1712679728.0826807,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
         "name": "BushidoTCG",
         "country": "Item location: Italy"
       },
@@ -4700,12 +4670,89 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1774994506.2176862,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "GameseGamesLra",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "GRAAD 9.5",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777755339.7989912
+        ],
+        [
+          0,
+          1777755339.7989912
+        ]
+      ],
+      "first_date": 1777200773.0375037,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "Komorebi-Cards",
+        "country": "Item location: Sweden"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          244.0,
+          1776064154.4745395
+        ],
+        [
+          249.0,
+          1776638312.7451036
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777755339.7989912
+        ],
+        [
+          0,
+          1777755339.7989912
+        ]
+      ],
+      "first_date": 1774231069.664022,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4766,75 +4813,6 @@
         ]
       ],
       "first_date": 1777755339.7989912,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "GameseGamesLra",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 240.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "GRAAD 9.5",
-      "date": 1777755339.7989912,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777755339.7989912
-        ]
-      ],
-      "first_date": 1777200773.0375037,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "Komorebi-Cards",
-        "country": "Item location: Sweden"
-      },
-      "language": "Japanese",
-      "price": 240.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1777755339.7989912,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          244.0,
-          1776064154.4745395
-        ],
-        [
-          249.0,
-          1776638312.7451036
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777755339.7989912
-        ]
-      ],
-      "first_date": 1774231069.664022,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4995,15 +4973,75 @@
       },
       "language": "Japanese",
       "price": 245.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1778434389.5146868,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778434389.5146868
+        ]
+      ],
       "first_date": 1777594982.3570106,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "derPrime",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 248.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          268.5,
+          1774994506.2176862
+        ],
+        [
+          248.5,
+          1775785335.236427
+        ],
+        [
+          238.5,
+          1777504351.3725097
+        ],
+        [
+          228.95,
+          1778569274.207981
+        ],
+        [
+          238.95,
+          1779124709.5860093
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777504351.3725097
+        ],
+        [
+          0,
+          1777504351.3725097
+        ]
+      ],
+      "first_date": 1774994506.2176862,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5137,6 +5175,40 @@
       "card": "Charizard  (CLL 003)",
       "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
       "seller": {
+        "name": "pika34",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Pas 9",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778569274.207981
+        ],
+        [
+          0,
+          1778569274.207981
+        ]
+      ],
+      "first_date": 1778569274.207981,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
         "name": "Kevinmossi1",
         "country": "Item location: Denmark"
       },
@@ -5145,7 +5217,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5495,11 +5567,11 @@
       },
       "language": "Japanese",
       "price": 275.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1776352016.9256148,
-      "ended": true,
+      "date": 1779427312.1590106,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -5509,9 +5581,22 @@
         [
           245.0,
           1775166571.7167084
+        ],
+        [
+          275.0,
+          1776352016.9256148
+        ],
+        [
+          300.0,
+          1778863151.2759838
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          0,
+          1776352016.9256148
+        ]
+      ],
       "first_date": 1773192953.7327826,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5532,7 +5617,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS (Beckett) 9 / Clean slab",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5541,10 +5626,19 @@
           1778348230.7284987
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778710402.0759425
+        ],
+        [
+          0,
+          1778710402.0759425
+        ]
+      ],
       "first_date": 1778248895.85544,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5587,7 +5681,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9. ask for pics if interested!",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5637,7 +5731,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BECKETT 9",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5653,7 +5747,7 @@
       "previous_quantities": [],
       "first_date": 1778145053.6357276,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5671,9 +5765,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778434389.5146868,
@@ -5696,7 +5790,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5723,7 +5817,7 @@
       "comment": "PSA 9",
       "date": 1778348230.7284987,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           245.0,
@@ -5747,7 +5841,7 @@
       "first_date": 1776165094.1250792,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5764,7 +5858,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5800,6 +5894,90 @@
       ],
       "previous_quantities": [],
       "first_date": 1706791199.3927624,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "FREAK-CORP",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 294.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9 - GRADED",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778569274.207981,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "Madara420",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 294.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "(BGS )Becket 9.5",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          244.99,
+          1776165094.1250792
+        ],
+        [
+          239.99,
+          1776545533.7347572
+        ],
+        [
+          229.99,
+          1776935093.379426
+        ],
+        [
+          350.0,
+          1778434389.5146868
+        ],
+        [
+          325.0,
+          1778785182.328956
+        ],
+        [
+          314.99,
+          1778997647.102299
+        ],
+        [
+          334.99,
+          1779124709.5860093
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776935093.379426
+        ]
+      ],
+      "first_date": 1775785335.236427,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5849,7 +6027,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5980,6 +6158,72 @@
       "card": "Charizard  (CLL 003)",
       "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
       "seller": {
+        "name": "PokeKing-de",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 315.99,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "BGS (Beckett) 9.5 - with subgrades",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.99,
+          0.0
+        ],
+        [
+          138.99,
+          0.0
+        ],
+        [
+          134.99,
+          0.0
+        ],
+        [
+          119.0,
+          0.0
+        ],
+        [
+          109.0,
+          0.0
+        ],
+        [
+          98.5,
+          1715176140.6379058
+        ],
+        [
+          199.99,
+          1772401139.9242387
+        ],
+        [
+          224.99,
+          1772733765.871194
+        ],
+        [
+          279.99,
+          1776935093.379426
+        ],
+        [
+          375.0,
+          1778997647.102299
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1711534174.6796584,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
         "name": "lmhng",
         "country": "Item location: Netherlands"
       },
@@ -5994,6 +6238,31 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1774231069.664022,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "GateauGenial",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 320.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SELL THE 3 STARTERS",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778785182.328956,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6044,49 +6313,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1706791199.3927624,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "Madara420",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Becket 9.5 sleeve over slap",
-      "date": 1778434389.5146868,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          244.99,
-          1776165094.1250792
-        ],
-        [
-          239.99,
-          1776545533.7347572
-        ],
-        [
-          229.99,
-          1776935093.379426
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776935093.379426
-        ]
-      ],
-      "first_date": 1775785335.236427,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6198,57 +6424,50 @@
       "card": "Charizard  (CLL 003)",
       "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
       "seller": {
-        "name": "PokeKing-de",
-        "country": "Item location: Germany"
+        "name": "depokeplugcm",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 375.0,
-      "quantity": 2,
+      "price": 399.95,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "BGS (Beckett) 9.5 - with subgrades",
-      "date": 1778434389.5146868,
+      "comment": "CGC 10 (New Label)",
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          149.99,
-          0.0
+          249.95,
+          1772315840.3370774
         ],
         [
-          138.99,
-          0.0
+          299.95,
+          1773060268.5452857
         ],
         [
-          134.99,
-          0.0
+          249.95,
+          1773350870.0884018
         ],
         [
-          119.0,
-          0.0
+          299.95,
+          1774231069.664022
         ],
         [
-          109.0,
-          0.0
+          324.95,
+          1774607657.7718925
         ],
         [
-          98.5,
-          1715176140.6379058
-        ],
-        [
-          199.99,
-          1772401139.9242387
-        ],
-        [
-          224.99,
-          1772733765.871194
-        ],
-        [
-          279.99,
-          1776935093.379426
+          449.95,
+          1778785182.328956
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1711534174.6796584,
+      "previous_quantities": [
+        [
+          0,
+          1774607657.7718925
+        ]
+      ],
+      "first_date": 1771407847.5404367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6504,63 +6723,12 @@
       },
       "language": "Japanese",
       "price": 449.95,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "RELISTED! CGC 10 (New Label)",
-      "date": 1778434389.5146868,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          249.95,
-          1772315840.3370774
-        ],
-        [
-          299.95,
-          1773060268.5452857
-        ],
-        [
-          249.95,
-          1773350870.0884018
-        ],
-        [
-          299.95,
-          1774231069.664022
-        ],
-        [
-          324.95,
-          1774607657.7718925
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1774607657.7718925
-        ]
-      ],
-      "first_date": 1771407847.5404367,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "depokeplugcm",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 449.95,
       "quantity": 0,
       "condition": "MT",
       "comment": "CGC 10 (New Label)",
       "date": 1778348230.7284987,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           174.95,
@@ -6596,7 +6764,7 @@
       "first_date": 1771407847.5404367,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6613,7 +6781,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading Global Grading 10 Gem Mint",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6652,7 +6820,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6796,7 +6964,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6866,14 +7034,19 @@
       },
       "language": "Japanese",
       "price": 549.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "[PSA 10.0]",
       "date": 1778434389.5146868,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778434389.5146868
+        ]
+      ],
       "first_date": 1777294753.798352,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6929,7 +7102,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Pristine 10 AOG",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6968,14 +7141,19 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa 10 / 137045481",
-      "date": 1778434389.5146868,
-      "ended": false,
+      "date": 1778710402.0759425,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778710402.0759425
+        ]
+      ],
       "first_date": 1778077039.832404,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6993,20 +7171,49 @@
       },
       "language": "Japanese",
       "price": 648.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1777980626.0822923,
-      "ended": true,
+      "date": 1779427312.1590106,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1777980626.0822923
+        ],
+        [
+          0,
+          1777980626.0822923
         ]
       ],
       "first_date": 1776867784.7015128,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "QyosS",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 680.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779361260.3189812,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7026,7 +7233,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 all Evolutions / Safe & Fast Shipping",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7111,7 +7318,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7122,40 +7329,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1771407847.5404367,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CLL 003)",
-      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
-      "seller": {
-        "name": "k0haku",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 850.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 - Sequentiell - Charmander / Charmeleon / Charizard",
-      "date": 1778434389.5146868,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          850.0,
-          1776935093.379426
-        ],
-        [
-          750.0,
-          1777294753.798352
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1776442292.8995166,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7192,6 +7365,44 @@
       "card": "Charizard  (CLL 003)",
       "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
       "seller": {
+        "name": "k0haku",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 950.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - Sequentiell - Charmander / Charmeleon / Charizard",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          850.0,
+          1776935093.379426
+        ],
+        [
+          750.0,
+          1777294753.798352
+        ],
+        [
+          850.0,
+          1778863151.2759838
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776442292.8995166,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
         "name": "gigasnorlax",
         "country": "Item location: Switzerland"
       },
@@ -7200,7 +7411,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7215,6 +7426,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1771407847.5404367,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CLL 003)",
+      "canonical_name": "Pokemon_Products_Singles_Pokemon-Card-Game-Classic-Charizard-Ho-Oh-ex-Deck_Charizard-CLL003",
+      "seller": {
+        "name": "NerdyMate",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "Japanese",
+      "price": 999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "CGC 10 PRISTINE",
+      "date": 1779427312.1590106,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778863151.2759838,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7255,11 +7491,11 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 2500.0,
+      "price": 2750.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10 set. All 9. Venusaur evolution is sequential",
-      "date": 1778434389.5146868,
+      "date": 1779427312.1590106,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7270,6 +7506,10 @@
         [
           2150.0,
           1776935093.379426
+        ],
+        [
+          2500.0,
+          1778785182.328956
         ]
       ],
       "previous_quantities": [],

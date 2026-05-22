@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 46,
-  "sold": 1,
+  "available": 39,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -373,14 +373,19 @@
       },
       "language": "S-Chinese",
       "price": 19.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1778446698.9532886,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778446698.9532886
+        ]
+      ],
       "first_date": 1777611436.871059,
       "last_date": 0.0,
       "price_is_new": false,
@@ -448,11 +453,11 @@
       },
       "language": "S-Chinese",
       "price": 20.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
-      "ended": false,
+      "date": 1778581555.1368456,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -463,6 +468,10 @@
         [
           0,
           1778089735.8658588
+        ],
+        [
+          1,
+          1778581555.1368456
         ]
       ],
       "first_date": 1774924890.146343,
@@ -870,45 +879,20 @@
       },
       "language": "Japanese",
       "price": 23.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "fit sleeve + dragonshield outer sleeve + Toploader + storage",
-      "date": 1778446698.9532886,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778360539.7328296,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Queen (ST04-005)",
-      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
-      "seller": {
-        "name": "VDEUUS",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 24.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "shipping in toploader",
-      "date": 1778446698.9532886,
-      "ended": false,
+      "date": 1778581555.1368456,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
-          2,
-          1778157714.9228785
+          1,
+          1778581555.1368456
         ]
       ],
-      "first_date": 1769180045.9977465,
+      "first_date": 1778360539.7328296,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -928,7 +912,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster-->Sleeve-->Toploader",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -962,7 +946,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1013,7 +997,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1022,6 +1006,48 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "VDEUUS",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 24.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! shipping in toploader",
+      "date": 1779373498.180108,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1778157714.9228785
+        ],
+        [
+          1,
+          1779137000.9358861
+        ],
+        [
+          0,
+          1779137000.9358861
+        ],
+        [
+          1,
+          1779373498.180108
+        ]
+      ],
+      "first_date": 1769180045.9977465,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1258,7 +1284,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1317,12 +1343,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772301064.3069785,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "Deninhos99",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 25.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "a lot of OP jap on my profile",
+      "date": 1779446263.1467545,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778797086.5404005
+        ],
+        [
+          0,
+          1778797086.5404005
+        ]
+      ],
+      "first_date": 1778581555.1368456,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1344,7 +1404,7 @@
       "comment": "Booster -> Sleeve. Toploader. ask for Pictures",
       "date": 1778360539.7328296,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1355,7 +1415,7 @@
       "first_date": 1777907525.0556707,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1424,16 +1484,20 @@
       },
       "language": "Japanese",
       "price": 26.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1777520870.489224,
-      "ended": true,
+      "date": 1779446263.1467545,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1777520870.489224
+        ],
+        [
+          0,
           1777520870.489224
         ]
       ],
@@ -1482,7 +1546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1568,11 +1632,11 @@
       },
       "language": "Japanese",
       "price": 27.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "new VAT Registered Shop. Please Trust!",
       "date": 1778446698.9532886,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1588,7 +1652,12 @@
           1776078763.5415394
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778446698.9532886
+        ]
+      ],
       "first_date": 1772129608.0705497,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1601,29 +1670,41 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "Sime93",
-        "country": "Item location: Switzerland"
+        "name": "Mystic-Ambre",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 27.95,
+      "price": 27.98,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          29.95,
-          1769937786.3035152
+          22.98,
+          1777215924.6935976
         ],
         [
-          32.95,
-          1775799937.0999408
+          29.87,
+          1777313533.2295277
+        ],
+        [
+          34.98,
+          1778360539.7328296
+        ],
+        [
+          29.99,
+          1778446698.9532886
+        ],
+        [
+          28.81,
+          1778875073.865409
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1769180045.9977465,
+      "first_date": 1777215924.6935976,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1635,20 +1716,29 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "ReguCards",
-        "country": "Item location: France"
+        "name": "Skash-Cards",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 27.99,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          30.0,
+          1778360539.7328296
+        ],
+        [
+          28.82,
+          1778797086.5404005
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1776883491.7453334,
+      "first_date": 1778261603.637644,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1665,20 +1755,54 @@
       },
       "language": "Japanese",
       "price": 27.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "ask for pictures; Kleinunternehmer gemäß § 19 UStG",
-      "date": 1777907525.0556707,
-      "ended": true,
+      "date": 1779446263.1467545,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1777907525.0556707
+        ],
+        [
+          0,
+          1777907525.0556707
         ]
       ],
       "first_date": 1776078763.5415394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "ReguCards",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 27.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779137000.9358861,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1779137000.9358861
+        ]
+      ],
+      "first_date": 1776883491.7453334,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1698,7 +1822,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi en moins de 24h / Ultra protéger",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1745,11 +1869,11 @@
       },
       "language": "Japanese",
       "price": 28.8,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
-      "ended": false,
+      "date": 1778581555.1368456,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1765,7 +1889,12 @@
           1772129608.0705497
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778581555.1368456
+        ]
+      ],
       "first_date": 1770710945.4191482,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1778,27 +1907,44 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "Skash-Cards",
+        "name": "BanzaiTimes",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 28.82,
-      "quantity": 1,
+      "price": 28.81,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1778446698.9532886,
-      "ended": false,
+      "comment": "Shipping Every 2 Business Days || B2B || B-1-2",
+      "date": 1778581555.1368456,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
-          30.0,
+          49.98,
+          1776267632.1277885
+        ],
+        [
+          19.93,
+          1776561259.368203
+        ],
+        [
+          49.98,
           1778360539.7328296
+        ],
+        [
+          29.99,
+          1778446698.9532886
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1778261603.637644,
+      "previous_quantities": [
+        [
+          1,
+          1778581555.1368456
+        ]
+      ],
+      "first_date": 1770762592.950133,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1841,7 +1987,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "rentrée 05 décembre 2025",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1858,35 +2004,35 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "Mystic-Ambre",
-        "country": "Item location: France"
+        "name": "Sime93",
+        "country": "Item location: Switzerland"
       },
       "language": "Japanese",
-      "price": 29.99,
+      "price": 29.95,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          22.98,
-          1777215924.6935976
+          29.95,
+          1769937786.3035152
         ],
         [
-          29.87,
-          1777313533.2295277
+          32.95,
+          1775799937.0999408
         ],
         [
-          34.98,
-          1778360539.7328296
+          27.95,
+          1779009897.607278
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1777215924.6935976,
+      "first_date": 1769180045.9977465,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1896,35 +2042,22 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "BanzaiTimes",
-        "country": "Item location: Germany"
+        "name": "MagicLizard",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 29.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Shipping Every 2 Business Days || B2B || B-1-2",
-      "date": 1778446698.9532886,
+      "comment": "^_^ Experience and Passion at your Service ^_^",
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          49.98,
-          1776267632.1277885
-        ],
-        [
-          19.93,
-          1776561259.368203
-        ],
-        [
-          49.98,
-          1778360539.7328296
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1770762592.950133,
+      "first_date": 1779009897.607278,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1942,7 +2075,7 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1777993756.7569292,
+      "date": 1779137000.9358861,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -1955,6 +2088,14 @@
         [
           2,
           1777993756.7569292
+        ],
+        [
+          0,
+          1777993756.7569292
+        ],
+        [
+          1,
+          1779137000.9358861
         ]
       ],
       "first_date": 1770993238.4798784,
@@ -1977,7 +2118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2002,7 +2143,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2019,19 +2160,82 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
-        "name": "DungeonStreet",
-        "country": "Item location: Italy"
+        "name": "creucreu",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 30.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for picture",
+      "date": 1779446263.1467545,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778581555.1368456,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "David32251",
+        "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 30.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1779137000.9358861,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "DungeonStreet",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 30.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779137000.9358861,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778722294.5974224
+        ],
+        [
+          0,
+          1778722294.5974224
+        ],
+        [
+          1,
+          1779137000.9358861
+        ]
+      ],
       "first_date": 1772815801.7212656,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2316,7 +2520,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2371,6 +2575,40 @@
       "card": "Queen (ST04-005)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 32.39,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779446263.1467545,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          39.99,
+          1779286549.9563828
+        ],
+        [
+          35.99,
+          1779373498.180108
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779286549.9563828,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
         "name": "Hansecollectibles",
         "country": "Item location: Germany"
       },
@@ -2379,7 +2617,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2413,12 +2651,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Toploader",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770710945.4191482,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "Cardmosphere",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 33.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Double Sleeved & Fast Shipping + Toploader",
+      "date": 1779446263.1467545,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779137000.9358861,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2438,7 +2701,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OP ALT",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2460,10 +2723,10 @@
       },
       "language": "Japanese",
       "price": 34.99,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "O03",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2471,12 +2734,16 @@
         [
           3,
           1777611436.871059
+        ],
+        [
+          2,
+          1779373498.180108
         ]
       ],
       "first_date": 1771436800.0294323,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2493,7 +2760,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2518,7 +2785,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2595,23 +2862,28 @@
       },
       "language": "Japanese",
       "price": 44.44,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
-      "ended": false,
-      "new": false,
+      "date": 1779373498.180108,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           29.29,
           1769355626.6484888
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          4,
+          1779373498.180108
+        ]
+      ],
       "first_date": 1769180045.9977465,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2628,7 +2900,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2650,14 +2922,19 @@
       },
       "language": "Japanese",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
-      "ended": false,
+      "date": 1778722294.5974224,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778722294.5974224
+        ]
+      ],
       "first_date": 1769180045.9977465,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2678,7 +2955,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2878,7 +3155,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2938,7 +3215,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2963,12 +3240,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770710945.4191482,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Queen (ST04-005)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Queen-ST04-005",
+      "seller": {
+        "name": "Jd-card-mtg",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 10 pristine",
+      "date": 1779446263.1467545,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779373498.180108,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3013,7 +3315,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Fast Secured Shipping",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3038,7 +3340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS (Beckett Grading Services) 10 - Pristine",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3068,7 +3370,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1778446698.9532886,
+      "date": 1779446263.1467545,
       "ended": false,
       "new": false,
       "previous_prices": [

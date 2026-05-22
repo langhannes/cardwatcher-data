@@ -9,7 +9,7 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 6,
+  "available": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -151,14 +151,27 @@
       },
       "language": "Japanese",
       "price": 90.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1778486356.4497366,
-      "ended": false,
+      "comment": "RELISTED! ",
+      "date": 1779179048.5904915,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778913837.385809
+        ],
+        [
+          0,
+          1778913837.385809
+        ],
+        [
+          1,
+          1779179048.5904915
+        ]
+      ],
       "first_date": 1769605185.536917,
       "last_date": 0.0,
       "price_is_new": false,
@@ -176,10 +189,10 @@
       },
       "language": "Japanese",
       "price": 114.98,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1778486356.4497366,
+      "date": 1779484811.9720411,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -200,11 +213,16 @@
           1777191725.8109071
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1779409868.2210588
+        ]
+      ],
       "first_date": 1772019531.6888354,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -221,7 +239,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1778486356.4497366,
+      "date": 1779484811.9720411,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -242,12 +260,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 119.14,
-      "quantity": 0,
+      "price": 119.07,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778197597.9985647,
-      "ended": true,
+      "date": 1779484811.9720411,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -493,17 +511,29 @@
         [
           119.31,
           1778033300.1892455
+        ],
+        [
+          119.14,
+          1778197597.9985647
+        ],
+        [
+          119.02,
+          1779409868.2210588
         ]
       ],
       "previous_quantities": [
         [
           1,
           1778197597.9985647
+        ],
+        [
+          0,
+          1778197597.9985647
         ]
       ],
       "first_date": 1769284825.7249908,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -546,7 +576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Bandai Card Fest Japan Chiba 2025 to toploader binder",
-      "date": 1778486356.4497366,
+      "date": 1779484811.9720411,
       "ended": false,
       "new": false,
       "previous_prices": [],

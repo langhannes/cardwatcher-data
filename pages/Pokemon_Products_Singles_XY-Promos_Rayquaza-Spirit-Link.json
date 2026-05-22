@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 2,
+  "available": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -52,11 +52,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 45.23,
+      "price": 45.25,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1778464699.2149625,
+      "date": 1779464676.030739,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -127,6 +127,38 @@
         [
           45.27,
           1778378536.020488
+        ],
+        [
+          45.23,
+          1778464699.2149625
+        ],
+        [
+          45.22,
+          1778599553.2194228
+        ],
+        [
+          45.2,
+          1778739372.969918
+        ],
+        [
+          44.95,
+          1778814165.1153128
+        ],
+        [
+          44.86,
+          1779029960.5001802
+        ],
+        [
+          45.12,
+          1779157045.5361817
+        ],
+        [
+          45.18,
+          1779306645.1051967
+        ],
+        [
+          45.23,
+          1779391882.0518668
         ]
       ],
       "previous_quantities": [],
@@ -142,38 +174,20 @@
       "card": "Rayquaza Spirit Link (XY-P 126)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
       "seller": {
-        "name": "Retro-Collector-SZ",
-        "country": "Item location: Switzerland"
+        "name": "mikkl",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 64.95,
+      "price": 65.0,
       "quantity": 1,
-      "condition": "NM",
+      "condition": "EX",
       "comment": "",
-      "date": 1778464699.2149625,
+      "date": 1779464676.030739,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          79.95,
-          1771004010.7918296
-        ],
-        [
-          74.95,
-          1772536598.4116876
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777544633.959321
-        ],
-        [
-          0,
-          1777544633.959321
-        ]
-      ],
-      "first_date": 1770200923.4825807,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778814165.1153128,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -228,6 +242,53 @@
         ]
       ],
       "previous_quantities": [],
+      "first_date": 1770200923.4825807,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza Spirit Link (XY-P 126)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
+      "seller": {
+        "name": "Retro-Collector-SZ",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 84.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779464676.030739,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          79.95,
+          1771004010.7918296
+        ],
+        [
+          74.95,
+          1772536598.4116876
+        ],
+        [
+          64.95,
+          1778739372.969918
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777544633.959321
+        ],
+        [
+          0,
+          1777544633.959321
+        ]
+      ],
       "first_date": 1770200923.4825807,
       "last_date": 0.0,
       "price_is_new": false,

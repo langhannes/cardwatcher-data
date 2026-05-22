@@ -8,9 +8,9 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 14,
+  "available": 11,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 4,
   "listings": [
     {
       "card": "Sanji (OP01-013) (V.2)",
@@ -216,7 +216,7 @@
       "comment": "RELISTED! ",
       "date": 1778391284.2450845,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           155.0,
@@ -256,7 +256,7 @@
       "first_date": 1770216672.121663,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -275,7 +275,7 @@
       "comment": "RELISTED! Little Whitening on Top Left edge - otherwise clean!",
       "date": 1778391284.2450845,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           150.0,
@@ -311,7 +311,7 @@
       "first_date": 1771225243.342251,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -350,11 +350,11 @@
       },
       "language": "S-Chinese",
       "price": 140.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "small whitening",
       "date": 1778477454.915767,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -373,6 +373,10 @@
         [
           0,
           1778188657.697854
+        ],
+        [
+          1,
+          1778477454.915767
         ]
       ],
       "first_date": 1766529369.15583,
@@ -412,57 +416,6 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
-        "name": "Jackie92",
-        "country": "Item location: Austria"
-      },
-      "language": "S-Chinese",
-      "price": 149.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1778391284.2450845,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          159.0,
-          1775880088.3750696
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777790101.7735286
-        ],
-        [
-          0,
-          1777790101.7735286
-        ],
-        [
-          1,
-          1778188657.697854
-        ],
-        [
-          0,
-          1778188657.697854
-        ],
-        [
-          1,
-          1778391284.2450845
-        ]
-      ],
-      "first_date": 1772928692.3504221,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
         "name": "Bao-Cards",
         "country": "Item location: Netherlands"
       },
@@ -473,7 +426,7 @@
       "comment": "RELISTED! NM - Fast shipping",
       "date": 1778391284.2450845,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -508,7 +461,7 @@
       "first_date": 1775752396.3999708,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -756,11 +709,11 @@
       },
       "language": "S-Chinese",
       "price": 174.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve --> Toploader",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778831413.2663906,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -784,7 +737,16 @@
           1770311465.6266453
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1778477454.915767
+        ],
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
       "first_date": 1768160860.97365,
       "last_date": 0.0,
       "price_is_new": false,
@@ -802,14 +764,19 @@
       },
       "language": "S-Chinese",
       "price": 175.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Psa 9",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778831413.2663906,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
       "first_date": 1776897025.8464158,
       "last_date": 0.0,
       "price_is_new": false,
@@ -857,11 +824,11 @@
       },
       "language": "S-Chinese",
       "price": 189.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778831413.2663906,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -881,6 +848,18 @@
         [
           0,
           1778024350.8934216
+        ],
+        [
+          2,
+          1778477454.915767
+        ],
+        [
+          1,
+          1778617278.1444306
+        ],
+        [
+          2,
+          1778831413.2663906
         ]
       ],
       "first_date": 1767092061.2181518,
@@ -900,11 +879,11 @@
       },
       "language": "S-Chinese",
       "price": 189.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1778477454.915767,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -956,71 +935,13 @@
           1778188657.697854
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1773689454.464919,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
-        "name": "TyzefTCG",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778477454.915767,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
+      "previous_quantities": [
         [
-          130.0,
-          5402409.156
-        ],
-        [
-          145.0,
-          1766080232.5826852
-        ],
-        [
-          155.0,
-          1767729022.959323
+          1,
+          1778477454.915767
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1765402409.1560888,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
-        "name": "ABCGAMES",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "QUAD: VERDE",
-      "date": 1778477454.915767,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778188657.697854,
+      "first_date": 1773689454.464919,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1071,6 +992,41 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769358908.576679,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "ABCGAMES",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 199.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "QUAD: VERDE",
+      "date": 1778831413.2663906,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          190.0,
+          1778477454.915767
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
+      "first_date": 1778188657.697854,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1210,11 +1166,11 @@
       },
       "language": "S-Chinese",
       "price": 215.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Clean. dm for more pics! - Proper packaging",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778617278.1444306,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1230,7 +1186,12 @@
           1778292528.2451456
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778617278.1444306
+        ]
+      ],
       "first_date": 1769726947.9086528,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1366,40 +1327,6 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
-        "name": "deuseder",
-        "country": "Item location: Portugal"
-      },
-      "language": "S-Chinese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "CLEAN /ask for pics /offer with every order",
-      "date": 1778477454.915767,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          300.0,
-          1771467603.4896584
-        ],
-        [
-          350.0,
-          1775193888.5509765
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1771225243.342251,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
         "name": "ATN85",
         "country": "Item location: Germany"
       },
@@ -1460,11 +1387,11 @@
       },
       "language": "S-Chinese",
       "price": 260.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 9.5",
       "date": 1778477454.915767,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1475,6 +1402,10 @@
         [
           0,
           1777790101.7735286
+        ],
+        [
+          1,
+          1778477454.915767
         ]
       ],
       "first_date": 1776897025.8464158,
@@ -1499,7 +1430,7 @@
       "comment": "AOG 10 Gem Mint",
       "date": 1778391284.2450845,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           280.0,
@@ -1523,7 +1454,7 @@
       "first_date": 1770858603.7474709,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1596,48 +1527,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1720078351.241786,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
-        "name": "TyzefTCG",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "bgs9.5",
-      "date": 1778477454.915767,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1400.0,
-          1767729022.959323
-        ],
-        [
-          6500.0,
-          1772587761.0959096
-        ],
-        [
-          300.0,
-          1774635486.382898
-        ],
-        [
-          6500.0,
-          1775021816.5361633
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1765402409.1560888,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1788,61 +1677,6 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
-        "name": "ManuDoBleH",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 345.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "ask for pictures. PSA10 fast spedition <3",
-      "date": 1778391284.2450845,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          330.0,
-          1769169427.1933627
-        ],
-        [
-          550.0,
-          1770216672.121663
-        ],
-        [
-          350.0,
-          1773748038.5043464
-        ],
-        [
-          300.0,
-          1774555961.0763412
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778120652.2813687
-        ],
-        [
-          0,
-          1778120652.2813687
-        ],
-        [
-          1,
-          1778391284.2450845
-        ]
-      ],
-      "first_date": 1769169427.1933627,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
         "name": "Tihan",
         "country": "Item location: Germany"
       },
@@ -1912,7 +1746,7 @@
       "comment": "PSA10^_^ Experience and Passion at your Service ^_^",
       "date": 1778391284.2450845,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1923,7 +1757,92 @@
       "first_date": 1766529369.15583,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "TheBazaarTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779324222.3237853,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "CicciogamerUboldo",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 350.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "psa 10",
+      "date": 1779047535.6651437,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779047535.6651437
+        ]
+      ],
+      "first_date": 1778831413.2663906,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "AjaxMue",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 350.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "",
+      "date": 1778756609.6529126,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778756609.6529126
+        ]
+      ],
+      "first_date": 1778756609.6529126,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1981,44 +1900,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1776091499.139577,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
-        "name": "deuseder",
-        "country": "Item location: Portugal"
-      },
-      "language": "S-Chinese",
-      "price": 350.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "CLEAN /ask for pics /offer with every order",
-      "date": 1774937604.4512272,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          300.0,
-          1770944769.7854311
-        ],
-        [
-          250.0,
-          1773689454.464919
-        ],
-        [
-          200.0,
-          1774635486.382898
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769884188.6072395,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2135,6 +2016,104 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
+        "name": "deuseder",
+        "country": "Item location: Portugal"
+      },
+      "language": "S-Chinese",
+      "price": 400.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "sleeve to toploader // ask for pics",
+      "date": 1779324222.3237853,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          300.0,
+          1770944769.7854311
+        ],
+        [
+          250.0,
+          1773689454.464919
+        ],
+        [
+          200.0,
+          1774635486.382898
+        ],
+        [
+          350.0,
+          1774937604.4512272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1774937604.4512272
+        ],
+        [
+          1,
+          1779324222.3237853
+        ]
+      ],
+      "first_date": 1769884188.6072395,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "TyzefTCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 400.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778831413.2663906,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          130.0,
+          5402409.156
+        ],
+        [
+          145.0,
+          1766080232.5826852
+        ],
+        [
+          155.0,
+          1767729022.959323
+        ],
+        [
+          190.0,
+          1778477454.915767
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
+      "first_date": 1765402409.1560888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
         "name": "Noah02134",
         "country": "Item location: Germany"
       },
@@ -2185,20 +2164,269 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
+        "name": "marcmoellerskov",
+        "country": "Item location: Denmark"
+      },
+      "language": "S-Chinese",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NM. Check my other rares!",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779480721.8162858,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "deuseder",
+        "country": "Item location: Portugal"
+      },
+      "language": "S-Chinese",
+      "price": 450.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "sleeve to toploader // ask for pics",
+      "date": 1779047535.6651437,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          300.0,
+          1771467603.4896584
+        ],
+        [
+          350.0,
+          1775193888.5509765
+        ],
+        [
+          250.0,
+          1778909429.9018717
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779047535.6651437
+        ]
+      ],
+      "first_date": 1771225243.342251,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
         "name": "DarumaStudio",
         "country": "Item location: Italy"
       },
       "language": "S-Chinese",
       "price": 450.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778617278.1444306,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778617278.1444306
+        ]
+      ],
       "first_date": 1776964359.978698,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "n3o33",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 499.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "pm me for pictures",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779480721.8162858,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "TyzefTCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "bgs9.5",
+      "date": 1778831413.2663906,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1767729022.959323
+        ],
+        [
+          6500.0,
+          1772587761.0959096
+        ],
+        [
+          300.0,
+          1774635486.382898
+        ],
+        [
+          6500.0,
+          1775021816.5361633
+        ],
+        [
+          300.0,
+          1778477454.915767
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
+      "first_date": 1765402409.1560888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "wzj26514",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 529.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast shipping. 949",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779480721.8162858,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "Jackie92",
+        "country": "Item location: Austria"
+      },
+      "language": "S-Chinese",
+      "price": 549.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          159.0,
+          1775880088.3750696
+        ],
+        [
+          149.0,
+          1778391284.2450845
+        ],
+        [
+          179.0,
+          1778756609.6529126
+        ],
+        [
+          199.0,
+          1778909429.9018717
+        ],
+        [
+          399.0,
+          1779174596.639536
+        ],
+        [
+          499.0,
+          1779324222.3237853
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777790101.7735286
+        ],
+        [
+          0,
+          1777790101.7735286
+        ],
+        [
+          1,
+          1778188657.697854
+        ],
+        [
+          0,
+          1778188657.697854
+        ],
+        [
+          1,
+          1778391284.2450845
+        ],
+        [
+          0,
+          1778391284.2450845
+        ]
+      ],
+      "first_date": 1772928692.3504221,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2240,6 +2468,186 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
+        "name": "ilorein",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Clean!",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779406183.7706902,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "Juanki9298",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 699.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779406183.7706902,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "ninisse",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779324222.3237853,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "ManuDoBleH",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 720.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ask for pictures. PSA10 fast spedition <3",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          330.0,
+          1769169427.1933627
+        ],
+        [
+          550.0,
+          1770216672.121663
+        ],
+        [
+          350.0,
+          1773748038.5043464
+        ],
+        [
+          300.0,
+          1774555961.0763412
+        ],
+        [
+          345.0,
+          1778391284.2450845
+        ],
+        [
+          400.0,
+          1778617278.1444306
+        ],
+        [
+          450.0,
+          1778831413.2663906
+        ],
+        [
+          550.0,
+          1779047535.6651437
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778120652.2813687
+        ],
+        [
+          0,
+          1778120652.2813687
+        ],
+        [
+          1,
+          1778391284.2450845
+        ],
+        [
+          0,
+          1778391284.2450845
+        ]
+      ],
+      "first_date": 1769169427.1933627,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "UltraCardDispenser",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 750.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "BGS10",
+      "date": 1779324222.3237853,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779324222.3237853
+        ]
+      ],
+      "first_date": 1778831413.2663906,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
         "name": "Zeff97",
         "country": "Item location: Italy"
       },
@@ -2254,6 +2662,31 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1765402409.1560888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "Shayken",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 1300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1779480721.8162858,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779480721.8162858,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2333,7 +2766,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778477454.915767,
+      "date": 1779480721.8162858,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2380,11 +2813,11 @@
       },
       "language": "S-Chinese",
       "price": 6500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "5 sequential psa10 Robin Luffy Zoro Chopper and Sanji",
-      "date": 1778477454.915767,
-      "ended": false,
+      "date": 1778831413.2663906,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2392,7 +2825,12 @@
           1767729022.959323
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778831413.2663906
+        ]
+      ],
       "first_date": 1765402409.1560888,
       "last_date": 0.0,
       "price_is_new": false,

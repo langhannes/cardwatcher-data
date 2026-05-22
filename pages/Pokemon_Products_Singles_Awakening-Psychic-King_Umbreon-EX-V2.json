@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1778474296.934976,
+      "date": 1779473380.4726982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,12 +51,42 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1778474296.934976,
+      "date": 1779473380.4726982,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1716279486.020848,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Umbreon EX  (XY10 082)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
+      "seller": {
+        "name": "Xavierpika",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 850.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1779473380.4726982,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1100.0,
+          1779166572.9079797
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771763960.455647,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -86,31 +116,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Umbreon EX  (XY10 082)",
-      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
-      "seller": {
-        "name": "Xavierpika",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 8",
-      "date": 1778474296.934976,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771763960.455647,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -151,7 +156,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1778474296.934976,
+      "date": 1779473380.4726982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -273,14 +278,19 @@
       },
       "language": "Japanese",
       "price": 4800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1778474296.934976,
-      "ended": false,
+      "date": 1778609156.7265284,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1778609156.7265284
+        ]
+      ],
       "first_date": 1776720384.259836,
       "last_date": 0.0,
       "price_is_new": false,
