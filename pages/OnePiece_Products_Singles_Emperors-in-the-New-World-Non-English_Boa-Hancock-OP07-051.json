@@ -10,7 +10,7 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 41,
+  "available": 35,
   "sold": 2,
   "inserted": 0,
   "listings": [
@@ -1098,7 +1098,7 @@
       "comment": "WHITE DOT ON THE BACK. 1 VERY SMALL PRESSURE ON THE BACK",
       "date": 1779374681.0077558,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           185.0,
@@ -1126,7 +1126,7 @@
       "first_date": 1770712215.4383795,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1915,14 +1915,19 @@
       },
       "language": "Japanese",
       "price": 140.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "kleine Druckstelle",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1780058881.7475152,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780058881.7475152
+        ]
+      ],
       "first_date": 1779374681.0077558,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2599,40 +2604,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "michisangio",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 155.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect Front. Small Dot in the back. Ask for more pictures. Safe Shipping",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1777522314.0661893
-        ],
-        [
-          145.0,
-          1779374681.0077558
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1776884909.7961047,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "KiraKiraJP",
         "country": "Item location: Italy"
       },
@@ -2832,6 +2803,57 @@
       ],
       "previous_quantities": [],
       "first_date": 1767092028.432943,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "michisangio",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 160.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Perfect Front. Small Dot in the back. Ask for more pictures. Safe Shipping",
+      "date": 1780176036.6611445,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1777522314.0661893
+        ],
+        [
+          145.0,
+          1779374681.0077558
+        ],
+        [
+          155.0,
+          1779844256.8359556
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779844256.8359556
+        ],
+        [
+          0,
+          1779844256.8359556
+        ],
+        [
+          1,
+          1780176036.6611445
+        ]
+      ],
+      "first_date": 1776884909.7961047,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4044,7 +4066,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Toploader / ex- / whitening on the back / small curved",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4113,11 +4135,11 @@
       },
       "language": "Japanese",
       "price": 175.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1779447313.3921595,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4129,6 +4151,10 @@
         [
           0,
           1775868699.6741824
+        ],
+        [
+          1,
+          1779447313.3921595
         ]
       ],
       "first_date": 1775561481.9879332,
@@ -4205,7 +4231,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "daily and cheap shipping",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4214,6 +4240,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "MAGICPLANET",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 179.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "THE CARDS YOU WANT",
+      "date": 1780269407.1625881,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780269407.1625881
+        ]
+      ],
+      "first_date": 1780176036.6611445,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4294,7 +4350,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "little whitening | Daily shipping | sleeved |",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4316,11 +4372,11 @@
       },
       "language": "Japanese",
       "price": 180.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1779514378.3789062,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4332,7 +4388,12 @@
           1779138183.3209279
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779514378.3789062
+        ]
+      ],
       "first_date": 1778723459.9838223,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4573,6 +4634,45 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "alex4127",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 185.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780269407.1625881,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          195.0,
+          1779967592.2874005
+        ],
+        [
+          190.0,
+          1780058881.7475152
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780269407.1625881
+        ]
+      ],
+      "first_date": 1779967592.2874005,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "takuya96",
         "country": "Item location: Germany"
       },
@@ -4615,25 +4715,20 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "mickasy",
+        "name": "Dakenrahl",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 189.49,
+      "price": 189.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Fast & Safe Shipment",
-      "date": 1779447313.3921595,
+      "comment": "",
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          194.49,
-          1776952240.1677456
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1776269048.797849,
+      "first_date": 1780058881.7475152,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4687,31 +4782,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "Cards-Hunter",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776952240.1677456,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "santoryuD",
         "country": "Item location: Germany"
       },
@@ -4720,7 +4790,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4745,7 +4815,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "In sleeve and toploader. Condition as shown in the photos. Pulled and immediately sleeved.",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4756,6 +4826,36 @@
       ],
       "previous_quantities": [],
       "first_date": 1771241899.8723989,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "Cards-Hunter",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 190.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779447313.3921595,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779447313.3921595
+        ]
+      ],
+      "first_date": 1776952240.1677456,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4857,15 +4957,50 @@
       },
       "language": "Japanese",
       "price": 194.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "More OP in stock!",
       "date": 1779447313.3921595,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779447313.3921595
+        ]
+      ],
       "first_date": 1779374681.0077558,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "LLREFORMED",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 195.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "perfecto estado",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          200.0,
+          1780058881.7475152
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779967592.2874005,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4915,7 +5050,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Siehe Bilder - Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4978,40 +5113,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "charisarr",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 199.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          180.0,
-          1777908957.9524462
-        ],
-        [
-          159.99,
-          1779138183.3209279
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777612875.5858014,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "GGvelDone",
         "country": "Item location: Germany"
       },
@@ -5022,7 +5123,7 @@
       "comment": "Booster to Sleeve + Toploader / More Cards on Stock",
       "date": 1779374681.0077558,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           299.99,
@@ -5046,7 +5147,7 @@
       "first_date": 1769158658.2548244,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5063,7 +5164,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve + Toploader!",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5701,7 +5802,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition | double sleeved and toploaded | ask for more pics",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5891,6 +5992,45 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "mickasy",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 219.49,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fast & Safe Shipment",
+      "date": 1779764717.5143154,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          194.49,
+          1776952240.1677456
+        ],
+        [
+          189.49,
+          1779592464.7236557
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779764717.5143154
+        ]
+      ],
+      "first_date": 1776269048.797849,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "teresis",
         "country": "Item location: Italy"
       },
@@ -5929,7 +6069,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5972,7 +6112,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleve+ Top Loader",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6044,37 +6184,49 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "Absoluttrung",
-        "country": "Item location: Germany"
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 225.0,
-      "quantity": 2,
+      "price": 224.98,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeve + Toploader!",
-      "date": 1779447313.3921595,
+      "comment": "",
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          139.99,
-          1767384830.8972268
+          329.98,
+          1777612875.5858014
         ],
         [
-          163.0,
-          1768160570.2670586
+          267.28,
+          1777773497.3995223
         ],
         [
-          300.0,
-          1770286865.0183742
+          249.98,
+          1778090941.028087
         ],
         [
-          289.0,
-          1776080095.177941
+          329.98,
+          1778262812.3148944
+        ],
+        [
+          296.98,
+          1778361736.396014
+        ],
+        [
+          267.28,
+          1778447899.0580547
+        ],
+        [
+          249.98,
+          1780176036.6611445
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1755774067.2942038,
+      "first_date": 1774220199.3333457,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6094,7 +6246,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pictures",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6137,11 +6289,11 @@
       },
       "language": "Japanese",
       "price": 229.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1780058881.7475152,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6153,7 +6305,12 @@
           1768160570.2670586
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780058881.7475152
+        ]
+      ],
       "first_date": 1767092028.432943,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6216,6 +6373,52 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "Absoluttrung",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 239.94,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sleeve + Toploader!",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          139.99,
+          1767384830.8972268
+        ],
+        [
+          163.0,
+          1768160570.2670586
+        ],
+        [
+          300.0,
+          1770286865.0183742
+        ],
+        [
+          289.0,
+          1776080095.177941
+        ],
+        [
+          225.0,
+          1779764717.5143154
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1755774067.2942038,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "Hansecollectibles",
         "country": "Item location: Germany"
       },
@@ -6224,7 +6427,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Toploader - Fast Secured Shipping",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6301,6 +6504,121 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "Weskebob",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 245.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Strong BGS 9.5 | Daily Shipping",
+      "date": 1779844256.8359556,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          295.0,
+          1775096718.5738552
+        ],
+        [
+          375.0,
+          1775182508.0111156
+        ],
+        [
+          295.0,
+          1775561481.9879332
+        ],
+        [
+          275.0,
+          1776080095.177941
+        ],
+        [
+          299.99,
+          1776181100.1175387
+        ],
+        [
+          249.99,
+          1776269048.797849
+        ],
+        [
+          224.95,
+          1776655434.3327885
+        ],
+        [
+          235.0,
+          1776952240.1677456
+        ],
+        [
+          215.0,
+          1777216963.1089604
+        ],
+        [
+          239.95,
+          1777522314.0661893
+        ],
+        [
+          299.95,
+          1777773497.3995223
+        ],
+        [
+          274.95,
+          1777994975.9177456
+        ],
+        [
+          249.5,
+          1778262812.3148944
+        ],
+        [
+          224.95,
+          1778447899.0580547
+        ],
+        [
+          199.95,
+          1778582751.7613301
+        ],
+        [
+          245.0,
+          1778798251.4510834
+        ],
+        [
+          249.95,
+          1778876239.8073218
+        ],
+        [
+          295.0,
+          1779011079.8559558
+        ],
+        [
+          249.0,
+          1779287733.135043
+        ],
+        [
+          345.0,
+          1779514378.3789062
+        ],
+        [
+          285.0,
+          1779592464.7236557
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779844256.8359556
+        ]
+      ],
+      "first_date": 1774926220.7392209,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "RashGh",
         "country": "Item location: United Kingdom"
       },
@@ -6351,56 +6669,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 249.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          329.98,
-          1777612875.5858014
-        ],
-        [
-          267.28,
-          1777773497.3995223
-        ],
-        [
-          249.98,
-          1778090941.028087
-        ],
-        [
-          329.98,
-          1778262812.3148944
-        ],
-        [
-          296.98,
-          1778361736.396014
-        ],
-        [
-          267.28,
-          1778447899.0580547
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1774220199.3333457,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "Lichcards",
         "country": "Item location: Netherlands"
       },
@@ -6409,7 +6677,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 9.0]",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6456,6 +6724,44 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "Moochums",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          120.0,
+          1766529294.533847
+        ],
+        [
+          150.0,
+          1768160570.2670586
+        ],
+        [
+          350.0,
+          1779683994.8732245
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1766080144.9701107,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "Brosi1993",
         "country": "Item location: Italy"
       },
@@ -6464,12 +6770,42 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777612875.5858014,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "TorselloTcg",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "bgS 9.5",
+      "date": 1780176036.6611445,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780176036.6611445
+        ]
+      ],
+      "first_date": 1779592464.7236557,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6859,7 +7195,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6961,11 +7297,11 @@
       },
       "language": "Japanese",
       "price": 285.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Graded 10",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1779683994.8732245,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6985,7 +7321,12 @@
           1779287733.135043
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779683994.8732245
+        ]
+      ],
       "first_date": 1771788264.5486078,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7219,6 +7560,44 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "charisarr",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 299.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          180.0,
+          1777908957.9524462
+        ],
+        [
+          159.99,
+          1779138183.3209279
+        ],
+        [
+          199.99,
+          1780176036.6611445
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777612875.5858014,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "Alestefa2000",
         "country": "Item location: Italy"
       },
@@ -7287,7 +7666,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7345,7 +7724,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AI Grading 9.5",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7926,36 +8305,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "Davide9114",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 340.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Psa10 - Consegna a mano su Milano e dintorni",
-      "date": 1778876239.8073218,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778876239.8073218
-        ]
-      ],
-      "first_date": 1772672282.234301,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "PadrePokemon",
         "country": "Item location: Italy"
       },
@@ -8069,108 +8418,6 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
-        "name": "Weskebob",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 345.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Strong BGS 9.5 | Daily Shipping",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          295.0,
-          1775096718.5738552
-        ],
-        [
-          375.0,
-          1775182508.0111156
-        ],
-        [
-          295.0,
-          1775561481.9879332
-        ],
-        [
-          275.0,
-          1776080095.177941
-        ],
-        [
-          299.99,
-          1776181100.1175387
-        ],
-        [
-          249.99,
-          1776269048.797849
-        ],
-        [
-          224.95,
-          1776655434.3327885
-        ],
-        [
-          235.0,
-          1776952240.1677456
-        ],
-        [
-          215.0,
-          1777216963.1089604
-        ],
-        [
-          239.95,
-          1777522314.0661893
-        ],
-        [
-          299.95,
-          1777773497.3995223
-        ],
-        [
-          274.95,
-          1777994975.9177456
-        ],
-        [
-          249.5,
-          1778262812.3148944
-        ],
-        [
-          224.95,
-          1778447899.0580547
-        ],
-        [
-          199.95,
-          1778582751.7613301
-        ],
-        [
-          245.0,
-          1778798251.4510834
-        ],
-        [
-          249.95,
-          1778876239.8073218
-        ],
-        [
-          295.0,
-          1779011079.8559558
-        ],
-        [
-          249.0,
-          1779287733.135043
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1774926220.7392209,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
         "name": "Monje58",
         "country": "Item location: Italy"
       },
@@ -8243,46 +8490,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Graad 10",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770831750.632654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
-      "seller": {
-        "name": "Moochums",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          120.0,
-          1766529294.533847
-        ],
-        [
-          150.0,
-          1768160570.2670586
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1766080144.9701107,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8433,7 +8646,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to plastic box",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8560,7 +8773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.5] 60K+ CARDS IN STOCK",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8607,11 +8820,11 @@
       },
       "language": "Japanese",
       "price": 385.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1780176036.6611445,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8623,7 +8836,12 @@
           1768160570.2670586
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780176036.6611445
+        ]
+      ],
       "first_date": 1764750691.2420151,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8724,11 +8942,28 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779764717.5143154
+        ],
+        [
+          0,
+          1779764717.5143154
+        ],
+        [
+          1,
+          1780058881.7475152
+        ],
+        [
+          0,
+          1780058881.7475152
+        ]
+      ],
       "first_date": 1770712215.4383795,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8949,6 +9184,31 @@
       "card": "Boa Hancock (OP07-051)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
       "seller": {
+        "name": "Vitaroux",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "CGC Pristine 10",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779764717.5143154,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
         "name": "Ane99",
         "country": "Item location: Switzerland"
       },
@@ -9068,12 +9328,12 @@
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
-      "price": 549.0,
-      "quantity": 1,
+      "price": 529.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1779447313.3921595,
-      "ended": false,
+      "date": 1779967592.2874005,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9103,10 +9363,79 @@
         [
           449.0,
           1779011079.8559558
+        ],
+        [
+          549.0,
+          1779592464.7236557
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779967592.2874005
+        ]
+      ],
+      "first_date": 1767092028.432943,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "DaichiKaiyoTCG",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 549.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          529.0,
+          1780176036.6611445
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1767092028.432943,
+      "first_date": 1780058881.7475152,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "Pokequestzone",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA-10",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          680.0,
+          1779764717.5143154
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779764717.5143154,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9151,7 +9480,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Images available upon request",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9181,7 +9510,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9216,7 +9545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1779447313.3921595,
+      "date": 1780345986.8331392,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9227,6 +9556,45 @@
       ],
       "previous_quantities": [],
       "first_date": 1767728688.8255281,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Boa-Hancock-OP07-051",
+      "seller": {
+        "name": "Davide9114",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa10 - Consegna a mano su Milano e dintorni - Ask for pictures",
+      "date": 1780345986.8331392,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          340.0,
+          1778876239.8073218
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778876239.8073218
+        ],
+        [
+          0,
+          1778876239.8073218
+        ]
+      ],
+      "first_date": 1772672282.234301,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

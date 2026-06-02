@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
+  "available": 7,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Winona (XY6 088)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Check Image!",
-      "date": 1779457114.1086035,
+      "date": 1780360730.0710008,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -81,7 +81,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Check Image!",
-      "date": 1779457114.1086035,
+      "date": 1780360730.0710008,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -106,7 +106,7 @@
       "quantity": 2,
       "condition": "GD",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1779457114.1086035,
+      "date": 1780360730.0710008,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -153,14 +153,19 @@
       },
       "language": "Japanese",
       "price": 189.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Sleeved & Toploader für Fotos einfach fragen :D",
-      "date": 1779457114.1086035,
-      "ended": false,
+      "date": 1779526203.2481642,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779526203.2481642
+        ]
+      ],
       "first_date": 1777222678.2932582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -203,19 +208,49 @@
       "card": "Winona (XY6 088)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
       "seller": {
+        "name": "AntoineMarthy",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 239.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "booster -> sleeve",
+      "date": 1780360730.0710008,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780360730.0710008,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Winona (XY6 088)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
+      "seller": {
         "name": "IIPegasi",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 247.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Unlimited Sleeved & Toploader für Fotos einfach fragen :D",
-      "date": 1779457114.1086035,
-      "ended": false,
+      "date": 1779526203.2481642,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779526203.2481642
+        ]
+      ],
       "first_date": 1777222678.2932582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -236,7 +271,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779457114.1086035,
+      "date": 1780360730.0710008,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -258,11 +293,11 @@
       },
       "language": "Japanese",
       "price": 249.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Graded CGC 10 - Will send with DHL",
-      "date": 1779457114.1086035,
-      "ended": false,
+      "date": 1779858464.172133,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -274,7 +309,12 @@
           1779148704.736871
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779858464.172133
+        ]
+      ],
       "first_date": 1777222678.2932582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -342,16 +382,20 @@
       },
       "language": "Japanese",
       "price": 550.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1778167007.4581745,
-      "ended": true,
+      "date": 1780360730.0710008,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1778167007.4581745
+        ],
+        [
+          0,
           1778167007.4581745
         ]
       ],

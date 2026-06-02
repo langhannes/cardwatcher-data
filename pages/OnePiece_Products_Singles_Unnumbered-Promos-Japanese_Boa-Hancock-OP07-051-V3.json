@@ -10,7 +10,7 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 6,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -282,14 +282,19 @@
       },
       "language": "Japanese",
       "price": 225.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779472910.088363,
-      "ended": false,
+      "date": 1779924276.1669283,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779924276.1669283
+        ]
+      ],
       "first_date": 1779399180.3208656,
       "last_date": 0.0,
       "price_is_new": false,
@@ -307,11 +312,11 @@
       },
       "language": "Japanese",
       "price": 229.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "A1 SP",
-      "date": 1779472910.088363,
-      "ended": false,
+      "date": 1779800945.0757341,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -319,7 +324,12 @@
           1773221670.1863992
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779800945.0757341
+        ]
+      ],
       "first_date": 1771359752.1672359,
       "last_date": 0.0,
       "price_is_new": false,
@@ -337,11 +347,11 @@
       },
       "language": "Japanese",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779472910.088363,
-      "ended": false,
+      "date": 1779924276.1669283,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -349,7 +359,12 @@
           1771653919.0551515
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779924276.1669283
+        ]
+      ],
       "first_date": 1769961632.490435,
       "last_date": 0.0,
       "price_is_new": false,
@@ -417,14 +432,19 @@
       },
       "language": "Japanese",
       "price": 320.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1779472910.088363,
-      "ended": false,
+      "date": 1779924276.1669283,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779924276.1669283
+        ]
+      ],
       "first_date": 1771359752.1672359,
       "last_date": 0.0,
       "price_is_new": false,
@@ -445,42 +465,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779472910.088363,
+      "date": 1780303012.4882681,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769631534.5502,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Boa Hancock (OP07-051) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
-      "seller": {
-        "name": "2M8TO",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 499.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779472910.088363,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          400.0,
-          1769687713.7977445
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769511813.5734248,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -511,6 +501,40 @@
       ],
       "previous_quantities": [],
       "first_date": 1767868587.536158,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Boa Hancock (OP07-051) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
+      "seller": {
+        "name": "2M8TO",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 599.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780303012.4882681,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1769687713.7977445
+        ],
+        [
+          499.0,
+          1780016128.772847
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1769511813.5734248,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

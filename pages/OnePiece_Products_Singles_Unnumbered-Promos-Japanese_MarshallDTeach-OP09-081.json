@@ -9,53 +9,10 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 23,
-  "sold": 1,
-  "inserted": 0,
+  "available": 16,
+  "sold": 3,
+  "inserted": 1,
   "listings": [
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
-      "seller": {
-        "name": "TheBazaarTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 20.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779444533.221343,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          28.0,
-          1774540602.4046063
-        ],
-        [
-          25.0,
-          1776948026.4258857
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778259610.3009925
-        ],
-        [
-          0,
-          1778259610.3009925
-        ]
-      ],
-      "first_date": 1773915283.126256,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
     {
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
@@ -124,6 +81,57 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "TheBazaarTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 25.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780265275.73335,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          28.0,
+          1774540602.4046063
+        ],
+        [
+          25.0,
+          1776948026.4258857
+        ],
+        [
+          20.0,
+          1779510965.2831123
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778259610.3009925
+        ],
+        [
+          0,
+          1778259610.3009925
+        ],
+        [
+          1,
+          1780265275.73335
+        ]
+      ],
+      "first_date": 1773915283.126256,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "gvalentin",
         "country": "Item location: Spain"
       },
@@ -154,12 +162,12 @@
       },
       "language": "S-Chinese",
       "price": 30.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779371543.912023,
-      "ended": true,
-      "new": true,
+      "date": 1780341837.9598296,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -169,12 +177,16 @@
         [
           1,
           1779371543.912023
+        ],
+        [
+          0,
+          1779371543.912023
         ]
       ],
       "first_date": 1771911896.0606213,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -725,31 +737,6 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "DriftingShanks",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 40.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve -> Toploader / For Pictures just write me :)",
-      "date": 1779444533.221343,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778087745.8180828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
-      "seller": {
         "name": "OdinOrtmann",
         "country": "Item location: Germany"
       },
@@ -775,6 +762,36 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "DriftingShanks",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 43.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve -> Toploader / For Pictures just write me :)",
+      "date": 1780341837.9598296,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1779680450.4659934
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778087745.8180828,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "Sapphire-Cards",
         "country": "Item location: Germany"
       },
@@ -783,7 +800,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-3",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -815,12 +832,12 @@
       },
       "language": "Japanese",
       "price": 43.5,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1779444533.221343,
-      "ended": false,
-      "new": false,
+      "date": 1780265275.73335,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           64.95,
@@ -887,12 +904,20 @@
         [
           3,
           1778358557.747409
+        ],
+        [
+          2,
+          1780054752.671784
+        ],
+        [
+          1,
+          1780265275.73335
         ]
       ],
       "first_date": 1770759157.6344504,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -906,11 +931,11 @@
       },
       "language": "Japanese",
       "price": 43.94,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "\"ONE\"",
-      "date": 1779444533.221343,
-      "ended": false,
+      "date": 1780054752.671784,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -918,7 +943,12 @@
           1777310256.495306
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780054752.671784
+        ]
+      ],
       "first_date": 1772556646.0143013,
       "last_date": 0.0,
       "price_is_new": false,
@@ -936,14 +966,19 @@
       },
       "language": "Japanese",
       "price": 43.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "A1 SP",
-      "date": 1779444533.221343,
-      "ended": false,
+      "date": 1779760576.4382665,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779760576.4382665
+        ]
+      ],
       "first_date": 1775737057.3760781,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1020,11 +1055,11 @@
       },
       "language": "Japanese",
       "price": 44.95,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1779444533.221343,
-      "ended": false,
+      "date": 1779760576.4382665,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1048,6 +1083,14 @@
         [
           0,
           1778579581.8827138
+        ],
+        [
+          2,
+          1779444533.221343
+        ],
+        [
+          1,
+          1779760576.4382665
         ]
       ],
       "first_date": 1771237000.894393,
@@ -1099,16 +1142,25 @@
       "price": 45.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1779444533.221343,
+      "comment": "RELISTED! ",
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780171906.518571
+        ],
+        [
+          0,
+          1780171906.518571
+        ]
+      ],
       "first_date": 1778358557.747409,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1273,6 +1325,36 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "Kaliba69",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 45.5,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve> Toploader",
+      "date": 1780341837.9598296,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          74.5,
+          1779963448.8368611
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770759157.6344504,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "Pascal-ree",
         "country": "Item location: Germany"
       },
@@ -1306,7 +1388,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved+Toploader",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1428,11 +1510,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 55.97,
+      "price": 55.9,
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1475,6 +1557,34 @@
         [
           55.94,
           1779371543.912023
+        ],
+        [
+          55.97,
+          1779444533.221343
+        ],
+        [
+          56.03,
+          1779589050.9749818
+        ],
+        [
+          56.06,
+          1779680450.4659934
+        ],
+        [
+          56.14,
+          1779840114.5717013
+        ],
+        [
+          55.9,
+          1779963448.8368611
+        ],
+        [
+          55.86,
+          1780054752.671784
+        ],
+        [
+          55.87,
+          1780265275.73335
         ]
       ],
       "previous_quantities": [],
@@ -1520,38 +1630,20 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "jangolo",
-        "country": "Item location: Italy"
+        "name": "AntoineMarthy",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 59.0,
-      "quantity": 0,
+      "price": 59.9,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ask for pics /  Sleeve Toploader",
-      "date": 1779135033.1614773,
-      "ended": true,
+      "comment": "Booster to sleeve",
+      "date": 1780341837.9598296,
+      "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          89.0,
-          1774216792.0392694
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778444713.697848
-        ],
-        [
-          0,
-          1778444713.697848
-        ],
-        [
-          1,
-          1779135033.1614773
-        ]
-      ],
-      "first_date": 1770759157.6344504,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779510965.2831123,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1568,11 +1660,11 @@
       },
       "language": "Japanese",
       "price": 60.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779444533.221343,
-      "ended": false,
+      "date": 1779760576.4382665,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1584,7 +1676,12 @@
           1771285991.3648858
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779760576.4382665
+        ]
+      ],
       "first_date": 1770759157.6344504,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1632,12 +1729,12 @@
       },
       "language": "Japanese",
       "price": 63.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779444533.221343,
-      "ended": false,
-      "new": false,
+      "date": 1780265275.73335,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           63.5,
@@ -1648,11 +1745,16 @@
           1778795170.0215328
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780265275.73335
+        ]
+      ],
       "first_date": 1773915283.126256,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1729,7 +1831,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1789,32 +1891,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Mehrere aus dem Set Vorhanden",
-      "date": 1779444533.221343,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1770759157.6344504,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
-      "seller": {
-        "name": "Kaliba69",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 74.5,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve> Toploader",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1864,7 +1941,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-3",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1891,6 +1968,92 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "Dj2310",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 78.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "CGS 10",
+      "date": 1780054752.671784,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          110.0,
+          1779840114.5717013
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780054752.671784
+        ]
+      ],
+      "first_date": 1770759157.6344504,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
+      "seller": {
+        "name": "jangolo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ask for pics /  Sleeve Toploader",
+      "date": 1780341837.9598296,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          89.0,
+          1774216792.0392694
+        ],
+        [
+          59.0,
+          1779135033.1614773
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778444713.697848
+        ],
+        [
+          0,
+          1778444713.697848
+        ],
+        [
+          1,
+          1779135033.1614773
+        ],
+        [
+          0,
+          1779135033.1614773
+        ]
+      ],
+      "first_date": 1770759157.6344504,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "CircleFlashcollect",
         "country": "Item location: Spain"
       },
@@ -1899,7 +2062,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10 Fast shipping and secure packaging",
-      "date": 1779444533.221343,
+      "date": 1780341837.9598296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1956,31 +2119,6 @@
       "comment": "",
       "date": 1775864756.4628403,
       "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1770759157.6344504,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MarshallDTeach-OP09-081",
-      "seller": {
-        "name": "Dj2310",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "CGS 10",
-      "date": 1779444533.221343,
-      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],

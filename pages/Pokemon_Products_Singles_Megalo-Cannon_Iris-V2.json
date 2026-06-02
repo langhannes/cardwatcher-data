@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -128,14 +128,19 @@
       },
       "language": "Japanese",
       "price": 499.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "rac 1",
-      "date": 1779452434.9737992,
-      "ended": false,
+      "date": 1779598681.64845,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779598681.64845
+        ]
+      ],
       "first_date": 1778729135.3250158,
       "last_date": 0.0,
       "price_is_new": false,
@@ -156,7 +161,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 4",
-      "date": 1779452434.9737992,
+      "date": 1780354017.840127,
       "ended": false,
       "new": false,
       "previous_prices": [],

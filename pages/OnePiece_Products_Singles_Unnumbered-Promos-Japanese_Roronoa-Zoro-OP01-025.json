@@ -8,9 +8,9 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 13,
+  "available": 14,
   "sold": 0,
-  "inserted": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1455,16 +1455,20 @@
       },
       "language": "S-Chinese",
       "price": 700.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "whitening",
-      "date": 1778825549.4878337,
-      "ended": true,
+      "date": 1780304392.0219953,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1778825549.4878337
+        ],
+        [
+          0,
           1778825549.4878337
         ]
       ],
@@ -1599,6 +1603,36 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "IGotNoGems",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 750.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779627681.5084586,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779627681.5084586
+        ]
+      ],
+      "first_date": 1779627681.5084586,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "Son-Furko",
         "country": "Item location: Germany"
       },
@@ -1709,14 +1743,19 @@
       },
       "language": "S-Chinese",
       "price": 899.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast shipping. 1004",
-      "date": 1779475276.7696757,
-      "ended": false,
-      "new": true,
+      "date": 1779723150.882543,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779723150.882543
+        ]
+      ],
       "first_date": 1779475276.7696757,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1737,7 +1776,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "only 1 tiny whitening. ask for more pictures",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1789,11 +1828,11 @@
       },
       "language": "S-Chinese",
       "price": 950.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "QUAD: VERDE  Slight Bent. ask for better pics",
-      "date": 1779475276.7696757,
-      "ended": false,
+      "date": 1779547512.741246,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1801,7 +1840,12 @@
           1778611251.1295197
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779547512.741246
+        ]
+      ],
       "first_date": 1778187589.8896663,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1852,7 +1896,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1874,44 +1918,24 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "ninisse",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 999.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779475276.7696757,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779318273.8401425,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
-      "seller": {
         "name": "UltraCardDispenser",
         "country": "Item location: Netherlands"
       },
       "language": "S-Chinese",
       "price": 999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "clean",
-      "date": 1779475276.7696757,
-      "ended": false,
+      "date": 1779723150.882543,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779723150.882543
+        ]
+      ],
       "first_date": 1779168649.3265624,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1996,7 +2020,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2057,11 +2081,11 @@
       },
       "language": "S-Chinese",
       "price": 1200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "psa9",
-      "date": 1778825549.4878337,
-      "ended": true,
+      "date": 1780304392.0219953,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -2097,6 +2121,10 @@
         [
           1,
           1778825549.4878337
+        ],
+        [
+          0,
+          1778825549.4878337
         ]
       ],
       "first_date": 1765402406.8747518,
@@ -2119,7 +2147,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 8.5 Speedversand wirklich häftige Karte",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2149,15 +2177,45 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "ninisse",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780304392.0219953,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          999.0,
+          1779802658.4583602
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779318273.8401425,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "kollector17",
         "country": "Item location: Italy"
       },
       "language": "S-Chinese",
-      "price": 1450.0,
+      "price": 1650.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 9",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2176,6 +2234,10 @@
         [
           1150.0,
           1778611251.1295197
+        ],
+        [
+          1450.0,
+          1779627681.5084586
         ]
       ],
       "previous_quantities": [
@@ -2243,17 +2305,26 @@
         "country": "Item location: Spain"
       },
       "language": "S-Chinese",
-      "price": 2250.0,
-      "quantity": 0,
+      "price": 2150.46,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "- Beckett 9.5 - Fast shipping - More slabs on my profile -",
-      "date": 1777911879.6432357,
-      "ended": true,
+      "comment": "- BGS 9.5 - DM with offers. willing to lower the price - Fast shipping with guard -",
+      "date": 1780304392.0219953,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          2250.0,
+          1777911879.6432357
+        ]
+      ],
       "previous_quantities": [
         [
           1,
+          1777911879.6432357
+        ],
+        [
+          0,
           1777911879.6432357
         ]
       ],
@@ -2308,6 +2379,121 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "OrientalCards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 2399.99,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10! Open to offers!",
+      "date": 1780017494.3401315,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780017494.3401315
+        ]
+      ],
+      "first_date": 1779925994.189556,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Arvktcg",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 2400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "psa 10 dm offer",
+      "date": 1780304392.0219953,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2700.0,
+          1779802658.4583602
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779723150.882543,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "TableFlipGames",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 2469.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA10",
+      "date": 1780304392.0219953,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779925994.189556,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "RucksackRuft",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 2499.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 10 pn me with serious offers",
+      "date": 1780304392.0219953,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3000.0,
+          1779802658.4583602
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779318273.8401425,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "UltraCardDispenser",
         "country": "Item location: Netherlands"
       },
@@ -2316,7 +2502,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2341,9 +2527,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779475276.7696757,
@@ -2402,31 +2588,6 @@
         ]
       ],
       "first_date": 1778825549.4878337,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
-      "seller": {
-        "name": "RucksackRuft",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 3000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 10 pn me with serious offers",
-      "date": 1779475276.7696757,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779318273.8401425,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2511,7 +2672,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779475276.7696757,
+      "date": 1780304392.0219953,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2634,11 +2795,11 @@
       },
       "language": "S-Chinese",
       "price": 6500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "5 sequential psa10 Robin Luffy Zoro Chopper and Sanji",
-      "date": 1778825549.4878337,
-      "ended": true,
+      "date": 1780304392.0219953,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -2665,6 +2826,10 @@
         ],
         [
           1,
+          1778825549.4878337
+        ],
+        [
+          0,
           1778825549.4878337
         ]
       ],

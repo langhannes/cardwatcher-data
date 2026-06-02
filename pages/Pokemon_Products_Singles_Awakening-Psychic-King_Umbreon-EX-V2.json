@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 4,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1779473380.4726982,
+      "date": 1780303354.8770206,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,42 +51,12 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1779473380.4726982,
+      "date": 1780303354.8770206,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1716279486.020848,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Umbreon EX  (XY10 082)",
-      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
-      "seller": {
-        "name": "Xavierpika",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 850.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 8",
-      "date": 1779473380.4726982,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1100.0,
-          1779166572.9079797
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1771763960.455647,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -156,7 +126,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779473380.4726982,
+      "date": 1780303354.8770206,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -164,6 +134,44 @@
       "first_date": 1771830443.176994,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Umbreon EX  (XY10 082)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
+      "seller": {
+        "name": "Xavierpika",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1780303354.8770206,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1100.0,
+          1779166572.9079797
+        ],
+        [
+          850.0,
+          1779625477.5540602
+        ],
+        [
+          960.0,
+          1780226836.593917
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771763960.455647,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -273,6 +281,57 @@
       "card": "Umbreon EX  (XY10 082)",
       "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
       "seller": {
+        "name": "mijumaru-",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4300.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! PSA 10",
+      "date": 1780226836.593917,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          4999.0,
+          1779924616.9765
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777879116.5241253
+        ],
+        [
+          0,
+          1777879116.5241253
+        ],
+        [
+          1,
+          1779924616.9765
+        ],
+        [
+          0,
+          1779924616.9765
+        ],
+        [
+          1,
+          1780226836.593917
+        ]
+      ],
+      "first_date": 1775825525.3108943,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Umbreon EX  (XY10 082)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
+      "seller": {
         "name": "Dado68",
         "country": "Item location: France"
       },
@@ -292,36 +351,6 @@
         ]
       ],
       "first_date": 1776720384.259836,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Umbreon EX  (XY10 082)",
-      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
-      "seller": {
-        "name": "mijumaru-",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 4999.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1777879116.5241253,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777879116.5241253
-        ]
-      ],
-      "first_date": 1775825525.3108943,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

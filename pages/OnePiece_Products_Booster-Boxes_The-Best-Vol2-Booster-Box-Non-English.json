@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 612,
-  "sold": 2,
+  "available": 492,
+  "sold": 1,
   "inserted": 1,
   "listings": [
     {
@@ -2424,11 +2424,11 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ovp / sealed",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779531119.977325,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2436,10 +2436,15 @@
           1779388871.7754838
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779531119.977325
+        ]
+      ],
       "first_date": 1779302862.9070425,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2962,6 +2967,41 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "TcgRare",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 47.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Ovp-Sealed",
+      "date": 1779864288.571628,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          49.0,
+          1779784747.3028219
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1779864288.571628
+        ]
+      ],
+      "first_date": 1779701332.528271,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "CardsGeneration-fr",
         "country": "Item location: France"
       },
@@ -3295,10 +3335,10 @@
       },
       "language": "Japanese",
       "price": 47.5,
-      "quantity": 10,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3323,12 +3363,28 @@
         [
           12,
           1777791222.508168
+        ],
+        [
+          10,
+          1779701332.528271
+        ],
+        [
+          8,
+          1779864288.571628
+        ],
+        [
+          7,
+          1780196598.295031
+        ],
+        [
+          5,
+          1780289986.6569898
         ]
       ],
       "first_date": 1771506163.3761716,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3430,19 +3486,58 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "PA-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 47.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fresh case - fast Ship!",
+      "date": 1779864288.571628,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779864288.571628
+        ]
+      ],
+      "first_date": 1779864288.571628,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "GDRHunter",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 47.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fresh case - fast Ship!",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779784747.3028219,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1779531119.977325
+        ],
+        [
+          1,
+          1779784747.3028219
+        ]
+      ],
       "first_date": 1779153273.3530917,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3460,10 +3555,10 @@
       },
       "language": "Japanese",
       "price": 48.0,
-      "quantity": 9,
+      "quantity": 7,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3540,6 +3635,18 @@
         [
           8,
           1779302862.9070425
+        ],
+        [
+          9,
+          1779609195.6994867
+        ],
+        [
+          6,
+          1779701332.528271
+        ],
+        [
+          9,
+          1780196598.295031
         ]
       ],
       "first_date": 1767728624.5246358,
@@ -4079,53 +4186,6 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "CardsCloud",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.9,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "OVP/Sealed",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          39.9,
-          1767384793.9301376
-        ],
-        [
-          44.9,
-          1767728624.5246358
-        ],
-        [
-          39.0,
-          1769675521.2726276
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1777927125.3440921
-        ],
-        [
-          0,
-          1777927125.3440921
-        ]
-      ],
-      "first_date": 1765786090.2002542,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
         "name": "nexthobbyfr",
         "country": "Item location: France"
       },
@@ -4134,7 +4194,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Little tear. Check picture. New. sealed. Fast ship.",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4201,16 +4261,159 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "tbick",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          18,
+          1779609195.6994867
+        ],
+        [
+          16,
+          1779701332.528271
+        ],
+        [
+          14,
+          1780001755.5923932
+        ],
+        [
+          10,
+          1780079428.5952628
+        ],
+        [
+          5,
+          1780196598.295031
+        ],
+        [
+          6,
+          1780289986.6569898
+        ]
+      ],
+      "first_date": 1779531119.977325,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "JeetozCheetoz",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "New Seller! Fresh from Japan",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1768160457.0423372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "kerow42",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1771431855.0934434,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "TCG-Schatzkiste",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP-Sealed - fast shipping :)",
+      "date": 1779864288.571628,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          49.9,
+          1773360415.9611678
+        ],
+        [
+          44.9,
+          1776668615.93478
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776668615.93478
+        ],
+        [
+          1,
+          1779864288.571628
+        ]
+      ],
+      "first_date": 1769279177.2161627,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "GamersDojo",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 49.99,
-      "quantity": 6,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779531119.977325,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4246,250 +4449,20 @@
         [
           8,
           1779388871.7754838
+        ],
+        [
+          6,
+          1779461250.701496
+        ],
+        [
+          1,
+          1779531119.977325
         ]
       ],
       "first_date": 1776898105.6924636,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "TCG-Schatzkiste",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP-Sealed - fast shipping :)",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          49.9,
-          1773360415.9611678
-        ],
-        [
-          44.9,
-          1776668615.93478
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776668615.93478
-        ]
-      ],
-      "first_date": 1769279177.2161627,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Oerben",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "3 in stock",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1778275928.919374
-        ],
-        [
-          1,
-          1778374754.8936455
-        ]
-      ],
-      "first_date": 1774636504.7340982,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "JeetozCheetoz",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "New Seller! Fresh from Japan",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1768160457.0423372,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "kerow42",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771431855.0934434,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Play-Maniac",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1779388871.7754838,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          44.99,
-          1772742900.8517475
-        ],
-        [
-          42.69,
-          1773360415.9611678
-        ],
-        [
-          44.99,
-          1775813684.6900935
-        ],
-        [
-          48.99,
-          1776965443.4772713
-        ],
-        [
-          47.99,
-          1777271190.7393737
-        ],
-        [
-          46.99,
-          1777630544.6422207
-        ],
-        [
-          48.99,
-          1778460922.9328065
-        ],
-        [
-          52.99,
-          1779026187.1090062
-        ],
-        [
-          48.99,
-          1779153273.3530917
-        ]
-      ],
-      "previous_quantities": [
-        [
-          23,
-          1777383846.8326037
-        ],
-        [
-          26,
-          1777472592.8720582
-        ],
-        [
-          23,
-          1777540082.631099
-        ],
-        [
-          22,
-          1777791222.508168
-        ],
-        [
-          13,
-          1777927125.3440921
-        ],
-        [
-          18,
-          1778008173.9545217
-        ],
-        [
-          15,
-          1778104046.4503937
-        ],
-        [
-          16,
-          1778374754.8936455
-        ],
-        [
-          15,
-          1778460922.9328065
-        ],
-        [
-          16,
-          1779026187.1090062
-        ],
-        [
-          8,
-          1779153273.3530917
-        ],
-        [
-          3,
-          1779302862.9070425
-        ],
-        [
-          2,
-          1779388871.7754838
-        ]
-      ],
-      "first_date": 1770323185.172756,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4958,7 +4931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4980,11 +4953,11 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1780196598.295031,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4992,7 +4965,12 @@
           1779026187.1090062
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1780196598.295031
+        ]
+      ],
       "first_date": 1778735696.9655056,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5154,31 +5132,6 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "Niediii",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 50.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP & Sealed",
-      "date": 1768160457.0423372,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1765871421.5386524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
         "name": "tcgdeals",
         "country": "Item location: Germany"
       },
@@ -5308,321 +5261,28 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "BiridamaTCG",
-        "country": "Item location: Portugal"
+        "name": "franmi9",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 51.0,
+      "price": 52.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "NEW & SEALED!",
-      "date": 1769675521.2726276,
+      "comment": "",
+      "date": 1780196598.295031,
       "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          38.0,
-          1766081274.7273226
-        ],
-        [
-          47.79,
-          1769340069.482513
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1765786090.2002542,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "PokeStebi",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 51.39,
-      "quantity": 23,
-      "condition": "NM",
-      "comment": "20 = sealed case!  incl vat/mwst Fixed price. no inquiries!",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          41.9,
-          1769939255.2757795
-        ],
-        [
-          42.9,
-          1770323185.172756
-        ],
-        [
-          45.99,
-          1771506163.3761716
-        ],
-        [
-          44.4,
-          1772417123.67275
-        ],
-        [
-          43.95,
-          1772693842.1860268
-        ],
-        [
-          42.95,
-          1772742900.8517475
-        ],
-        [
-          42.8,
-          1773270283.740788
-        ],
-        [
-          43.8,
-          1774636504.7340982
-        ],
-        [
-          44.9,
-          1775109112.6212645
-        ],
-        [
-          42.45,
-          1775573867.8584423
-        ],
-        [
-          42.4,
-          1775668230.9434607
-        ],
-        [
-          46.99,
-          1776668615.93478
-        ],
-        [
-          48.8,
-          1776965443.4772713
-        ],
-        [
-          46.99,
-          1777271190.7393737
-        ],
-        [
-          47.7,
-          1777383846.8326037
-        ],
-        [
-          46.99,
-          1777630544.6422207
-        ],
-        [
-          48.85,
-          1778460922.9328065
-        ],
-        [
-          48.95,
-          1778595775.7049026
-        ],
-        [
-          51.99,
-          1778810489.4702606
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
-        [
-          24,
-          1777927125.3440921
-        ],
-        [
-          19,
-          1778008173.9545217
-        ],
-        [
-          24,
-          1779302862.9070425
-        ]
-      ],
-      "first_date": 1768771143.9462914,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Sapphire-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 51.88,
-      "quantity": 10,
-      "condition": "NM",
-      "comment": "OVP - SEALED",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          41.67,
-          1769617973.9465718
-        ],
-        [
-          42.38,
-          1769762770.1169071
-        ],
-        [
-          47.43,
-          1770229434.3955698
-        ],
-        [
-          49.98,
-          1771506163.3761716
-        ],
-        [
-          44.93,
-          1771908773.8035636
-        ],
-        [
-          49.98,
-          1773834808.9900007
-        ],
-        [
-          43.38,
-          1774636504.7340982
-        ],
-        [
-          44.99,
-          1775109112.6212645
-        ],
-        [
-          51.44,
-          1778888482.19971
-        ]
-      ],
-      "previous_quantities": [
-        [
-          11,
-          1778460922.9328065
-        ]
-      ],
-      "first_date": 1769585214.279538,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "JunksPlayGround",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 51.89,
-      "quantity": 4,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          49.99,
-          1765871421.5386524
-        ],
-        [
-          43.99,
-          1770038725.963896
-        ],
-        [
-          47.45,
-          1770747817.573804
-        ],
-        [
-          44.99,
-          1771234080.2762294
-        ],
-        [
-          46.99,
-          1776965443.4772713
-        ],
-        [
-          48.99,
-          1778460922.9328065
-        ],
-        [
-          51.45,
-          1779153273.3530917
-        ]
-      ],
-      "previous_quantities": [
-        [
-          7,
-          1777630544.6422207
-        ],
-        [
-          0,
-          1777630544.6422207
-        ],
-        [
-          1,
-          1778008173.9545217
-        ],
-        [
-          0,
-          1778008173.9545217
-        ],
         [
           2,
-          1778172037.6439297
-        ],
-        [
-          1,
-          1778275928.919374
-        ],
-        [
-          0,
-          1778275928.919374
-        ],
-        [
-          1,
-          1778460922.9328065
-        ],
-        [
-          0,
-          1778460922.9328065
-        ],
-        [
-          5,
-          1778888482.19971
-        ],
-        [
-          4,
-          1779026187.1090062
-        ],
-        [
-          5,
-          1779153273.3530917
-        ],
-        [
-          3,
-          1779388871.7754838
+          1780196598.295031
         ]
       ],
-      "first_date": 1765871421.5386524,
+      "first_date": 1772331617.7790012,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5636,11 +5296,11 @@
       },
       "language": "Japanese",
       "price": 52.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! OVP -Sealed",
-      "date": 1779461250.701496,
-      "ended": false,
+      "comment": "OVP -Sealed",
+      "date": 1779701332.528271,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5688,34 +5348,13 @@
         [
           0,
           1779302862.9070425
+        ],
+        [
+          1,
+          1779701332.528271
         ]
       ],
       "first_date": 1775668230.9434607,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "franmi9",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 52.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772331617.7790012,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5760,7 +5399,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5899,6 +5538,260 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "JunksPlayGround",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 53.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.99,
+          1765871421.5386524
+        ],
+        [
+          43.99,
+          1770038725.963896
+        ],
+        [
+          47.45,
+          1770747817.573804
+        ],
+        [
+          44.99,
+          1771234080.2762294
+        ],
+        [
+          46.99,
+          1776965443.4772713
+        ],
+        [
+          48.99,
+          1778460922.9328065
+        ],
+        [
+          51.45,
+          1779153273.3530917
+        ],
+        [
+          51.89,
+          1779864288.571628
+        ]
+      ],
+      "previous_quantities": [
+        [
+          7,
+          1777630544.6422207
+        ],
+        [
+          0,
+          1777630544.6422207
+        ],
+        [
+          1,
+          1778008173.9545217
+        ],
+        [
+          0,
+          1778008173.9545217
+        ],
+        [
+          2,
+          1778172037.6439297
+        ],
+        [
+          1,
+          1778275928.919374
+        ],
+        [
+          0,
+          1778275928.919374
+        ],
+        [
+          1,
+          1778460922.9328065
+        ],
+        [
+          0,
+          1778460922.9328065
+        ],
+        [
+          5,
+          1778888482.19971
+        ],
+        [
+          4,
+          1779026187.1090062
+        ],
+        [
+          5,
+          1779153273.3530917
+        ],
+        [
+          3,
+          1779388871.7754838
+        ],
+        [
+          4,
+          1779531119.977325
+        ],
+        [
+          1,
+          1779609195.6994867
+        ],
+        [
+          2,
+          1779864288.571628
+        ],
+        [
+          0,
+          1779864288.571628
+        ]
+      ],
+      "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "PokeStebi",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 53.99,
+      "quantity": 23,
+      "condition": "NM",
+      "comment": "20 = sealed case!  incl vat/mwst Fixed price. no inquiries!",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          41.9,
+          1769939255.2757795
+        ],
+        [
+          42.9,
+          1770323185.172756
+        ],
+        [
+          45.99,
+          1771506163.3761716
+        ],
+        [
+          44.4,
+          1772417123.67275
+        ],
+        [
+          43.95,
+          1772693842.1860268
+        ],
+        [
+          42.95,
+          1772742900.8517475
+        ],
+        [
+          42.8,
+          1773270283.740788
+        ],
+        [
+          43.8,
+          1774636504.7340982
+        ],
+        [
+          44.9,
+          1775109112.6212645
+        ],
+        [
+          42.45,
+          1775573867.8584423
+        ],
+        [
+          42.4,
+          1775668230.9434607
+        ],
+        [
+          46.99,
+          1776668615.93478
+        ],
+        [
+          48.8,
+          1776965443.4772713
+        ],
+        [
+          46.99,
+          1777271190.7393737
+        ],
+        [
+          47.7,
+          1777383846.8326037
+        ],
+        [
+          46.99,
+          1777630544.6422207
+        ],
+        [
+          48.85,
+          1778460922.9328065
+        ],
+        [
+          48.95,
+          1778595775.7049026
+        ],
+        [
+          51.99,
+          1778810489.4702606
+        ],
+        [
+          51.39,
+          1780079428.5952628
+        ]
+      ],
+      "previous_quantities": [
+        [
+          24,
+          1777927125.3440921
+        ],
+        [
+          19,
+          1778008173.9545217
+        ],
+        [
+          24,
+          1779302862.9070425
+        ],
+        [
+          23,
+          1780001755.5923932
+        ],
+        [
+          21,
+          1780289986.6569898
+        ]
+      ],
+      "first_date": 1768771143.9462914,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "Ecclesia-II",
         "country": "Item location: Italy"
       },
@@ -5934,85 +5827,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "parkage",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 54.0,
-      "quantity": 6,
-      "condition": "NM",
-      "comment": "#1084611",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          47.0,
-          1765871421.5386524
-        ],
-        [
-          44.0,
-          1767728624.5246358
-        ],
-        [
-          40.0,
-          1768160457.0423372
-        ],
-        [
-          54.0,
-          1770038725.963896
-        ],
-        [
-          60.0,
-          1778810489.4702606
-        ]
-      ],
-      "previous_quantities": [
-        [
-          20,
-          1777540082.631099
-        ],
-        [
-          16,
-          1777791222.508168
-        ],
-        [
-          15,
-          1778275928.919374
-        ],
-        [
-          13,
-          1778460922.9328065
-        ],
-        [
-          0,
-          1778460922.9328065
-        ],
-        [
-          12,
-          1778888482.19971
-        ],
-        [
-          8,
-          1779153273.3530917
-        ],
-        [
-          5,
-          1779388871.7754838
-        ]
-      ],
-      "first_date": 1765871421.5386524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6076,15 +5890,296 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 54.88,
+      "quantity": 7,
+      "condition": "NM",
+      "comment": "OVP - SEALED",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          41.67,
+          1769617973.9465718
+        ],
+        [
+          42.38,
+          1769762770.1169071
+        ],
+        [
+          47.43,
+          1770229434.3955698
+        ],
+        [
+          49.98,
+          1771506163.3761716
+        ],
+        [
+          44.93,
+          1771908773.8035636
+        ],
+        [
+          49.98,
+          1773834808.9900007
+        ],
+        [
+          43.38,
+          1774636504.7340982
+        ],
+        [
+          44.99,
+          1775109112.6212645
+        ],
+        [
+          51.44,
+          1778888482.19971
+        ],
+        [
+          51.88,
+          1780001755.5923932
+        ]
+      ],
+      "previous_quantities": [
+        [
+          11,
+          1778460922.9328065
+        ],
+        [
+          10,
+          1779701332.528271
+        ],
+        [
+          6,
+          1779784747.3028219
+        ],
+        [
+          7,
+          1779864288.571628
+        ],
+        [
+          6,
+          1780001755.5923932
+        ]
+      ],
+      "first_date": 1769585214.279538,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "CardsCloud",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 54.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP/Sealed",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          39.9,
+          1767384793.9301376
+        ],
+        [
+          44.9,
+          1767728624.5246358
+        ],
+        [
+          39.0,
+          1769675521.2726276
+        ],
+        [
+          49.9,
+          1780079428.5952628
+        ],
+        [
+          55.9,
+          1780196598.295031
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1777927125.3440921
+        ],
+        [
+          0,
+          1777927125.3440921
+        ],
+        [
+          2,
+          1780079428.5952628
+        ]
+      ],
+      "first_date": 1765786090.2002542,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "Play-Maniac",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 54.99,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "OVP Sealed",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          44.99,
+          1772742900.8517475
+        ],
+        [
+          42.69,
+          1773360415.9611678
+        ],
+        [
+          44.99,
+          1775813684.6900935
+        ],
+        [
+          48.99,
+          1776965443.4772713
+        ],
+        [
+          47.99,
+          1777271190.7393737
+        ],
+        [
+          46.99,
+          1777630544.6422207
+        ],
+        [
+          48.99,
+          1778460922.9328065
+        ],
+        [
+          52.99,
+          1779026187.1090062
+        ],
+        [
+          48.99,
+          1779153273.3530917
+        ],
+        [
+          49.99,
+          1780001755.5923932
+        ]
+      ],
+      "previous_quantities": [
+        [
+          23,
+          1777383846.8326037
+        ],
+        [
+          26,
+          1777472592.8720582
+        ],
+        [
+          23,
+          1777540082.631099
+        ],
+        [
+          22,
+          1777791222.508168
+        ],
+        [
+          13,
+          1777927125.3440921
+        ],
+        [
+          18,
+          1778008173.9545217
+        ],
+        [
+          15,
+          1778104046.4503937
+        ],
+        [
+          16,
+          1778374754.8936455
+        ],
+        [
+          15,
+          1778460922.9328065
+        ],
+        [
+          16,
+          1779026187.1090062
+        ],
+        [
+          8,
+          1779153273.3530917
+        ],
+        [
+          3,
+          1779302862.9070425
+        ],
+        [
+          2,
+          1779388871.7754838
+        ],
+        [
+          0,
+          1779388871.7754838
+        ],
+        [
+          3,
+          1779864288.571628
+        ],
+        [
+          2,
+          1780001755.5923932
+        ],
+        [
+          0,
+          1780001755.5923932
+        ]
+      ],
+      "first_date": 1770323185.172756,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "Kokoro-Cardshop",
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 54.99,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "fresh from Case :)",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6113,9 +6208,60 @@
         [
           0,
           1778008173.9545217
+        ],
+        [
+          2,
+          1780001755.5923932
         ]
       ],
       "first_date": 1767728624.5246358,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "Oerben",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 54.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "3 in stock",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.99,
+          1779784747.3028219
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1778275928.919374
+        ],
+        [
+          1,
+          1778374754.8936455
+        ],
+        [
+          2,
+          1779531119.977325
+        ],
+        [
+          1,
+          1779609195.6994867
+        ]
+      ],
+      "first_date": 1774636504.7340982,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6135,7 +6281,7 @@
       "quantity": 19,
       "condition": "NM",
       "comment": "OVP. Sealed. inkl. Tax. B2B possible",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6217,16 +6363,80 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "MarineSwiss",
-        "country": "Item location: Switzerland"
+        "name": "Dimash",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          51.0,
+          1779864288.571628
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779701332.528271,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "AllRareCards",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 55.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
+      "comment": "Contattami per entrare nella mia community. Box e Case Jap e Cinesi a prezzi scontati in preorder",
+      "date": 1780366560.592626,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779302862.9070425
+        ],
+        [
+          0,
+          1779302862.9070425
+        ]
+      ],
+      "first_date": 1778374754.8936455,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "MarineSwiss",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1779864288.571628,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6254,39 +6464,13 @@
         [
           2,
           1778172037.6439297
+        ],
+        [
+          1,
+          1779864288.571628
         ]
       ],
       "first_date": 1775450762.716568,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "AllRareCards",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 55.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Contattami per entrare nella mia community. Box e Case Jap e Cinesi a prezzi scontati in preorder",
-      "date": 1779302862.9070425,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779302862.9070425
-        ]
-      ],
-      "first_date": 1778374754.8936455,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6485,7 +6669,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6519,7 +6703,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6559,11 +6743,11 @@
       },
       "language": "Japanese",
       "price": 57.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1780079428.5952628,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6579,6 +6763,18 @@
         [
           4,
           1779153273.3530917
+        ],
+        [
+          3,
+          1779784747.3028219
+        ],
+        [
+          2,
+          1779864288.571628
+        ],
+        [
+          1,
+          1780079428.5952628
         ]
       ],
       "first_date": 1771639665.7673244,
@@ -6601,7 +6797,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6678,7 +6874,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6712,11 +6908,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 59.54,
+      "price": 59.58,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6735,9 +6931,50 @@
         [
           59.51,
           1779388871.7754838
+        ],
+        [
+          59.54,
+          1779461250.701496
+        ],
+        [
+          59.6,
+          1779609195.6994867
+        ],
+        [
+          59.72,
+          1779784747.3028219
+        ],
+        [
+          59.54,
+          1779864288.571628
+        ],
+        [
+          59.46,
+          1780001755.5923932
+        ],
+        [
+          59.42,
+          1780079428.5952628
+        ],
+        [
+          59.43,
+          1780196598.295031
+        ],
+        [
+          59.46,
+          1780289986.6569898
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1779609195.6994867
+        ],
+        [
+          0,
+          1779609195.6994867
+        ]
+      ],
       "first_date": 1779026187.1090062,
       "last_date": 0.0,
       "price_is_new": true,
@@ -6758,7 +6995,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "8pcs. Nearmint. SEALED original. Better price and shipping cost rates on demand. Flawless condition",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6783,7 +7020,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6846,65 +7083,6 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "wonderwallshopstore",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 59.9,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "Consegna 24/48 ore",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          34.9,
-          1767384793.9301376
-        ],
-        [
-          50.9,
-          1770038725.963896
-        ],
-        [
-          49.9,
-          1772742900.8517475
-        ],
-        [
-          48.9,
-          1776575864.4126117
-        ]
-      ],
-      "previous_quantities": [
-        [
-          10,
-          1777927125.3440921
-        ],
-        [
-          9,
-          1778374754.8936455
-        ],
-        [
-          6,
-          1778460922.9328065
-        ],
-        [
-          7,
-          1779388871.7754838
-        ]
-      ],
-      "first_date": 1765786090.2002542,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
         "name": "EdicolaDelSole89",
         "country": "Item location: Italy"
       },
@@ -6913,7 +7091,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6930,41 +7108,16 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "Rustuig",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 59.95,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "OVP Sealed. more available",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779388871.7754838,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
         "name": "KameHouseCards",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 59.95,
-      "quantity": 0,
+      "quantity": 4,
       "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1778810489.4702606,
-      "ended": true,
+      "comment": "Ovp Sealed",
+      "date": 1780366560.592626,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -7016,12 +7169,24 @@
         [
           2,
           1778810489.4702606
+        ],
+        [
+          0,
+          1778810489.4702606
+        ],
+        [
+          4,
+          1780196598.295031
+        ],
+        [
+          3,
+          1780289986.6569898
         ]
       ],
       "first_date": 1765871421.5386524,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7030,169 +7195,20 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "TCG-entertainment",
-        "country": "Item location: Germany"
+        "name": "Rustuig",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 59.99,
+      "price": 59.95,
       "quantity": 2,
       "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
+      "comment": "OVP Sealed. more available",
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          4,
-          1777383846.8326037
-        ],
-        [
-          3,
-          1777472592.8720582
-        ],
-        [
-          4,
-          1778810489.4702606
-        ],
-        [
-          2,
-          1778888482.19971
-        ],
-        [
-          3,
-          1779026187.1090062
-        ]
-      ],
-      "first_date": 1765871421.5386524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Najada-Games",
-        "country": "Item location: Czech Republic"
-      },
-      "language": "Japanese",
-      "price": 59.99,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          7,
-          1777383846.8326037
-        ],
-        [
-          6,
-          1777630544.6422207
-        ],
-        [
-          5,
-          1778810489.4702606
-        ],
-        [
-          4,
-          1779153273.3530917
-        ]
-      ],
-      "first_date": 1765871421.5386524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Sapphire-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 59.99,
-      "quantity": 8,
-      "condition": "NM",
-      "comment": "OVP - SEALED",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          32.94,
-          1766081274.7273226
-        ],
-        [
-          34.99,
-          1767092007.3758411
-        ],
-        [
-          34.98,
-          1767384793.9301376
-        ],
-        [
-          37.48,
-          1767728624.5246358
-        ],
-        [
-          42.68,
-          1768160457.0423372
-        ],
-        [
-          41.76,
-          1768771143.9462914
-        ],
-        [
-          41.72,
-          1769091339.5521944
-        ],
-        [
-          41.7,
-          1769154447.2795928
-        ],
-        [
-          41.09,
-          1769279177.2161627
-        ],
-        [
-          41.07,
-          1769675521.2726276
-        ],
-        [
-          40.92,
-          1769762770.1169071
-        ],
-        [
-          41.08,
-          1769939255.2757795
-        ],
-        [
-          42.39,
-          1770038725.963896
-        ],
-        [
-          47.43,
-          1770323185.172756
-        ],
-        [
-          49.98,
-          1770747817.573804
-        ]
-      ],
       "previous_quantities": [],
-      "first_date": 1765786090.2002542,
+      "first_date": 1779388871.7754838,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7209,10 +7225,10 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 268,
+      "quantity": 251,
       "condition": "NM",
-      "comment": "FREE SHIPPING in the European Union for purchases above 500 euros!",
-      "date": 1779461250.701496,
+      "comment": "FREE SHIPPING in the European Union for purchases above 300 euros!",
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7239,6 +7255,22 @@
         [
           52.99,
           1778888482.19971
+        ],
+        [
+          59.99,
+          1779531119.977325
+        ],
+        [
+          54.99,
+          1779701332.528271
+        ],
+        [
+          59.99,
+          1779784747.3028219
+        ],
+        [
+          54.99,
+          1779864288.571628
         ]
       ],
       "previous_quantities": [
@@ -7277,39 +7309,33 @@
         [
           270,
           1778888482.19971
+        ],
+        [
+          268,
+          1779531119.977325
+        ],
+        [
+          263,
+          1779609195.6994867
+        ],
+        [
+          260,
+          1779701332.528271
+        ],
+        [
+          259,
+          1779784747.3028219
+        ],
+        [
+          1,
+          1779864288.571628
+        ],
+        [
+          258,
+          1780079428.5952628
         ]
       ],
       "first_date": 1765871421.5386524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "The Best Vol.2 Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
-      "seller": {
-        "name": "Yomiru",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 59.99,
-      "quantity": 12,
-      "condition": "NM",
-      "comment": "from a Sealed Case/ New / fast shipping",
-      "date": 1779461250.701496,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          39.99,
-          1769939255.2757795
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1765786090.2002542,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7329,7 +7355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New Seller!! Fast Shipping!!!",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7351,6 +7377,41 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "Yomiru",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "from a Sealed Case/ New / fast shipping",
+      "date": 1780289986.6569898,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          39.99,
+          1769939255.2757795
+        ]
+      ],
+      "previous_quantities": [
+        [
+          12,
+          1780289986.6569898
+        ]
+      ],
+      "first_date": 1765786090.2002542,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -12,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "ManaMarket",
         "country": "Item location: Austria"
       },
@@ -7358,8 +7419,8 @@
       "price": 59.99,
       "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! Cheap Shipping",
-      "date": 1778008173.9545217,
+      "comment": "RELISTED! FREE SHIPPING in the European Union for purchases above 300 euros!",
+      "date": 1779864288.571628,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -7380,9 +7441,133 @@
         [
           300,
           1778008173.9545217
+        ],
+        [
+          0,
+          1778008173.9545217
+        ],
+        [
+          259,
+          1779864288.571628
         ]
       ],
       "first_date": 1765786090.2002542,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "TCG-entertainment",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1779784747.3028219,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          4,
+          1777383846.8326037
+        ],
+        [
+          3,
+          1777472592.8720582
+        ],
+        [
+          4,
+          1778810489.4702606
+        ],
+        [
+          2,
+          1778888482.19971
+        ],
+        [
+          3,
+          1779026187.1090062
+        ],
+        [
+          2,
+          1779461250.701496
+        ],
+        [
+          0,
+          1779461250.701496
+        ],
+        [
+          2,
+          1779784747.3028219
+        ]
+      ],
+      "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "Najada-Games",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "Japanese",
+      "price": 59.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1779784747.3028219,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          7,
+          1777383846.8326037
+        ],
+        [
+          6,
+          1777630544.6422207
+        ],
+        [
+          5,
+          1778810489.4702606
+        ],
+        [
+          4,
+          1779153273.3530917
+        ],
+        [
+          3,
+          1779461250.701496
+        ],
+        [
+          1,
+          1779531119.977325
+        ],
+        [
+          0,
+          1779531119.977325
+        ],
+        [
+          3,
+          1779784747.3028219
+        ]
+      ],
+      "first_date": 1765871421.5386524,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7402,7 +7587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7427,7 +7612,7 @@
       "quantity": 20,
       "condition": "NM",
       "comment": "20=sealed case",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7452,7 +7637,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7487,7 +7672,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "14 avaible",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7597,7 +7782,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7631,12 +7816,102 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "For CHF. pm",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 62.18,
+      "quantity": 8,
+      "condition": "NM",
+      "comment": "OVP - SEALED",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          32.94,
+          1766081274.7273226
+        ],
+        [
+          34.99,
+          1767092007.3758411
+        ],
+        [
+          34.98,
+          1767384793.9301376
+        ],
+        [
+          37.48,
+          1767728624.5246358
+        ],
+        [
+          42.68,
+          1768160457.0423372
+        ],
+        [
+          41.76,
+          1768771143.9462914
+        ],
+        [
+          41.72,
+          1769091339.5521944
+        ],
+        [
+          41.7,
+          1769154447.2795928
+        ],
+        [
+          41.09,
+          1769279177.2161627
+        ],
+        [
+          41.07,
+          1769675521.2726276
+        ],
+        [
+          40.92,
+          1769762770.1169071
+        ],
+        [
+          41.08,
+          1769939255.2757795
+        ],
+        [
+          42.39,
+          1770038725.963896
+        ],
+        [
+          47.43,
+          1770323185.172756
+        ],
+        [
+          49.98,
+          1770747817.573804
+        ],
+        [
+          59.99,
+          1780001755.5923932
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1765786090.2002542,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7656,7 +7931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7687,10 +7962,10 @@
       },
       "language": "Japanese",
       "price": 64.9,
-      "quantity": 7,
+      "quantity": 5,
       "condition": "NM",
       "comment": "SHOP SUNNYSTORE",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7723,6 +7998,10 @@
         [
           6,
           1778008173.9545217
+        ],
+        [
+          7,
+          1779701332.528271
         ]
       ],
       "first_date": 1765786090.2002542,
@@ -7745,7 +8024,7 @@
       "quantity": 60,
       "condition": "NM",
       "comment": "OVP Sealed TCG Shop Moers",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7762,16 +8041,46 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "Santiarraz",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 64.95,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          69.95,
+          1780196598.295031
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779864288.571628,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "Zaptoys",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 64.95,
-      "quantity": 7,
+      "quantity": 0,
       "condition": "NM",
       "comment": "new and factory sealed",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779864288.571628,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7811,6 +8120,14 @@
         [
           13,
           1779153273.3530917
+        ],
+        [
+          7,
+          1779461250.701496
+        ],
+        [
+          6,
+          1779864288.571628
         ]
       ],
       "first_date": 1765871421.5386524,
@@ -7830,11 +8147,11 @@
       },
       "language": "Japanese",
       "price": 64.99,
-      "quantity": 20,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed - B2B possible",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779864288.571628,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7854,6 +8171,10 @@
         [
           0,
           1778104046.4503937
+        ],
+        [
+          20,
+          1779864288.571628
         ]
       ],
       "first_date": 1765871421.5386524,
@@ -7868,29 +8189,137 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
-        "name": "EasyTcg",
-        "country": "Item location: Italy"
+        "name": "parkage",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 65.0,
-      "quantity": 39,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "Nuovo/Sigillato/sealed",
-      "date": 1779461250.701496,
+      "comment": "#1084611",
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          49.0,
+          47.0,
           1765871421.5386524
         ],
         [
-          59.0,
-          1769340069.482513
+          44.0,
+          1767728624.5246358
+        ],
+        [
+          40.0,
+          1768160457.0423372
+        ],
+        [
+          54.0,
+          1770038725.963896
+        ],
+        [
+          60.0,
+          1778810489.4702606
+        ],
+        [
+          54.0,
+          1779609195.6994867
+        ],
+        [
+          60.0,
+          1779784747.3028219
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          20,
+          1777540082.631099
+        ],
+        [
+          16,
+          1777791222.508168
+        ],
+        [
+          15,
+          1778275928.919374
+        ],
+        [
+          13,
+          1778460922.9328065
+        ],
+        [
+          0,
+          1778460922.9328065
+        ],
+        [
+          12,
+          1778888482.19971
+        ],
+        [
+          8,
+          1779153273.3530917
+        ],
+        [
+          5,
+          1779388871.7754838
+        ],
+        [
+          6,
+          1779531119.977325
+        ],
+        [
+          5,
+          1779609195.6994867
+        ],
+        [
+          4,
+          1779784747.3028219
+        ]
+      ],
       "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "BiridamaTCG",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 65.0,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          38.0,
+          1766081274.7273226
+        ],
+        [
+          47.79,
+          1769340069.482513
+        ],
+        [
+          51.0,
+          1769675521.2726276
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1769675521.2726276
+        ]
+      ],
+      "first_date": 1765786090.2002542,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7907,11 +8336,11 @@
       },
       "language": "Japanese",
       "price": 65.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1780001755.5923932,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7931,12 +8360,59 @@
         [
           1,
           1779388871.7754838
+        ],
+        [
+          2,
+          1779531119.977325
+        ],
+        [
+          1,
+          1780001755.5923932
         ]
       ],
       "first_date": 1770747817.573804,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
+        "name": "EasyTcg",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 65.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Nuovo/Sigillato/sealed",
+      "date": 1779864288.571628,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          49.0,
+          1765871421.5386524
+        ],
+        [
+          59.0,
+          1769340069.482513
+        ]
+      ],
+      "previous_quantities": [
+        [
+          39,
+          1779864288.571628
+        ]
+      ],
+      "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7955,7 +8431,7 @@
       "comment": "",
       "date": 1779388871.7754838,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7966,7 +8442,7 @@
       "first_date": 1776965443.4772713,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7983,7 +8459,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8034,6 +8510,89 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "wonderwallshopstore",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 69.9,
+      "quantity": 11,
+      "condition": "NM",
+      "comment": "Consegna 24/48 ore",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          34.9,
+          1767384793.9301376
+        ],
+        [
+          50.9,
+          1770038725.963896
+        ],
+        [
+          49.9,
+          1772742900.8517475
+        ],
+        [
+          48.9,
+          1776575864.4126117
+        ],
+        [
+          59.9,
+          1779701332.528271
+        ],
+        [
+          64.9,
+          1779784747.3028219
+        ],
+        [
+          59.9,
+          1780079428.5952628
+        ]
+      ],
+      "previous_quantities": [
+        [
+          10,
+          1777927125.3440921
+        ],
+        [
+          9,
+          1778374754.8936455
+        ],
+        [
+          6,
+          1778460922.9328065
+        ],
+        [
+          7,
+          1779388871.7754838
+        ],
+        [
+          5,
+          1779701332.528271
+        ],
+        [
+          3,
+          1779784747.3028219
+        ],
+        [
+          2,
+          1780079428.5952628
+        ]
+      ],
+      "first_date": 1765786090.2002542,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "TempoeSpazio",
         "country": "Item location: Italy"
       },
@@ -8042,7 +8601,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed. Fast Shipping",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8055,7 +8614,7 @@
       "first_date": 1773690163.784416,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8145,7 +8704,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8287,11 +8846,20 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          7,
+          1779701332.528271
+        ],
+        [
+          0,
+          1779701332.528271
+        ]
+      ],
       "first_date": 1779026187.1090062,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8339,11 +8907,11 @@
       },
       "language": "Japanese",
       "price": 84.99,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed / Abholung möglich 3062",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779531119.977325,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8367,6 +8935,10 @@
         [
           0,
           1777791222.508168
+        ],
+        [
+          4,
+          1779531119.977325
         ]
       ],
       "first_date": 1769585214.279538,
@@ -8386,14 +8958,19 @@
       },
       "language": "Japanese",
       "price": 89.68,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP & Sealed",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779864288.571628,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779864288.571628
+        ]
+      ],
       "first_date": 1776965443.4772713,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8466,6 +9043,41 @@
       "card": "The Best Vol.2 Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
       "seller": {
+        "name": "Niediii",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP & Sealed",
+      "date": 1780366560.592626,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          50.0,
+          1768160457.0423372
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1768160457.0423372
+        ]
+      ],
+      "first_date": 1765871421.5386524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "The Best Vol.2 Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_The-Best-Vol2-Booster-Box-Non-English",
+      "seller": {
         "name": "Melaniekrs",
         "country": "Item location: Germany"
       },
@@ -8499,7 +9111,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Display",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8636,11 +9248,11 @@
       },
       "language": "Japanese",
       "price": 899.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed case",
-      "date": 1779461250.701496,
-      "ended": false,
+      "date": 1779609195.6994867,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -8651,6 +9263,10 @@
         [
           0,
           1778104046.4503937
+        ],
+        [
+          1,
+          1779609195.6994867
         ]
       ],
       "first_date": 1771639665.7673244,
@@ -8724,7 +9340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Case",
-      "date": 1779461250.701496,
+      "date": 1780366560.592626,
       "ended": false,
       "new": false,
       "previous_prices": [],

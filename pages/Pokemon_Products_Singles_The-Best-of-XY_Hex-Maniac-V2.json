@@ -11,7 +11,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -158,11 +158,11 @@
       },
       "language": "Korean",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779420088.3866074,
-      "ended": false,
+      "date": 1779738278.2869859,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -174,7 +174,12 @@
           1774525815.0535047
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779738278.2869859
+        ]
+      ],
       "first_date": 1772829081.3020964,
       "last_date": 0.0,
       "price_is_new": false,
@@ -229,7 +234,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.0]",
-      "date": 1779420088.3866074,
+      "date": 1780319529.7776017,
       "ended": false,
       "new": false,
       "previous_prices": [

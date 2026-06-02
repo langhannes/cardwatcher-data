@@ -9,8 +9,8 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 12,
-  "sold": 3,
+  "available": 3,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -252,11 +252,11 @@
       },
       "language": "S-Chinese",
       "price": 120.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779759062.9228814,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -264,7 +264,16 @@
           1771847080.8575873
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1779443528.2423592
+        ],
+        [
+          1,
+          1779759062.9228814
+        ]
+      ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
       "price_is_new": false,
@@ -780,14 +789,19 @@
       },
       "language": "Japanese",
       "price": 195.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779587812.16861,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779587812.16861
+        ]
+      ],
       "first_date": 1779370408.3773558,
       "last_date": 0.0,
       "price_is_new": false,
@@ -805,11 +819,11 @@
       },
       "language": "Japanese",
       "price": 199.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ask for photos",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779961936.6216588,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -821,6 +835,10 @@
         [
           0,
           1776074881.8689542
+        ],
+        [
+          1,
+          1779961936.6216588
         ]
       ],
       "first_date": 1773046284.3719928,
@@ -840,11 +858,11 @@
       },
       "language": "Japanese",
       "price": 199.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779679161.4183345,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -880,6 +898,10 @@
         [
           0,
           1778794055.1755638
+        ],
+        [
+          1,
+          1779679161.4183345
         ]
       ],
       "first_date": 1774215703.6073077,
@@ -894,20 +916,46 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "RiceCards",
+        "name": "hamanito",
         "country": "Item location: Germany"
       },
-      "language": "S-Chinese",
-      "price": 199.99,
-      "quantity": 1,
+      "language": "Japanese",
+      "price": 199.98,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Top Condition & Fast Shipping",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "comment": "for YOU in business since 2021 <3",
+      "date": 1779587812.16861,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772459938.4825914,
+      "previous_prices": [
+        [
+          224.94,
+          1772297507.6337495
+        ],
+        [
+          200.0,
+          1779443528.2423592
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1777212911.7986095
+        ],
+        [
+          1,
+          1778719259.6661413
+        ],
+        [
+          0,
+          1778719259.6661413
+        ],
+        [
+          1,
+          1779587812.16861
+        ]
+      ],
+      "first_date": 1771235728.82653,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -927,20 +975,28 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779370408.3773558,
+      "date": 1779838599.2731655,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1779370408.3773558
+        ],
+        [
+          0,
+          1779370408.3773558
+        ],
+        [
+          1,
+          1779838599.2731655
         ]
       ],
       "first_date": 1778872034.0072346,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1004,38 +1060,20 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "hamanito",
-        "country": "Item location: Germany"
+        "name": "giovic99",
+        "country": "Item location: Italy"
       },
-      "language": "Japanese",
+      "language": "S-Chinese",
       "price": 200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "for YOU in business since 2021 <3",
-      "date": 1779443528.2423592,
+      "comment": "",
+      "date": 1780340325.166694,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          224.94,
-          1772297507.6337495
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1777212911.7986095
-        ],
-        [
-          1,
-          1778719259.6661413
-        ],
-        [
-          0,
-          1778719259.6661413
-        ]
-      ],
-      "first_date": 1771235728.82653,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779838599.2731655,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1057,7 +1095,7 @@
       "comment": "Sleeve -> Toploader / For Pictures just write me :)",
       "date": 1779370408.3773558,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1068,7 +1106,7 @@
       "first_date": 1778086586.0183306,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1406,11 +1444,11 @@
       },
       "language": "Japanese",
       "price": 229.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Check Picture - Sleeved - Toploader - Fast Secured Shipping - 1",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779759062.9228814,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1454,11 +1492,15 @@
         [
           0,
           1778578432.8313417
+        ],
+        [
+          1,
+          1779759062.9228814
         ]
       ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1473,14 +1515,19 @@
       },
       "language": "Japanese",
       "price": 239.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1780053247.697743,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780053247.697743
+        ]
+      ],
       "first_date": 1771235728.82653,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1533,7 +1580,7 @@
       "comment": "",
       "date": 1779370408.3773558,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           209.0,
@@ -1549,7 +1596,37 @@
       "first_date": 1771235728.82653,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "RiceCards",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 249.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Top Condition & Fast Shipping",
+      "date": 1780340325.166694,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.99,
+          1780170396.1903563
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1772459938.4825914,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1601,14 +1678,19 @@
       },
       "language": "Japanese",
       "price": 260.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779961936.6216588,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779961936.6216588
+        ]
+      ],
       "first_date": 1772810920.233397,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1626,14 +1708,19 @@
       },
       "language": "Japanese",
       "price": 299.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "CGS 10",
-      "date": 1779443528.2423592,
-      "ended": false,
+      "date": 1779759062.9228814,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779759062.9228814
+        ]
+      ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1739,7 +1826,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1779443528.2423592,
+      "date": 1780340325.166694,
       "ended": false,
       "new": false,
       "previous_prices": [],

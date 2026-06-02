@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -276,11 +276,11 @@
       },
       "language": "Korean",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for Photos",
-      "date": 1779459577.1634421,
-      "ended": false,
+      "date": 1779999405.4975593,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -288,7 +288,12 @@
           1779024346.135486
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779999405.4975593
+        ]
+      ],
       "first_date": 1777469297.0703378,
       "last_date": 0.0,
       "price_is_new": false,
@@ -824,7 +829,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1779459577.1634421,
+      "date": 1780364209.2706525,
       "ended": false,
       "new": false,
       "previous_prices": [],

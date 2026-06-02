@@ -11,7 +11,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -184,16 +184,50 @@
       "card": "Shaymin EX  (BXY 188)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Shaymin-EX-V2-BXY188",
       "seller": {
+        "name": "BackSlash",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 416.2,
+      "quantity": 1,
+      "condition": "PO",
+      "comment": "",
+      "date": 1780305799.362966,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          415.92,
+          1780096154.8031845
+        ],
+        [
+          415.98,
+          1780229273.2508612
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780096154.8031845,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shaymin EX  (BXY 188)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Shaymin-EX-V2-BXY188",
+      "seller": {
         "name": "Pokethiais",
         "country": "Item location: France"
       },
       "language": "Korean",
       "price": 689.89,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 (Yveltal PSA 10 JAP 1289.89)",
-      "date": 1779477203.8543918,
-      "ended": false,
+      "date": 1779549745.1481042,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -201,7 +235,12 @@
           1775894648.311079
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779549745.1481042
+        ]
+      ],
       "first_date": 1775766954.4643085,
       "last_date": 0.0,
       "price_is_new": false,
@@ -294,6 +333,31 @@
       "card": "Shaymin EX  (BXY 188)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Shaymin-EX-V2-BXY188",
       "seller": {
+        "name": "kotkot21",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3750.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 dm for pics",
+      "date": 1780305799.362966,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779804062.6843975,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shaymin EX  (BXY 188)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Shaymin-EX-V2-BXY188",
+      "seller": {
         "name": "flo9710",
         "country": "Item location: Germany"
       },
@@ -302,7 +366,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping || PSA10 141570666 differenzbesteuert",
-      "date": 1779477203.8543918,
+      "date": 1780305799.362966,
       "ended": false,
       "new": false,
       "previous_prices": [],

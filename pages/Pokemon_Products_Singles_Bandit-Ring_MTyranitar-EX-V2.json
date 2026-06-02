@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 4,
-  "sold": 0,
+  "available": 2,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -58,18 +58,23 @@
       },
       "language": "Japanese",
       "price": 149.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779452813.4011953,
-      "ended": false,
-      "new": false,
+      "date": 1780277979.8238592,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780277979.8238592
+        ]
+      ],
       "first_date": 1778881982.8309803,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -83,14 +88,19 @@
       },
       "language": "Japanese",
       "price": 149.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pics! Mini whitening. so no PSA 10",
-      "date": 1779452813.4011953,
-      "ended": false,
+      "date": 1780184610.185978,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780184610.185978
+        ]
+      ],
       "first_date": 1778881982.8309803,
       "last_date": 0.0,
       "price_is_new": false,
@@ -108,14 +118,19 @@
       },
       "language": "Japanese",
       "price": 225.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1779452813.4011953,
-      "ended": false,
+      "date": 1779772765.6591728,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779772765.6591728
+        ]
+      ],
       "first_date": 1778881982.8309803,
       "last_date": 0.0,
       "price_is_new": false,
@@ -136,12 +151,37 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1779452813.4011953,
+      "date": 1780354567.1531174,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778881982.8309803,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MTyranitar EX  (XY7 090)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MTyranitar-EX-V2",
+      "seller": {
+        "name": "PokeChewe",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 675.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1780354567.1531174,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780184610.185978,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

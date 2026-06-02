@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 30,
+  "available": 29,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -1522,48 +1522,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1710312576.0473742,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Card Game Classic",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
-      "seller": {
-        "name": "GameCollect",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 409.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP Sealed in Carton / Inc. VAT",
-      "date": 1768160931.318946,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          384.0,
-          1.0
-        ],
-        [
-          375.0,
-          324.0
-        ],
-        [
-          369.0,
-          7871.9
-        ],
-        [
-          439.0,
-          1766529393.5788314
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1755774113.757516,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3300,11 +3258,11 @@
       },
       "language": "Japanese",
       "price": 689.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP sealed in shipping box",
-      "date": 1779429992.9211433,
-      "ended": false,
+      "date": 1779949450.83988,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3328,10 +3286,15 @@
           1779362920.2971115
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779949450.83988
+        ]
+      ],
       "first_date": 1755774113.757516,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3401,14 +3364,19 @@
       },
       "language": "Japanese",
       "price": 699.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP & Sealed in Originalkarton / Differenzbesteuert",
-      "date": 1779429992.9211433,
-      "ended": false,
+      "date": 1780118141.4883802,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780118141.4883802
+        ]
+      ],
       "first_date": 1777596957.0264072,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3460,14 +3428,19 @@
       },
       "language": "Japanese",
       "price": 700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1779429992.9211433,
-      "ended": false,
+      "date": 1780040810.6622665,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780040810.6622665
+        ]
+      ],
       "first_date": 1777297108.238395,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3527,6 +3500,57 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
+        "name": "GameCollect",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 734.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Sealed in Carton / Inc. VAT",
+      "date": 1780327852.353903,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          384.0,
+          1.0
+        ],
+        [
+          375.0,
+          324.0
+        ],
+        [
+          369.0,
+          7871.9
+        ],
+        [
+          439.0,
+          1766529393.5788314
+        ],
+        [
+          409.0,
+          1768160931.318946
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1768160931.318946
+        ]
+      ],
+      "first_date": 1755774113.757516,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Card Game Classic",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
+      "seller": {
         "name": "DubyDigital",
         "country": "Item location: Netherlands"
       },
@@ -3535,7 +3559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in original shipping box",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3573,7 +3597,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEW SEALED OVP Fabric carton unopened. Well secured",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3598,11 +3622,20 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "New & Sealed",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          10,
+          1780040810.6622665
+        ],
+        [
+          9,
+          1780118141.4883802
+        ]
+      ],
       "first_date": 1736842047.7910373,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3723,7 +3756,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. will be shipped in original shipping box",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3765,7 +3798,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed straight from Japan",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3795,7 +3828,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SELAED",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3850,7 +3883,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New-Sealed-Fast shipping",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3927,7 +3960,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3952,7 +3985,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Ask if want picture",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4002,7 +4035,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New in original box",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4027,7 +4060,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller - sealed - Daily shipping",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4061,7 +4094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New sealed",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4111,7 +4144,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed Sammlungsauflösung",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4141,7 +4174,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP seald",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4175,7 +4208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "inkl. 19% Mwst./VAT",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4250,7 +4283,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "molto altro disponibile",
-      "date": 1779429992.9211433,
+      "date": 1780327852.353903,
       "ended": false,
       "new": false,
       "previous_prices": [

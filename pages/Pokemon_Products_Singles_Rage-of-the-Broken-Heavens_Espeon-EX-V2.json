@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
+  "available": 8,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeved + Toploader / Ask for Pic",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -76,7 +76,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -101,7 +101,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -190,7 +190,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -212,11 +212,11 @@
       },
       "language": "Japanese",
       "price": 300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Look the photos",
-      "date": 1779456713.1819334,
-      "ended": false,
+      "date": 1779603809.8068426,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -224,7 +224,12 @@
           1778455470.4727087
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779603809.8068426
+        ]
+      ],
       "first_date": 1777222634.3559246,
       "last_date": 0.0,
       "price_is_new": false,
@@ -245,7 +250,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -330,7 +335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "M/NM",
-      "date": 1779456713.1819334,
+      "date": 1780360159.9452271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -366,6 +371,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1713038242.0041864,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Espeon EX  (XY9 084)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Espeon-EX-V2",
+      "seller": {
+        "name": "Trair",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 599.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BECKETT 8",
+      "date": 1780360159.9452271,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779525726.381002,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -457,31 +487,6 @@
       "card": "Psiana EX  (XY9 084)",
       "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Espeon-EX-V2",
       "seller": {
-        "name": "Giooo",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 1500.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Psa 10",
-      "date": 1730791303.292786,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1722945428.653052,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psiana EX  (XY9 084)",
-      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Espeon-EX-V2",
-      "seller": {
         "name": "PokeBrosCard",
         "country": "Item location: Italy"
       },
@@ -496,6 +501,41 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1730791303.292786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Espeon EX  (XY9 084)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Espeon-EX-V2",
+      "seller": {
+        "name": "Giooo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 2000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1780360159.9452271,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1500.0,
+          1730791303.292786
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1730791303.292786
+        ]
+      ],
+      "first_date": 1722945428.653052,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

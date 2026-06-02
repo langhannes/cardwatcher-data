@@ -10,9 +10,9 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 22,
-  "sold": 0,
-  "inserted": 2,
+  "available": 21,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -984,14 +984,19 @@
       },
       "language": "S-Chinese",
       "price": 1095.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 9.5 - Daily Shipping",
-      "date": 1779483279.263666,
-      "ended": false,
-      "new": true,
+      "date": 1779729044.6274154,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779729044.6274154
+        ]
+      ],
       "first_date": 1779483279.263666,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1039,11 +1044,11 @@
       },
       "language": "S-Chinese",
       "price": 1100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1779483279.263666,
-      "ended": false,
+      "date": 1779556723.6905715,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1063,6 +1068,10 @@
         [
           0,
           1777394924.8456204
+        ],
+        [
+          1,
+          1779556723.6905715
         ]
       ],
       "first_date": 1777190790.8609977,
@@ -1150,6 +1159,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1768771312.08737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Matt692",
+        "country": "Item location: Austria"
+      },
+      "language": "S-Chinese",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9.5",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780310303.6068664,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1289,6 +1323,49 @@
       "first_date": 1736841994.224236,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Weskebob",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 1295.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Strong BGS 9.5 | 9.5/10/9.5/10 | Daily Shipping",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1495.0,
+          1778484668.7467632
+        ],
+        [
+          1395.0,
+          1780233774.5553377
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778484668.7467632
+        ],
+        [
+          0,
+          1778484668.7467632
+        ]
+      ],
+      "first_date": 1777971316.0382166,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1601,16 +1678,41 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "Arvktcg",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 1400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "psa 10",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779729044.6274154,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "kaipotti",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 1400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779483279.263666,
-      "ended": false,
+      "date": 1780023362.5790184,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1634,7 +1736,12 @@
           1776628335.989033
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780023362.5790184
+        ]
+      ],
       "first_date": 1716204933.1652749,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1773,42 +1880,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778127893.3026583,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
-        "name": "Weskebob",
-        "country": "Item location: Netherlands"
-      },
-      "language": "S-Chinese",
-      "price": 1495.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Strong BGS 9.5 | Daily Shipping",
-      "date": 1778484668.7467632,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778484668.7467632
-        ]
-      ],
-      "first_date": 1777971316.0382166,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1853,7 +1930,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Beckett 10  9.5/10/10/10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2168,7 +2245,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9.5",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2239,57 +2316,28 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "Yeezox",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1700.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Livraison le jour même et bon emballage",
-      "date": 1779483279.263666,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1500.0,
-          1773702760.641134
-        ],
-        [
-          1300.0,
-          1779050318.6727552
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1771355171.8834739,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
         "name": "jumpingpoint",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "old cgc 9.5 - reslab CGC 10 - pm",
-      "date": 1779483279.263666,
-      "ended": false,
-      "new": false,
+      "date": 1780233774.5553377,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780233774.5553377
+        ]
+      ],
       "first_date": 1771442741.8895247,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2486,7 +2534,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2495,51 +2543,17 @@
           1772114199.9576423
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1764930625.1027179,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
-        "name": "Nghoang94",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1750.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA10",
-      "date": 1778127893.3026583,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1800.0,
-          1772285966.6511467
-        ],
-        [
-          1650.0,
-          1775769274.0129898
-        ]
-      ],
       "previous_quantities": [
         [
-          0,
-          1777282217.6789882
+          1,
+          1779729044.6274154
         ],
         [
-          1,
-          1778127893.3026583
+          0,
+          1779729044.6274154
         ]
       ],
-      "first_date": 1770836778.401532,
+      "first_date": 1764930625.1027179,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2853,6 +2867,44 @@
       ],
       "previous_quantities": [],
       "first_date": 1765807549.0169878,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Yeezox",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1850.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Livraison le jour même et bon emballage",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1500.0,
+          1773702760.641134
+        ],
+        [
+          1300.0,
+          1779050318.6727552
+        ],
+        [
+          1700.0,
+          1779556723.6905715
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771355171.8834739,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3631,37 +3683,76 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "SmokisColosseum",
+        "name": "Donbaron77",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 2750.0,
-      "quantity": 1,
+      "price": 2600.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "check out my other stuff",
-      "date": 1779483279.263666,
-      "ended": false,
+      "comment": "PSA 10",
+      "date": 1779808567.7342472,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1777584921.3935003
+          1779808567.7342472
+        ]
+      ],
+      "first_date": 1779808567.7342472,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Nghoang94",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1800.0,
+          1772285966.6511467
         ],
         [
+          1650.0,
+          1775769274.0129898
+        ],
+        [
+          1750.0,
+          1778127893.3026583
+        ]
+      ],
+      "previous_quantities": [
+        [
           0,
-          1777584921.3935003
+          1777282217.6789882
         ],
         [
           1,
-          1778398504.1286745
+          1778127893.3026583
         ],
         [
           0,
-          1778398504.1286745
+          1778127893.3026583
         ]
       ],
-      "first_date": 1774573400.5865781,
+      "first_date": 1770836778.401532,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3719,7 +3810,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3844,6 +3935,53 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "SmokisColosseum",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "check out my other stuff",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2750.0,
+          1779636902.291575
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777584921.3935003
+        ],
+        [
+          0,
+          1777584921.3935003
+        ],
+        [
+          1,
+          1778398504.1286745
+        ],
+        [
+          0,
+          1778398504.1286745
+        ]
+      ],
+      "first_date": 1774573400.5865781,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "MarcoMarcetti",
         "country": "Item location: Germany"
       },
@@ -3852,7 +3990,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3882,7 +4020,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3912,7 +4050,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3990,7 +4128,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4084,7 +4222,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4724,11 +4862,11 @@
       },
       "language": "English",
       "price": 13619.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Open for offers - Will be at  UK agames Expo - PSA 10 - Shipping from CH possible",
-      "date": 1779483279.263666,
-      "ended": false,
+      "date": 1779729044.6274154,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4752,6 +4890,10 @@
         [
           0,
           1776342042.346536
+        ],
+        [
+          1,
+          1779729044.6274154
         ]
       ],
       "first_date": 1761774289.5132284,
@@ -4774,7 +4916,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4824,7 +4966,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. contact me for offer. personal delivery possible in Europe",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4998,7 +5140,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Prices are firm",
-      "date": 1779483279.263666,
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5044,52 +5186,6 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "TopTcgCards-com",
-        "country": "Item location: Poland"
-      },
-      "language": "English",
-      "price": 19500.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "! PSA 10 ! Berlin. Warsaw - Possible meeting",
-      "date": 1779483279.263666,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          4500.0,
-          0.0
-        ],
-        [
-          4490.0,
-          89.0
-        ],
-        [
-          7900.0,
-          1766529338.467717
-        ],
-        [
-          25000.0,
-          1770768240.0444968
-        ],
-        [
-          24900.0,
-          1778912183.8396668
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1755774102.5519905,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": true
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
         "name": "fa1rbanks",
         "country": "Item location: Belgium"
       },
@@ -5127,8 +5223,8 @@
       "price": 20000.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1779483279.263666,
+      "comment": "PSA 10",
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5150,7 +5246,7 @@
       "first_date": 1774411215.9468343,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5209,6 +5305,56 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
+        "name": "TopTcgCards-com",
+        "country": "Item location: Poland"
+      },
+      "language": "English",
+      "price": 29000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "! PSA 10 ! Berlin. Warsaw - Possible meeting",
+      "date": 1780310303.6068664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          4500.0,
+          0.0
+        ],
+        [
+          4490.0,
+          89.0
+        ],
+        [
+          7900.0,
+          1766529338.467717
+        ],
+        [
+          25000.0,
+          1770768240.0444968
+        ],
+        [
+          24900.0,
+          1778912183.8396668
+        ],
+        [
+          19500.0,
+          1779636902.291575
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1755774102.5519905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": true
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
         "name": "bastiencoco",
         "country": "Item location: Luxembourg"
       },
@@ -5216,8 +5362,8 @@
       "price": 30000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1779483279.263666,
+      "comment": "BGS 9.5",
+      "date": 1780310303.6068664,
       "ended": false,
       "new": false,
       "previous_prices": [],

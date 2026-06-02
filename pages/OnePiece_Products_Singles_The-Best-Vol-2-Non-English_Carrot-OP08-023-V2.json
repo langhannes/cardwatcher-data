@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 32,
-  "sold": 0,
-  "inserted": 0,
+  "available": 25,
+  "sold": 2,
+  "inserted": 3,
   "listings": [
     {
       "card": "Carrot (OP08-023) (V.2)",
@@ -23,11 +23,11 @@
       },
       "language": "Japanese",
       "price": 20.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1779487933.9757454,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -39,7 +39,12 @@
           1779055383.807824
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779487933.9757454
+        ]
+      ],
       "first_date": 1776631204.16217,
       "last_date": 0.0,
       "price_is_new": false,
@@ -120,17 +125,42 @@
       "card": "Carrot (OP08-023) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
       "seller": {
+        "name": "PapageiFuenf860",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 23.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780313775.7457318,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780237241.9992728,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Carrot (OP08-023) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
+      "seller": {
         "name": "Babipoke",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 22.0,
-      "quantity": 1,
+      "price": 23.0,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
-      "ended": false,
-      "new": false,
+      "date": 1780237241.9992728,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           25.0,
@@ -139,6 +169,10 @@
         [
           23.5,
           1779055383.807824
+        ],
+        [
+          22.0,
+          1779812037.0368605
         ]
       ],
       "previous_quantities": [
@@ -149,12 +183,16 @@
         [
           0,
           1778839192.1145024
+        ],
+        [
+          1,
+          1780237241.9992728
         ]
       ],
       "first_date": 1777497312.2201226,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -171,7 +209,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -205,7 +243,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -244,6 +282,57 @@
       "card": "Carrot (OP08-023) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
       "seller": {
+        "name": "PhilNumis",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 23.75,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Check Profile für Ankauf!",
+      "date": 1780313775.7457318,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          25.94,
+          1778201046.5200493
+        ],
+        [
+          24.95,
+          1778624086.3896904
+        ],
+        [
+          23.94,
+          1779055383.807824
+        ],
+        [
+          23.85,
+          1779812037.0368605
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779935373.814303
+        ],
+        [
+          0,
+          1779935373.814303
+        ]
+      ],
+      "first_date": 1778133035.654927,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Carrot (OP08-023) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
+      "seller": {
         "name": "KiuBear",
         "country": "Item location: Germany"
       },
@@ -274,53 +363,15 @@
       "card": "Carrot (OP08-023) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
       "seller": {
-        "name": "PhilNumis",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 23.85,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Check Profile für Ankauf!",
-      "date": 1779487933.9757454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          25.94,
-          1778201046.5200493
-        ],
-        [
-          24.95,
-          1778624086.3896904
-        ],
-        [
-          23.94,
-          1779055383.807824
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1778133035.654927,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Carrot (OP08-023) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
-      "seller": {
         "name": "AbgeloustTCG",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 23.9,
+      "price": 23.8,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Fast Shipping!",
-      "date": 1779487933.9757454,
+      "comment": "RELISTED! Fast Shipping!",
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -335,13 +386,26 @@
         [
           25.99,
           1779055383.807824
+        ],
+        [
+          23.9,
+          1779562065.6840563
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779935373.814303
+        ],
+        [
+          0,
+          1779935373.814303
+        ]
+      ],
       "first_date": 1775472505.6521988,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -358,7 +422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -394,14 +458,19 @@
       },
       "language": "Japanese",
       "price": 23.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Differenzbesteuert/ M",
-      "date": 1779487933.9757454,
-      "ended": false,
+      "date": 1780026811.36393,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780026811.36393
+        ]
+      ],
       "first_date": 1778624086.3896904,
       "last_date": 0.0,
       "price_is_new": false,
@@ -481,7 +550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -520,7 +589,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster>Sleeve>Toploader",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -747,14 +816,19 @@
       },
       "language": "Japanese",
       "price": 25.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "XXL-Tournament Store",
-      "date": 1779487933.9757454,
-      "ended": false,
+      "date": 1779562065.6840563,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779562065.6840563
+        ]
+      ],
       "first_date": 1778133035.654927,
       "last_date": 0.0,
       "price_is_new": false,
@@ -797,31 +871,6 @@
       "card": "Carrot (OP08-023) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
       "seller": {
-        "name": "Sunshine1",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 26.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Booster fresh -> fast shipping",
-      "date": 1779487933.9757454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1774512458.8314552,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Carrot (OP08-023) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
-      "seller": {
         "name": "collie",
         "country": "Item location: Belgium"
       },
@@ -830,7 +879,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve&toploader",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -859,16 +908,25 @@
       "price": 26.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1779487933.9757454,
+      "comment": "RELISTED! ",
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779657066.3544323
+        ],
+        [
+          0,
+          1779657066.3544323
+        ]
+      ],
       "first_date": 1776631204.16217,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1109,18 +1167,23 @@
       },
       "language": "Japanese",
       "price": 27.89,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Box 139/R1-1",
-      "date": 1779487933.9757454,
-      "ended": false,
-      "new": false,
+      "date": 1780237241.9992728,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780237241.9992728
+        ]
+      ],
       "first_date": 1774960353.3908176,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1164,14 +1227,19 @@
       },
       "language": "Japanese",
       "price": 27.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1779487933.9757454,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779487933.9757454
+        ]
+      ],
       "first_date": 1771629882.2488935,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1192,7 +1260,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM. sleeve+tooploader - Fast shipping",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1441,7 +1509,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1491,7 +1559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1502,35 +1570,27 @@
         [
           27.0,
           1779055383.807824
+        ],
+        [
+          30.0,
+          1779732513.9537644
+        ],
+        [
+          25.0,
+          1780026811.36393
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780026811.36393
+        ],
+        [
+          0,
+          1780026811.36393
+        ]
+      ],
       "first_date": 1778764395.535082,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Carrot (OP08-023) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
-      "seller": {
-        "name": "EuroCardHub",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 30.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect Centering",
-      "date": 1779487933.9757454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778917211.5309439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1550,12 +1610,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778489791.3788853,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Carrot (OP08-023) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
+      "seller": {
+        "name": "EuroCardHub",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 30.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1779935373.814303,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779732513.9537644
+        ],
+        [
+          0,
+          1779732513.9537644
+        ],
+        [
+          1,
+          1779935373.814303
+        ]
+      ],
+      "first_date": 1778917211.5309439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1575,7 +1673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1932,12 +2030,42 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#binder",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769179685.2599654,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Carrot (OP08-023) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
+      "seller": {
+        "name": "Sunshine1",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 35.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster fresh -> fast shipping",
+      "date": 1780313775.7457318,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          26.0,
+          1779935373.814303
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1774512458.8314552,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1957,7 +2085,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2032,7 +2160,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2070,7 +2198,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2116,12 +2244,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 41.68,
-      "quantity": 1,
+      "price": 41.72,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779487933.9757454,
-      "ended": false,
+      "date": 1779657066.3544323,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2275,9 +2403,18 @@
         [
           41.66,
           1779332062.71944
+        ],
+        [
+          41.68,
+          1779487933.9757454
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779657066.3544323
+        ]
+      ],
       "first_date": 1774140768.0157743,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2298,7 +2435,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster + Sleeve + Toploader",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2323,7 +2460,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2348,7 +2485,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2411,7 +2548,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[AiGrad 9.5] Graded Card - Store in Udine",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2445,7 +2582,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1779487933.9757454,
+      "date": 1780313775.7457318,
       "ended": false,
       "new": false,
       "previous_prices": [],

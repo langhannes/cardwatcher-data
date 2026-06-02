@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 9,
-  "sold": 0,
+  "available": 7,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39,6 +39,14 @@
         [
           0,
           1773946057.7293274
+        ],
+        [
+          1,
+          1779533635.454545
+        ],
+        [
+          0,
+          1779533635.454545
         ]
       ],
       "first_date": 1765402355.7503712,
@@ -61,7 +69,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Check Image!",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -108,14 +116,19 @@
       },
       "language": "Japanese",
       "price": 329.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1779463378.4855294,
-      "ended": false,
+      "date": 1779867257.503723,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779867257.503723
+        ]
+      ],
       "first_date": 1770725646.0622196,
       "last_date": 0.0,
       "price_is_new": false,
@@ -361,7 +374,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "BGS 6 (9-9-8.5-5)",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -496,7 +509,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -547,11 +560,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1012.08,
+      "price": 1012.84,
       "quantity": 1,
       "condition": "NM",
       "comment": "Can send more pics if needed",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -862,6 +875,42 @@
         [
           1011.62,
           1779390740.9856894
+        ],
+        [
+          1012.08,
+          1779463378.4855294
+        ],
+        [
+          1013.14,
+          1779611714.3134673
+        ],
+        [
+          1013.73,
+          1779703934.3324242
+        ],
+        [
+          1015.19,
+          1779787719.9849534
+        ],
+        [
+          1012.14,
+          1779867257.503723
+        ],
+        [
+          1010.8,
+          1780004731.9033
+        ],
+        [
+          1010.1,
+          1780082399.5074942
+        ],
+        [
+          1010.27,
+          1780199566.7218874
+        ],
+        [
+          1010.8,
+          1780292965.4619813
         ]
       ],
       "previous_quantities": [],
@@ -910,7 +959,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779463378.4855294,
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -921,36 +970,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1765638595.205829,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dialga EX  (XYb 019)",
-      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
-      "seller": {
-        "name": "Xavierpika",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 - Brand New",
-      "date": 1779463378.4855294,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1000.0,
-          327.0
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1761774327.1882043,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1012,17 +1031,51 @@
       "card": "Dialga EX  (XYb 019)",
       "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
       "seller": {
-        "name": "Solarahh",
-        "country": "Item location: Belgium"
+        "name": "Xavierpika",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 1500.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9 - message for cheaper shipping",
-      "date": 1779463378.4855294,
+      "comment": "PSA 9 - Brand New",
+      "date": 1780369533.3099186,
       "ended": false,
       "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          327.0
+        ],
+        [
+          1100.0,
+          1779611714.3134673
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1761774327.1882043,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dialga EX  (XYb 019)",
+      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
+      "seller": {
+        "name": "Solarahh",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9 - message for cheaper shipping",
+      "date": 1780292965.4619813,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1200.0,
@@ -1057,12 +1110,16 @@
         [
           0,
           1778890769.2705011
+        ],
+        [
+          1,
+          1780292965.4619813
         ]
       ],
       "first_date": 1777273215.6709561,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

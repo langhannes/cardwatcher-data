@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 5,
+  "available": 6,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,11 +26,20 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1779485327.7303414,
+      "date": 1780311826.976679,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1779730568.1593535
+        ],
+        [
+          0,
+          1779730568.1593535
+        ]
+      ],
       "first_date": 1774137769.9998093,
       "last_date": 0.0,
       "price_is_new": false,
@@ -51,7 +60,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1779485327.7303414,
+      "date": 1780311826.976679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -72,11 +81,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 65.49,
+      "price": 65.41,
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1779485327.7303414,
+      "date": 1780311826.976679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -303,6 +312,34 @@
         [
           65.46,
           1779410332.5003834
+        ],
+        [
+          65.49,
+          1779485327.7303414
+        ],
+        [
+          65.56,
+          1779654100.5779674
+        ],
+        [
+          65.6,
+          1779730568.1593535
+        ],
+        [
+          65.69,
+          1779810088.8910463
+        ],
+        [
+          65.41,
+          1779933427.952633
+        ],
+        [
+          65.36,
+          1780024874.0068555
+        ],
+        [
+          65.38,
+          1780235296.7097168
         ]
       ],
       "previous_quantities": [],
@@ -393,7 +430,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1779485327.7303414,
+      "date": 1780311826.976679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -445,6 +482,31 @@
       "card": "Latios EX  (XY6 082)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
       "seller": {
+        "name": "SuikaSlayer",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster > Sleeve > Toploader - DM me for more pics",
+      "date": 1780311826.976679,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780235296.7097168,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Latios EX  (XY6 082)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
+      "seller": {
         "name": "DUAL-GAMES",
         "country": "Item location: Spain"
       },
@@ -453,7 +515,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1779485327.7303414,
+      "date": 1780311826.976679,
       "ended": false,
       "new": false,
       "previous_prices": [],
