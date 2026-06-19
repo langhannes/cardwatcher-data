@@ -9,8 +9,8 @@
     "French"
   ],
   "only_germany": "False",
-  "available": 57,
-  "sold": 3,
+  "available": 37,
+  "sold": 12,
   "inserted": 4,
   "listings": [
     {
@@ -930,11 +930,11 @@
       },
       "language": "French",
       "price": 749.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -950,6 +950,10 @@
         [
           0,
           1779127055.1079414
+        ],
+        [
+          1,
+          1780480576.7178113
         ]
       ],
       "first_date": 1778350567.8642113,
@@ -974,7 +978,7 @@
       "comment": "Mains propre possible vers strasbourg",
       "date": 1780252218.2679539,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           700.0,
@@ -1026,7 +1030,7 @@
       "first_date": 1764588681.4419427,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1040,11 +1044,11 @@
       },
       "language": "French",
       "price": 750.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1055,6 +1059,10 @@
         [
           0,
           1779127055.1079414
+        ],
+        [
+          1,
+          1780830144.1372497
         ]
       ],
       "first_date": 1776255050.6742778,
@@ -1313,11 +1321,11 @@
       },
       "language": "French",
       "price": 760.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "2022-01-06 - UP-ST21-014",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1337,6 +1345,10 @@
         [
           0,
           1779127055.1079414
+        ],
+        [
+          1,
+          1780480576.7178113
         ]
       ],
       "first_date": 1765958309.8497405,
@@ -1441,12 +1453,12 @@
       },
       "language": "English",
       "price": 799.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1456,12 +1468,16 @@
         [
           0,
           1779500371.397406
+        ],
+        [
+          1,
+          1780911994.168663
         ]
       ],
       "first_date": 1779500371.397406,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1500,11 +1516,11 @@
       },
       "language": "French",
       "price": 800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sortie de booster + sleeve+ toploader",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1515,6 +1531,10 @@
         [
           0,
           1779127055.1079414
+        ],
+        [
+          1,
+          1780830144.1372497
         ]
       ],
       "first_date": 1774913142.2241797,
@@ -1829,12 +1849,12 @@
       },
       "language": "English",
       "price": 850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "nm-",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "comment": "RELISTED! nm-",
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           850.0,
@@ -1869,12 +1889,24 @@
         [
           0,
           1779827030.5858142
+        ],
+        [
+          1,
+          1780328769.441773
+        ],
+        [
+          0,
+          1780328769.441773
+        ],
+        [
+          1,
+          1780911994.168663
         ]
       ],
       "first_date": 1779127055.1079414,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2380,36 +2412,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "Raymond078",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 925.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779747506.2561765,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779747506.2561765
-        ]
-      ],
-      "first_date": 1779747506.2561765,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "Kanatao",
         "country": "Item location: France"
       },
@@ -2449,6 +2451,65 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1763817866.7664492,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "sweal-tom",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 949.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CA 9.5",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1099.0,
+          1779276626.276479
+        ],
+        [
+          999.0,
+          1780830144.1372497
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778712653.7168026,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "fakerpng",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 950.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Uniquement en remise en Main propre sur Paris/Ile de France",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780830144.1372497,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2838,36 +2899,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "sweal-tom",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 999.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "CA 9.5",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1099.0,
-          1779276626.276479
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1778712653.7168026,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "DistinguishedTCG",
         "country": "Item location: France"
       },
@@ -2878,7 +2909,7 @@
       "comment": "CCC 9.5",
       "date": 1780252218.2679539,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           850.0,
@@ -2918,7 +2949,7 @@
       "first_date": 1767729052.8700643,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3075,7 +3106,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pro Seller // Binder OP - V",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3947,69 +3978,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "anjashib",
-        "country": "Item location: Slovenia"
-      },
-      "language": "English",
-      "price": 1049.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1779747506.2561765,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1400.0,
-          1777298547.5842648
-        ],
-        [
-          1050.0,
-          1778147381.807581
-        ],
-        [
-          950.0,
-          1778251237.186314
-        ],
-        [
-          1100.0,
-          1779363600.943527
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778251237.186314
-        ],
-        [
-          0,
-          1778251237.186314
-        ],
-        [
-          1,
-          1779500371.397406
-        ],
-        [
-          0,
-          1779500371.397406
-        ],
-        [
-          1,
-          1779747506.2561765
-        ]
-      ],
-      "first_date": 1772482534.0253475,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "MugiTCG",
         "country": "Item location: Poland"
       },
@@ -4054,6 +4022,40 @@
         ]
       ],
       "first_date": 1773933151.210459,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "AkagamiOPTCG",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "point blanc devant",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          700.0,
+          1780480576.7178113
+        ],
+        [
+          800.0,
+          1780830144.1372497
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780480576.7178113,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4361,7 +4363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BECKETT 9",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4378,53 +4380,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "VegaStore38",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! mp insta photo (vegastore.fr insta)",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1499.99,
-          1778251237.186314
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1779127055.1079414
-        ],
-        [
-          0,
-          1779127055.1079414
-        ],
-        [
-          1,
-          1780119055.7183664
-        ],
-        [
-          0,
-          1780119055.7183664
-        ]
-      ],
-      "first_date": 1770722625.1990526,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "YamanoteShop",
         "country": "Item location: France"
       },
@@ -4433,7 +4388,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "- CCC 9.5 - Envoi rapide et soigné -",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4458,12 +4413,97 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCC9. 5",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770844220.9330225,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "matteo548",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 1100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Beckett 9.5 NEAR MINT",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1300.0,
+          1780830144.1372497
+        ],
+        [
+          1200.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780830144.1372497,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "VegaStore38",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 1100.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "mp insta photo (vegastore.fr insta)",
+      "date": 1780480576.7178113,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1499.99,
+          1778251237.186314
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779127055.1079414
+        ],
+        [
+          0,
+          1779127055.1079414
+        ],
+        [
+          1,
+          1780119055.7183664
+        ],
+        [
+          0,
+          1780119055.7183664
+        ],
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1770722625.1990526,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4821,6 +4861,49 @@
       ],
       "previous_quantities": [],
       "first_date": 1765638550.6009011,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "Raymond078",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 1150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1780480576.7178113,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          925.0,
+          1779747506.2561765
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779747506.2561765
+        ],
+        [
+          0,
+          1779747506.2561765
+        ],
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1779747506.2561765,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5641,6 +5724,45 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "AntonLe",
+        "country": "Item location: Denmark"
+      },
+      "language": "English",
+      "price": 1259.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "NM. but Small whitening/dink. Pm for pics. Packfresh.",
+      "date": 1780830144.1372497,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1399.0,
+          1768160887.2491884
+        ],
+        [
+          1459.0,
+          1780480576.7178113
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
+      "first_date": 1768160887.2491884,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "pandamir",
         "country": "Item location: Portugal"
       },
@@ -5818,14 +5940,19 @@
       },
       "language": "English",
       "price": 1299.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
       "first_date": 1779827030.5858142,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5843,11 +5970,11 @@
       },
       "language": "English",
       "price": 1299.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "La Plaza Bilbao Store",
       "date": 1780328769.441773,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5859,7 +5986,12 @@
           1773259428.726563
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780328769.441773
+        ]
+      ],
       "first_date": 1768771420.7114034,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5877,11 +6009,11 @@
       },
       "language": "English",
       "price": 1300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Small white dot at back / rest clean",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5913,7 +6045,12 @@
           1779363600.943527
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
       "first_date": 1767385009.4920242,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5936,7 +6073,7 @@
       "comment": "perfect condition. ask for photos",
       "date": 1780252218.2679539,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5953,36 +6090,6 @@
         ]
       ],
       "first_date": 1779127055.1079414,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "IL-REGNO",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1300.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "nm-",
-      "date": 1779950366.9771664,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779950366.9771664
-        ]
-      ],
-      "first_date": 1771301719.935763,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6369,7 +6476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Remise en main propre possible Nord. Paris. Belgique",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6416,16 +6523,46 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "brothersincardsbv",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 1399.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Front NM. back excellent (little dent and because of the corner right under)",
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
+      "first_date": 1780911994.168663,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "iltempiodikronos",
         "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1399.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! PERFECT CARD",
       "date": 1780328769.441773,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6445,12 +6582,16 @@
         [
           0,
           1778436727.0875435
+        ],
+        [
+          1,
+          1780328769.441773
         ]
       ],
       "first_date": 1775083643.778124,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6523,73 +6664,41 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "Riskbreak",
-        "country": "Item location: Spain"
+        "name": "IL-REGNO",
+        "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1780328769.441773,
-      "ended": false,
+      "comment": "RELISTED! nm-",
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
-          1400.0,
-          1773259428.726563
-        ],
-        [
-          1200.0,
-          1774234731.655162
-        ],
-        [
-          1150.0,
-          1774610525.8130348
-        ],
-        [
-          1100.0,
-          1775083643.778124
-        ],
-        [
-          1200.0,
-          1776067031.4406834
-        ],
-        [
-          1075.0,
-          1776355124.3203163
-        ],
-        [
-          1095.0,
-          1776938214.0170615
-        ],
-        [
-          1150.0,
-          1779500371.397406
-        ],
-        [
-          1250.0,
-          1780119055.7183664
+          1300.0,
+          1779950366.9771664
         ]
       ],
       "previous_quantities": [
         [
+          1,
+          1779950366.9771664
+        ],
+        [
           0,
-          1776938214.0170615
+          1779950366.9771664
         ],
         [
           1,
-          1780119055.7183664
-        ],
-        [
-          0,
-          1780119055.7183664
+          1780480576.7178113
         ]
       ],
-      "first_date": 1772482534.0253475,
+      "first_date": 1771301719.935763,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6695,13 +6804,13 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 1427.0,
-      "quantity": 1,
+      "price": 1430.56,
+      "quantity": 0,
       "condition": "NM",
       "comment": "More Cards Available!",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1539.09,
@@ -6918,6 +7027,18 @@
         [
           1426.26,
           1780252218.2679539
+        ],
+        [
+          1427.0,
+          1780328769.441773
+        ],
+        [
+          1431.31,
+          1780480576.7178113
+        ],
+        [
+          1430.64,
+          1780830144.1372497
         ]
       ],
       "previous_quantities": [
@@ -6928,59 +7049,16 @@
         [
           0,
           1778147381.807581
+        ],
+        [
+          1,
+          1780911994.168663
         ]
       ],
       "first_date": 1772685356.5850613,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "SrZeno",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 1449.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3000.0,
-          1771360815.1791031
-        ],
-        [
-          2999.0,
-          1774234731.655162
-        ],
-        [
-          1249.0,
-          1777758657.2752032
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777758657.2752032
-        ],
-        [
-          0,
-          1777758657.2752032
-        ]
-      ],
-      "first_date": 1770722625.1990526,
-      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7074,36 +7152,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "AntonLe",
-        "country": "Item location: Denmark"
-      },
-      "language": "English",
-      "price": 1459.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "NM. but Small whitening/edge. Pm for pics. Packfresh.",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1399.0,
-          1768160887.2491884
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1768160887.2491884,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "Trokomoloko",
         "country": "Item location: Spain"
       },
@@ -7184,53 +7232,33 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "DominoCity",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1490.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "GRAAD 9",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776938214.0170615,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "azcardandgames",
         "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1490.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "GRAAD 9 MINT | AZ Card & Games",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1600.0,
           1771922035.2825303
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
       "first_date": 1771360815.1791031,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7378,12 +7406,12 @@
       },
       "language": "English",
       "price": 1499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1500.0,
@@ -7394,11 +7422,16 @@
           1778571604.2733974
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
       "first_date": 1768160887.2491884,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7487,56 +7520,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "MythicVault",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Graded Card BGS 9 (I)",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779950366.9771664,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "TesoroDragon",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771520786.382726,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "MADAKIBA",
         "country": "Item location: Spain"
       },
@@ -7544,8 +7527,8 @@
       "price": 1500.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA AUTHENTIC POP 2 - FRONT PSA 10. BACK BROKEN BY PSA -",
-      "date": 1780328769.441773,
+      "comment": "PSA AUTHENTIC POP 2 - BACK BROKEN BY PSA -",
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7562,28 +7545,28 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "Kamehousecomics",
-        "country": "Item location: Italy"
+        "name": "TesoroDragon",
+        "country": "Item location: Spain"
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          1200.0,
-          1778865408.3940928
+          1,
+          1780911994.168663
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1773742770.8337362,
+      "first_date": 1771520786.382726,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7597,43 +7580,23 @@
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
       "first_date": 1772578103.128234,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "GiannoDroger",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "pack-sleeve-toploade",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779276626.276479,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7647,11 +7610,11 @@
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Meetup near Frankfurt. Rheinland-Pfalz. Saarland",
-      "date": 1780328769.441773,
-      "ended": false,
+      "comment": "",
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7671,7 +7634,12 @@
           1774610525.8130348
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
       "first_date": 1768771420.7114034,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7689,11 +7657,11 @@
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster --> Sleeve--> toploader",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7701,7 +7669,12 @@
           1771006420.7253516
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
       "first_date": 1769106505.8284862,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7719,11 +7692,11 @@
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7739,9 +7712,78 @@
         [
           0,
           1779827030.5858142
+        ],
+        [
+          1,
+          1780830144.1372497
         ]
       ],
       "first_date": 1769791439.079845,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "Kamehousecomics",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780480576.7178113,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1200.0,
+          1778865408.3940928
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1773742770.8337362,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "GiannoDroger",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "pack-sleeve-toploade",
+      "date": 1780480576.7178113,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1779276626.276479,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7901,12 +7943,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 1545.92,
-      "quantity": 1,
+      "price": 1549.86,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780830144.1372497,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8160,12 +8202,25 @@
         [
           1545.12,
           1780252218.2679539
+        ],
+        [
+          1545.92,
+          1780328769.441773
+        ],
+        [
+          1550.58,
+          1780480576.7178113
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
       "first_date": 1771654414.055977,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8570,16 +8625,46 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "cosworth",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1700.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Bgs 9",
+      "date": 1780830144.1372497,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
+      "first_date": 1780830144.1372497,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "Betocollector",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 1700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Perfect Condition",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8603,6 +8688,10 @@
         [
           0,
           1778865408.3940928
+        ],
+        [
+          1,
+          1780480576.7178113
         ]
       ],
       "first_date": 1769106505.8284862,
@@ -9329,55 +9418,17 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "Jimmytherevenge",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1850.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Bgs9.5",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1200.0,
-          1766094582.788356
-        ],
-        [
-          1700.0,
-          1776641424.2662575
-        ],
-        [
-          1900.0,
-          1779431082.903115
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1766080251.1817362,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "mxritz",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 1850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "boosterfresh to toploader",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1950.0,
@@ -9388,11 +9439,16 @@
           1774234731.655162
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
       "first_date": 1772319608.0746744,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9589,12 +9645,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 1902.67,
-      "quantity": 1,
+      "price": 1908.41,
+      "quantity": 0,
       "condition": "MT",
       "comment": "ACE GEM MINT 10 - 870964",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9748,6 +9804,10 @@
         [
           1901.68,
           1780252218.2679539
+        ],
+        [
+          1902.67,
+          1780328769.441773
         ]
       ],
       "previous_quantities": [
@@ -9766,11 +9826,15 @@
         [
           0,
           1779431082.903115
+        ],
+        [
+          1,
+          1780480576.7178113
         ]
       ],
       "first_date": 1775425259.4468842,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9845,56 +9909,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "WhiteCastleTCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 1974.26,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780328769.441773,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "Amber1983",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 1975.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect condition",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1770202646.2679796,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "Medabeda9",
         "country": "Item location: Switzerland"
       },
@@ -9903,7 +9917,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9952,36 +9966,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1764750721.0262709,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
-        "name": "MetaGames",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 1999.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1499.99,
-          1780041723.4586658
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1772040478.62168,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10115,7 +10099,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10142,12 +10126,12 @@
       },
       "language": "English",
       "price": 2000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "pack -> sleeve -> hardcase",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "comment": "RELISTED! pack -> sleeve -> hardcase",
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1500.0,
@@ -10158,11 +10142,24 @@
           1766094582.788356
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ],
+        [
+          0,
+          1780480576.7178113
+        ],
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
       "first_date": 1763817866.7664492,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -10409,31 +10406,6 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "MythicVault",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 2100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Graded Card BGS 9.5 (I)",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779950366.9771664,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
-      "seller": {
         "name": "Helo-TCG",
         "country": "Item location: Greece"
       },
@@ -10479,6 +10451,153 @@
       "first_date": 1765525314.8835337,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "WhiteCastleTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 2274.26,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1974.26,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780328769.441773,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "anjashib",
+        "country": "Item location: Slovenia"
+      },
+      "language": "English",
+      "price": 2285.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Great condition",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1777298547.5842648
+        ],
+        [
+          1050.0,
+          1778147381.807581
+        ],
+        [
+          950.0,
+          1778251237.186314
+        ],
+        [
+          1100.0,
+          1779363600.943527
+        ],
+        [
+          1049.0,
+          1779747506.2561765
+        ],
+        [
+          1399.0,
+          1780480576.7178113
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778251237.186314
+        ],
+        [
+          0,
+          1778251237.186314
+        ],
+        [
+          1,
+          1779500371.397406
+        ],
+        [
+          0,
+          1779500371.397406
+        ],
+        [
+          1,
+          1779747506.2561765
+        ],
+        [
+          0,
+          1779747506.2561765
+        ],
+        [
+          1,
+          1780480576.7178113
+        ],
+        [
+          0,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1772482534.0253475,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "DominoCity",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 2290.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "GRAAD 9",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1490.0,
+          1780328769.441773
+        ],
+        [
+          1890.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776938214.0170615,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10538,6 +10657,31 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "Lhutchins1",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 2387.71,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781307148.3325913,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "Janzlaw",
         "country": "Item location: Italy"
       },
@@ -10555,6 +10699,61 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "SrZeno",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 2499.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          3000.0,
+          1771360815.1791031
+        ],
+        [
+          2999.0,
+          1774234731.655162
+        ],
+        [
+          1249.0,
+          1777758657.2752032
+        ],
+        [
+          1449.0,
+          1780830144.1372497
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777758657.2752032
+        ],
+        [
+          0,
+          1777758657.2752032
+        ],
+        [
+          1,
+          1780911994.168663
+        ]
+      ],
+      "first_date": 1770722625.1990526,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -10593,49 +10792,45 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "da-ausi",
-        "country": "Item location: Austria"
+        "name": "Jimmytherevenge",
+        "country": "Item location: Italy"
       },
       "language": "English",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Ask for pics / send offer / If you buy. you get +10 on luck :D",
-      "date": 1780328769.441773,
-      "ended": false,
-      "new": false,
+      "comment": "Bgs9.5",
+      "date": 1780911994.168663,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          1999.0,
-          1767385009.4920242
+          1200.0,
+          1766094582.788356
         ],
         [
-          2199.0,
-          1772040478.62168
+          1700.0,
+          1776641424.2662575
         ],
         [
-          2020.2,
-          1772736069.0151677
+          1900.0,
+          1779431082.903115
         ],
         [
-          1500.0,
-          1778712653.7168026
+          1850.0,
+          1780480576.7178113
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1778712653.7168026
-        ],
-        [
-          0,
-          1778712653.7168026
+          1780911994.168663
         ]
       ],
-      "first_date": 1767385009.4920242,
+      "first_date": 1766080251.1817362,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -10805,6 +11000,41 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "MythicVault",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 2800.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Graded Card BGS 9.5 (I)",
+      "date": 1780830144.1372497,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1500.0,
+          1780480576.7178113
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780830144.1372497
+        ]
+      ],
+      "first_date": 1779950366.9771664,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "ChobanovGamesLtd",
         "country": "Item location: Bulgaria"
       },
@@ -10878,34 +11108,20 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "aXakal",
-        "country": "Item location: Germany"
+        "name": "akulcudo19",
+        "country": "Item location: Slovenia"
       },
       "language": "English",
-      "price": 2990.0,
+      "price": 2999.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1780328769.441773,
+      "comment": "It was instantly put into sleeve and toploader and kept in dry dark space.",
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          1999.0,
-          1770775114.6045375
-        ],
-        [
-          1949.0,
-          1775169443.9164457
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775169443.9164457
-        ]
-      ],
-      "first_date": 1767385009.4920242,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780830144.1372497,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11023,6 +11239,119 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "Riskbreak",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1773259428.726563
+        ],
+        [
+          1200.0,
+          1774234731.655162
+        ],
+        [
+          1150.0,
+          1774610525.8130348
+        ],
+        [
+          1100.0,
+          1775083643.778124
+        ],
+        [
+          1200.0,
+          1776067031.4406834
+        ],
+        [
+          1075.0,
+          1776355124.3203163
+        ],
+        [
+          1095.0,
+          1776938214.0170615
+        ],
+        [
+          1150.0,
+          1779500371.397406
+        ],
+        [
+          1250.0,
+          1780119055.7183664
+        ],
+        [
+          1400.0,
+          1780480576.7178113
+        ],
+        [
+          2000.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776938214.0170615
+        ],
+        [
+          1,
+          1780119055.7183664
+        ],
+        [
+          0,
+          1780119055.7183664
+        ]
+      ],
+      "first_date": 1772482534.0253475,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "Amber1983",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfect condition. good to grade",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1975.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770202646.2679796,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "StaplesTCG",
         "country": "Item location: France"
       },
@@ -11091,6 +11420,53 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "MythicVault",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 3200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Graded Card BGS 9.5 (I)",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2100.0,
+          1780328769.441773
+        ],
+        [
+          2500.0,
+          1780480576.7178113
+        ],
+        [
+          2800.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780480576.7178113
+        ],
+        [
+          0,
+          1780480576.7178113
+        ]
+      ],
+      "first_date": 1779950366.9771664,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "LaConteaNerd",
         "country": "Item location: Italy"
       },
@@ -11124,7 +11500,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11132,6 +11508,79 @@
       "first_date": 1775425259.4468842,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "Tilmensch",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 3500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Only pickup",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2200.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780911994.168663,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "aXakal",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 3790.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1999.0,
+          1770775114.6045375
+        ],
+        [
+          1949.0,
+          1775169443.9164457
+        ],
+        [
+          2990.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775169443.9164457
+        ]
+      ],
+      "first_date": 1767385009.4920242,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11166,22 +11615,31 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
-        "name": "ThomasRudolf",
-        "country": "Item location: Germany"
+        "name": "MetaGames",
+        "country": "Item location: Switzerland"
       },
       "language": "English",
       "price": 3999.99,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "AOG pristine 10",
-      "date": 1780328769.441773,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          1499.99,
+          1780041723.4586658
+        ],
+        [
+          1999.99,
+          1780911994.168663
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1780041723.4586658,
+      "first_date": 1772040478.62168,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11216,16 +11674,41 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "GiannoDroger",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 4000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa 9",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781307148.3325913,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "blandito8989",
         "country": "Item location: Italy"
       },
       "language": "English",
       "price": 4000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bgs 9.5 strong",
-      "date": 1780328769.441773,
-      "ended": false,
+      "date": 1780480576.7178113,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -11245,11 +11728,15 @@
         [
           0,
           1777598171.297334
+        ],
+        [
+          1,
+          1780480576.7178113
         ]
       ],
       "first_date": 1776445402.3495712,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11267,7 +11754,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11372,7 +11859,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11392,11 +11879,78 @@
         [
           0,
           1778787434.3038383
+        ],
+        [
+          1,
+          1780328769.441773
+        ],
+        [
+          0,
+          1780328769.441773
         ]
       ],
       "first_date": 1767729052.8700643,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "da-ausi",
+        "country": "Item location: Austria"
+      },
+      "language": "English",
+      "price": 5000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for pics / send offer / If you buy. you get +10 on luck :D",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1999.0,
+          1767385009.4920242
+        ],
+        [
+          2199.0,
+          1772040478.62168
+        ],
+        [
+          2020.2,
+          1772736069.0151677
+        ],
+        [
+          1500.0,
+          1778712653.7168026
+        ],
+        [
+          2500.0,
+          1780480576.7178113
+        ],
+        [
+          3000.0,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778712653.7168026
+        ],
+        [
+          0,
+          1778712653.7168026
+        ]
+      ],
+      "first_date": 1767385009.4920242,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11531,6 +12085,36 @@
       "card": "Monkey.D.Luffy (ST21-014) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
       "seller": {
+        "name": "ThomasRudolf",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 5999.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG pristine 10",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3999.99,
+          1780911994.168663
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780041723.4586658,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
         "name": "RakdosXP",
         "country": "Item location: Austria"
       },
@@ -11539,7 +12123,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11567,7 +12151,7 @@
       "previous_quantities": [],
       "first_date": 1766529381.531536,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11585,7 +12169,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Only pickup near Rheinland-Pfalz . AOG 10",
-      "date": 1780328769.441773,
+      "date": 1781307148.3325913,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11679,18 +12263,23 @@
       },
       "language": "English",
       "price": 15000.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1775169443.9164457,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1781307148.3325913,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          0,
+          1775169443.9164457
+        ]
+      ],
       "first_date": 1763817866.7664492,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -11718,6 +12307,31 @@
         ]
       ],
       "first_date": 1777598171.297334,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (ST21-014) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_MonkeyDLuffy-ST21-014-V1",
+      "seller": {
+        "name": "briandtcg",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 30000.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "This is my expected price for this card",
+      "date": 1781307148.3325913,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780830144.1372497,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

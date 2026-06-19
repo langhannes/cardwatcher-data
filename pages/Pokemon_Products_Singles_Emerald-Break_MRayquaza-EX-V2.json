@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -342,6 +342,36 @@
       "card": "MRayquaza EX  (XY6 086)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
       "seller": {
+        "name": "alfatiador",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Little damages on the corners - Ask for anything!! - TALK BEFORE BUYING",
+      "date": 1781751505.563346,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1150.0,
+          1780836918.215467
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780261763.601541,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
         "name": "Marcos200200",
         "country": "Item location: Spain"
       },
@@ -372,41 +402,16 @@
       "card": "MRayquaza EX  (XY6 086)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
       "seller": {
-        "name": "alfatiador",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1150.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Little damages on the corners - Ask for anything!! - TALK BEFORE BUYING",
-      "date": 1780338319.2679758,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780261763.601541,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MRayquaza EX  (XY6 086)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
-      "seller": {
         "name": "Marcos200200",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 1300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Many more japanese vintage:)",
       "date": 1780338319.2679758,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -414,7 +419,12 @@
           1778355895.9101756
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780338319.2679758
+        ]
+      ],
       "first_date": 1774616726.1834688,
       "last_date": 0.0,
       "price_is_new": false,

@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -23,11 +23,11 @@
       },
       "language": "Japanese",
       "price": 179.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "some default",
-      "date": 1780402678.538195,
-      "ended": false,
+      "date": 1781341063.5939326,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -47,6 +47,10 @@
         [
           0,
           1778280214.0799518
+        ],
+        [
+          1,
+          1781341063.5939326
         ]
       ],
       "first_date": 1764588838.784815,
@@ -101,11 +105,11 @@
       },
       "language": "Japanese",
       "price": 549.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1780402678.538195,
-      "ended": false,
+      "date": 1781598513.2443194,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -121,6 +125,10 @@
         [
           0,
           1778280214.0799518
+        ],
+        [
+          1,
+          1781598513.2443194
         ]
       ],
       "first_date": 1768161211.1724255,

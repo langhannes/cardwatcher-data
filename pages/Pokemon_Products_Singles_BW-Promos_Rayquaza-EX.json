@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -81,18 +81,27 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "HAVE ONLY 1 LITTLE CREASE - THIS CARD IS PART OF MY PERSONAL COLLECTION",
-      "date": 1780316171.4925797,
+      "date": 1781850056.8699737,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780470835.53315
+        ],
+        [
+          0,
+          1780470835.53315
+        ]
+      ],
       "first_date": 1770204762.887126,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": true
     }
   ]
 }

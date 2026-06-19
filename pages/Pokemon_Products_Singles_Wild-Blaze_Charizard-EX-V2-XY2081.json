@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 15,
-  "sold": 0,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Charizard EX  (XY2 081)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "front surface damaged. corners played. new seller :)",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -85,7 +85,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -170,7 +170,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Photo sur demande",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -277,11 +277,11 @@
       },
       "language": "Japanese",
       "price": 199.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "Front GD. Back LP!",
-      "date": 1780082999.137928,
-      "ended": true,
+      "date": 1781847461.1090772,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -311,6 +311,10 @@
         ],
         [
           1,
+          1780082999.137928
+        ],
+        [
+          0,
           1780082999.137928
         ]
       ],
@@ -477,7 +481,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -588,6 +592,36 @@
       ],
       "previous_quantities": [],
       "first_date": 1736842239.7075095,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
+        "name": "PokekaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 239.99,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "Sleeved + Toploader & fast shipping",
+      "date": 1781847461.1090772,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          249.99,
+          1780370133.4541733
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778278768.9294395,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -794,31 +828,6 @@
       "archived": false
     },
     {
-      "card": "Charizard EX  (XY2 081)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-      "seller": {
-        "name": "PokekaTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 249.99,
-      "quantity": 1,
-      "condition": "LP",
-      "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1780370133.4541733,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778278768.9294395,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
       "card": "Charizard EX (XY2 081)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
       "seller": {
@@ -964,12 +973,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 268.05,
-      "quantity": 1,
+      "price": 267.96,
+      "quantity": 0,
       "condition": "LP",
       "comment": "Pics available upon request",
-      "date": 1780370133.4541733,
-      "ended": false,
+      "date": 1780968920.4861054,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1339,10 +1348,65 @@
         [
           267.51,
           1780293564.2372544
+        ],
+        [
+          268.05,
+          1780370133.4541733
+        ],
+        [
+          268.31,
+          1780512627.6231873
+        ],
+        [
+          268.19,
+          1780862205.3069105
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780968920.4861054
+        ]
+      ],
+      "first_date": 1730792154.4589503,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
+        "name": "Adrian11-17",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 270.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1781847461.1090772,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          350.0,
+          1778891233.002777
+        ],
+        [
+          320.0,
+          1780082999.137928
+        ],
+        [
+          300.0,
+          1781706174.5794318
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1730792154.4589503,
+      "first_date": 1777930504.1506877,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -1362,7 +1426,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "First edition for more pics DM PLS",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1510,12 +1574,12 @@
       },
       "language": "Japanese",
       "price": 299.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Message for more photos!",
-      "date": 1780370133.4541733,
-      "ended": false,
-      "new": false,
+      "comment": "Back is excellent. Message for more photos!",
+      "date": 1781706174.5794318,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           499.99,
@@ -1538,12 +1602,16 @@
         [
           0,
           1779704458.1884105
+        ],
+        [
+          1,
+          1781706174.5794318
         ]
       ],
       "first_date": 1778377577.212011,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -1566,40 +1634,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1755855991.998623,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard EX  (XY2 081)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-      "seller": {
-        "name": "Adrian11-17",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1780370133.4541733,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          350.0,
-          1778891233.002777
-        ],
-        [
-          320.0,
-          1780082999.137928
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777930504.1506877,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1759,16 +1793,41 @@
       "card": "Charizard EX  (XY2 081)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
       "seller": {
+        "name": "DD-Collectibles",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 352.95,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1781847461.1090772,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781706174.5794318,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
         "name": "Mixedcards",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 355.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "Sleeved + Toploader!",
-      "date": 1780005329.4814818,
-      "ended": true,
+      "date": 1781847461.1090772,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1796,6 +1855,10 @@
         [
           1,
           1780005329.4814818
+        ],
+        [
+          0,
+          1780005329.4814818
         ]
       ],
       "first_date": 1769532889.1070323,
@@ -1815,11 +1878,11 @@
       },
       "language": "Japanese",
       "price": 359.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
-      "comment": "RELISTED! BOX",
-      "date": 1780370133.4541733,
-      "ended": false,
+      "comment": "BOX",
+      "date": 1781338569.1969118,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1830,63 +1893,13 @@
         [
           0,
           1778813234.3895178
+        ],
+        [
+          1,
+          1781338569.1969118
         ]
       ],
       "first_date": 1778011034.981503,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard EX  (XY2 081)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-      "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 374.92,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1780370133.4541733,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          450.0,
-          1774382.9705
-        ],
-        [
-          405.0,
-          1771456510.4892902
-        ],
-        [
-          364.5,
-          1771529801.7596698
-        ],
-        [
-          328.05,
-          1771805838.7172978
-        ],
-        [
-          295.25,
-          1771890140.36076
-        ],
-        [
-          289.98,
-          1772644218.307335
-        ],
-        [
-          274.99,
-          1773076335.9178705
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1712504599.366246,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1906,7 +1919,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1919,7 +1932,16 @@
           855991.99
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780370133.4541733
+        ],
+        [
+          0,
+          1780370133.4541733
+        ]
+      ],
       "first_date": 1716204571.8186975,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2094,7 +2116,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "little white  on the bottom corner",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2175,6 +2197,72 @@
       "card": "Charizard EX  (XY2 081)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 409.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1781847461.1090772,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1774382.9705
+        ],
+        [
+          405.0,
+          1771456510.4892902
+        ],
+        [
+          364.5,
+          1771529801.7596698
+        ],
+        [
+          328.05,
+          1771805838.7172978
+        ],
+        [
+          295.25,
+          1771890140.36076
+        ],
+        [
+          289.98,
+          1772644218.307335
+        ],
+        [
+          274.99,
+          1773076335.9178705
+        ],
+        [
+          374.92,
+          1780370133.4541733
+        ],
+        [
+          409.99,
+          1780512627.6231873
+        ],
+        [
+          374.92,
+          1781596017.1816983
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1712504599.366246,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
         "name": "SB-Cards",
         "country": "Item location: Germany"
       },
@@ -2183,7 +2271,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "exc + / many more cards",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2282,7 +2370,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Sleeve -> top loader // ask for pictures",
-      "date": 1780370133.4541733,
+      "date": 1781847461.1090772,
       "ended": false,
       "new": false,
       "previous_prices": [

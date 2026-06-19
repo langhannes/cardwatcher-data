@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -138,14 +138,19 @@
       },
       "language": "Japanese",
       "price": 179.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 // Check Out my other Banger Cards Too.",
-      "date": 1780322939.5269425,
-      "ended": false,
+      "date": 1780907494.805002,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780907494.805002
+        ]
+      ],
       "first_date": 1778995725.1442695,
       "last_date": 0.0,
       "price_is_new": false,
@@ -166,7 +171,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780322939.5269425,
+      "date": 1781737406.2388077,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -251,7 +256,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 SEQUENTIAL 057 086 XY9 1ST EDITION",
-      "date": 1780322939.5269425,
+      "date": 1781737406.2388077,
       "ended": false,
       "new": false,
       "previous_prices": [],

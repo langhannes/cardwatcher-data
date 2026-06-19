@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 11,
-  "sold": 0,
+  "available": 7,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -56,7 +56,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Thousands of cards available :)",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -78,14 +78,19 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Ask for pictures",
-      "date": 1780322077.4500647,
-      "ended": false,
+      "date": 1780906831.4033234,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780906831.4033234
+        ]
+      ],
       "first_date": 1778995099.7138247,
       "last_date": 0.0,
       "price_is_new": false,
@@ -102,11 +107,11 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 139.89,
+      "price": 139.88,
       "quantity": 1,
       "condition": "EX",
       "comment": "__ ARCANA __ huge selection_strict grading_we buy cards",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -125,6 +130,10 @@
         [
           160.84,
           1779943691.9765756
+        ],
+        [
+          139.89,
+          1780906831.4033234
         ]
       ],
       "previous_quantities": [],
@@ -140,40 +149,15 @@
       "card": "Tyranitar EX  (XY7 089)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Tyranitar-EX-V2",
       "seller": {
-        "name": "Misterbale",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 139.9,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "A14",
-      "date": 1780322077.4500647,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779122141.836928,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Tyranitar EX  (XY7 089)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Tyranitar-EX-V2",
-      "seller": {
         "name": "Jokerslair",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 169.29,
+      "price": 139.89,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -200,6 +184,14 @@
         [
           145.77,
           1779820354.628924
+        ],
+        [
+          169.29,
+          1780322077.4500647
+        ],
+        [
+          152.36,
+          1780475387.7882586
         ]
       ],
       "previous_quantities": [],
@@ -215,23 +207,58 @@
       "card": "Tyranitar EX  (XY7 089)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Tyranitar-EX-V2",
       "seller": {
-        "name": "Pokepark",
-        "country": "Item location: Netherlands"
+        "name": "Misterbale",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 199.0,
+      "price": 139.9,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "NM",
-      "date": 1780322077.4500647,
+      "condition": "EX",
+      "comment": "A14",
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1778995099.7138247,
+      "first_date": 1779122141.836928,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tyranitar EX  (XY7 089)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Tyranitar-EX-V2",
+      "seller": {
+        "name": "Pokepark",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "NM",
+      "date": 1781643988.9544969,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          199.0,
+          1781471370.6297777
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781643988.9544969
+        ]
+      ],
+      "first_date": 1778995099.7138247,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -244,14 +271,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 229.99,
+      "price": 219.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          229.99,
+          1780322077.4500647
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1778995099.7138247,
       "last_date": 0.0,
@@ -270,14 +302,19 @@
       },
       "language": "Japanese",
       "price": 230.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780322077.4500647,
-      "ended": false,
+      "date": 1781559859.4376144,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781559859.4376144
+        ]
+      ],
       "first_date": 1778995099.7138247,
       "last_date": 0.0,
       "price_is_new": false,
@@ -295,11 +332,11 @@
       },
       "language": "Japanese",
       "price": 389.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 MINT - 1. Edition",
-      "date": 1780322077.4500647,
-      "ended": false,
+      "date": 1780906831.4033234,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -307,7 +344,12 @@
           1780035085.487747
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780906831.4033234
+        ]
+      ],
       "first_date": 1779122141.836928,
       "last_date": 0.0,
       "price_is_new": false,
@@ -328,7 +370,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9!",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -353,11 +395,20 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Unlimited PSA 10",
-      "date": 1780322077.4500647,
+      "date": 1781736494.6637323,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780906831.4033234
+        ],
+        [
+          0,
+          1780906831.4033234
+        ]
+      ],
       "first_date": 1780245549.8894696,
       "last_date": 0.0,
       "price_is_new": false,

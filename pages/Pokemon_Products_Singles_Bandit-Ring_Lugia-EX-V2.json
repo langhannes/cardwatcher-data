@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 9,
-  "sold": 0,
+  "available": 8,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -190,7 +190,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -292,7 +292,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -377,7 +377,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -584,11 +584,11 @@
       },
       "language": "Japanese",
       "price": 279.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1778767260.309596,
-      "ended": true,
+      "date": 1781870171.456252,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -607,6 +607,10 @@
       "previous_quantities": [
         [
           1,
+          1778767260.309596
+        ],
+        [
+          0,
           1778767260.309596
         ]
       ],
@@ -844,7 +848,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "MC135 (Unlimited)",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -896,14 +900,27 @@
       },
       "language": "Japanese",
       "price": 379.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "See scans and check my other cards! Map T1",
-      "date": 1780315769.6069534,
-      "ended": false,
+      "date": 1781629480.9886396,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780545098.7248323
+        ],
+        [
+          0,
+          1780545098.7248323
+        ],
+        [
+          1,
+          1781629480.9886396
+        ]
+      ],
       "first_date": 1776862365.899793,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1020,7 +1037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1189,7 +1206,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 9",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1211,18 +1228,23 @@
       },
       "language": "Japanese",
       "price": 500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 8",
-      "date": 1780315769.6069534,
-      "ended": false,
-      "new": false,
+      "date": 1781728943.8588724,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781728943.8588724
+        ]
+      ],
       "first_date": 1779334951.8824031,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -1465,7 +1487,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1780315769.6069534,
+      "date": 1781870171.456252,
       "ended": false,
       "new": false,
       "previous_prices": [],

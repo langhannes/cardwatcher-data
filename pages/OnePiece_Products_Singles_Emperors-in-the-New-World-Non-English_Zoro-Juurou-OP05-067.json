@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 43,
+  "available": 27,
   "sold": 1,
-  "inserted": 0,
+  "inserted": 3,
   "listings": [
     {
       "card": "Zoro-Juurou (OP05-067)",
@@ -253,11 +253,11 @@
       },
       "language": "S-Chinese",
       "price": 74.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1780309553.1272986,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -289,7 +289,12 @@
           1779176273.5104384
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780309553.1272986
+        ]
+      ],
       "first_date": 1770214639.5295334,
       "last_date": 0.0,
       "price_is_new": false,
@@ -307,14 +312,19 @@
       },
       "language": "Japanese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Not for grading. see photo",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1781439508.1315186,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781439508.1315186
+        ]
+      ],
       "first_date": 1778618978.453239,
       "last_date": 0.0,
       "price_is_new": false,
@@ -663,40 +673,6 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Pascale01",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 88.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve + Top Loader",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1770309399.7852051
-        ],
-        [
-          123.0,
-          1774260780.4429424
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769346023.9392045,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
         "name": "fab2911",
         "country": "Item location: Germany"
       },
@@ -842,11 +818,11 @@
       },
       "language": "S-Chinese",
       "price": 89.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Many Cards Available!",
-      "date": 1780022615.830259,
-      "ended": true,
+      "date": 1781863629.4186485,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -882,12 +858,20 @@
         [
           3,
           1780022615.830259
+        ],
+        [
+          0,
+          1780022615.830259
+        ],
+        [
+          2,
+          1781722379.0027592
         ]
       ],
       "first_date": 1773224187.4215884,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1183,7 +1167,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1246,7 +1230,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1744,31 +1728,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772285605.2957199,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "Alediva03",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779807814.9104764,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2367,11 +2326,11 @@
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2387,11 +2346,45 @@
         [
           0,
           1777744680.5719526
+        ],
+        [
+          1,
+          1780993029.5279617
         ]
       ],
       "first_date": 1769806819.9172497,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Florian1198",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          88.0,
+          1781722379.0027592
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780993029.5279617,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2411,7 +2404,7 @@
       "comment": "Small whitening",
       "date": 1780233024.9489613,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2430,7 +2423,7 @@
       "first_date": 1776724005.6435463,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2519,29 +2512,30 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "KingMaverik",
+        "name": "Alediva03",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 115.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "little white un cut rigth down",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "comment": "",
+      "date": 1780535731.3203974,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
-          144.0,
-          1775768698.3622527
-        ],
-        [
-          120.0,
-          1776914223.4784348
+          100.0,
+          1780426453.7781093
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1771273365.9736488,
+      "previous_quantities": [
+        [
+          1,
+          1780535731.3203974
+        ]
+      ],
+      "first_date": 1779807814.9104764,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2654,11 +2648,11 @@
       },
       "language": "Japanese",
       "price": 118.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1780309553.1272986,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2666,7 +2660,12 @@
           1776724005.6435463
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780309553.1272986
+        ]
+      ],
       "first_date": 1774954449.7992752,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2684,11 +2683,11 @@
       },
       "language": "Japanese",
       "price": 119.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "THE CARDS YOU WANT",
       "date": 1780309553.1272986,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2703,6 +2702,10 @@
         [
           0,
           1779176273.5104384
+        ],
+        [
+          1,
+          1780309553.1272986
         ]
       ],
       "first_date": 1776488736.237555,
@@ -2781,16 +2784,88 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Pascale01",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! perfect. sleeve + top loader",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1770309399.7852051
+        ],
+        [
+          123.0,
+          1774260780.4429424
+        ],
+        [
+          88.0,
+          1781620113.9385343
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781620113.9385343
+        ],
+        [
+          0,
+          1781620113.9385343
+        ]
+      ],
+      "first_date": 1769346023.9392045,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "moonie0619",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Has some white spot and scratches on the back. ask for more picture of the defects",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781722379.0027592,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "Lukman29",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 120.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780535731.3203974,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2801,6 +2876,10 @@
         [
           0,
           1780022615.830259
+        ],
+        [
+          1,
+          1780535731.3203974
         ]
       ],
       "first_date": 1779635737.764849,
@@ -2820,11 +2899,11 @@
       },
       "language": "Japanese",
       "price": 120.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "with Hardcase!",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780426453.7781093,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2832,7 +2911,12 @@
           1778484110.0928648
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780426453.7781093
+        ]
+      ],
       "first_date": 1778484110.0928648,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3267,56 +3351,6 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 124.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          139.99,
-          1777394526.0487502
-        ],
-        [
-          129.94,
-          1778031041.9658692
-        ],
-        [
-          137.86,
-          1778397945.967356
-        ],
-        [
-          129.94,
-          1778911089.7621841
-        ],
-        [
-          122.66,
-          1779407574.3907297
-        ],
-        [
-          129.98,
-          1779931158.4345648
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1770786419.837972,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
         "name": "OrientalCards",
         "country": "Item location: Netherlands"
       },
@@ -3352,11 +3386,11 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3380,9 +3414,56 @@
         [
           0,
           1775828970.1171799
+        ],
+        [
+          1,
+          1780993029.5279617
         ]
       ],
       "first_date": 1774134835.2403924,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "KingMaverik",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 125.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "little white un cut rigth down",
+      "date": 1780993029.5279617,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          144.0,
+          1775768698.3622527
+        ],
+        [
+          120.0,
+          1776914223.4784348
+        ],
+        [
+          115.0,
+          1780885495.4615564
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
+      "first_date": 1771273365.9736488,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3399,14 +3480,19 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780535731.3203974,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780535731.3203974
+        ]
+      ],
       "first_date": 1778397945.967356,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3670,17 +3756,21 @@
       },
       "language": "Japanese",
       "price": 129.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780885495.4615564,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           2,
           1780099894.1618586
+        ],
+        [
+          1,
+          1780885495.4615564
         ]
       ],
       "first_date": 1779807814.9104764,
@@ -3720,59 +3810,16 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "ManaTrust",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 129.95,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1778758270.3108206,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          159.95,
-          1770942518.6726363
-        ],
-        [
-          149.95,
-          1773224187.4215884
-        ],
-        [
-          134.95,
-          1775211307.1838605
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778758270.3108206
-        ]
-      ],
-      "first_date": 1769806819.9172497,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
         "name": "MagicLizard",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 129.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780426453.7781093,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3780,7 +3827,12 @@
           1778484110.0928648
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780426453.7781093
+        ]
+      ],
       "first_date": 1778397945.967356,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3821,44 +3873,6 @@
         ]
       ],
       "first_date": 1775211307.1838605,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "CardMaster23-Arezzo",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 129.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Little white point on back",
-      "date": 1779049214.043792,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777970990.0589218
-        ],
-        [
-          0,
-          1777970990.0589218
-        ],
-        [
-          1,
-          1779049214.043792
-        ]
-      ],
-      "first_date": 1777493940.40039,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3930,11 +3944,11 @@
       },
       "language": "Japanese",
       "price": 130.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3942,88 +3956,13 @@
           1771578892.3038223
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1769159657.7262163,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "shinsu",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 130.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          90.0,
-          1765871441.2736359
-        ],
-        [
-          150.0,
-          1766080152.2837267
-        ],
-        [
-          100.0,
-          1766529300.1336434
-        ],
-        [
-          90.0,
-          1767092031.515517
-        ],
-        [
-          130.0,
-          1767384841.4160824
-        ],
-        [
-          150.0,
-          1768771257.9552336
-        ]
-      ],
       "previous_quantities": [
         [
-          0,
-          1768771257.9552336
+          1,
+          1780993029.5279617
         ]
       ],
-      "first_date": 1765871441.2736359,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "MKSTCG",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 130.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1774134835.2403924,
+      "first_date": 1769159657.7262163,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4352,6 +4291,49 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "MKSTCG",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 135.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1781439508.1315186,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          130.0,
+          1780993029.5279617
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ],
+        [
+          0,
+          1780993029.5279617
+        ],
+        [
+          1,
+          1781439508.1315186
+        ]
+      ],
+      "first_date": 1774134835.2403924,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "AmiBoi",
         "country": "Item location: Germany"
       },
@@ -4568,45 +4550,6 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Enesbkt",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 140.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Ask for pics",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1771465399.814717
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778484110.0928648
-        ],
-        [
-          0,
-          1778484110.0928648
-        ]
-      ],
-      "first_date": 1770734197.607217,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
         "name": "TiendaMulligan",
         "country": "Item location: Spain"
       },
@@ -4746,14 +4689,19 @@
       },
       "language": "Japanese",
       "price": 142.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1781439508.1315186,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781439508.1315186
+        ]
+      ],
       "first_date": 1771331633.487895,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5223,11 +5171,11 @@
       },
       "language": "Japanese",
       "price": 149.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5239,7 +5187,12 @@
           1779176273.5104384
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
       "first_date": 1777584595.9938655,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5387,14 +5340,19 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "MON-0396",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
       "first_date": 1779407574.3907297,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5412,14 +5370,19 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleve+ Top Loader",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
       "first_date": 1769705291.1207385,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5700,12 +5663,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 154.6,
-      "quantity": 1,
+      "price": 154.91,
+      "quantity": 0,
       "condition": "NM",
       "comment": "+Pack Fresh+ +Sleeved+ +Toploader+",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780426453.7781093,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5991,12 +5954,21 @@
         [
           154.52,
           1780233024.9489613
+        ],
+        [
+          154.6,
+          1780309553.1272986
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780426453.7781093
+        ]
+      ],
       "first_date": 1770214639.5295334,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6025,6 +5997,36 @@
       ],
       "previous_quantities": [],
       "first_date": 1767728752.483508,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "enel-san",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 160.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "New seller. Toploader and gift wrapped :)",
+      "date": 1781531570.4204302,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781531570.4204302
+        ]
+      ],
+      "first_date": 1781439508.1315186,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6154,6 +6156,36 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Samet123",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 165.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "--Beautiful Card-- NM+ Ask for pictures",
+      "date": 1781620113.9385343,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781620113.9385343
+        ]
+      ],
+      "first_date": 1781439508.1315186,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "Watari",
         "country": "Item location: France"
       },
@@ -6244,20 +6276,20 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "SedaAA",
-        "country": "Item location: Germany"
+        "name": "mystidrop",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 169.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1780309553.1272986,
+      "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1771895748.2982547,
+      "first_date": 1781722379.0027592,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6302,7 +6334,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6338,11 +6370,11 @@
       },
       "language": "Japanese",
       "price": 170.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ask for pictures",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780535731.3203974,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6354,7 +6386,12 @@
           1770214639.5295334
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780535731.3203974
+        ]
+      ],
       "first_date": 1765871441.2736359,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6514,6 +6551,41 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "OsmDem",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 176.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Cracked PSA 9 - bit of Whitening",
+      "date": 1781722379.0027592,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          192.0,
+          1781531570.4204302
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781722379.0027592
+        ]
+      ],
+      "first_date": 1781531570.4204302,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "IlijaPT",
         "country": "Item location: Italy"
       },
@@ -6547,7 +6619,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "perfect sleeve + toploader",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6594,19 +6666,211 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Black-D-Luffy",
-        "country": "Item location: France"
+        "name": "SedaAA",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781620113.9385343,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          169.0,
+          1780426453.7781093
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781620113.9385343
+        ]
+      ],
+      "first_date": 1771895748.2982547,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "ManaTrust",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 199.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          159.95,
+          1770942518.6726363
+        ],
+        [
+          149.95,
+          1773224187.4215884
+        ],
+        [
+          134.95,
+          1775211307.1838605
+        ],
+        [
+          129.95,
+          1778758270.3108206
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778758270.3108206
+        ],
+        [
+          0,
+          1778758270.3108206
+        ]
+      ],
+      "first_date": 1769806819.9172497,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "NanoCartas",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781362653.543717,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "CardMaster23-Arezzo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Little white point on back",
+      "date": 1781362653.543717,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          129.99,
+          1779049214.043792
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777970990.0589218
+        ],
+        [
+          0,
+          1777970990.0589218
+        ],
+        [
+          1,
+          1779049214.043792
+        ],
+        [
+          0,
+          1779049214.043792
+        ],
+        [
+          1,
+          1781362653.543717
+        ]
+      ],
+      "first_date": 1777493940.40039,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "IL-REGNO",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Toploader (Handover in paris if u want)",
-      "date": 1780309553.1272986,
+      "comment": "nm-",
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1781620113.9385343,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Black-D-Luffy",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Toploader (Handover in paris if u want)",
+      "date": 1780535731.3203974,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780535731.3203974
+        ]
+      ],
       "first_date": 1769979042.7000544,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6652,53 +6916,6 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "[BGS 9.5]",
-      "date": 1778031041.9658692,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          143.99,
-          1769979042.7000544
-        ],
-        [
-          400.0,
-          1770942518.6726363
-        ],
-        [
-          214.99,
-          1776914223.4784348
-        ],
-        [
-          119.89,
-          1777584595.9938655
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778031041.9658692
-        ]
-      ],
-      "first_date": 1769979042.7000544,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "GS-GameOn",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 214.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "[BGS 9.5]",
       "date": 1777584595.9938655,
       "ended": true,
       "new": false,
@@ -6710,6 +6927,56 @@
         ]
       ],
       "first_date": 1776981571.341378,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "jktribe",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 220.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ask for more pictures. From pack Sleeve+ rigid case",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781362653.543717,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Sommuh",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 225.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781620113.9385343,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6858,7 +7125,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6867,7 +7134,16 @@
           1779728295.1437173
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780309553.1272986
+        ],
+        [
+          0,
+          1780309553.1272986
+        ]
+      ],
       "first_date": 1779555558.8445761,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6888,7 +7164,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6910,14 +7186,19 @@
       },
       "language": "Japanese",
       "price": 249.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
       "first_date": 1777584595.9938655,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6955,6 +7236,124 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Enesbkt",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for pics",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1771465399.814717
+        ],
+        [
+          140.0,
+          1780993029.5279617
+        ],
+        [
+          170.0,
+          1781531570.4204302
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778484110.0928648
+        ],
+        [
+          0,
+          1778484110.0928648
+        ]
+      ],
+      "first_date": 1770734197.607217,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "shinsu",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          90.0,
+          1765871441.2736359
+        ],
+        [
+          150.0,
+          1766080152.2837267
+        ],
+        [
+          100.0,
+          1766529300.1336434
+        ],
+        [
+          90.0,
+          1767092031.515517
+        ],
+        [
+          130.0,
+          1767384841.4160824
+        ],
+        [
+          150.0,
+          1768771257.9552336
+        ],
+        [
+          130.0,
+          1780309553.1272986
+        ],
+        [
+          200.0,
+          1781620113.9385343
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1768771257.9552336
+        ],
+        [
+          1,
+          1780309553.1272986
+        ],
+        [
+          0,
+          1780309553.1272986
+        ]
+      ],
+      "first_date": 1765871441.2736359,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "HiasP",
         "country": "Item location: Germany"
       },
@@ -6974,87 +7373,6 @@
         ]
       ],
       "first_date": 1776914223.4784348,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "Glepoke",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 254.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "schneller Versand Beckett 9.5",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          280.0,
-          1774260780.4429424
-        ],
-        [
-          240.0,
-          1774652352.3619812
-        ],
-        [
-          219.0,
-          1779482264.842067
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1779635737.764849
-        ],
-        [
-          0,
-          1779635737.764849
-        ]
-      ],
-      "first_date": 1771223951.9686909,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
-        "name": "AbiTv85",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 254.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "BGS 9.5",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          260.0,
-          1774410638.5109608
-        ],
-        [
-          255.0,
-          1779635737.764849
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1774134835.2403924,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7108,6 +7426,65 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Glepoke",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 274.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "schneller Versand Beckett 9.5",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          280.0,
+          1774260780.4429424
+        ],
+        [
+          240.0,
+          1774652352.3619812
+        ],
+        [
+          219.0,
+          1779482264.842067
+        ],
+        [
+          254.0,
+          1780993029.5279617
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779635737.764849
+        ],
+        [
+          0,
+          1779635737.764849
+        ],
+        [
+          1,
+          1781362653.543717
+        ],
+        [
+          0,
+          1781362653.543717
+        ]
+      ],
+      "first_date": 1771223951.9686909,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "shinyverse",
         "country": "Item location: Greece"
       },
@@ -7135,6 +7512,45 @@
       ],
       "previous_quantities": [],
       "first_date": 1771420067.3595018,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "BuiBui",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 299.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 10 Graded !",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1778127332.3398194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778127332.3398194
+        ],
+        [
+          0,
+          1778127332.3398194
+        ]
+      ],
+      "first_date": 1765871441.2736359,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7519,6 +7935,84 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 328.04,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          139.99,
+          1777394526.0487502
+        ],
+        [
+          129.94,
+          1778031041.9658692
+        ],
+        [
+          137.86,
+          1778397945.967356
+        ],
+        [
+          129.94,
+          1778911089.7621841
+        ],
+        [
+          122.66,
+          1779407574.3907297
+        ],
+        [
+          129.98,
+          1779931158.4345648
+        ],
+        [
+          124.99,
+          1780309553.1272986
+        ],
+        [
+          119.99,
+          1780426453.7781093
+        ],
+        [
+          124.99,
+          1780535731.3203974
+        ],
+        [
+          119.99,
+          1780885495.4615564
+        ],
+        [
+          299.98,
+          1781362653.543717
+        ],
+        [
+          449.99,
+          1781620113.9385343
+        ],
+        [
+          404.99,
+          1781722379.0027592
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770786419.837972,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "TradingCardClub-TCC",
         "country": "Item location: United Kingdom"
       },
@@ -7624,48 +8118,6 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Alestefa2000",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 339.99,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Psa 10-fast shipping-ask for more pics",
-      "date": 1780309553.1272986,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          199.99,
-          1765871441.2736359
-        ],
-        [
-          349.99,
-          1768771257.9552336
-        ],
-        [
-          379.99,
-          1770942518.6726363
-        ],
-        [
-          349.99,
-          1771578892.3038223
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1765871441.2736359,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (OP05-067)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
-      "seller": {
         "name": "Cla2101",
         "country": "Item location: Italy"
       },
@@ -7735,22 +8187,81 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "BuiBui",
+        "name": "AbiTv85",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 349.99,
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9.5",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          260.0,
+          1774410638.5109608
+        ],
+        [
+          255.0,
+          1779635737.764849
+        ],
+        [
+          254.0,
+          1781722379.0027592
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1774134835.2403924,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Alestefa2000",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 359.99,
       "quantity": 0,
       "condition": "MT",
-      "comment": "AOG 10 Graded Pristine !!",
-      "date": 1778127332.3398194,
+      "comment": "Psa 10-fast shipping-ask for more pics",
+      "date": 1780993029.5279617,
       "ended": true,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          199.99,
+          1765871441.2736359
+        ],
+        [
+          349.99,
+          1768771257.9552336
+        ],
+        [
+          379.99,
+          1770942518.6726363
+        ],
+        [
+          349.99,
+          1771578892.3038223
+        ],
+        [
+          339.99,
+          1780535731.3203974
+        ]
+      ],
       "previous_quantities": [
         [
           1,
-          1778127332.3398194
+          1780993029.5279617
         ]
       ],
       "first_date": 1765871441.2736359,
@@ -7790,16 +8301,46 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "GemCardsIT",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 380.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1780993029.5279617,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
+      "first_date": 1780993029.5279617,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "mattia-susta",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 380.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780885495.4615564,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7807,7 +8348,12 @@
           1779807814.9104764
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780885495.4615564
+        ]
+      ],
       "first_date": 1779176273.5104384,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7900,16 +8446,46 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
+        "name": "Manawebsrls",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 395.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1780993029.5279617,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
+      "first_date": 1780535731.3203974,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
         "name": "P4anic",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7917,7 +8493,12 @@
           1779931158.4345648
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
       "first_date": 1769502000.578176,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7985,20 +8566,30 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "boske20",
-        "country": "Item location: Belgium"
+        "name": "Peppegre",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "PSA10 FAST SHIPMENT",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "comment": "PSA10",
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776488736.237555,
+      "previous_prices": [
+        [
+          480.0,
+          1771223951.9686909
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780993029.5279617
+        ]
+      ],
+      "first_date": 1769705291.1207385,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8010,25 +8601,25 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Peppegre",
+        "name": "Manawebsrls",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 400.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA10",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1780426453.7781093,
+      "ended": true,
       "new": false,
-      "previous_prices": [
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          480.0,
-          1771223951.9686909
+          1,
+          1780426453.7781093
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1769705291.1207385,
+      "first_date": 1780426453.7781093,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8070,16 +8661,101 @@
       "card": "Zoro-Juurou (OP05-067)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
       "seller": {
-        "name": "Barboneludopatico96",
+        "name": "boske20",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 433.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10 FAST SHIPMENT",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1780993029.5279617
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776488736.237555,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "GS-GameOn",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 450.0,
       "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! [PSA 10.0]",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          143.99,
+          1769979042.7000544
+        ],
+        [
+          400.0,
+          1770942518.6726363
+        ],
+        [
+          214.99,
+          1776914223.4784348
+        ],
+        [
+          119.89,
+          1777584595.9938655
+        ],
+        [
+          214.99,
+          1778031041.9658692
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778031041.9658692
+        ],
+        [
+          0,
+          1778031041.9658692
+        ]
+      ],
+      "first_date": 1769979042.7000544,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Barboneludopatico96",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 450.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Beckett BGS 10 Pics in DM.",
-      "date": 1780309553.1272986,
-      "ended": false,
+      "date": 1780993029.5279617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8123,9 +8799,63 @@
         [
           0,
           1779931158.4345648
+        ],
+        [
+          1,
+          1780993029.5279617
         ]
       ],
       "first_date": 1768771257.9552336,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "MekoCJ",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 499.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10 Gem mint",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781362653.543717,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (OP05-067)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Zoro-Juurou-OP05-067",
+      "seller": {
+        "name": "Maxi-Card",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 499.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781863629.4186485,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781863629.4186485,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8213,7 +8943,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780309553.1272986,
+      "date": 1781863629.4186485,
       "ended": false,
       "new": false,
       "previous_prices": [],

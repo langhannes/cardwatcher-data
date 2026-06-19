@@ -9,7 +9,7 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 19,
+  "available": 16,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -102,11 +102,11 @@
       },
       "language": "S-Chinese",
       "price": 248.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved + top loader",
       "date": 1780351839.5063581,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -150,10 +150,15 @@
           1780275249.9598374
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780351839.5063581
+        ]
+      ],
       "first_date": 1765525269.120548,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -168,11 +173,11 @@
       },
       "language": "S-Chinese",
       "price": 249.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "SEALED",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1780497722.5543678,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -183,6 +188,10 @@
         [
           0,
           1778801856.3208387
+        ],
+        [
+          1,
+          1780497722.5543678
         ]
       ],
       "first_date": 1777913871.7589405,
@@ -232,11 +241,11 @@
       },
       "language": "S-Chinese",
       "price": 255.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed; ask for more pictures",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1781400687.09614,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -276,6 +285,10 @@
         [
           0,
           1779518784.8023407
+        ],
+        [
+          1,
+          1781400687.09614
         ]
       ],
       "first_date": 1769097687.1383643,
@@ -304,40 +317,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1761774285.69904,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP01-070)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
-      "seller": {
-        "name": "VDEUUS",
-        "country": "Item location: Switzerland"
-      },
-      "language": "S-Chinese",
-      "price": 280.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "rarer than japanese. SELAED",
-      "date": 1780351839.5063581,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          269.0,
-          1778451607.7003121
-        ],
-        [
-          248.0,
-          1780181883.8060925
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1776464315.0341918,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -393,48 +372,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1740082647.3574793,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP01-070)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
-      "seller": {
-        "name": "SHANKES",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 329.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "As Picture Shows. ASK for more Pictures. Backside also good",
-      "date": 1780351839.5063581,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          325.0,
-          1769347679.0656018
-        ],
-        [
-          525.0,
-          1769855332.480649
-        ],
-        [
-          425.0,
-          1769954697.3683977
-        ],
-        [
-          395.0,
-          1771441514.1520247
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1768771287.7900145,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -603,16 +540,54 @@
       "card": "Dracule Mihawk (OP01-070)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
       "seller": {
+        "name": "VDEUUS",
+        "country": "Item location: Switzerland"
+      },
+      "language": "S-Chinese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "rarer than japanese. SEALED",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          269.0,
+          1778451607.7003121
+        ],
+        [
+          248.0,
+          1780181883.8060925
+        ],
+        [
+          280.0,
+          1781492745.7933578
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776464315.0341918,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
         "name": "dragonexis",
         "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1780954127.1848626,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -623,6 +598,10 @@
         [
           0,
           1779450938.2243128
+        ],
+        [
+          1,
+          1780954127.1848626
         ]
       ],
       "first_date": 1778266553.1575878,
@@ -715,6 +694,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1736841978.46108,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
+        "name": "TyzefTCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 370.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781323781.1068025,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1137,19 +1141,70 @@
       "card": "Dracule Mihawk (OP01-070)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
       "seller": {
+        "name": "SHANKES",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 469.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "As Picture Shows. ASK for more Pictures. Backside also good",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          325.0,
+          1769347679.0656018
+        ],
+        [
+          525.0,
+          1769855332.480649
+        ],
+        [
+          425.0,
+          1769954697.3683977
+        ],
+        [
+          395.0,
+          1771441514.1520247
+        ],
+        [
+          329.0,
+          1780954127.1848626
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1768771287.7900145,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
         "name": "TheTCG",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 474.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "SEALED - For Asia",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1781492745.7933578,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781492745.7933578
+        ]
+      ],
       "first_date": 1779849582.1550581,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1247,14 +1302,19 @@
       },
       "language": "Japanese",
       "price": 499.94,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "[BGS 9.5] ONE PIECE 0002 - 0048",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1781323781.1068025,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781323781.1068025
+        ]
+      ],
       "first_date": 1765525269.120548,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1272,11 +1332,11 @@
       },
       "language": "Japanese",
       "price": 499.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "For Asia - R.P. - 77 - Photos available on Rising Phoenix Ebay store!",
-      "date": 1778451607.7003121,
-      "ended": true,
+      "date": 1781764887.045285,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1287,6 +1347,10 @@
       "previous_quantities": [
         [
           1,
+          1778451607.7003121
+        ],
+        [
+          0,
           1778451607.7003121
         ]
       ],
@@ -1520,7 +1584,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Flahship WINNER. rarer than jap. CCIC PERFECT",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1544,8 +1608,8 @@
       "price": 550.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed - Toploader (Handover in paris if u want)",
-      "date": 1780351839.5063581,
+      "comment": "Sealed FOR ASIA - Toploader (Handover in paris if u want)",
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1671,40 +1735,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1768771287.7900145,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP01-070)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
-      "seller": {
-        "name": "DrakulMihawk",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "GRAAD 10 For Asia",
-      "date": 1780351839.5063581,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          600.0,
-          1778586463.986503
-        ],
-        [
-          550.0,
-          1779014747.6330469
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1778266553.1575878,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2145,6 +2175,31 @@
       "card": "Dracule Mihawk (OP01-070)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
       "seller": {
+        "name": "Karten-Dschungel",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 800.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5 - G7",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781581247.9523537,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
         "name": "Nghoang94",
         "country": "Item location: Germany"
       },
@@ -2230,11 +2285,11 @@
       },
       "language": "Japanese",
       "price": 840.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "AOG10",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1780497722.5543678,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2266,11 +2321,15 @@
         [
           0,
           1777617807.1561637
+        ],
+        [
+          1,
+          1780497722.5543678
         ]
       ],
       "first_date": 1727683378.3816755,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2288,12 +2347,75 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10 PRISTINE",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779518784.8023407,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
+        "name": "SkxnK",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 850.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9.5",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781665382.9249973,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
+        "name": "DrakulMihawk",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 850.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "GRAAD 10 For Asia",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1778586463.986503
+        ],
+        [
+          550.0,
+          1779014747.6330469
+        ],
+        [
+          650.0,
+          1781581247.9523537
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778266553.1575878,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2374,11 +2496,11 @@
       },
       "language": "Japanese",
       "price": 920.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "For japan psa10",
-      "date": 1780351839.5063581,
-      "ended": false,
+      "date": 1780954127.1848626,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2390,7 +2512,12 @@
           1779849582.1550581
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780954127.1848626
+        ]
+      ],
       "first_date": 1778801856.3208387,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2618,31 +2745,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1721370128.5186641,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP01-070)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
-      "seller": {
-        "name": "TimurMihawk",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1780351839.5063581,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776185689.8468184,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2923,6 +3025,36 @@
       "card": "Dracule Mihawk (OP01-070)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
       "seller": {
+        "name": "TimurMihawk",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          1781581247.9523537
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776185689.8468184,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
         "name": "Phoenix93711",
         "country": "Item location: Germany"
       },
@@ -2931,7 +3063,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2981,7 +3113,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 japanese!",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3074,7 +3206,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3162,7 +3294,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10 - For Japan",
-      "date": 1780351839.5063581,
+      "date": 1781764887.045285,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3203,6 +3335,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1727683378.3816755,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
+        "name": "thunder-tcg",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 2999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781764887.045285,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781665382.9249973,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

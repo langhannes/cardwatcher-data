@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 7,
-  "sold": 1,
-  "inserted": 1,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Charizard (BW7 077)",
@@ -360,7 +360,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -479,9 +479,9 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B9",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780318674.6554627,
@@ -748,7 +748,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 5 DIFFERENZBESTEUERT",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -857,7 +857,7 @@
       "comment": "",
       "date": 1780242150.163037,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           800.0,
@@ -885,7 +885,7 @@
       "first_date": 1765525376.5796154,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -991,36 +991,6 @@
       "archived": false
     },
     {
-      "card": "Charizard  (BW7 077)",
-      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
-      "seller": {
-        "name": "CologneBricks",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1499.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 7 POP 30",
-      "date": 1780318674.6554627,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1899.0,
-          774153.114
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1740082770.3059225,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
       "card": "Charizard (BW7 077)",
       "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
       "seller": {
@@ -1057,7 +1027,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 6 ig: tcgcollector19",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1221,6 +1191,49 @@
       "card": "Charizard  (BW7 077)",
       "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
       "seller": {
+        "name": "CologneBricks",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4999.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 7 POP 30",
+      "date": 1781874102.7186337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1899.0,
+          774153.114
+        ],
+        [
+          1499.0,
+          1781641385.0393813
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780318674.6554627
+        ],
+        [
+          0,
+          1780318674.6554627
+        ]
+      ],
+      "first_date": 1740082770.3059225,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (BW7 077)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
+      "seller": {
         "name": "cricritotof89",
         "country": "Item location: France"
       },
@@ -1259,7 +1272,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 More Photos and Vidéos in private message",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1293,7 +1306,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Unlimited PSA10 More Photos and Vidéos in private message",
-      "date": 1780318674.6554627,
+      "date": 1781874102.7186337,
       "ended": false,
       "new": false,
       "previous_prices": [

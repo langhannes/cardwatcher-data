@@ -10,7 +10,7 @@
   ],
   "only_germany": "False",
   "available": 15,
-  "sold": 0,
+  "sold": 1,
   "inserted": 1,
   "listings": [
     {
@@ -174,11 +174,11 @@
       },
       "language": "Japanese",
       "price": 2099.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "For Asia. Booster -> Toploader",
-      "date": 1780298336.2101574,
-      "ended": false,
+      "date": 1780403605.215799,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -197,6 +197,10 @@
         [
           0,
           1779031893.0483277
+        ],
+        [
+          1,
+          1780403605.215799
         ]
       ],
       "first_date": 1773691231.7317927,
@@ -322,7 +326,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#109/256",
-      "date": 1780298336.2101574,
+      "date": 1781850719.9543936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -403,14 +407,19 @@
       },
       "language": "Japanese",
       "price": 2499.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "for asia n84 little scratch on back",
-      "date": 1780298336.2101574,
-      "ended": false,
+      "date": 1780866424.825843,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780866424.825843
+        ]
+      ],
       "first_date": 1779796286.3927767,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1340,31 +1349,6 @@
       "card": "Shanks (OP01-120)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
       "seller": {
-        "name": "PokeBoxGarage",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 3600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 10 - #709 - Ask for photo",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1766529328.683082,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP01-120)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
-      "seller": {
         "name": "Solenya0303",
         "country": "Item location: Switzerland"
       },
@@ -1373,7 +1357,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 for Asia #813",
-      "date": 1780298336.2101574,
+      "date": 1781850719.9543936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1400,6 +1384,36 @@
       ],
       "previous_quantities": [],
       "first_date": 1711446393.8092225,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "PokeBoxGarage",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 3600.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10 - #709 - Ask for photo",
+      "date": 1780973932.8152509,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780973932.8152509
+        ]
+      ],
+      "first_date": 1766529328.683082,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1659,6 +1673,31 @@
       "card": "Shanks (OP01-120)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
       "seller": {
+        "name": "KushtrimYami",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5 Strong (New Label) 0289/1065 Asia",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781850719.9543936,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
         "name": "Giorghee",
         "country": "Item location: Spain"
       },
@@ -1678,169 +1717,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1714742610.9824686,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP01-120)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
-      "seller": {
-        "name": "fferra-exe",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 5000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "psa 10 for japan",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          7000.0,
-          0.0
-        ],
-        [
-          4000.0,
-          0.0
-        ],
-        [
-          5000.0,
-          0.0
-        ],
-        [
-          3000.0,
-          1764930619.7969632
-        ],
-        [
-          5000.0,
-          1768164560.7621999
-        ],
-        [
-          6000.0,
-          1769162230.0929823
-        ],
-        [
-          6500.0,
-          1770196090.8307762
-        ],
-        [
-          7000.0,
-          1772591348.644046
-        ],
-        [
-          5000.0,
-          1775642057.6639874
-        ],
-        [
-          4500.0,
-          1779158976.7728517
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777410326.632735
-        ],
-        [
-          0,
-          1777410326.632735
-        ]
-      ],
-      "first_date": 1730792285.897236,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP01-120)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
-      "seller": {
-        "name": "MrBlendy",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 5000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed- I have a few more",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          5000.0,
-          1770290382.1196246
-        ],
-        [
-          4500.0,
-          1772744053.1119368
-        ],
-        [
-          4000.0,
-          1773749812.1765876
-        ],
-        [
-          3499.0,
-          1773813992.768152
-        ],
-        [
-          3300.0,
-          1774996644.0815108
-        ],
-        [
-          3200.0,
-          1777982622.445311
-        ],
-        [
-          4000.0,
-          1778177789.3669841
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1770196090.8307762,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP01-120)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
-      "seller": {
-        "name": "Na1a007",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 5000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed - for Asia - Ace also available",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3500.0,
-          0.0
-        ],
-        [
-          4000.0,
-          1768164560.7621999
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1730792285.897236,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1881,11 +1757,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 5351.25,
+      "price": 5340.17,
       "quantity": 1,
       "condition": "MT",
-      "comment": "psa 10 /1600 for japan",
-      "date": 1780298336.2101574,
+      "comment": "psa 10 607/1600 for japan",
+      "date": 1781850719.9543936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1896,12 +1772,140 @@
         [
           5348.47,
           1780221833.4278216
+        ],
+        [
+          5351.25,
+          1780298336.2101574
+        ],
+        [
+          5362.1,
+          1780403605.215799
+        ],
+        [
+          5367.38,
+          1780516654.438791
+        ],
+        [
+          5364.88,
+          1780866424.825843
+        ],
+        [
+          5360.24,
+          1780973932.8152509
+        ],
+        [
+          5372.06,
+          1781420455.0563896
+        ],
+        [
+          5373.31,
+          1781512512.8117397
+        ],
+        [
+          5363.67,
+          1781601023.8939426
+        ],
+        [
+          5359.32,
+          1781709436.989467
         ]
       ],
       "previous_quantities": [],
       "first_date": 1780088719.8726246,
       "last_date": 0.0,
       "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "MrBlendy",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 5500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed- I have a few more",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          5000.0,
+          1770290382.1196246
+        ],
+        [
+          4500.0,
+          1772744053.1119368
+        ],
+        [
+          4000.0,
+          1773749812.1765876
+        ],
+        [
+          3499.0,
+          1773813992.768152
+        ],
+        [
+          3300.0,
+          1774996644.0815108
+        ],
+        [
+          3200.0,
+          1777982622.445311
+        ],
+        [
+          4000.0,
+          1778177789.3669841
+        ],
+        [
+          5000.0,
+          1781512512.8117397
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770196090.8307762,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "Lica90",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 5500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa10",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          8000.0,
+          1780973932.8152509
+        ],
+        [
+          5000.0,
+          1781420455.0563896
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780866424.825843,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1950,27 +1954,197 @@
       "card": "Shanks (OP01-120)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
       "seller": {
-        "name": "Volgar0",
-        "country": "Item location: France"
+        "name": "sangennarocards",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 5800.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA10 - 0138",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781343581.6170094,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "Jpajo",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 5999.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Bgs 10 for japan",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          13999.99,
+          0.0
+        ],
+        [
+          11999.99,
+          0.0
+        ],
+        [
+          10999.99,
+          0.0
+        ],
+        [
+          9999.99,
+          0.0
+        ],
+        [
+          8999.99,
+          0.0
+        ],
+        [
+          9999.99,
+          1718097319.1360416
+        ],
+        [
+          13999.99,
+          1781343581.6170094
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1711446393.8092225,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "fferra-exe",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 6000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Bgs for asia 9.5 open to offer",
-      "date": 1780298336.2101574,
+      "comment": "psa 10 for japan",
+      "date": 1781850719.9543936,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          10000.0,
-          1778894052.6386063
+          7000.0,
+          0.0
+        ],
+        [
+          4000.0,
+          0.0
+        ],
+        [
+          5000.0,
+          0.0
+        ],
+        [
+          3000.0,
+          1764930619.7969632
+        ],
+        [
+          5000.0,
+          1768164560.7621999
+        ],
+        [
+          6000.0,
+          1769162230.0929823
+        ],
+        [
+          6500.0,
+          1770196090.8307762
+        ],
+        [
+          7000.0,
+          1772591348.644046
+        ],
+        [
+          5000.0,
+          1775642057.6639874
+        ],
+        [
+          4500.0,
+          1779158976.7728517
+        ],
+        [
+          5000.0,
+          1780516654.438791
+        ],
+        [
+          7000.0,
+          1780866424.825843
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777410326.632735
+        ],
+        [
+          0,
+          1777410326.632735
+        ]
+      ],
+      "first_date": 1730792285.897236,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "Na1a007",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 6000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed - for Asia - Ace also available",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3500.0,
+          0.0
+        ],
+        [
+          4000.0,
+          1768164560.7621999
+        ],
+        [
+          5000.0,
+          1781709436.989467
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1778741256.7829332,
+      "first_date": 1730792285.897236,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1985,14 +2159,19 @@
       },
       "language": "Japanese",
       "price": 6000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 10 For Asia - Number 628",
       "date": 1780298336.2101574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780298336.2101574
+        ]
+      ],
       "first_date": 1780088719.8726246,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2019,6 +2198,70 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1724669172.173465,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 6499.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Differenzbesteuert - PSA10 - FOR ASIA - Fast Secured Shipping",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781343581.6170094,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "Volgar0",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 7000.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Bgs for asia 9.5 open to offer",
+      "date": 1781420455.0563896,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          10000.0,
+          1778894052.6386063
+        ],
+        [
+          6000.0,
+          1780516654.438791
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781420455.0563896
+        ]
+      ],
+      "first_date": 1778741256.7829332,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2129,18 +2372,23 @@
       },
       "language": "Japanese",
       "price": 8000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "FOR JAPAN / PSA 10 / number 0230 on 1600",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
+      "date": 1781709436.989467,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781709436.989467
+        ]
+      ],
       "first_date": 1771354189.7083066,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2154,11 +2402,11 @@
       },
       "language": "Japanese",
       "price": 8500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10 for Asia. Trade offers accepted",
-      "date": 1780298336.2101574,
-      "ended": false,
+      "date": 1780973932.8152509,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2182,7 +2430,12 @@
           1768164560.7621999
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780973932.8152509
+        ]
+      ],
       "first_date": 1720782267.762143,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2245,6 +2498,61 @@
       "card": "Shanks (OP01-120)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
       "seller": {
+        "name": "thunder-tcg",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 9999.0,
+      "quantity": 3,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781850719.9543936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781709436.989467,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
+        "name": "TCG-FAM",
+        "country": "Item location: Slovenia"
+      },
+      "language": "S-Chinese",
+      "price": 10000.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "BECKETT 10 pristine 0452",
+      "date": 1780516654.438791,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780516654.438791
+        ]
+      ],
+      "first_date": 1780403605.215799,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP01-120)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
+      "seller": {
         "name": "Berkan",
         "country": "Item location: Germany"
       },
@@ -2283,7 +2591,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10.japan (/1600).from Italy",
-      "date": 1780298336.2101574,
+      "date": 1781850719.9543936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2348,56 +2656,6 @@
       },
       "language": "Japanese",
       "price": 13999.99,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Bgs 10 for japan  open for offers",
-      "date": 1780298336.2101574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          13999.99,
-          0.0
-        ],
-        [
-          11999.99,
-          0.0
-        ],
-        [
-          10999.99,
-          0.0
-        ],
-        [
-          9999.99,
-          0.0
-        ],
-        [
-          8999.99,
-          0.0
-        ],
-        [
-          9999.99,
-          1718097319.1360416
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1711446393.8092225,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP01-120)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Shanks-OP01-120",
-      "seller": {
-        "name": "Jpajo",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 13999.99,
       "quantity": 0,
       "condition": "MT",
       "comment": "Bgs 10 for japan  open for offers",
@@ -2448,11 +2706,11 @@
       },
       "language": "Japanese",
       "price": 15000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "RELISTED! BGS 10 0044/1600",
-      "date": 1780298336.2101574,
-      "ended": false,
+      "comment": "BGS 10 0044/1600",
+      "date": 1780516654.438791,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2468,12 +2726,16 @@
         [
           0,
           1777203087.9442291
+        ],
+        [
+          1,
+          1780516654.438791
         ]
       ],
       "first_date": 1773691231.7317927,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true
@@ -2546,17 +2808,29 @@
       },
       "language": "Japanese",
       "price": 100000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "NON-SERIAL-SERIAL ERROR Print",
-      "date": 1780298336.2101574,
-      "ended": false,
+      "comment": "RELISTED! NON-SERIAL-SERIAL ERROR Print",
+      "date": 1780866424.825843,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           0,
           1776937415.658198
+        ],
+        [
+          1,
+          1780298336.2101574
+        ],
+        [
+          0,
+          1780298336.2101574
+        ],
+        [
+          1,
+          1780866424.825843
         ]
       ],
       "first_date": 1769855754.762502,

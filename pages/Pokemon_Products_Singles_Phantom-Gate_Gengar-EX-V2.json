@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
-  "sold": 0,
+  "available": 2,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -466,36 +466,6 @@
       "card": "Gengar EX  (XY4 090)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
       "seller": {
-        "name": "BACKINGAME",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 599.0,
-      "quantity": 0,
-      "condition": "GD",
-      "comment": "cl",
-      "date": 1778169723.941028,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778169723.941028
-        ]
-      ],
-      "first_date": 1764588803.6463687,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Gengar EX  (XY4 090)",
-      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
-      "seller": {
         "name": "Sergius223",
         "country": "Item location: Spain"
       },
@@ -766,21 +736,73 @@
       "card": "Gengar EX  (XY4 090)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
       "seller": {
+        "name": "BACKINGAME",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1300.0,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "RELISTED! cl",
+      "date": 1781675342.471284,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          599.0,
+          1778169723.941028
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778169723.941028
+        ],
+        [
+          0,
+          1778169723.941028
+        ],
+        [
+          1,
+          1781675342.471284
+        ]
+      ],
+      "first_date": 1764588803.6463687,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
         "name": "CHellaStore",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 1299.95,
-      "quantity": 0,
+      "price": 1499.95,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "C1-035. small whitening send in toploader",
-      "date": 1778808690.1414258,
-      "ended": true,
+      "comment": "A1-014. send in toploader",
+      "date": 1781777589.3044696,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          1299.95,
+          1778808690.1414258
+        ]
+      ],
       "previous_quantities": [
         [
           1,
+          1778808690.1414258
+        ],
+        [
+          0,
           1778808690.1414258
         ]
       ],
@@ -789,6 +811,36 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "CHellaStore",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1499.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "A1-014. send in toploader",
+      "date": 1781410635.0003917,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781410635.0003917
+        ]
+      ],
+      "first_date": 1781333748.6757388,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -829,7 +881,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1780364209.2706525,
+      "date": 1781777589.3044696,
       "ended": false,
       "new": false,
       "previous_prices": [],

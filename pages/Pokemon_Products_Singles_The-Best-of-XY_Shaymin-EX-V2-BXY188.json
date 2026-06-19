@@ -11,7 +11,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -188,11 +188,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 416.2,
+      "price": 415.34,
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1780305799.362966,
+      "date": 1781858535.079474,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -203,6 +203,42 @@
         [
           415.98,
           1780229273.2508612
+        ],
+        [
+          416.2,
+          1780305799.362966
+        ],
+        [
+          417.04,
+          1780411010.6878493
+        ],
+        [
+          417.46,
+          1780528344.0497942
+        ],
+        [
+          417.26,
+          1780878119.0749
+        ],
+        [
+          416.9,
+          1780985637.8843632
+        ],
+        [
+          417.82,
+          1781432136.9808695
+        ],
+        [
+          417.92,
+          1781524188.5005038
+        ],
+        [
+          417.17,
+          1781612722.934553
+        ],
+        [
+          416.83,
+          1781717275.909045
         ]
       ],
       "previous_quantities": [],
@@ -337,15 +373,25 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 3750.0,
-      "quantity": 1,
+      "price": 3399.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 dm for pics",
-      "date": 1780305799.362966,
-      "ended": false,
+      "date": 1780985637.8843632,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
+      "previous_prices": [
+        [
+          3750.0,
+          1780528344.0497942
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780985637.8843632
+        ]
+      ],
       "first_date": 1779804062.6843975,
       "last_date": 0.0,
       "price_is_new": false,
@@ -363,17 +409,21 @@
       },
       "language": "Japanese",
       "price": 3999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast Shipping || PSA10 141570666 differenzbesteuert",
-      "date": 1780305799.362966,
-      "ended": false,
+      "date": 1780528344.0497942,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           0,
           1776979732.2715478
+        ],
+        [
+          1,
+          1780528344.0497942
         ]
       ],
       "first_date": 1776296491.6140256,

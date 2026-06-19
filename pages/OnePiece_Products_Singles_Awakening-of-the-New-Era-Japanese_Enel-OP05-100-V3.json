@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 52,
-  "sold": 1,
-  "inserted": 1,
+  "available": 53,
+  "sold": 4,
+  "inserted": 2,
   "listings": [
     {
       "card": "Enel (OP05-100) (V.3)",
@@ -289,18 +289,23 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Whitening am oberen Rand",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
+      "date": 1781655517.6477258,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781655517.6477258
+        ]
+      ],
       "first_date": 1779837598.7944772,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -364,6 +369,52 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "chillyjames",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "S-Chinese",
+      "price": 53.59,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          59.64,
+          1780487751.0030842
+        ],
+        [
+          59.61,
+          1780944213.8411727
+        ],
+        [
+          59.69,
+          1781482889.715387
+        ],
+        [
+          59.6,
+          1781571389.1881819
+        ],
+        [
+          53.64,
+          1781655517.6477258
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780487751.0030842,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "Multiface",
         "country": "Item location: France"
       },
@@ -402,7 +453,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "rarer than japanese. shipping in toploader",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -532,11 +583,11 @@
       },
       "language": "S-Chinese",
       "price": 57.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1781571389.1881819,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -552,6 +603,10 @@
         [
           0,
           1778793324.480949
+        ],
+        [
+          1,
+          1781571389.1881819
         ]
       ],
       "first_date": 1772956204.2673407,
@@ -630,16 +685,104 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "G-tano",
-        "country": "Item location: Spain"
+        "name": "KistenKai90",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 60.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          66.0,
+          1779678312.919368
+        ],
+        [
+          63.0,
+          1779758062.7232707
+        ],
+        [
+          60.0,
+          1780487751.0030842
+        ],
+        [
+          55.0,
+          1780944213.8411727
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779678312.919368,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "serfaust89",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Perfetta + Sleeve + Toploader",
+      "date": 1781482889.715387,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780487751.0030842
+        ],
+        [
+          0,
+          1780487751.0030842
+        ],
+        [
+          1,
+          1780944213.8411727
+        ],
+        [
+          0,
+          1780944213.8411727
+        ],
+        [
+          1,
+          1781482889.715387
+        ]
+      ],
+      "first_date": 1780487751.0030842,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "G-tano",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1780339322.7770562,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -675,43 +818,13 @@
         [
           0,
           1779442868.614717
+        ],
+        [
+          1,
+          1780339322.7770562
         ]
       ],
       "first_date": 1773103243.0000217,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "KistenKai90",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          66.0,
-          1779678312.919368
-        ],
-        [
-          63.0,
-          1779758062.7232707
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779678312.919368,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1034,31 +1147,6 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "Joshi-8-",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 64.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved + Toploader",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779678312.919368,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
         "name": "Danny70",
         "country": "Item location: Germany"
       },
@@ -1204,11 +1292,11 @@
       },
       "language": "Japanese",
       "price": 66.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780487751.0030842,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1232,6 +1320,10 @@
         [
           2,
           1779678312.919368
+        ],
+        [
+          1,
+          1780487751.0030842
         ]
       ],
       "first_date": 1773103243.0000217,
@@ -1377,6 +1469,36 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "Puri81",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 69.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "New Seller / Booster -> Sleeve -> Toploader",
+      "date": 1780944213.8411727,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780944213.8411727
+        ]
+      ],
+      "first_date": 1780487751.0030842,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "MagicLizard",
         "country": "Item location: Italy"
       },
@@ -1402,16 +1524,71 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "Yapoo17",
-        "country": "Item location: Germany"
+        "name": "Deninhos99",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 70.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Toploader",
-      "date": 1780339322.7770562,
+      "comment": "a lot of OP jap on my profile",
+      "date": 1781752017.07638,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1778442811.449782
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777767377.7455366
+        ],
+        [
+          0,
+          1777767377.7455366
+        ],
+        [
+          1,
+          1778793324.480949
+        ],
+        [
+          0,
+          1778793324.480949
+        ],
+        [
+          1,
+          1780169398.0024333
+        ],
+        [
+          0,
+          1780169398.0024333
+        ]
+      ],
+      "first_date": 1775649812.777961,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Yapoo17",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Toploader",
+      "date": 1781482889.715387,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1451,67 +1628,16 @@
         [
           0,
           1779006055.0761669
+        ],
+        [
+          1,
+          1781482889.715387
         ]
       ],
       "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Deninhos99",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 70.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! a lot of OP jap on my profile",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          100.0,
-          1778442811.449782
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777767377.7455366
-        ],
-        [
-          0,
-          1777767377.7455366
-        ],
-        [
-          1,
-          1778793324.480949
-        ],
-        [
-          0,
-          1778793324.480949
-        ],
-        [
-          1,
-          1780169398.0024333
-        ],
-        [
-          0,
-          1780169398.0024333
-        ]
-      ],
-      "first_date": 1775649812.777961,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1527,10 +1653,10 @@
       "price": 70.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1780262766.4479043,
+      "comment": "RELISTED! ",
+      "date": 1780487751.0030842,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           75.0,
@@ -1541,12 +1667,20 @@
         [
           1,
           1780262766.4479043
+        ],
+        [
+          0,
+          1780262766.4479043
+        ],
+        [
+          1,
+          1780487751.0030842
         ]
       ],
       "first_date": 1773715724.9831326,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1757,6 +1891,66 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "besa-bese",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 71.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Boosterfresh Sleeve + Toploader",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781752017.07638,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "besa-bese",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 71.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Boosterfresh Sleeve + Toploader",
+      "date": 1781655517.6477258,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          69.69,
+          1781482889.715387
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781655517.6477258
+        ]
+      ],
+      "first_date": 1781313895.9969566,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "Gliomlo",
         "country": "Item location: France"
       },
@@ -1815,12 +2009,67 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved+Toploader",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772715266.717491,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "D1m4-",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 73.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "double sleave and toploader",
+      "date": 1781482889.715387,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781482889.715387
+        ]
+      ],
+      "first_date": 1781482889.715387,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "BloodwaveSwift",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 73.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "TRUE CONDITION / PERFECT FRONT - BACK NEAR MINT / RELIABLE SELLER",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781313895.9969566,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1991,15 +2240,45 @@
       },
       "language": "Japanese",
       "price": 74.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780944213.8411727,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780944213.8411727
+        ]
+      ],
       "first_date": 1777212275.3698769,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 74.95,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Whitening on Back - Differenzbesteuert - Toploader - Fast Secured Shipping",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781752017.07638,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2016,11 +2295,11 @@
       },
       "language": "Japanese",
       "price": 74.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780944213.8411727,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2039,6 +2318,10 @@
         [
           0,
           1778577681.858356
+        ],
+        [
+          1,
+          1780944213.8411727
         ]
       ],
       "first_date": 1775176476.8265033,
@@ -2123,7 +2406,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2190,6 +2473,31 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "Solblade",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781655517.6477258,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "itsjulij",
         "country": "Item location: Germany"
       },
@@ -2198,7 +2506,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Also other Chinese TR available. DM for offer",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2726,6 +3034,31 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "ZurisShop",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 76.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "More Singles. Local Store Wuppertal",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780944213.8411727,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "KiraKiraJP",
         "country": "Item location: Italy"
       },
@@ -2819,53 +3152,6 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "mickasy",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 79.89,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Fast & Safe Shipment",
-      "date": 1779758062.7232707,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          71.71,
-          1776262609.3811166
-        ],
-        [
-          69.89,
-          1779442868.614717
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1777606771.7393098
-        ],
-        [
-          3,
-          1779442868.614717
-        ],
-        [
-          1,
-          1779758062.7232707
-        ]
-      ],
-      "first_date": 1775004414.6156719,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
         "name": "MythicVault",
         "country": "Item location: Greece"
       },
@@ -2874,7 +3160,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Swift Delivery. Trusted Protection.",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2909,7 +3195,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Budapest. Buy and Sell Cards",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2973,17 +3259,55 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "onecardtcgstore",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 79.92,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          74.94,
+          1777989817.0078793
+        ],
+        [
+          79.92,
+          1778356652.9141026
+        ],
+        [
+          74.94,
+          1778718529.7052715
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777902877.223159,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "rexicomix",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 79.91,
-      "quantity": 1,
+      "price": 79.92,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
+      "date": 1781655517.6477258,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           94.9,
@@ -3072,101 +3396,22 @@
         [
           79.92,
           1780052249.9875603
+        ],
+        [
+          79.91,
+          1781390830.8444858
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781655517.6477258
+        ]
+      ],
       "first_date": 1772029443.024211,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "onecardtcgstore",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 79.92,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          74.94,
-          1777989817.0078793
-        ],
-        [
-          79.92,
-          1778356652.9141026
-        ],
-        [
-          74.94,
-          1778718529.7052715
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777902877.223159,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 79.93,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          599.99,
-          1770749604.62034
-        ],
-        [
-          149.99,
-          1777307605.4291203
-        ],
-        [
-          134.99,
-          1777455278.933707
-        ],
-        [
-          121.49,
-          1777516189.823413
-        ],
-        [
-          109.34,
-          1777606771.7393098
-        ],
-        [
-          98.41,
-          1777767377.7455366
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769586603.6394384,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3180,11 +3425,11 @@
       },
       "language": "Japanese",
       "price": 79.94,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "VIT001",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1781313895.9969566,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3192,7 +3437,12 @@
           1775795233.2121494
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781313895.9969566
+        ]
+      ],
       "first_date": 1772296645.4529467,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3205,33 +3455,38 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "CardMaster23-Arezzo",
-        "country": "Item location: Italy"
+        "name": "Joshi-8-",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 79.99,
-      "quantity": 0,
+      "price": 80.0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1779133138.5526173,
-      "ended": true,
+      "comment": "Sleeve -> Toploader",
+      "date": 1781752017.07638,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          64.0,
+          1780339322.7770562
+        ],
+        [
+          60.0,
+          1780944213.8411727
+        ]
+      ],
       "previous_quantities": [
         [
           1,
-          1777989817.0078793
+          1780339322.7770562
         ],
         [
           0,
-          1777989817.0078793
-        ],
-        [
-          1,
-          1779133138.5526173
+          1780339322.7770562
         ]
       ],
-      "first_date": 1777516189.823413,
+      "first_date": 1779678312.919368,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3594,17 +3849,21 @@
       },
       "language": "Japanese",
       "price": 84.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780837315.1421144,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           3,
           1779837598.7944772
+        ],
+        [
+          2,
+          1780837315.1421144
         ]
       ],
       "first_date": 1779837598.7944772,
@@ -3633,40 +3892,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769940386.731209,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "NenaShopTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 84.97,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779508908.8569725
-        ],
-        [
-          0,
-          1779508908.8569725
-        ]
-      ],
-      "first_date": 1773913493.0361733,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3990,25 +4215,105 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "HeavensDoorTCGmore",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 89.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "F00",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781482889.715387,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "Jero-TCG",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 89.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "JP Cards",
-      "date": 1779960935.745532,
-      "ended": true,
+      "date": 1781752017.07638,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1779960935.745532
+        ],
+        [
+          0,
+          1779960935.745532
         ]
       ],
       "first_date": 1778577681.858356,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "CardMaster23-Arezzo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 89.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781390830.8444858,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          79.99,
+          1779133138.5526173
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777989817.0078793
+        ],
+        [
+          0,
+          1777989817.0078793
+        ],
+        [
+          1,
+          1779133138.5526173
+        ],
+        [
+          0,
+          1779133138.5526173
+        ],
+        [
+          1,
+          1781390830.8444858
+        ]
+      ],
+      "first_date": 1777516189.823413,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4034,6 +4339,31 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769763728.7770538,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "manugrosso",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 90.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781313895.9969566,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4185,6 +4515,61 @@
       },
       "language": "Japanese",
       "price": 94.49,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Fast & Safe Shipment",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          71.71,
+          1776262609.3811166
+        ],
+        [
+          69.89,
+          1779442868.614717
+        ],
+        [
+          79.89,
+          1779758062.7232707
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1777606771.7393098
+        ],
+        [
+          3,
+          1779442868.614717
+        ],
+        [
+          1,
+          1779758062.7232707
+        ],
+        [
+          0,
+          1779758062.7232707
+        ]
+      ],
+      "first_date": 1775004414.6156719,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "mickasy",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 94.49,
       "quantity": 0,
       "condition": "NM",
       "comment": "Fast & Safe Shipment",
@@ -4252,7 +4637,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4294,20 +4679,29 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "capaz13",
-        "country": "Item location: Italy"
+        "name": "TreasureboxTCG",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 98.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
+      "comment": "booster -> sleeve. Toploader!",
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771781007.9406135,
+      "previous_quantities": [
+        [
+          1,
+          1780052249.9875603
+        ],
+        [
+          0,
+          1780052249.9875603
+        ]
+      ],
+      "first_date": 1775090687.0279608,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4319,25 +4713,20 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "TreasureboxTCG",
-        "country": "Item location: Germany"
+        "name": "capaz13",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 98.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "booster -> sleeve. Toploader!",
-      "date": 1780052249.9875603,
-      "ended": true,
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780052249.9875603
-        ]
-      ],
-      "first_date": 1775090687.0279608,
+      "previous_quantities": [],
+      "first_date": 1771781007.9406135,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4357,7 +4746,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4399,16 +4788,157 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "NenaShopTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          84.97,
+          1781482889.715387
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779508908.8569725
+        ],
+        [
+          0,
+          1779508908.8569725
+        ]
+      ],
+      "first_date": 1773913493.0361733,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "R.P. - 190 Photos available on Rising Phoenix Ebay store!",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778442811.449782
+        ],
+        [
+          0,
+          1778442811.449782
+        ]
+      ],
+      "first_date": 1770749604.62034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "R.P. - 189 Photos available on Rising Phoenix Ebay store!",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778442811.449782
+        ],
+        [
+          0,
+          1778442811.449782
+        ]
+      ],
+      "first_date": 1770749604.62034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "R.P. - 187 Photos available on Rising Phoenix Ebay store!",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778442811.449782
+        ],
+        [
+          0,
+          1778442811.449782
+        ]
+      ],
+      "first_date": 1770749604.62034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "chesfromthefuture",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> sleeve --> Toploader please ask for fotos :)",
-      "date": 1778577681.858356,
-      "ended": true,
+      "date": 1781752017.07638,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -4424,99 +4954,13 @@
         [
           1,
           1778577681.858356
+        ],
+        [
+          0,
+          1778577681.858356
         ]
       ],
       "first_date": 1769180071.5268383,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Rising-Phoenix",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "R.P. - 190 Photos available on Rising Phoenix Ebay store!",
-      "date": 1778442811.449782,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778442811.449782
-        ]
-      ],
-      "first_date": 1770749604.62034,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Rising-Phoenix",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "R.P. - 189 Photos available on Rising Phoenix Ebay store!",
-      "date": 1778442811.449782,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778442811.449782
-        ]
-      ],
-      "first_date": 1770749604.62034,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Rising-Phoenix",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "R.P. - 187 Photos available on Rising Phoenix Ebay store!",
-      "date": 1778442811.449782,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778442811.449782
-        ]
-      ],
-      "first_date": 1770749604.62034,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4701,57 +5145,6 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "jangolo",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 105.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect Condition",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          110.0,
-          1776648983.6346068
-        ],
-        [
-          90.0,
-          1779133138.5526173
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778442811.449782
-        ],
-        [
-          0,
-          1778442811.449782
-        ],
-        [
-          1,
-          1779133138.5526173
-        ],
-        [
-          0,
-          1779133138.5526173
-        ]
-      ],
-      "first_date": 1774538502.4852514,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
         "name": "Peppegre",
         "country": "Item location: Italy"
       },
@@ -4785,7 +5178,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > sleeve + toploader",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4907,12 +5300,12 @@
       },
       "language": "Japanese",
       "price": 119.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1780339322.7770562,
-      "ended": false,
-      "new": false,
+      "date": 1781655517.6477258,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           89.95,
@@ -4935,12 +5328,16 @@
         [
           0,
           1779960935.745532
+        ],
+        [
+          1,
+          1781655517.6477258
         ]
       ],
       "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5004,47 +5401,56 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "WeilerTCG",
-        "country": "Item location: Germany"
+        "name": "jangolo",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 145.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "BGS 9.5",
-      "date": 1780339322.7770562,
+      "comment": "Perfect Condition",
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          200.0,
-          1772125209.649501
+          110.0,
+          1776648983.6346068
         ],
         [
-          180.0,
-          1772459078.9607983
+          90.0,
+          1779133138.5526173
         ],
         [
-          195.0,
-          1772554443.282971
+          105.0,
+          1781313895.9969566
         ],
         [
-          189.99,
-          1773913493.0361733
-        ],
-        [
-          174.99,
-          1775090687.0279608
-        ],
-        [
-          190.0,
-          1777606771.7393098
+          125.0,
+          1781655517.6477258
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1771909651.879861,
+      "previous_quantities": [
+        [
+          1,
+          1778442811.449782
+        ],
+        [
+          0,
+          1778442811.449782
+        ],
+        [
+          1,
+          1779133138.5526173
+        ],
+        [
+          0,
+          1779133138.5526173
+        ]
+      ],
+      "first_date": 1774538502.4852514,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5062,7 +5468,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nur versicherter Versand Booster --> Sleeve---> Toploader",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5101,12 +5507,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769940386.731209,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "Leafiax3",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780052249.9875603
+        ],
+        [
+          0,
+          1780052249.9875603
+        ]
+      ],
+      "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5126,42 +5566,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1774617971.7081206,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Enel (OP05-100) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
-      "seller": {
-        "name": "Leafiax3",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 150.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780052249.9875603,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780052249.9875603
-        ]
-      ],
-      "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5263,11 +5673,11 @@
       },
       "language": "Japanese",
       "price": 170.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780944213.8411727,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5299,6 +5709,10 @@
         [
           0,
           1779442868.614717
+        ],
+        [
+          1,
+          1780944213.8411727
         ]
       ],
       "first_date": 1778442811.449782,
@@ -5313,22 +5727,59 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "MoziLegends",
+        "name": "WeilerTCG",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 175.0,
+      "price": 180.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1780339322.7770562,
+      "comment": "BGS 9.5",
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          200.0,
+          1772125209.649501
+        ],
+        [
+          180.0,
+          1772459078.9607983
+        ],
+        [
+          195.0,
+          1772554443.282971
+        ],
+        [
+          189.99,
+          1773913493.0361733
+        ],
+        [
+          174.99,
+          1775090687.0279608
+        ],
+        [
+          190.0,
+          1777606771.7393098
+        ],
+        [
+          145.0,
+          1780487751.0030842
+        ],
+        [
+          140.0,
+          1780944213.8411727
+        ],
+        [
+          190.0,
+          1781655517.6477258
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1778442811.449782,
+      "first_date": 1771909651.879861,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5415,11 +5866,11 @@
       },
       "language": "Japanese",
       "price": 190.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780944213.8411727,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5430,6 +5881,10 @@
         [
           0,
           1779282702.076816
+        ],
+        [
+          1,
+          1780944213.8411727
         ]
       ],
       "first_date": 1779006055.0761669,
@@ -5482,7 +5937,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5490,6 +5945,40 @@
       "first_date": 1769763728.7770538,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
+        "name": "MoziLegends",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          175.0,
+          1780837315.1421144
+        ],
+        [
+          150.0,
+          1781655517.6477258
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778442811.449782,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5546,6 +6035,60 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 199.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          599.99,
+          1770749604.62034
+        ],
+        [
+          149.99,
+          1777307605.4291203
+        ],
+        [
+          134.99,
+          1777455278.933707
+        ],
+        [
+          121.49,
+          1777516189.823413
+        ],
+        [
+          109.34,
+          1777606771.7393098
+        ],
+        [
+          98.41,
+          1777767377.7455366
+        ],
+        [
+          79.93,
+          1781390830.8444858
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1769586603.6394384,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "LoopGames",
         "country": "Item location: Italy"
       },
@@ -5554,7 +6097,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5604,7 +6147,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5686,11 +6229,11 @@
       },
       "language": "Japanese",
       "price": 215.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA:135370382 - 10 (GEM MT)",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780487751.0030842,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5714,6 +6257,10 @@
         [
           0,
           1780052249.9875603
+        ],
+        [
+          1,
+          1780487751.0030842
         ]
       ],
       "first_date": 1774464809.3832638,
@@ -5733,11 +6280,11 @@
       },
       "language": "Japanese",
       "price": 219.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10 FAST SHIPPING",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1781571389.1881819,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5745,7 +6292,12 @@
           1780052249.9875603
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781571389.1881819
+        ]
+      ],
       "first_date": 1777989817.0078793,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5766,11 +6318,20 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / Fast and save Shipping",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780339322.7770562
+        ],
+        [
+          0,
+          1780339322.7770562
+        ]
+      ],
       "first_date": 1777212275.3698769,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5788,14 +6349,19 @@
       },
       "language": "Japanese",
       "price": 220.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1781390830.8444858,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781390830.8444858
+        ]
+      ],
       "first_date": 1778356652.9141026,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5922,7 +6488,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 Pics in DM.",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5995,16 +6561,50 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
+        "name": "Side7",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 275.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781752017.07638,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781390830.8444858
+        ],
+        [
+          0,
+          1781390830.8444858
+        ]
+      ],
+      "first_date": 1780837315.1421144,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Enel (OP05-100) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
+      "seller": {
         "name": "losaz",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 280.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1780339322.7770562,
-      "ended": false,
+      "date": 1780487751.0030842,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6012,7 +6612,12 @@
           1770988794.9700358
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780487751.0030842
+        ]
+      ],
       "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6063,7 +6668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6143,20 +6748,20 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "MarcoMarcetti",
+        "name": "Kampf-Trupp93",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 399.99,
+      "price": 450.0,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1780339322.7770562,
+      "condition": "NM",
+      "comment": "",
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1772956204.2673407,
+      "first_date": 1769180071.5268383,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6168,20 +6773,25 @@
       "card": "Enel (OP05-100) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Enel-OP05-100-V3",
       "seller": {
-        "name": "Kampf-Trupp93",
+        "name": "MarcoMarcetti",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 450.0,
+      "price": 499.99,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1780339322.7770562,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          399.99,
+          1780944213.8411727
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1769180071.5268383,
+      "first_date": 1772956204.2673407,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6201,7 +6811,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6257,17 +6867,21 @@
         "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 4000.0,
+      "price": 2500.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC 10 Black Label (Pristine)",
-      "date": 1780339322.7770562,
+      "date": 1781752017.07638,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           2000.0,
           1779133138.5526173
+        ],
+        [
+          4000.0,
+          1780339322.7770562
         ]
       ],
       "previous_quantities": [],

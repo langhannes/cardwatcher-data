@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 3,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -22,11 +22,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 45.28,
+      "price": 45.1,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1780371338.1389794,
+      "date": 1781848092.5853899,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -165,6 +165,38 @@
         [
           45.19,
           1780294769.9161754
+        ],
+        [
+          45.28,
+          1780371338.1389794
+        ],
+        [
+          45.33,
+          1780513615.9889407
+        ],
+        [
+          45.31,
+          1780863197.015602
+        ],
+        [
+          45.27,
+          1780969903.998664
+        ],
+        [
+          45.37,
+          1781416428.6281786
+        ],
+        [
+          45.38,
+          1781508490.4427176
+        ],
+        [
+          45.3,
+          1781597000.9750457
+        ],
+        [
+          45.26,
+          1781706807.2256231
         ]
       ],
       "previous_quantities": [],
@@ -185,11 +217,11 @@
       },
       "language": "Japanese",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "#3",
-      "date": 1780371338.1389794,
-      "ended": false,
+      "date": 1780969903.998664,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -205,6 +237,10 @@
         [
           0,
           1777795738.2307246
+        ],
+        [
+          1,
+          1780969903.998664
         ]
       ],
       "first_date": 1776096656.206836,
@@ -227,7 +263,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1780371338.1389794,
+      "date": 1781848092.5853899,
       "ended": false,
       "new": false,
       "previous_prices": [],

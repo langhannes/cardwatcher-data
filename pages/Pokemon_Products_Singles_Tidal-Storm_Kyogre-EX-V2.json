@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 7,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -23,18 +23,23 @@
       },
       "language": "Korean",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "",
-      "date": 1780335363.0426705,
-      "ended": false,
-      "new": false,
+      "date": 1781652815.7631817,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781652815.7631817
+        ]
+      ],
       "first_date": 1779280133.5703065,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -106,7 +111,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1780335363.0426705,
+      "date": 1781748451.1709669,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -127,11 +132,11 @@
         "country": "Item location: Italy"
       },
       "language": "Korean",
-      "price": 89.99,
+      "price": 86.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1780335363.0426705,
+      "date": 1781748451.1709669,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -142,6 +147,10 @@
         [
           99.99,
           1779583765.2079768
+        ],
+        [
+          89.99,
+          1780485017.7499335
         ]
       ],
       "previous_quantities": [
@@ -368,7 +377,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best in town - 01-1E2",
-      "date": 1780335363.0426705,
+      "date": 1781748451.1709669,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -633,6 +642,31 @@
       "card": "Kyogre EX  (XY5t 072)",
       "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
       "seller": {
+        "name": "Misterbale",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 239.9,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "B7",
+      "date": 1781748451.1709669,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780941504.0403912,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kyogre EX  (XY5t 072)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
+      "seller": {
         "name": "PokekaTCG",
         "country": "Item location: Germany"
       },
@@ -641,7 +675,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1780335363.0426705,
+      "date": 1781748451.1709669,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -666,7 +700,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7",
-      "date": 1780335363.0426705,
+      "date": 1781748451.1709669,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -731,6 +765,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kyogre EX  (XY5t 072)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
+      "seller": {
+        "name": "PokeMano-Shop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 399.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
+      "date": 1781748451.1709669,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780485017.7499335,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -991,14 +1050,19 @@
       },
       "language": "Japanese",
       "price": 1300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1780335363.0426705,
-      "ended": false,
+      "date": 1780941504.0403912,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1780941504.0403912
+        ]
+      ],
       "first_date": 1779280133.5703065,
       "last_date": 0.0,
       "price_is_new": false,

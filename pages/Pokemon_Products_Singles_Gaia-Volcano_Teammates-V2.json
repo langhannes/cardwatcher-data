@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 6,
+  "available": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "PL-",
-      "date": 1780316575.0139184,
+      "date": 1781871878.7926846,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -72,11 +72,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 419.99,
+      "price": 399.99,
       "quantity": 1,
       "condition": "LP",
       "comment": "GD-LP Check Image. soft scratch on back",
-      "date": 1780316575.0139184,
+      "date": 1781871878.7926846,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -87,6 +87,10 @@
         [
           449.99,
           1778626302.6354601
+        ],
+        [
+          419.99,
+          1780316575.0139184
         ]
       ],
       "previous_quantities": [],
@@ -106,17 +110,21 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 449.99,
+      "price": 439.99,
       "quantity": 1,
       "condition": "GD",
       "comment": "one damaged corner EX-GD 1",
-      "date": 1780316575.0139184,
+      "date": 1781871878.7926846,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           499.99,
           1778626302.6354601
+        ],
+        [
+          449.99,
+          1780316575.0139184
         ]
       ],
       "previous_quantities": [],
@@ -140,7 +148,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Cheap fast reliable shippin",
-      "date": 1780316575.0139184,
+      "date": 1781871878.7926846,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -211,14 +219,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 549.99,
+      "price": 529.99,
       "quantity": 1,
       "condition": "EX",
       "comment": "Check Image",
-      "date": 1780316575.0139184,
+      "date": 1781871878.7926846,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          549.99,
+          1780316575.0139184
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1778309033.247082,
       "last_date": 0.0,
@@ -267,14 +280,19 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NM AUTHENTIQUE CCG",
-      "date": 1780316575.0139184,
-      "ended": false,
+      "date": 1781639783.1813085,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781639783.1813085
+        ]
+      ],
       "first_date": 1776863053.049696,
       "last_date": 0.0,
       "price_is_new": false,
