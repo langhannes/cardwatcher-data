@@ -8,8 +8,8 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 5,
-  "sold": 0,
+  "available": 3,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -2944,18 +2944,23 @@
       },
       "language": "English",
       "price": 1280.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ungraded. DM me for more infos",
-      "date": 1781854913.0540104,
-      "ended": false,
-      "new": false,
+      "date": 1781925201.7385871,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781925201.7385871
+        ]
+      ],
       "first_date": 1781713642.6720867,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3238,7 +3243,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAD 9.5 BECKETT",
-      "date": 1781854913.0540104,
+      "date": 1782122279.3090434,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3286,23 +3291,28 @@
       },
       "language": "English",
       "price": 2950.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1781854913.0540104,
-      "ended": false,
-      "new": false,
+      "date": 1781925201.7385871,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           2400.0,
           1778386579.345082
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781925201.7385871
+        ]
+      ],
       "first_date": 1773320921.868077,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3344,7 +3354,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1781854913.0540104,
+      "date": 1782122279.3090434,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3529,7 +3539,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1781854913.0540104,
+      "date": 1782122279.3090434,
       "ended": false,
       "new": false,
       "previous_prices": [],

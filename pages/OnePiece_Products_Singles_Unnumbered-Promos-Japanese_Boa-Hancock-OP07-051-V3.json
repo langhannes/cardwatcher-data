@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 2,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -466,25 +466,25 @@
       "card": "Boa Hancock (OP07-051) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
       "seller": {
-        "name": "pedroferga",
-        "country": "Item location: Spain"
+        "name": "Sanji8chef",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 500.0,
+      "price": 480.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781855624.1226695,
+      "date": 1782123322.5584795,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          350.0,
-          1780524023.0041432
+          500.0,
+          1781855624.1226695
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1769631534.5502,
+      "first_date": 1781350946.5464861,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -496,20 +496,25 @@
       "card": "Boa Hancock (OP07-051) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
       "seller": {
-        "name": "Sanji8chef",
-        "country": "Item location: Italy"
+        "name": "pedroferga",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 500.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781855624.1226695,
+      "date": 1782123322.5584795,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          350.0,
+          1780524023.0041432
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1781350946.5464861,
+      "first_date": 1769631534.5502,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -561,7 +566,7 @@
       "comment": "",
       "date": 1781714353.2741497,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           400.0,
@@ -585,7 +590,7 @@
       "first_date": 1769511813.5734248,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

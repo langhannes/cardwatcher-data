@@ -8,8 +8,8 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 24,
-  "sold": 1,
+  "available": 23,
+  "sold": 3,
   "inserted": 2,
   "listings": [
     {
@@ -2237,7 +2237,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm- small whitening",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2331,18 +2331,23 @@
       },
       "language": "S-Chinese",
       "price": 299.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
-      "ended": false,
-      "new": false,
+      "date": 1781929419.5252516,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781929419.5252516
+        ]
+      ],
       "first_date": 1779319322.3546946,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2491,18 +2496,48 @@
       "card": "Tony Tony.Chopper (ST01-006) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
       "seller": {
+        "name": "f6mous",
+        "country": "Item location: Austria"
+      },
+      "language": "S-Chinese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782126494.653667,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782126494.653667,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tony Tony.Chopper (ST01-006) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Tony-TonyChopper-ST01-006-V3",
+      "seller": {
         "name": "Jordanjackson",
         "country": "Item location: France"
       },
       "language": "S-Chinese",
-      "price": 450.0,
-      "quantity": 0,
+      "price": 430.0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "sleeve and toploader",
-      "date": 1781716533.047301,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
+      "comment": "RELISTED! sleeve and toploader",
+      "date": 1782126494.653667,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1781716533.047301
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -2515,12 +2550,16 @@
         [
           1,
           1781716533.047301
+        ],
+        [
+          0,
+          1781716533.047301
         ]
       ],
       "first_date": 1781354175.9161675,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2537,7 +2576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2562,7 +2601,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "#763",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2695,7 +2734,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2720,7 +2759,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2779,7 +2818,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2838,7 +2877,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "bgs9.5",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2889,9 +2928,9 @@
       "quantity": 3,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781857796.1684754,
@@ -2914,7 +2953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3013,12 +3052,12 @@
       },
       "language": "S-Chinese",
       "price": 899.69,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1781857796.1684754,
-      "ended": false,
-      "new": false,
+      "date": 1781929419.5252516,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1000.0,
@@ -3033,12 +3072,16 @@
         [
           0,
           1780984546.926244
+        ],
+        [
+          1,
+          1781929419.5252516
         ]
       ],
       "first_date": 1779926695.1515408,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3055,7 +3098,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10 #98792651",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3077,23 +3120,28 @@
       },
       "language": "S-Chinese",
       "price": 900.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1781857796.1684754,
-      "ended": false,
-      "new": false,
+      "date": 1781929419.5252516,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1100.0,
           1781611628.0786827
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781929419.5252516
+        ]
+      ],
       "first_date": 1781523097.644308,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3170,9 +3218,9 @@
       "quantity": 7,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781857796.1684754,
@@ -3289,7 +3337,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3374,7 +3422,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett BGS 10// Only 50 Worldwide",
-      "date": 1781857796.1684754,
+      "date": 1782126494.653667,
       "ended": false,
       "new": false,
       "previous_prices": [],

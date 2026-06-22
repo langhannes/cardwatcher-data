@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 17,
+  "available": 15,
   "sold": 3,
-  "inserted": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Roronoa Zoro (OP06-118) (V.3)",
@@ -5344,8 +5344,8 @@
       "price": 1300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! very clean",
-      "date": 1781865222.9685764,
+      "comment": "very clean",
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5362,8 +5362,8 @@
       ],
       "first_date": 1773317051.3644497,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5666,6 +5666,31 @@
       "card": "Roronoa Zoro (OP06-118) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
       "seller": {
+        "name": "WeiqiRen",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 1399.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "free shipping/ pls ask pictures before you pay",
+      "date": 1782137100.0877779,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781940018.1750088,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
         "name": "Aetrix187",
         "country": "Item location: Germany"
       },
@@ -5885,23 +5910,27 @@
       },
       "language": "S-Chinese",
       "price": 1500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781723974.1709864,
-      "ended": true,
-      "new": true,
+      "date": 1782137100.0877779,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1781723974.1709864
+        ],
+        [
+          0,
           1781723974.1709864
         ]
       ],
       "first_date": 1781364953.8439977,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6198,42 +6227,17 @@
       "card": "Roronoa Zoro (OP06-118) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
       "seller": {
-        "name": "MonstersCollectors",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "MINT",
-      "date": 1781865222.9685764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779729801.2993789,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP06-118) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
-      "seller": {
         "name": "LakelandTCG",
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 1600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OP06. Shipping well packed. Dm for more pics",
-      "date": 1781865222.9685764,
-      "ended": false,
-      "new": false,
+      "date": 1781940018.1750088,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1199.0,
@@ -6248,8 +6252,43 @@
           1780995328.0728152
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781940018.1750088
+        ]
+      ],
       "first_date": 1780234532.6610627,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
+        "name": "MonstersCollectors",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1600.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "MINT",
+      "date": 1781865222.9685764,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781865222.9685764
+        ]
+      ],
+      "first_date": 1779729801.2993789,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6405,18 +6444,23 @@
       },
       "language": "Japanese",
       "price": 1750.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1781865222.9685764,
-      "ended": false,
-      "new": false,
+      "date": 1781940018.1750088,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781940018.1750088
+        ]
+      ],
       "first_date": 1780024115.9210162,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6762,7 +6806,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "068 free p10",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6928,7 +6972,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6955,7 +6999,7 @@
       "comment": "AOG 9.5",
       "date": 1781723974.1709864,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1200.0,
@@ -6987,7 +7031,7 @@
       "first_date": 1772544345.865179,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7179,7 +7223,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Serialized gem mint. unique in the world",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7226,7 +7270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7311,7 +7355,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7530,7 +7574,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10. nº 175. Dm before buying",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7555,7 +7599,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10 clean number 303",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7670,18 +7714,23 @@
       },
       "language": "Japanese",
       "price": 2700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 ASK FOR PICS",
-      "date": 1781865222.9685764,
-      "ended": false,
-      "new": false,
+      "date": 1781940018.1750088,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781940018.1750088
+        ]
+      ],
       "first_date": 1781533869.6874614,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7698,7 +7747,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "bgs10 037/500 serialized",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7723,9 +7772,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Gold",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781865222.9685764,
@@ -7748,7 +7797,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 dm for price negotiation",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7858,7 +7907,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10 - Ask for pictures",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7890,7 +7939,7 @@
       "comment": "PSA 10",
       "date": 1781723974.1709864,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7905,7 +7954,7 @@
       "first_date": 1770735211.804162,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7922,7 +7971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10 POP 520 - tauschen/trading possible - North Germany",
-      "date": 1781865222.9685764,
+      "date": 1782137100.0877779,
       "ended": false,
       "new": false,
       "previous_prices": [

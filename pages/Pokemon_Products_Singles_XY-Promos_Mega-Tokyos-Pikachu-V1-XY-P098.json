@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 31,
-  "sold": 3,
+  "available": 33,
+  "sold": 1,
   "inserted": 1,
   "listings": [
     {
@@ -3460,7 +3460,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Pretty big CREASE. should be fixable",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4515,14 +4515,19 @@
       },
       "language": "Japanese",
       "price": 595.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
       "date": 1781756181.4164124,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781756181.4164124
+        ]
+      ],
       "first_date": 1781658680.195685,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4543,7 +4548,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "MON-0433",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4691,7 +4696,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4750,7 +4755,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4881,18 +4886,23 @@
       },
       "language": "Japanese",
       "price": 635.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Mega Tokyo's Pikachu",
-      "date": 1781756181.4164124,
-      "ended": false,
-      "new": false,
+      "date": 1781892204.9783914,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781892204.9783914
+        ]
+      ],
       "first_date": 1781393994.3585012,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4909,7 +4919,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Lokal Store in Esslingen",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5163,12 +5173,12 @@
       },
       "language": "Japanese",
       "price": 670.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1781658680.195685,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1782089274.733703,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           650.0,
@@ -5179,12 +5189,16 @@
         [
           1,
           1781658680.195685
+        ],
+        [
+          0,
+          1781658680.195685
         ]
       ],
       "first_date": 1780840516.256824,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5198,11 +5212,11 @@
       },
       "language": "Japanese",
       "price": 680.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "A0014",
-      "date": 1781574551.232428,
-      "ended": true,
+      "date": 1782089274.733703,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -5225,6 +5239,10 @@
         ],
         [
           1,
+          1781574551.232428
+        ],
+        [
+          0,
           1781574551.232428
         ]
       ],
@@ -5546,7 +5564,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5568,12 +5586,12 @@
       },
       "language": "Japanese",
       "price": 800.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781658680.195685,
-      "ended": true,
-      "new": true,
+      "date": 1782089274.733703,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           1794.0,
@@ -5592,12 +5610,62 @@
         [
           1,
           1781658680.195685
+        ],
+        [
+          0,
+          1781658680.195685
         ]
       ],
       "first_date": 1779512221.2679255,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "Dbicars",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782089274.733703,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2000.0,
+          1779445550.2276804
+        ],
+        [
+          800.0,
+          1780343375.3920054
+        ],
+        [
+          850.0,
+          1780947392.487292
+        ],
+        [
+          800.0,
+          1781658680.195685
+        ],
+        [
+          850.0,
+          1781756181.4164124
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778796299.7234015,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5664,7 +5732,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5689,31 +5757,23 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
-      "previous_prices": [
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          2000.0,
-          1779445550.2276804
+          1,
+          1781658680.195685
         ],
         [
-          800.0,
-          1780343375.3920054
-        ],
-        [
-          850.0,
-          1780947392.487292
-        ],
-        [
-          800.0,
+          0,
           1781658680.195685
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1778796299.7234015,
+      "first_date": 1781317070.0016983,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5731,7 +5791,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5753,45 +5813,15 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "Dbicars",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 850.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1781658680.195685,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1781658680.195685
-        ]
-      ],
-      "first_date": 1781317070.0016983,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
         "name": "DarkSphere",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 893.01,
+      "price": 890.65,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5818,6 +5848,14 @@
         [
           893.22,
           1781658680.195685
+        ],
+        [
+          893.01,
+          1781756181.4164124
+        ],
+        [
+          890.03,
+          1781892204.9783914
         ]
       ],
       "previous_quantities": [],
@@ -6031,7 +6069,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 DM IF U WANT TO SEE. prefer to sell live",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6065,7 +6103,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6149,7 +6187,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6271,16 +6309,20 @@
       },
       "language": "Japanese",
       "price": 1350.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1780947392.487292,
-      "ended": true,
+      "date": 1782089274.733703,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1780947392.487292
+        ],
+        [
+          0,
           1780947392.487292
         ]
       ],
@@ -6497,7 +6539,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6602,7 +6644,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Global Grading 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6641,7 +6683,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCA 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6666,9 +6708,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGG 9.5",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781756181.4164124,
@@ -6771,7 +6813,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RAW /  Differenzbesteuert",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6805,7 +6847,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6839,7 +6881,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[BGS 9.0] 05202627 toploader",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6864,7 +6906,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Packfresh (Always kept in the plastic)",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6894,7 +6936,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7043,7 +7085,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "!!! PSA 9 !!! 12-05/26/1 1024/87",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7123,7 +7165,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7258,7 +7300,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7603,7 +7645,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10. Actual shipping cost; excess refunded.",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7672,7 +7714,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / Buy with confidence / Fast & secure shipping",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7694,11 +7736,11 @@
       },
       "language": "Japanese",
       "price": 3349.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10. many more PSA available",
       "date": 1781756181.4164124,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7714,6 +7756,10 @@
         [
           0,
           1716292826.8198981
+        ],
+        [
+          1,
+          1781756181.4164124
         ]
       ],
       "first_date": 1716292826.8198981,
@@ -7813,7 +7859,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10 info in dm",
-      "date": 1781756181.4164124,
+      "date": 1782089274.733703,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
-  "sold": 1,
+  "available": 0,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -75,8 +75,8 @@
       "price": 49.99,
       "quantity": 0,
       "condition": "PL",
-      "comment": "",
-      "date": 1781651330.6549594,
+      "comment": "RELISTED! ",
+      "date": 1781885069.2077537,
       "ended": true,
       "new": true,
       "previous_prices": [],
@@ -84,6 +84,14 @@
         [
           1,
           1781651330.6549594
+        ],
+        [
+          0,
+          1781651330.6549594
+        ],
+        [
+          1,
+          1781885069.2077537
         ]
       ],
       "first_date": 1779278708.6658673,
@@ -503,18 +511,23 @@
       },
       "language": "Japanese",
       "price": 179.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1781746464.967431,
-      "ended": false,
-      "new": false,
+      "date": 1781885069.2077537,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781885069.2077537
+        ]
+      ],
       "first_date": 1771425603.3854594,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

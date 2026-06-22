@@ -8,9 +8,9 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 6,
-  "sold": 0,
-  "inserted": 0,
+  "available": 8,
+  "sold": 1,
+  "inserted": 2,
   "listings": [
     {
       "card": "Roronoa Zoro (ST12-008)",
@@ -2480,20 +2480,58 @@
       },
       "language": "English",
       "price": 2200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1780913442.6026976,
-      "ended": true,
+      "date": 1782081061.5299904,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          2200.0,
+          1780913442.6026976
+        ],
+        [
+          2300.0,
+          1781883999.1232145
+        ]
+      ],
       "previous_quantities": [
         [
           1,
           1780913442.6026976
+        ],
+        [
+          0,
+          1780913442.6026976
         ]
       ],
       "first_date": 1779952217.168415,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
+        "name": "Allstarbgc",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 2500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Cracked from bgs 9.5 - psa 10?",
+      "date": 1782081061.5299904,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782081061.5299904,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2510,23 +2548,28 @@
       },
       "language": "English",
       "price": 2750.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Cracked from bgs 9.5",
-      "date": 1781744988.6783955,
-      "ended": false,
-      "new": false,
+      "date": 1781883999.1232145,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           2900.0,
           1781650230.6909935
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781883999.1232145
+        ]
+      ],
       "first_date": 1781650230.6909935,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2636,11 +2679,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 3988.78,
+      "price": 3979.36,
       "quantity": 1,
       "condition": "NM",
       "comment": "bgs 10 open to offers or trades Dm on IG",
-      "date": 1781744988.6783955,
+      "date": 1782081061.5299904,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2699,6 +2742,14 @@
         [
           3992.96,
           1781650230.6909935
+        ],
+        [
+          3988.78,
+          1781744988.6783955
+        ],
+        [
+          3975.46,
+          1781883999.1232145
         ]
       ],
       "previous_quantities": [
@@ -2723,15 +2774,40 @@
       "card": "Roronoa Zoro (ST12-008)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
       "seller": {
-        "name": "C-R-96",
-        "country": "Item location: Germany"
+        "name": "Arvktcg",
+        "country": "Item location: Spain"
       },
       "language": "English",
       "price": 4000.0,
       "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa 10",
+      "date": 1782081061.5299904,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782081061.5299904,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
+        "name": "C-R-96",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 4500.0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1781744988.6783955,
+      "date": 1782081061.5299904,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2758,6 +2834,10 @@
         [
           3500.0,
           1781385548.473027
+        ],
+        [
+          4000.0,
+          1781744988.6783955
         ]
       ],
       "previous_quantities": [],
@@ -2780,8 +2860,8 @@
       "price": 4750.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed. great Conditioning",
-      "date": 1781744988.6783955,
+      "comment": "Sealed. great Condition",
+      "date": 1782081061.5299904,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2822,8 +2902,8 @@
       "price": 5000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "check out my other stuff",
-      "date": 1781744988.6783955,
+      "comment": "Feel free to make me an offer - check out my other stuff",
+      "date": 1782081061.5299904,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2882,7 +2962,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Gem Mint - TOP 64 Prize Card",
-      "date": 1781744988.6783955,
+      "date": 1782081061.5299904,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2922,7 +3002,7 @@
       "previous_quantities": [],
       "first_date": 1771902096.8452172,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

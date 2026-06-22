@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 16,
-  "sold": 0,
+  "available": 15,
+  "sold": 2,
   "inserted": 1,
   "listings": [
     {
@@ -126,7 +126,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "I sell a lot of Japanese cards <3 (old and new)",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -151,7 +151,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Daily Shipping",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -332,12 +332,12 @@
       },
       "language": "Japanese",
       "price": 58.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "GREAT STOCK OF VINTAGE JP",
-      "date": 1781856342.0213363,
-      "ended": false,
-      "new": false,
+      "date": 1781927297.6002667,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           58.99,
@@ -360,12 +360,16 @@
         [
           0,
           1777392538.589141
+        ],
+        [
+          1,
+          1781927297.6002667
         ]
       ],
       "first_date": 1772284184.4142463,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -382,7 +386,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "gd+. unlimited",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -457,7 +461,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -559,18 +563,23 @@
       },
       "language": "Japanese",
       "price": 60.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Daily Shipping #2",
-      "date": 1781856342.0213363,
-      "ended": false,
-      "new": false,
+      "date": 1781927297.6002667,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1781927297.6002667
+        ]
+      ],
       "first_date": 1781352014.163936,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -713,7 +722,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "unlimited",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -822,7 +831,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Single small crease. otherwise NM",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -906,7 +915,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "back good",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -965,7 +974,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1068,7 +1077,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front nm Back is with whitening sleeved toploader",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1148,7 +1157,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "(TOPLOADER)BW4.001 - fast ship and maximum protection check the store for all cards!!",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1173,7 +1182,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1331,7 +1340,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC++NM-/ask for photos",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1583,6 +1592,49 @@
       "card": "Darkrai EX  (BW4 072)",
       "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
       "seller": {
+        "name": "nicofra",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "RELISTED! Slight edge wear. overall in great condition",
+      "date": 1782124371.7608328,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1776911193.2525284
+        ],
+        [
+          80.0,
+          1779040542.1383314
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779722457.7367818
+        ],
+        [
+          0,
+          1779722457.7367818
+        ]
+      ],
+      "first_date": 1771764581.0808065,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Darkrai EX  (BW4 072)",
+      "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
+      "seller": {
         "name": "THENINETAILEDF0X",
         "country": "Item location: United Kingdom"
       },
@@ -1599,45 +1651,6 @@
         [
           1,
           1780525093.1794374
-        ]
-      ],
-      "first_date": 1771764581.0808065,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Darkrai EX  (BW4 072)",
-      "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
-      "seller": {
-        "name": "nicofra",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 100.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "Slight edge wear. overall in great condition",
-      "date": 1779722457.7367818,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          75.0,
-          1776911193.2525284
-        ],
-        [
-          80.0,
-          1779040542.1383314
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1779722457.7367818
         ]
       ],
       "first_date": 1771764581.0808065,
@@ -2094,9 +2107,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. ask for photos",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781856342.0213363,
@@ -2169,7 +2182,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1781856342.0213363,
+      "date": 1782124371.7608328,
       "ended": false,
       "new": false,
       "previous_prices": [

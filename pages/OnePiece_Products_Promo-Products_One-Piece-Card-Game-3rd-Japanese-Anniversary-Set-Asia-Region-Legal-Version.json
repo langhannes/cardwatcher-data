@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 19,
-  "sold": 0,
-  "inserted": 2,
+  "available": 7,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "One Piece Card Game 3rd Japanese Anniversary Set (Asia Region Legal Version)",
@@ -25,8 +25,8 @@
       "price": 99.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "No cards inside but the playmat. 2 deckbox. counters and sleeves are here.",
-      "date": 1781780596.6835887,
+      "comment": "No cards inside but 2 deckbox. counters and sleeves are here.",
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -868,12 +868,12 @@
       },
       "language": "Japanese",
       "price": 550.0,
-      "quantity": 12,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! perfect sealed + shipping fast",
-      "date": 1781780596.6835887,
-      "ended": false,
-      "new": false,
+      "comment": "perfect sealed + shipping fast",
+      "date": 1781910762.0766275,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -891,12 +891,16 @@
         [
           0,
           1781505081.4645476
+        ],
+        [
+          12,
+          1781910762.0766275
         ]
       ],
       "first_date": 1780859753.0146322,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 12,
+      "quantity_change": -12,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1281,7 +1285,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1328,7 +1332,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED in Brown box",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1353,7 +1357,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping/ CIVITANOVA MARCHE",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1392,53 +1396,15 @@
       "card": "One Piece Card Game 3rd Japanese Anniversary Set (Asia Region Legal Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_One-Piece-Card-Game-3rd-Japanese-Anniversary-Set-Asia-Region-Legal-Version",
       "seller": {
-        "name": "Monk3yTCG",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 1000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed in brown box",
-      "date": 1781780596.6835887,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1000.0,
-          1779531617.817564
-        ],
-        [
-          700.0,
-          1780367150.3543386
-        ],
-        [
-          900.0,
-          1780859753.0146322
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1774395302.7026155,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "One Piece Card Game 3rd Japanese Anniversary Set (Asia Region Legal Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_One-Piece-Card-Game-3rd-Japanese-Anniversary-Set-Asia-Region-Legal-Version",
-      "seller": {
         "name": "Zimbi22",
         "country": "Item location: Poland"
       },
       "language": "Japanese",
-      "price": 1012.08,
+      "price": 1009.4,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1529,6 +1495,14 @@
         [
           1012.32,
           1781677726.5053852
+        ],
+        [
+          1012.08,
+          1781780596.6835887
+        ],
+        [
+          1008.7,
+          1781910762.0766275
         ]
       ],
       "previous_quantities": [
@@ -1561,6 +1535,48 @@
       "card": "One Piece Card Game 3rd Japanese Anniversary Set (Asia Region Legal Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_One-Piece-Card-Game-3rd-Japanese-Anniversary-Set-Asia-Region-Legal-Version",
       "seller": {
+        "name": "Monk3yTCG",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 1100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed in brown box",
+      "date": 1782107819.4931936,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          1779531617.817564
+        ],
+        [
+          700.0,
+          1780367150.3543386
+        ],
+        [
+          900.0,
+          1780859753.0146322
+        ],
+        [
+          1000.0,
+          1781910762.0766275
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1774395302.7026155,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "One Piece Card Game 3rd Japanese Anniversary Set (Asia Region Legal Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_One-Piece-Card-Game-3rd-Japanese-Anniversary-Set-Asia-Region-Legal-Version",
+      "seller": {
         "name": "Papu7",
         "country": "Item location: Spain"
       },
@@ -1569,9 +1585,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781780596.6835887,
@@ -1590,14 +1606,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 1475.0,
+      "price": 2225.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "new / sealed in brown Box never openend!",
-      "date": 1781780596.6835887,
+      "date": 1782107819.4931936,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          1475.0,
+          1781780596.6835887
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1781336135.4902635,
       "last_date": 0.0,
