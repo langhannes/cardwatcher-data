@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 4,
+  "available": 3,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "MGardevoir EX  (XY5t 076)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Basic Energy from Base Set in the first 20 shipments!!!",
-      "date": 1782100088.2978659,
+      "date": 1782791122.596188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,54 +51,12 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782100088.2978659,
+      "date": 1782791122.596188,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781328190.0262096,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MGardevoir EX  (XY5t 076)",
-      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_MGardevoir-EX-V2",
-      "seller": {
-        "name": "Maxmitklacks",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 349.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1782100088.2978659,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779775534.4612632
-        ],
-        [
-          0,
-          1779775534.4612632
-        ],
-        [
-          1,
-          1780502174.0668008
-        ],
-        [
-          0,
-          1780502174.0668008
-        ]
-      ],
-      "first_date": 1778882216.523874,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -148,19 +106,79 @@
       "card": "MGardevoir EX  (XY5t 076)",
       "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_MGardevoir-EX-V2",
       "seller": {
-        "name": "WiindMaker",
-        "country": "Item location: France"
+        "name": "Maxmitklacks",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 400.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1782100088.2978659,
+      "comment": "RELISTED! ",
+      "date": 1782791122.596188,
       "ended": false,
       "new": false,
+      "previous_prices": [
+        [
+          349.0,
+          1782100088.2978659
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779775534.4612632
+        ],
+        [
+          0,
+          1779775534.4612632
+        ],
+        [
+          1,
+          1780502174.0668008
+        ],
+        [
+          0,
+          1780502174.0668008
+        ],
+        [
+          1,
+          1782100088.2978659
+        ],
+        [
+          0,
+          1782100088.2978659
+        ]
+      ],
+      "first_date": 1778882216.523874,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MGardevoir EX  (XY5t 076)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_MGardevoir-EX-V2",
+      "seller": {
+        "name": "WiindMaker",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782607849.0760682,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782607849.0760682
+        ]
+      ],
       "first_date": 1778882216.523874,
       "last_date": 0.0,
       "price_is_new": false,

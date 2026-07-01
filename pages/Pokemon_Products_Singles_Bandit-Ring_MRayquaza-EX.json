@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 12,
+  "available": 11,
   "sold": 0,
   "inserted": 1,
   "listings": [
@@ -546,7 +546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to sleeve and top loader (Negotiable price)",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -822,11 +822,20 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782307045.5794203
+        ],
+        [
+          0,
+          1782307045.5794203
+        ]
+      ],
       "first_date": 1778013474.9135118,
       "last_date": 0.0,
       "price_is_new": false,
@@ -847,7 +856,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "new VAT Registered Shop. Please Trust!",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -905,7 +914,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Budapest. Buy and Sell Cards",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -944,7 +953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm-",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1096,14 +1105,19 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1782115577.7779958,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782115577.7779958
+        ]
+      ],
       "first_date": 1781850387.5597832,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1264,7 +1278,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1344,7 +1358,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Shipping with protective sleeve. Extra photos available upon request.",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1655,6 +1669,31 @@
       "card": "MRayquaza EX  (XY7 095)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MRayquaza-EX",
       "seller": {
+        "name": "PikaTrick",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Kante unten links leichter Fehler kein 9/10er Kandidat",
+      "date": 1782804925.3798306,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782804925.3798306,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY7 095)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MRayquaza-EX",
+      "seller": {
         "name": "SouthWestTradingTeam",
         "country": "Item location: Germany"
       },
@@ -1698,11 +1737,11 @@
       },
       "language": "Japanese",
       "price": 1200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! RAW PERFECT CONDITION",
-      "date": 1782115577.7779958,
-      "ended": false,
+      "comment": "RAW PERFECT CONDITION",
+      "date": 1782307045.5794203,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1718,12 +1757,16 @@
         [
           0,
           1781850387.5597832
+        ],
+        [
+          1,
+          1782307045.5794203
         ]
       ],
       "first_date": 1781600517.1606145,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -1762,15 +1805,75 @@
       },
       "language": "Japanese",
       "price": 1500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1775115935.2665045,
-      "ended": true,
+      "date": 1782804925.3798306,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          0,
+          1775115935.2665045
+        ]
+      ],
       "first_date": 1755774463.3710132,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY7 095)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MRayquaza-EX",
+      "seller": {
+        "name": "Melobou",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782804925.3798306,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1800.0,
+          1771476271.0378385
+        ],
+        [
+          1950.0,
+          1776714523.2966418
+        ],
+        [
+          2400.0,
+          1779616467.991322
+        ],
+        [
+          2200.0,
+          1780973426.3900166
+        ],
+        [
+          2000.0,
+          1782307045.5794203
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781343075.387319
+        ],
+        [
+          0,
+          1781343075.387319
+        ]
+      ],
+      "first_date": 1771425662.527364,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1855,57 +1958,6 @@
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1771425662.527364,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MRayquaza EX  (XY7 095)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MRayquaza-EX",
-      "seller": {
-        "name": "Melobou",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 2000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1782115577.7779958,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1800.0,
-          1771476271.0378385
-        ],
-        [
-          1950.0,
-          1776714523.2966418
-        ],
-        [
-          2400.0,
-          1779616467.991322
-        ],
-        [
-          2200.0,
-          1780973426.3900166
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781343075.387319
-        ],
-        [
-          0,
-          1781343075.387319
-        ]
-      ],
       "first_date": 1771425662.527364,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2041,6 +2093,36 @@
       ],
       "previous_quantities": [],
       "first_date": 1764750769.9889798,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MRayquaza EX  (XY7 095)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_MRayquaza-EX",
+      "seller": {
+        "name": "MrPuggers",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 4200.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 - 1st edition",
+      "date": 1782534014.1352198,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782534014.1352198
+        ]
+      ],
+      "first_date": 1782307045.5794203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2307,11 +2389,11 @@
       },
       "language": "Japanese",
       "price": 7999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - UNLIMITED LOW POP!",
-      "date": 1782115577.7779958,
-      "ended": false,
+      "date": 1782534014.1352198,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2319,10 +2401,15 @@
           1781918504.793139
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782534014.1352198
+        ]
+      ],
       "first_date": 1781709104.7053237,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2370,7 +2457,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. no VAT",
-      "date": 1782115577.7779958,
+      "date": 1782804925.3798306,
       "ended": false,
       "new": false,
       "previous_prices": [],

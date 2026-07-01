@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 5,
-  "sold": 0,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Rayquaza (BW5t 055)",
@@ -265,9 +265,9 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "PSA 4",
-      "date": 1782083210.6355941,
+      "date": 1782773140.8119733,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782083210.6355941,
@@ -315,7 +315,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "PSA 1",
-      "date": 1782083210.6355941,
+      "date": 1782773140.8119733,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -375,7 +375,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Front: GOOD/LP. Back: LP. I got more Rayquaza! I sell a lot of Japanese cards <3",
-      "date": 1782083210.6355941,
+      "date": 1782773140.8119733,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -515,7 +515,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "RAW EXC",
-      "date": 1782083210.6355941,
+      "date": 1782773140.8119733,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -527,7 +527,7 @@
       "previous_quantities": [],
       "first_date": 1781568320.8400116,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -562,6 +562,78 @@
       "card": "Rayquaza  (BW5t 055)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
       "seller": {
+        "name": "AllThatIsMagic",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Front very tiny scratch silver border bottom/back some whitening on edges",
+      "date": 1782773140.8119733,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2995.0,
+          1778253666.0770056
+        ],
+        [
+          2450.0,
+          1780256891.2234678
+        ],
+        [
+          1500.0,
+          1782083210.6355941
+        ],
+        [
+          1250.0,
+          1782272623.6467526
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1778149803.2651796,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza  (BW5t 055)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
+      "seller": {
+        "name": "Polixa67",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1200.0,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "No 1st",
+      "date": 1782675528.4090743,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782675528.4090743
+        ]
+      ],
+      "first_date": 1782352262.6276956,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza  (BW5t 055)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
+      "seller": {
         "name": "Leonno",
         "country": "Item location: Germany"
       },
@@ -585,40 +657,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1771425630.755882,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rayquaza  (BW5t 055)",
-      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
-      "seller": {
-        "name": "AllThatIsMagic",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Front very tiny scratch silver border bottom/back some whitening on edges",
-      "date": 1782083210.6355941,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          2995.0,
-          1778253666.0770056
-        ],
-        [
-          2450.0,
-          1780256891.2234678
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1778149803.2651796,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

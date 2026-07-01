@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
-  "sold": 1,
+  "available": 9,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -60,7 +60,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Pictures in PM. price open to offers",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -170,7 +170,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeve and top loader",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -195,7 +195,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -289,7 +289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Front: NM. back: GOOD/LP. I sell a lot of Japanese cards <3 (old and new)",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -314,7 +314,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and top loader",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -336,11 +336,11 @@
       },
       "language": "Japanese",
       "price": 400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "two small white dots on the back (top) ! Selling trainer collection",
-      "date": 1782085076.0690732,
-      "ended": false,
+      "date": 1782354625.096946,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -352,7 +352,12 @@
           1778084327.4942315
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782354625.096946
+        ]
+      ],
       "first_date": 1755774099.6000452,
       "last_date": 0.0,
       "price_is_new": false,
@@ -373,7 +378,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pics",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -474,7 +479,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 9.5",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -513,36 +518,6 @@
       "card": "Pokémon Center Lady (XY2 086)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Pokemon-Center-Lady-V2",
       "seller": {
-        "name": "SenpaiCard",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "L) BGS 9.5 Gem Mint  POP3",
-      "date": 1782085076.0690732,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          950.0,
-          1771430525.5972652
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1768161189.506884,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Lady (XY2 086)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Pokemon-Center-Lady-V2",
-      "seller": {
         "name": "Dakotaaa",
         "country": "Item location: Spain"
       },
@@ -551,7 +526,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 candidate! Perfect card",
-      "date": 1782085076.0690732,
+      "date": 1782775221.9132915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -587,7 +562,7 @@
       "comment": "",
       "date": 1781888006.275498,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           999.0,
@@ -611,7 +586,7 @@
       "first_date": 1725370034.16135,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -728,6 +703,40 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Lady (XY2 086)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Pokemon-Center-Lady-V2",
+      "seller": {
+        "name": "SenpaiCard",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "L) BGS 9.5 Gem Mint  POP3",
+      "date": 1782775221.9132915,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          950.0,
+          1771430525.5972652
+        ],
+        [
+          650.0,
+          1782085076.0690732
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1768161189.506884,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },

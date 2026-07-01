@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 6,
-  "sold": 0,
-  "inserted": 1,
+  "available": 5,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Pikachu (XY-P 090)",
@@ -1019,17 +1019,21 @@
         "country": "Item location: Czech Republic"
       },
       "language": "Japanese",
-      "price": 3200.0,
+      "price": 3600.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 9 - box #0001 HE T",
-      "date": 1782077282.9871366,
+      "comment": "PSA 9 - box #0001 HE T",
+      "date": 1782765594.1511316,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           3490.0,
           1779124383.4757247
+        ],
+        [
+          3200.0,
+          1782345066.3306384
         ]
       ],
       "previous_quantities": [
@@ -1053,7 +1057,7 @@
       "first_date": 1777200396.663249,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1070,7 +1074,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 mint!",
-      "date": 1782077282.9871366,
+      "date": 1782765594.1511316,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1356,7 +1360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1782077282.9871366,
+      "date": 1782765594.1511316,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1425,11 +1429,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 8315.08,
+      "price": 8356.03,
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1782077282.9871366,
+      "date": 1782765594.1511316,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1852,12 +1856,28 @@
         [
           8306.93,
           1781880218.4004064
+        ],
+        [
+          8315.08,
+          1782077282.9871366
+        ],
+        [
+          8312.7,
+          1782168858.670707
+        ],
+        [
+          8363.82,
+          1782345066.3306384
+        ],
+        [
+          8368.15,
+          1782494075.500729
         ]
       ],
       "previous_quantities": [],
       "first_date": 1755774006.9515474,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1948,11 +1968,11 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 10000.0,
+      "price": 9500.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 + acryl case",
-      "date": 1782077282.9871366,
+      "date": 1782765594.1511316,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1999,6 +2019,10 @@
         [
           9600.0,
           1781739724.3917232
+        ],
+        [
+          10000.0,
+          1782077282.9871366
         ]
       ],
       "previous_quantities": [],
@@ -2019,23 +2043,28 @@
       },
       "language": "Japanese",
       "price": 12000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1782077282.9871366,
-      "ended": false,
-      "new": false,
+      "date": 1782667398.7534187,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           10000.0,
           1780909185.708191
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782667398.7534187
+        ]
+      ],
       "first_date": 1775422030.3416367,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

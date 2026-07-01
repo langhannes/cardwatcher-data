@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 10,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 3,
   "listings": [
     {
       "card": "Brigette (XY8b 064)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -60,9 +60,9 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782135403.3287098,
@@ -85,7 +85,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -109,16 +109,25 @@
       "price": 249.99,
       "quantity": 1,
       "condition": "GD",
-      "comment": "Check Image!",
-      "date": 1782135403.3287098,
+      "comment": "RELISTED! Check Image!",
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782226970.471455
+        ],
+        [
+          0,
+          1782226970.471455
+        ]
+      ],
       "first_date": 1774240504.9485548,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -134,16 +143,25 @@
       "price": 249.99,
       "quantity": 1,
       "condition": "GD",
-      "comment": "Check Image 1",
-      "date": 1782135403.3287098,
+      "comment": "RELISTED! Check Image 1",
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782226970.471455
+        ],
+        [
+          0,
+          1782226970.471455
+        ]
+      ],
       "first_date": 1778274062.379506,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -160,7 +178,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AIGRADING 7.5 ask for photo",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -201,8 +219,8 @@
       "price": 419.9,
       "quantity": 1,
       "condition": "EX",
-      "comment": "Check Image!",
-      "date": 1782135403.3287098,
+      "comment": "RELISTED! Check Image!",
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -211,11 +229,20 @@
           1780309928.6880138
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782226970.471455
+        ],
+        [
+          0,
+          1782226970.471455
+        ]
+      ],
       "first_date": 1778593919.9582038,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -232,7 +259,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Feel free to ask for pictures!",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -254,6 +281,40 @@
       "card": "Brigette (XY8b 064)",
       "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
       "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 479.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Strict grading | Daily shipping | Safely packed!",
+      "date": 1782819954.0178862,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          629.95,
+          1776961720.4299657
+        ],
+        [
+          499.95,
+          1782724321.839602
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1773687745.9918365,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Brigette (XY8b 064)",
+      "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
+      "seller": {
         "name": "TheCBC",
         "country": "Item location: Netherlands"
       },
@@ -262,7 +323,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782135403.3287098,
+      "date": 1782819954.0178862,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -272,36 +333,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Brigette (XY8b 064)",
-      "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
-      "seller": {
-        "name": "LA-collectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 499.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Strict grading | Daily shipping | Safely packed!",
-      "date": 1782135403.3287098,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          629.95,
-          1776961720.4299657
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1773687745.9918365,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },

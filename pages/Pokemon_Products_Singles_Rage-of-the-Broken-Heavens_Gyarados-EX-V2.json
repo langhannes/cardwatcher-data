@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 15,
+  "available": 16,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Gyarados EX (XY9 081)",
@@ -126,7 +126,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -286,7 +286,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -386,7 +386,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "CRIMPED - ask for photo",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -411,7 +411,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -433,60 +433,6 @@
       "card": "Gyarados EX  (XY9 081)",
       "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V2",
       "seller": {
-        "name": "Arcana-Trieste",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 169.98,
-      "quantity": 1,
-      "condition": "LP",
-      "comment": "__ ARCANA __ huge selection_strict grading_we buy cards",
-      "date": 1782141701.6560524,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          98.99,
-          1725369760.2331693
-        ],
-        [
-          68.99,
-          1761774828.6307735
-        ],
-        [
-          898.99,
-          1773837705.5604296
-        ],
-        [
-          998.99,
-          1779657383.9612937
-        ],
-        [
-          344.99,
-          1780237635.4821546
-        ],
-        [
-          299.99,
-          1780542711.6774826
-        ],
-        [
-          257.2,
-          1780892474.2035222
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1716279434.835643,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Gyarados EX  (XY9 081)",
-      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V2",
-      "seller": {
         "name": "PokekaTCG",
         "country": "Item location: Germany"
       },
@@ -494,16 +440,25 @@
       "price": 169.99,
       "quantity": 1,
       "condition": "LP",
-      "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1782141701.6560524,
+      "comment": "RELISTED! Sleeved + Toploader & fast shipping",
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782233266.479136
+        ],
+        [
+          0,
+          1782233266.479136
+        ]
+      ],
       "first_date": 1780542711.6774826,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -550,16 +505,83 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Check my other cards",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782233266.479136
+        ],
+        [
+          0,
+          1782233266.479136
+        ]
+      ],
       "first_date": 1781868489.5206609,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gyarados EX  (XY9 081)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V2",
+      "seller": {
+        "name": "Arcana-Trieste",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 219.98,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "__ ARCANA __ huge selection_strict grading_we buy cards",
+      "date": 1782837107.639688,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          98.99,
+          1725369760.2331693
+        ],
+        [
+          68.99,
+          1761774828.6307735
+        ],
+        [
+          898.99,
+          1773837705.5604296
+        ],
+        [
+          998.99,
+          1779657383.9612937
+        ],
+        [
+          344.99,
+          1780237635.4821546
+        ],
+        [
+          299.99,
+          1780542711.6774826
+        ],
+        [
+          257.2,
+          1780892474.2035222
+        ],
+        [
+          169.98,
+          1782406321.1468575
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1716279434.835643,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -575,7 +597,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -600,7 +622,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "(*) Free shipping! / T54",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -650,7 +672,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+ | B7",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -700,7 +722,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "many more cards",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -812,11 +834,11 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1781727258.3021774,
-      "ended": true,
+      "date": 1782837107.639688,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -843,6 +865,10 @@
         ],
         [
           1,
+          1781727258.3021774
+        ],
+        [
+          0,
           1781727258.3021774
         ]
       ],
@@ -934,7 +960,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 -> Centering 9 / Edges 9.5 / Corners 10 / Surface 10 / Pics via request :)",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -964,7 +990,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1019,7 +1045,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "SHOWCASE",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1189,7 +1215,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Can be 10",
-      "date": 1782141701.6560524,
+      "date": 1782837107.639688,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
+  "available": 9,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Kyogre EX  (XY5t 072)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -115,7 +115,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -140,7 +140,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -381,7 +381,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best in town - 01-1E2",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -654,7 +654,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B7",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -678,16 +678,25 @@
       "price": 279.99,
       "quantity": 1,
       "condition": "GD",
-      "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1782083573.8936546,
+      "comment": "RELISTED! Sleeved + Toploader & fast shipping",
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782175153.836241
+        ],
+        [
+          0,
+          1782175153.836241
+        ]
+      ],
       "first_date": 1778254744.2658663,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -704,7 +713,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -784,7 +793,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
-      "date": 1782083573.8936546,
+      "date": 1782773607.816587,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1006,49 +1015,6 @@
       "card": "Kyogre EX  (XY5t 072)",
       "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
       "seller": {
-        "name": "CatDoesThings",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 1200.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1778254744.2658663,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          850.0,
-          1772123098.5972183
-        ],
-        [
-          800.0,
-          1774212562.9390447
-        ],
-        [
-          1000.0,
-          1774615123.6748204
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778254744.2658663
-        ]
-      ],
-      "first_date": 1771504156.2647853,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Kyogre EX  (XY5t 072)",
-      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
-      "seller": {
         "name": "Naccer",
         "country": "Item location: Netherlands"
       },
@@ -1072,6 +1038,57 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kyogre EX  (XY5t 072)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Kyogre-EX-V2",
+      "seller": {
+        "name": "CatDoesThings",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1782773607.816587,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          850.0,
+          1772123098.5972183
+        ],
+        [
+          800.0,
+          1774212562.9390447
+        ],
+        [
+          1000.0,
+          1774615123.6748204
+        ],
+        [
+          1200.0,
+          1778254744.2658663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778254744.2658663
+        ],
+        [
+          0,
+          1778254744.2658663
+        ]
+      ],
+      "first_date": 1771504156.2647853,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     }

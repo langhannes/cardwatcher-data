@@ -11,7 +11,7 @@
   ],
   "only_germany": false,
   "available": 1,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -22,11 +22,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 45.13,
+      "price": 41.84,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1782112117.82494,
+      "date": 1782802136.1153626,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -201,6 +201,26 @@
         [
           45.1,
           1781915048.0539544
+        ],
+        [
+          45.13,
+          1782112117.82494
+        ],
+        [
+          41.79,
+          1782203707.554344
+        ],
+        [
+          41.82,
+          1782304155.8824148
+        ],
+        [
+          41.81,
+          1782381624.0983691
+        ],
+        [
+          41.79,
+          1782705685.0490212
         ]
       ],
       "previous_quantities": [],
@@ -269,7 +289,7 @@
       "comment": "",
       "date": 1781915048.0539544,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -280,7 +300,7 @@
       "first_date": 1778814165.1153128,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

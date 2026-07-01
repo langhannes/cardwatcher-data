@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 13,
+  "available": 17,
   "sold": 1,
-  "inserted": 0,
+  "inserted": 5,
   "listings": [
     {
       "card": "Primal Groudon EX  (XY7 094)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "PL-",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ask for picture",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -76,7 +76,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Strict grading | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -106,11 +106,20 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Front EX+ Back GD. good binder copy!  | Packed carefully with toploader |",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782174066.609325
+        ],
+        [
+          0,
+          1782174066.609325
+        ]
+      ],
       "first_date": 1781746958.1573653,
       "last_date": 0.0,
       "price_is_new": false,
@@ -131,7 +140,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Kyogre available",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -155,13 +164,47 @@
       "price": 249.99,
       "quantity": 1,
       "condition": "EX",
-      "comment": "Photo Dispo Envoi rapide sous 48h. carte protégée en sleeve/toploader. emballage soigné",
-      "date": 1782082488.5039134,
+      "comment": "RELISTED! Photo Dispo Envoi rapide sous 48h. carte protégée en sleeve/toploader. emballage soigné",
+      "date": 1782772180.535485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782587845.1095302
+        ],
+        [
+          0,
+          1782587845.1095302
+        ]
+      ],
+      "first_date": 1779439418.9056501,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "Feuerbox",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 290.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1779439418.9056501,
+      "first_date": 1782501675.6427238,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -181,12 +224,62 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+/ask for photos",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779503362.545871,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "Grafbart420",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Mini whitening (back)",
+      "date": 1782772180.535485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782674380.4648628,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "ThepokegalleryNL",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782772180.535485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782174066.609325,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -208,7 +301,7 @@
       "comment": "RAW PERFECT CONDITION",
       "date": 1781885427.6774004,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -219,7 +312,7 @@
       "first_date": 1781310068.5345705,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -235,8 +328,8 @@
       "price": 499.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Front NM- Back NM",
-      "date": 1782082488.5039134,
+      "comment": "RELISTED! Front NM- Back NM",
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -248,9 +341,42 @@
         [
           0,
           1781387015.0775309
+        ],
+        [
+          1,
+          1782587845.1095302
+        ],
+        [
+          0,
+          1782587845.1095302
         ]
       ],
       "first_date": 1781310068.5345705,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "PikaTrick",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "UNLIMTED!",
+      "date": 1782772180.535485,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782772180.535485,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -322,31 +448,6 @@
       "card": "Primal Groudon EX  (XY7 094)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
       "seller": {
-        "name": "Thefuture866",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 850.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1782082488.5039134,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779439418.9056501,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Primal Groudon EX  (XY7 094)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
-      "seller": {
         "name": "Melobou",
         "country": "Item location: France"
       },
@@ -355,7 +456,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kyogre and rayquaza avaible",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -385,7 +486,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kyogre and rayquaza avaible",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -400,6 +501,45 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "Thefuture866",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! PSA 9",
+      "date": 1782772180.535485,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          850.0,
+          1782587845.1095302
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782587845.1095302
+        ],
+        [
+          0,
+          1782587845.1095302
+        ]
+      ],
+      "first_date": 1779439418.9056501,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -445,7 +585,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kyogre and rayquaza avaible",
-      "date": 1782082488.5039134,
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -474,16 +614,55 @@
       "price": 1590.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10 / EU shipping possible",
-      "date": 1782082488.5039134,
+      "comment": "RELISTED! PSA 10 / EU shipping possible",
+      "date": 1782772180.535485,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782587845.1095302
+        ],
+        [
+          0,
+          1782587845.1095302
+        ]
+      ],
       "first_date": 1779439418.9056501,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "GERPoke",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1999.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1782674380.4648628,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782674380.4648628
+        ]
+      ],
+      "first_date": 1782674380.4648628,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

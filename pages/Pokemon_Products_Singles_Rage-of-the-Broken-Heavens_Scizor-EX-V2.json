@@ -111,7 +111,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1779424169.2211869,
+      "date": 1782342962.7070818,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -119,6 +119,14 @@
         [
           1,
           1779424169.2211869
+        ],
+        [
+          0,
+          1779424169.2211869
+        ],
+        [
+          1,
+          1782342962.7070818
         ]
       ],
       "first_date": 1779122778.6725917,
@@ -171,7 +179,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1782075643.6910849,
+      "date": 1782763121.6910915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -252,14 +260,19 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 500.0,
+      "price": 600.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 SEQUENTIAL 057 086 XY9 1ST EDITION",
-      "date": 1782075643.6910849,
+      "date": 1782763121.6910915,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          500.0,
+          1782075643.6910849
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1778995725.1442695,
       "last_date": 0.0,

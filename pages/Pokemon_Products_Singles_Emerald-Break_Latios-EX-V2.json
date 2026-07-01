@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 9,
+  "available": 8,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Latios EX  (XY6 082)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -68,7 +68,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -89,11 +89,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 65.32,
+      "price": 65.75,
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -392,6 +392,26 @@
         [
           65.34,
           1781941159.143397
+        ],
+        [
+          65.32,
+          1782138237.891436
+        ],
+        [
+          65.67,
+          1782229803.555894
+        ],
+        [
+          65.72,
+          1782328113.346184
+        ],
+        [
+          65.69,
+          1782404028.2707436
+        ],
+        [
+          65.66,
+          1782726203.8704422
         ]
       ],
       "previous_quantities": [],
@@ -439,8 +459,8 @@
       "price": 73.75,
       "quantity": 1,
       "condition": "GD",
-      "comment": "RELISTED! Really near to excellent",
-      "date": 1782138237.891436,
+      "comment": "Really near to excellent",
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -469,7 +489,7 @@
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -486,7 +506,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -516,7 +536,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+ | B7",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -533,41 +553,6 @@
       "card": "Latios EX  (XY6 082)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
       "seller": {
-        "name": "Marniespride",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 170.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778486922.5605135,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1774137769.9998093
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778486922.5605135
-        ]
-      ],
-      "first_date": 1771628713.2180197,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Latios EX  (XY6 082)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
-      "seller": {
         "name": "SuikaSlayer",
         "country": "Item location: Germany"
       },
@@ -576,7 +561,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve > Toploader - DM me for more pics",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -601,11 +586,58 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782138237.891436,
+      "date": 1782822018.5883489,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1771628713.2180197,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Latios EX  (XY6 082)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
+      "seller": {
+        "name": "Marniespride",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782553058.514963,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1774137769.9998093
+        ],
+        [
+          170.0,
+          1778486922.5605135
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778486922.5605135
+        ],
+        [
+          0,
+          1778486922.5605135
+        ],
+        [
+          1,
+          1782553058.514963
+        ]
+      ],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
@@ -648,14 +680,19 @@
       },
       "language": "Japanese",
       "price": 229.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Minty. Make your offer",
-      "date": 1782138237.891436,
-      "ended": false,
+      "date": 1782404028.2707436,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782404028.2707436
+        ]
+      ],
       "first_date": 1781535026.7671463,
       "last_date": 0.0,
       "price_is_new": false,

@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 7,
-  "sold": 2,
+  "available": 8,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -343,11 +343,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1782114094.7428427,
+      "date": 1782804015.0793908,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782305910.5167518
+        ],
+        [
+          0,
+          1782305910.5167518
+        ]
+      ],
       "first_date": 1779919000.012289,
       "last_date": 0.0,
       "price_is_new": false,
@@ -424,11 +433,11 @@
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
-      "price": 5490.0,
+      "price": 5690.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 - Contact me befor buying",
-      "date": 1782114094.7428427,
+      "date": 1782804015.0793908,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -443,6 +452,10 @@
         [
           5900.0,
           1780402984.6318638
+        ],
+        [
+          5490.0,
+          1782205683.686944
         ]
       ],
       "previous_quantities": [],
@@ -543,6 +556,31 @@
       "card": "Roronoa Zoro (OP12-020) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
       "seller": {
+        "name": "FormosaBridge",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 7000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Asia Version - Come in DM if you really need. can put in contact",
+      "date": 1782804015.0793908,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782305910.5167518,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP12-020) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
+      "seller": {
         "name": "Zaiting",
         "country": "Item location: Austria"
       },
@@ -551,7 +589,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Asia Version",
-      "date": 1782114094.7428427,
+      "date": 1782804015.0793908,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -614,20 +652,28 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sealed - for japan",
-      "date": 1781917022.569359,
+      "date": 1782305910.5167518,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1781917022.569359
+        ],
+        [
+          0,
+          1781917022.569359
+        ],
+        [
+          1,
+          1782305910.5167518
         ]
       ],
       "first_date": 1781510496.8143811,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -641,14 +687,19 @@
       },
       "language": "Japanese",
       "price": 7999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa 10/pls ask for Picture before you pay.",
-      "date": 1782114094.7428427,
-      "ended": false,
+      "date": 1782205683.686944,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782205683.686944
+        ]
+      ],
       "first_date": 1781917022.569359,
       "last_date": 0.0,
       "price_is_new": false,
@@ -665,22 +716,30 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 7999.0,
-      "quantity": 0,
+      "price": 8000.0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1781708120.1425693,
-      "ended": true,
+      "comment": "Sealed for Japan",
+      "date": 1782804015.0793908,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
           7000.0,
           1780865413.1802363
+        ],
+        [
+          7999.0,
+          1782383378.3053045
         ]
       ],
       "previous_quantities": [
         [
           1,
+          1781708120.1425693
+        ],
+        [
+          0,
           1781708120.1425693
         ]
       ],
@@ -703,8 +762,8 @@
       "price": 8000.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "Sealed",
-      "date": 1782114094.7428427,
+      "comment": "Sealed. for Japan",
+      "date": 1782804015.0793908,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -727,40 +786,6 @@
         [
           7500.0,
           1780971914.9837203
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779158006.47878,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Roronoa Zoro (OP12-020) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
-      "seller": {
-        "name": "PIT40",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 9000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "For Asia PSA 10",
-      "date": 1782114094.7428427,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          7200.0,
-          1780297708.3894067
-        ],
-        [
-          7900.0,
-          1780402984.6318638
         ]
       ],
       "previous_quantities": [],
@@ -836,6 +861,31 @@
       "card": "Roronoa Zoro (OP12-020) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
       "seller": {
+        "name": "27cards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 10000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10 For Japan #717 - Pick up preffered",
+      "date": 1782804015.0793908,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782707655.2322068,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP12-020) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
+      "seller": {
         "name": "psytcg",
         "country": "Item location: Netherlands"
       },
@@ -862,6 +912,48 @@
       "first_date": 1779030924.1872106,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP12-020) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
+      "seller": {
+        "name": "PIT40",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 10500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "For Asia PSA 10",
+      "date": 1782804015.0793908,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          7200.0,
+          1780297708.3894067
+        ],
+        [
+          7900.0,
+          1780402984.6318638
+        ],
+        [
+          9000.0,
+          1782205683.686944
+        ],
+        [
+          12000.0,
+          1782707655.2322068
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779158006.47878,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -911,7 +1003,7 @@
       "comment": "",
       "date": 1781917022.569359,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -922,7 +1014,7 @@
       "first_date": 1781341563.2500646,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -936,14 +1028,19 @@
       },
       "language": "Japanese",
       "price": 30000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - For Japan #009",
-      "date": 1782114094.7428427,
-      "ended": false,
+      "date": 1782205683.686944,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782205683.686944
+        ]
+      ],
       "first_date": 1779307608.5446281,
       "last_date": 0.0,
       "price_is_new": false,
