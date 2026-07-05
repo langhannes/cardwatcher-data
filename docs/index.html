@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>Dashboard | CardWatcher</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noIndex,follow">
+<link href="assets/Search/master.min.css" rel="stylesheet">
+<link href="assets/Search/product_search.min.css" rel="stylesheet">
+<style>
+html, body { background-image: none !important; }
+.dash-section { margin-bottom: 2.75rem; }
+.dash-section > h2 { font-size: 1.5rem; font-weight: 800; margin-bottom: 4px; display: flex; align-items: center; gap: 10px; letter-spacing: -0.01em; }
+.dash-section > h2::before { content: ''; width: 6px; height: 1.1em; border-radius: 3px; background: linear-gradient(180deg, #012169, #3b6fd4); }
+.dash-section > .dash-hint { font-size: 0.82rem; color: #8a8a8a; margin-bottom: 16px; }
+.dash-cols { display: flex; gap: 28px; flex-wrap: wrap; }
+.dash-col { flex: 1; min-width: 300px; }
+.dash-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.dash-subhead { font-size: 1.05rem; font-weight: 800; margin: 0 0 12px; color: #333; }
+.dash-card { display: flex; align-items: center; gap: 16px; padding: 12px 14px; border: 1px solid #ececec; border-left: 5px solid var(--accent, #ccc); border-radius: 14px; margin-bottom: 12px; text-decoration: none; color: inherit; background: linear-gradient(135deg, #ffffff 55%, var(--tint, transparent)); box-shadow: 0 1px 3px rgba(0,0,0,0.06); transition: transform .15s ease, box-shadow .15s ease; }
+.dash-card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(0,0,0,0.16); }
+.dash-thumb { width: 120px; height: 168px; object-fit: cover; border-radius: 8px; flex: 0 0 auto; background: #f3f3f3; box-shadow: 0 2px 6px rgba(0,0,0,0.22); transition: transform .15s ease; }
+.dash-card:hover .dash-thumb { transform: scale(1.05); }
+.dash-info { min-width: 0; flex: 1; }
+.dash-primary { display: inline-block; font-size: 1.2rem; font-weight: 800; color: var(--accent, #333); background: var(--tint, rgba(0,0,0,0.05)); padding: 2px 12px; border-radius: 999px; line-height: 1.35; }
+.dash-name { font-size: 0.92rem; font-weight: 600; color: #1a1a1a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 6px; }
+.dash-secondary { font-size: 0.8rem; color: #888; margin-top: 3px; }
+.dash-empty { color: #999; font-size: 0.85em; padding: 8px 0; }
+#header .navbar { height: auto !important; min-height: 45px; }
+#header .navbar > * { align-self: center; }
+@media (max-width: 768px) { main.container { padding-top: 150px !important; } }
+</style>
+<link href="assets/dark.css" rel="stylesheet">
+<script src="assets/theme.js"></script>
+</head>
+<body>
+<header id="header" class="fixed-top">
+	<nav class="navbar navbar-light">
+		<a href="index.html" class="navbar-brand">
+			<span style="font-family:var(--bs-body-font-family);font-weight:bold;font-size:32px;" class="me-2">CardWatcher</span>
+		</a>
+		<div class="d-flex align-items-center gap-2">
+			<a href="search.html" class="btn btn-sm btn-outline-primary">Browse all cards</a>
+			<button type="button" class="cw-theme-btn" onclick="cwToggleTheme()">&#9790;</button>
+		</div>
+	</nav>
+	<nav class="navbar navbar-light">
+		<form method="GET" id="searchForm" action="search.html" class="justify-content-center">
+			<div id="Search" class="form-group mb-0">
+				<div id="autoCompWrapper" class="input-group input-group-sm autocomplete-wrapper show container">
+				<input type="text" name="q" id="ProductSearchInput" placeholder="Search CardWatcher..." aria-label="Search" class="form-control autocomplete-input">
+				<button type="submit" id="search-btn" title="Search" class="btn btn-light"><span class="mx-2 mx-lg-4 fw-bold">Search</span></button>
+				</div>
+			</div>
+		</form>
+	</nav>
+</header>
+
+<main class="container" style="padding-top: 100px; padding-bottom: 5rem;">
+	<div class="d-flex justify-content-between align-items-center mb-3">
+		<h1 class="page-header mb-0">Dashboard</h1>
+	</div>
+
+	<section class="dash-section">
+		<h2>Biggest price movers</h2>
+		<div class="dash-hint">Largest 1-week change in blended market price (cards with &ge;10 available).</div>
+		<div class="dash-cols" id="moversPanel"><div class="dash-empty">Loading…</div></div>
+	</section>
+
+	<section class="dash-section">
+		<h2>Net supply loss</h2>
+		<div class="dash-hint">Cards being bought up this week — supply shrinking fastest (started week with &ge;10 available).</div>
+		<div class="dash-grid" id="supplyPanel"></div>
+	</section>
+
+	<section class="dash-section">
+		<h2>Pressure / divergence</h2>
+		<div class="dash-hint">Where price and supply moves disagree. <b>Coiling</b>: supply drained but price flat (possible upward pressure). <b>Overbought</b>: price up without supply shrinking. <b>Cooling</b>: price up but sellers piling in.</div>
+		<div class="dash-cols" id="pressurePanel"></div>
+	</section>
+</main>
+
+<script src="js/cw-common.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>

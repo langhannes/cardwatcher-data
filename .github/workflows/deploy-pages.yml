@@ -1,0 +1,65 @@
+name: Deploy viewer to Pages
+
+# Assembles the static viewer (docs/ shells + assets) together with the card
+# data (pages/, changes/, images/) into one site root and deploys it to
+# GitHub Pages. Runs on every data or viewer change so the public read-only
+# viewer stays in sync with the repo.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "pages/**"
+      - "changes/**"
+      - "images/**"
+      - "archive/**"
+      - "scripts/gen_manifest.py"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate manifest
+        run: python scripts/gen_manifest.py
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -r docs/. _site/
+          # Data directories live at repo root; the viewer reads them via
+          # relative paths, so they must sit alongside the shells at site root.
+          cp -r pages _site/pages
+          cp -r changes _site/changes
+          cp -r images _site/images
+          cp -r archive _site/archive
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

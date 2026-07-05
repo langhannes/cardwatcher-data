@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en" data-browser="viewer">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>CardWatcher</title>
+<link href="assets/Blanko/master.min.css" rel="stylesheet">
+<link href="assets/Blanko/product_singleProduct.min.css" rel="stylesheet">
+<link href="assets/Blanko/shariff.min.css" rel="stylesheet">
+<script src="assets/Blanko/Chart_2_7_2.min.js"></script>
+
+<style type="text/css">
+/* CardMarket's CSS points body background at an absolute /img/... path that
+   doesn't exist here; drop it (purely a light texture) to avoid a 404. */
+html, body { background-image: none !important; }
+.hidden-country { display:none !important; }
+.hidden-language { display:none !important; }
+.hidden-availability { display:none !important; }
+.hidden-condition { display:none !important; }
+.hidden-firsted { display:none !important; }
+.hidden-reverse { display:none !important; }
+
+#image { overflow: hidden; }
+#image img { max-width: 100%; max-height: 100%; width: auto; height: auto; min-width: 0; object-fit: contain; }
+
+.price-down { color: rgb(0,100,0) !important; }
+.price-up   { color: rgb(139,0,0) !important; }
+.price-down, .price-up { text-shadow: 0 0 2px rgba(255,255,255,0.9), 0 0 1px rgba(255,255,255,0.9); }
+
+@media (max-width: 991.98px) {
+	#table { max-width: 100%; overflow-x: hidden; }
+	#table .article-row .price-container { width: auto !important; flex: 1; justify-content: flex-end !important; }
+	#table .article-row .price-container span { text-align: right !important; }
+	#table .article-row .col-offer { flex: 1 0 0% !important; }
+	#table .article-row .product-comments { flex-basis: 100%; max-width: 100%; }
+	#table .article-row .product-comments .text-truncate { white-space: normal !important; word-break: break-word; }
+	#table .article-row .product-attributes { flex: 0 0 auto !important; }
+}
+</style>
+
+<link href="assets/dark.css" rel="stylesheet">
+<script src="assets/theme.js"></script>
+</head>
+<body>
+
+<header id="header" class="fixed-top">
+	<nav class="navbar navbar-light">
+		<a href="index.html" class="navbar-brand">
+			<span style="font-family:var(--bs-body-font-family);font-weight:bold;font-size:32px;" class="me-2">CardWatcher</span>
+		</a>
+		<div class="d-flex align-items-center gap-2" style="margin-left: auto;">
+			<a href="search.html" class="btn btn-sm btn-outline-primary">Browse all cards</a>
+			<button type="button" class="cw-theme-btn" onclick="cwToggleTheme()">&#9790;</button>
+		</div>
+	</nav>
+	<nav class="navbar navbar-light">
+		<form method="GET" id="searchForm" action="search.html" class="justify-content-center">
+			<div id="Search" class="form-group mb-0">
+				<div id="autoCompWrapper" class="input-group input-group-sm autocomplete-wrapper show container">
+				<input type="text" name="q" id="ProductSearchInput" placeholder="Search CardWatcher..." aria-label="Search" class="form-control autocomplete-input">
+				<button type="submit" id="search-btn" title="Search" class="btn btn-light"><span class="mx-2 mx-lg-4 fw-bold">Search</span></button>
+				</div>
+			</div>
+		</form>
+	</nav>
+</header>
+
+<main class="container" style="padding-top: 90px;">
+
+<div class="page-title-container d-flex align-items-center text-break">
+	<a id="cardmarketLink" href="#" style="text-decoration:none;">
+	<div class="flex-grow-1">
+		<h1><span id="cardName"></span>
+			<span id="setName" class="h4 text-muted fst-italic fw-normal"></span>
+		</h1>
+	</div>
+	</a>
+</div>
+
+<div id="mainContent" class="d-flex flex-wrap justify-content-between" style="margin-bottom: 66.55px; padding-bottom: 5rem;">
+
+<section id="image" class="d-lg-flex align-items-center col-lg-3 p-3">
+	<img id="cardImage" src="" alt="Card Image" class="lazy img-fluid">
+</section>
+
+<section id="tabs" class="col-12 col-lg-9 px-0">
+<div class="tab-container d-flex flex-column h-100">
+<div class="tab-content">
+	<div id="tabContent-info" role="tabpanel" class="tab-pane h-100 px-3 pt-3 active show">
+		<div class="row">
+			<div class="col-12 col-lg-12">
+				<div class="row g-0 small justify-content-center">
+					<div class="info-list-container col-12 col-md-8 col-lg-12 mx-auto align-self-start">
+						<dl class="labeled row mx-auto g-0">
+							<dt class="col-6 col-xl-5">Verfügbare Artikel</dt>
+							<dd class="col-6 col-xl-7" id="availableCount"></dd>
+						</dl>
+						<div id="priceSummary" class="d-flex flex-wrap gap-2 mt-2 mb-2"></div>
+					</div>
+				</div>
+				<div class="row g-0 small justify-content-center">
+					<div class="d-flex justify-content-center gap-1 mb-1">
+						<button type="button" class="btn btn-outline-primary btn-sm chart-period-btn" data-period="1m" style="font-size:0.7em; padding: 1px 6px;">1M</button>
+						<button type="button" class="btn btn-outline-primary btn-sm chart-period-btn" data-period="3m" style="font-size:0.7em; padding: 1px 6px;">3M</button>
+						<button type="button" class="btn btn-outline-primary btn-sm chart-period-btn" data-period="6m" style="font-size:0.7em; padding: 1px 6px;">6M</button>
+						<button type="button" class="btn btn-outline-primary btn-sm chart-period-btn active" data-period="all" style="font-size:0.7em; padding: 1px 6px;">All</button>
+					</div>
+					<div class="d-flex gap-2 w-100">
+						<div style="flex:1;min-width:0;"><canvas id="chart" width="400" height="240"></canvas></div>
+						<div style="flex:1;min-width:0;"><canvas id="availabilityChart" width="400" height="240"></canvas></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+<div class="clearfix w-100 mt-3"></div>
+
+<div class="d-lg-none w-100 mb-2">
+	<button class="btn btn-sm btn-outline-primary w-100" type="button" onclick="var f=document.getElementById('filter'); f.classList.toggle('d-none'); f.classList.toggle('d-block');">
+		&#9776; Show/Hide Filters
+	</button>
+</div>
+
+<section id="filter" class="d-none d-lg-block align-self-start collapse ps-0 pe-3 show" style="width:15rem; max-width:100%;">
+<form method="POST" id="FilterForm" action="#" class="article-filter-form" onsubmit="return false;">
+	<div class="filter-headline d-none d-lg-flex align-items-center border">
+		<h2 class="h5"><span class="ms-2">Filter</span></h2>
+	</div>
+
+<div id="articleFilters" data-children=".item" class="accordion rounded-0 border border-top-0 small keep-open">
+
+	<!-- Availability -->
+	<div class="accordion-item">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Availability</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div class="form-check">
+					<input type="checkbox" id="availability-True" value="availability-True" class="availability-checkbox form-check-input mb-1 me-2">
+					<label for="availability-True" class="d-inline-flex form-check-label"><span style="color:forestgreen;">Available Listings</span></label>
+				</div>
+				<div class="form-check">
+					<input type="checkbox" id="availability-False" value="availability-False" class="availability-checkbox form-check-input mb-1 me-2">
+					<label for="availability-False" class="d-inline-flex form-check-label"><span style="color:darkred">Ended Listings</span></label>
+				</div>
+				<button type="button" class="btn deselect-all-availability btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+	<!-- Seller Location (populated by card.js) -->
+	<div class="accordion-item">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Seller Location</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div id="countrySelection"></div>
+				<button type="button" class="btn deselect-all-countries btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+	<!-- Language (populated by card.js) -->
+	<div class="accordion-item">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Language</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div id="languageSelection"></div>
+				<button type="button" class="btn deselect-all-languages btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+	<!-- Condition -->
+	<div class="accordion-item">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Condition</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div class="form-check"><input type="checkbox" id="condition-mint" value="condition-mt-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-mint" class="d-inline-flex form-check-label"><a class="article-condition condition-mt me-1"><span class="badge">MT</span></a><span>Mint</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-nearmint" value="condition-nm-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-nearmint" class="d-inline-flex form-check-label"><a class="article-condition condition-nm me-1"><span class="badge">NM</span></a><span>Near Mint</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-excelent" value="condition-ex-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-excelent" class="d-inline-flex form-check-label"><a class="article-condition condition-ex me-1"><span class="badge">EX</span></a><span>Excelent</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-good" value="condition-gd-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-good" class="d-inline-flex form-check-label"><a class="article-condition condition-gd me-1"><span class="badge">GD</span></a><span>Good</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-lightplayed" value="condition-lp-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-lightplayed" class="d-inline-flex form-check-label"><a class="article-condition condition-lp me-1"><span class="badge">LP</span></a><span>Light Played</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-played" value="condition-pl-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-played" class="d-inline-flex form-check-label"><a class="article-condition condition-pl me-1"><span class="badge">PL</span></a><span>Played</span></label></div>
+				<div class="form-check"><input type="checkbox" id="condition-poor" value="condition-po-val" class="condition-checkbox form-check-input mb-1 me-2"><label for="condition-poor" class="d-inline-flex form-check-label"><a class="article-condition condition-po me-1"><span class="badge">PO</span></a><span>Poor</span></label></div>
+				<button type="button" class="btn deselect-all-conditions btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+	<!-- Properties -->
+	<div class="accordion-item">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Properties</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div class="form-check"><input type="checkbox" id="firsted-is" value="firsted-is" class="firsted-checkbox form-check-input mb-1 me-2"><label for="firsted-is" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-112px -16px;" class="icon align-self-center me-2"></span><span>First Edition</span></label></div>
+				<div class="form-check"><input type="checkbox" id="firsted-none" value="firsted-none" class="firsted-checkbox form-check-input mb-1 me-2"><label for="firsted-none" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-112px -16px;" class="icon align-self-center me-2"><span style="color:darkred;padding-left:2px;font-size:18px;line-height:16px;font-weight:bold;opacity:0.5;">X</span></span><span>Not First Edition</span></label></div>
+				<div class="form-check"><input type="checkbox" id="reverseholo-is" value="reverseholo-is" class="reverse-checkbox form-check-input mb-1 me-2"><label for="reverseholo-is" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-416px -16px;" class="icon align-self-center me-2"></span><span>Reverse Holo</span></label></div>
+				<div class="form-check"><input type="checkbox" id="reverseholo-none" value="reverseholo-none" class="reverse-checkbox form-check-input mb-1 me-2"><label for="reverseholo-none" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-416px -16px;" class="icon align-self-center me-2"><span style="color:darkred;padding-left:2px;font-size:18px;line-height:16px;font-weight:bold;opacity:0.5;">X</span></span><span>Not Reverse Holo</span></label></div>
+				<button type="button" class="btn deselect-all-property btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+</div>
+</form>
+</section>
+
+<section id="table" class="col px-0">
+<div class="table article-table table-striped">
+	<div class="table-header d-none d-lg-flex">
+		<div class="row g-0 flex-nowrap">
+			<div class="d-none col">#</div>
+			<div class="col-sellerProductInfo col">
+				<div class="row g-0 h-100">
+					<div class="col-seller col-12 col-lg-auto"><div>Seller</div></div>
+					<div class="col-product col-12 col-lg"><div>Product Information</div></div>
+				</div>
+			</div>
+			<div class="col-offer col-auto" style="width:22.1rem;">Offer</div>
+		</div>
+	</div>
+	<div class="table-body" id="tableBody">
+		<div class="table-footer"></div>
+	</div>
+</div>
+</section>
+</div>
+</main>
+
+<script src="js/cw-common.js"></script>
+<script src="js/card-market.js"></script>
+<script src="js/card-interactions.js"></script>
+<script src="js/card.js"></script>
+</body>
+</html>

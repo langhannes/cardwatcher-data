@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en" data-browser="viewer">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title>Search | CardWatcher</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noIndex,follow">
+<link href="assets/Search/master.min.css" rel="stylesheet">
+<link href="assets/Search/product_search.min.css" rel="stylesheet">
+<style>
+html, body { background-image: none !important; }
+#header .navbar { height: auto !important; min-height: 45px; }
+#header .navbar > * { align-self: center; }
+@media (max-width: 768px) { main.container { padding-top: 150px !important; } }
+</style>
+<link href="assets/dark.css" rel="stylesheet">
+<script src="assets/theme.js"></script>
+</head>
+
+<body>
+<header id="header" class="fixed-top">
+	<nav class="navbar navbar-light">
+		<a href="index.html" class="navbar-brand">
+			<span style="font-family:var(--bs-body-font-family);font-weight:bold;font-size:32px;" class="me-2">CardWatcher</span>
+		</a>
+		<div class="d-flex align-items-center gap-2">
+			<a href="index.html" class="btn btn-sm btn-outline-primary">Dashboard</a>
+			<button type="button" class="cw-theme-btn" onclick="cwToggleTheme()">&#9790;</button>
+		</div>
+	</nav>
+	<nav class="navbar navbar-light">
+		<form method="GET" id="searchForm" action="search.html" class="justify-content-center">
+			<div id="Search" class="form-group mb-0">
+				<div id="autoCompWrapper" class="input-group input-group-sm autocomplete-wrapper show container">
+				<input type="text" name="q" id="ProductSearchInput" placeholder="Search CardWatcher..." aria-label="Search" class="form-control autocomplete-input">
+				<button type="submit" id="search-btn" title="Search" class="btn btn-light"><span class="mx-2 mx-lg-4 fw-bold">Search</span></button>
+				</div>
+			</div>
+		</form>
+	</nav>
+</header>
+
+<main class="container" style="padding-top: 100px;">
+<div class="d-flex justify-content-between align-items-center mb-3">
+	<h1 class="H1_PageTitle page-header mb-0">Articles</h1>
+	<span id="resultCount" class="text-muted small"></span>
+</div>
+
+<div class="row mb-3">
+	<div class="col-12">
+		<div class="row g-2 align-items-center">
+			<input type="hidden" name="searchString" id="searchStringHidden" value="">
+			<div class="col-auto"><label for="sortBy" class="col-form-label">Sort by:</label></div>
+			<div class="col-auto">
+				<select id="sortBy" class="form-select form-select-sm">
+					<option value="name">Name</option>
+					<option value="price">Price</option>
+					<option value="priceChange">Price Change (€)</option>
+					<option value="percentChange">Percentage Change (%)</option>
+					<option value="lowestPrice">Lowest Price</option>
+					<option value="netSupply">Net Supply Change</option>
+					<option value="drainage">Drainage</option>
+					<option value="inflation">Inflation</option>
+				</select>
+			</div>
+			<div class="col-auto"><label for="order" class="col-form-label">Order:</label></div>
+			<div class="col-auto">
+				<select id="order" class="form-select form-select-sm">
+					<option value="asc">Ascending</option>
+					<option value="desc">Descending</option>
+				</select>
+			</div>
+			<div class="col-auto"><label for="pricePeriod" class="col-form-label">Price Period:</label></div>
+			<div class="col-auto">
+				<select id="pricePeriod" class="form-select form-select-sm">
+					<option value="last">Last Download</option>
+					<option value="1w">1 Week</option>
+					<option value="1m">1 Month</option>
+					<option value="2m">2 Months</option>
+					<option value="6m">6 Months</option>
+				</select>
+			</div>
+			<div class="col-auto"><label for="priceType" class="col-form-label">Price Type:</label></div>
+			<div class="col-auto">
+				<select id="priceType" class="form-select form-select-sm">
+					<option value="available">Available</option>
+					<option value="sold">Sold</option>
+				</select>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section style="margin-bottom: 75.1667px; padding-bottom: 5rem;">
+	<div class="row" id="searchResults">
+		<div class="col-12 text-muted">Loading…</div>
+	</div>
+</section>
+</main>
+
+<script src="js/cw-common.js"></script>
+<script src="js/search.js"></script>
+</body>
+</html>
