@@ -8,8 +8,8 @@
     "S-Chinese"
   ],
   "only_germany": false,
-  "available": 32,
-  "sold": 0,
+  "available": 31,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -1182,7 +1182,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Daily Shipping / only small whitining",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1207,7 +1207,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 9 open for Trade",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1237,7 +1237,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1267,7 +1267,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "raw ASK For Pictures",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1292,7 +1292,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1326,7 +1326,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask For Pictures",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1351,7 +1351,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sent in sleeve + toploader. possible to pick-up",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1390,7 +1390,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "raw",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1471,18 +1471,23 @@
       },
       "language": "S-Chinese",
       "price": 1600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
       "date": 1782785997.6952136,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782785997.6952136
+        ]
+      ],
       "first_date": 1779801624.68058,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1554,7 +1559,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa9",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1601,7 +1606,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ccic10",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1648,7 +1653,7 @@
       "quantity": 3,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1673,7 +1678,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1703,7 +1708,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 - Chinese 1st Anniversary",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1724,18 +1729,23 @@
         "country": "Item location: Austria"
       },
       "language": "S-Chinese",
-      "price": 2200.0,
+      "price": 2000.0,
       "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          2200.0,
+          1782785997.6952136
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1782515141.9840033,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1753,7 +1763,7 @@
       "quantity": 7,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1829,11 +1839,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "S-Chinese",
-      "price": 2629.7,
+      "price": 2645.97,
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1904,6 +1914,10 @@
         [
           2626.19,
           1782688881.702274
+        ],
+        [
+          2629.7,
+          1782785997.6952136
         ]
       ],
       "previous_quantities": [],
@@ -1927,7 +1941,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1951,36 +1965,6 @@
         ]
       ],
       "first_date": 1778749216.5833426,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nico Robin (OP01-017)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nico-Robin-OP01-017",
-      "seller": {
-        "name": "imprzz",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 2999.69,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "1 of 1 AOG 10 GEM MINT | DM for offer",
-      "date": 1782785997.6952136,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          999.69,
-          1779167088.451272
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1771407160.8071723,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2027,6 +2011,40 @@
       "card": "Nico Robin (OP01-017)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nico-Robin-OP01-017",
       "seller": {
+        "name": "imprzz",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 4999.69,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "1 of 1 AOG 10 GEM MINT | DM for offer",
+      "date": 1783125638.5401914,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          999.69,
+          1779167088.451272
+        ],
+        [
+          2999.69,
+          1782785997.6952136
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1771407160.8071723,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nico Robin (OP01-017)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nico-Robin-OP01-017",
+      "seller": {
         "name": "Rened25",
         "country": "Item location: France"
       },
@@ -2060,7 +2078,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "5 sequential psa10 Robin Luffy Zoro Chopper and Sanji",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2103,7 +2121,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10 Vinted and insta : tyzeftcg PM",
-      "date": 1782785997.6952136,
+      "date": 1783125638.5401914,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -8,8 +8,8 @@
     "S-Chinese"
   ],
   "only_germany": false,
-  "available": 10,
-  "sold": 0,
+  "available": 11,
+  "sold": 2,
   "inserted": 2,
   "listings": [
     {
@@ -1255,7 +1255,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Super Little white dot on back",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1312,7 +1312,7 @@
       ],
       "first_date": 1778180825.2946665,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1330,58 +1330,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782807886.4871244,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
-      "seller": {
-        "name": "Frankbf",
-        "country": "Item location: Spain"
-      },
-      "language": "S-Chinese",
-      "price": 185.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Fast shipping. Toploader",
-      "date": 1782807886.4871244,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          300.0,
-          1781922072.6088486
-        ],
-        [
-          200.0,
-          1782119151.3695834
-        ],
-        [
-          180.0,
-          1782210729.8509002
-        ],
-        [
-          250.0,
-          1782312663.7877698
-        ],
-        [
-          200.0,
-          1782388539.2114673
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781852788.8313086,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1401,7 +1355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1436,15 +1390,91 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
+        "name": "Frankbf",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 185.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fast shipping. Toploader",
+      "date": 1782807886.4871244,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          300.0,
+          1781922072.6088486
+        ],
+        [
+          200.0,
+          1782119151.3695834
+        ],
+        [
+          180.0,
+          1782210729.8509002
+        ],
+        [
+          250.0,
+          1782312663.7877698
+        ],
+        [
+          200.0,
+          1782388539.2114673
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782807886.4871244
+        ]
+      ],
+      "first_date": 1781852788.8313086,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "Cards-Hunter",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "NM-",
+      "date": 1783148019.9788408,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783148019.9788408,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
         "name": "zymusik",
         "country": "Item location: Germany"
       },
       "language": "S-Chinese",
       "price": 200.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
       "comment": "good condition",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1465,8 +1495,102 @@
           1782711922.163007
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782807886.4871244
+        ]
+      ],
       "first_date": 1781604147.1534576,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "zymusik",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 210.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PCG 10 GEM-MT",
+      "date": 1783148019.9788408,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          300.0,
+          1782388539.2114673
+        ],
+        [
+          250.0,
+          1782807886.4871244
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782625343.2749665
+        ],
+        [
+          0,
+          1782625343.2749665
+        ]
+      ],
+      "first_date": 1782311739.018933,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "XGGX22",
+        "country": "Item location: Switzerland"
+      },
+      "language": "S-Chinese",
+      "price": 220.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783148019.9788408,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1780013450.185326
+        ],
+        [
+          350.0,
+          1780977062.2503042
+        ],
+        [
+          360.0,
+          1781711514.491358
+        ],
+        [
+          290.0,
+          1782388539.2114673
+        ],
+        [
+          260.0,
+          1782807886.4871244
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779469178.9275868,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -1544,69 +1668,13 @@
       "price": 250.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! CCG10. 10.10.10.9.5",
-      "date": 1782807886.4871244,
+      "comment": "CCG10. 10.10.10.9.5",
+      "date": 1783148019.9788408,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          300.0,
-          1782388539.2114673
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782625343.2749665
-        ],
-        [
-          0,
-          1782625343.2749665
-        ]
-      ],
-      "first_date": 1782311739.018933,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
-      "seller": {
-        "name": "XGGX22",
-        "country": "Item location: Switzerland"
-      },
-      "language": "S-Chinese",
-      "price": 260.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1782807886.4871244,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1780013450.185326
-        ],
-        [
-          350.0,
-          1780977062.2503042
-        ],
-        [
-          360.0,
-          1781711514.491358
-        ],
-        [
-          290.0,
-          1782388539.2114673
-        ]
-      ],
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1779469178.9275868,
+      "first_date": 1783148019.9788408,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1775,7 +1843,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC Pristine 10",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1800,7 +1868,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pristine 10 CGC",
-      "date": 1782807886.4871244,
+      "date": 1783148019.9788408,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1822,18 +1890,23 @@
       },
       "language": "S-Chinese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
       "date": 1782807886.4871244,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782807886.4871244
+        ]
+      ],
       "first_date": 1782119151.3695834,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

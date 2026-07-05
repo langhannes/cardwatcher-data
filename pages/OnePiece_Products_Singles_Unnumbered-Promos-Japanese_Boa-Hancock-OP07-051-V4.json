@@ -9,8 +9,8 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 6,
-  "sold": 0,
+  "available": 4,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -1637,23 +1637,28 @@
       },
       "language": "Japanese",
       "price": 246.85,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Pressure marks on back! / Quick shipping! / DM for questions! / Check my other stuff!",
       "date": 1782769714.134052,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           46.85,
           1782080709.8435152
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782769714.134052
+        ]
+      ],
       "first_date": 1781883648.9835198,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1670,7 +1675,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "(Box-K)",
-      "date": 1782769714.134052,
+      "date": 1783110736.982606,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1692,18 +1697,23 @@
       },
       "language": "Japanese",
       "price": 420.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1782769714.134052,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782769714.134052
+        ]
+      ],
       "first_date": 1782585411.5431764,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1720,7 +1730,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Exclusive Japanese Version - Hard to find",
-      "date": 1782769714.134052,
+      "date": 1783110736.982606,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1754,7 +1764,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1782769714.134052,
+      "date": 1783110736.982606,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1779,7 +1789,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1782769714.134052,
+      "date": 1783110736.982606,
       "ended": false,
       "new": false,
       "previous_prices": [],

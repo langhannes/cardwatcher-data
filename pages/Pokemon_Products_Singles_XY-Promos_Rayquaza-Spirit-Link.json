@@ -11,8 +11,8 @@
   ],
   "only_germany": false,
   "available": 1,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Rayquaza Spirit Link (XY-P 126)",
@@ -23,12 +23,12 @@
       },
       "language": "Japanese",
       "price": 41.84,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
       "date": 1782802136.1153626,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           44.93,
@@ -223,11 +223,16 @@
           1782705685.0490212
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782802136.1153626
+        ]
+      ],
       "first_date": 1776386717.9893703,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -454,6 +459,31 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1773838452.8096337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza Spirit Link (XY-P 126)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
+      "seller": {
+        "name": "luxxxray",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 2400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa 10",
+      "date": 1783142547.3782535,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783142547.3782535,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
