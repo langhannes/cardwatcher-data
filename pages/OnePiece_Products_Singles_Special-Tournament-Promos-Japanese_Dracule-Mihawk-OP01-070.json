@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 16,
+  "available": 15,
   "sold": 1,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Dracule Mihawk (OP01-070)",
@@ -548,7 +548,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "rarer than japanese. SEALED",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -713,7 +713,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1340,7 +1340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "For Asia - R.P. - 77 - Photos available on Rising Phoenix Ebay store!",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1605,7 +1605,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Flahship WINNER. rarer than jap. CCIC PERFECT",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1835,7 +1835,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FOR ASIA sleeve + Top",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2239,7 +2239,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 - G7",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2403,7 +2403,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10 For Asia",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2962,7 +2962,7 @@
       "comment": "CGC 10 PRISTINE -No \"for asia\" stamp",
       "date": 1782786337.6745148,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           850.0,
@@ -2978,7 +2978,7 @@
       "first_date": 1779518784.8023407,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3104,9 +3104,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783126124.2177372,
@@ -3129,7 +3129,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 GEM Mint For Asia",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3150,7 +3150,7 @@
       ],
       "first_date": 1782285217.6339562,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3168,7 +3168,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3198,7 +3198,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10! For Asia",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3223,7 +3223,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3273,7 +3273,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 japanese!",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3366,7 +3366,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3451,23 +3451,28 @@
       },
       "language": "Japanese",
       "price": 1999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10 - For Japan",
       "date": 1783126124.2177372,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           699.0,
           1767728794.152726
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783126124.2177372
+        ]
+      ],
       "first_date": 1761774285.69904,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3514,7 +3519,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783126124.2177372,
+      "date": 1783295019.952679,
       "ended": false,
       "new": false,
       "previous_prices": [],

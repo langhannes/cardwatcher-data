@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
   "sold": 1,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1783151759.5321567,
+      "date": 1783322183.138492,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 8.5",
-      "date": 1783151759.5321567,
+      "date": 1783322183.138492,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -85,7 +85,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1783151759.5321567,
+      "date": 1783322183.138492,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -157,18 +157,23 @@
       },
       "language": "Japanese",
       "price": 1499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783151759.5321567,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783151759.5321567
+        ]
+      ],
       "first_date": 1771830443.176994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -185,7 +190,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1783151759.5321567,
+      "date": 1783322183.138492,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -259,7 +264,7 @@
       "comment": "1. Ed PSA 9 - OBO",
       "date": 1782811459.762758,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1900.0,
@@ -275,7 +280,7 @@
       "first_date": 1781520403.264416,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

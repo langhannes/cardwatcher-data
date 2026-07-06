@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 35,
-  "sold": 3,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Nami (OP08-106)",
@@ -1418,7 +1418,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4275,7 +4275,7 @@
       "comment": "RELISTED! Whitening Top Back/Front NM",
       "date": 1782797505.0191548,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           169.99,
@@ -4331,7 +4331,7 @@
       "first_date": 1777382852.5851076,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4651,7 +4651,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve/Toploader",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4663,7 +4663,7 @@
       "previous_quantities": [],
       "first_date": 1782198006.4290566,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4683,7 +4683,7 @@
       "comment": "ask for pictures",
       "date": 1782797505.0191548,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4694,7 +4694,7 @@
       "first_date": 1782700771.012303,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5032,18 +5032,23 @@
       },
       "language": "Japanese",
       "price": 270.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Perfect. Boost > Sleeve > Toploader. ask for fotos",
       "date": 1783137379.2403712,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783137379.2403712
+        ]
+      ],
       "first_date": 1782797505.0191548,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5218,7 +5223,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More Singles. Local Store Wuppertal",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5276,7 +5281,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Nur 1 kleines Whitening. streng bewertet. | BOX: JP-1",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5378,7 +5383,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5490,7 +5495,7 @@
       "comment": "",
       "date": 1782797505.0191548,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5501,7 +5506,7 @@
       "first_date": 1782376789.425701,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5747,7 +5752,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Thousands of cards in stock",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5775,48 +5780,6 @@
         ]
       ],
       "first_date": 1779152347.6998568,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP08-106)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
-      "seller": {
-        "name": "CardEmpireHU",
-        "country": "Item location: Hungary"
-      },
-      "language": "Japanese",
-      "price": 299.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Store in Budapest. Buy and Sell Cards",
-      "date": 1783137379.2403712,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          274.97,
-          1781503643.664811
-        ],
-        [
-          279.99,
-          1781778783.7926342
-        ],
-        [
-          298.39,
-          1782198006.4290566
-        ],
-        [
-          298.99,
-          1782376789.425701
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779301935.5433462,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5917,11 +5880,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 300.58,
+      "price": 300.6,
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster box -> sleeve -> toploader",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5988,6 +5951,10 @@
         [
           298.83,
           1782797505.0191548
+        ],
+        [
+          300.58,
+          1783137379.2403712
         ]
       ],
       "previous_quantities": [],
@@ -6075,7 +6042,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "top condition - ask for pics",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6087,7 +6054,7 @@
       "previous_quantities": [],
       "first_date": 1781909355.697911,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6105,7 +6072,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6205,8 +6172,8 @@
       "price": 338.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "",
-      "date": 1783137379.2403712,
+      "comment": "good centering",
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6214,6 +6181,52 @@
       "first_date": 1782700771.012303,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP08-106)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
+      "seller": {
+        "name": "CardEmpireHU",
+        "country": "Item location: Hungary"
+      },
+      "language": "Japanese",
+      "price": 339.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Store in Budapest. Buy and Sell Cards",
+      "date": 1783306893.0778973,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          274.97,
+          1781503643.664811
+        ],
+        [
+          279.99,
+          1781778783.7926342
+        ],
+        [
+          298.39,
+          1782198006.4290566
+        ],
+        [
+          298.99,
+          1782376789.425701
+        ],
+        [
+          299.99,
+          1783137379.2403712
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779301935.5433462,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6237,45 +6250,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769853260.2185524,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP08-106)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
-      "seller": {
-        "name": "TradeMaster090",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 340.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783137379.2403712,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          280.0,
-          1782106418.221347
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780195414.102461
-        ],
-        [
-          0,
-          1780195414.102461
-        ]
-      ],
-      "first_date": 1765402401.406627,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6474,7 +6448,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6699,7 +6673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7424,7 +7398,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Bgs 9.5",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7551,6 +7525,31 @@
       "card": "Nami (OP08-106)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
       "seller": {
+        "name": "1unrqbt1",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 529.04,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ACE10",
+      "date": 1783306893.0778973,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783306893.0778973,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP08-106)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
+      "seller": {
         "name": "Rouven",
         "country": "Item location: Germany"
       },
@@ -7559,7 +7558,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGS 9.5",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7584,7 +7583,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7644,7 +7643,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to plastic box",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7695,7 +7694,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7703,6 +7702,49 @@
       "first_date": 1781909355.697911,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP08-106)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Nami-OP08-106",
+      "seller": {
+        "name": "TradeMaster090",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 620.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783306893.0778973,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          280.0,
+          1782106418.221347
+        ],
+        [
+          340.0,
+          1783137379.2403712
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780195414.102461
+        ],
+        [
+          0,
+          1780195414.102461
+        ]
+      ],
+      "first_date": 1765402401.406627,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7923,7 +7965,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean AF Maybe Maybe Black Label 10 ask for pics",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7948,7 +7990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8024,7 +8066,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8049,7 +8091,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8241,7 +8283,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "schneller Versand Psa 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8280,7 +8322,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8310,7 +8352,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8369,7 +8411,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8394,7 +8436,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8433,7 +8475,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8463,7 +8505,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8534,7 +8576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8559,7 +8601,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10 - Consegna a mano su Milano e dintorni - Ask for pictures",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8635,7 +8677,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 / ask for pictures :)",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8695,7 +8737,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Black Label BGS 10 BL",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8734,7 +8776,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. dm me for pictures",
-      "date": 1783137379.2403712,
+      "date": 1783306893.0778973,
       "ended": false,
       "new": false,
       "previous_prices": [

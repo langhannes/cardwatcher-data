@@ -11,8 +11,8 @@
   ],
   "only_germany": false,
   "available": 22,
-  "sold": 7,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Carrot (OP08-023) (V.2)",
@@ -596,7 +596,7 @@
       "comment": "",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -607,7 +607,7 @@
       "first_date": 1781626499.7611,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -630,45 +630,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1773706719.2374053,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Carrot (OP08-023) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
-      "seller": {
-        "name": "Blessed9",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 24.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "2x Sleeve->Toploader->Sleeve->Binder",
-      "date": 1781726841.781616,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          24.99,
-          1780891883.3449848
-        ],
-        [
-          25.0,
-          1780999424.3807385
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781726841.781616
-        ]
-      ],
-      "first_date": 1780891883.3449848,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -731,7 +692,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -756,7 +717,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster>Sleeve>Toploader",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1382,7 +1343,7 @@
       "comment": "",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1393,7 +1354,7 @@
       "first_date": 1782232685.136421,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1410,7 +1371,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1435,7 +1396,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1666,12 +1627,12 @@
       },
       "language": "Japanese",
       "price": 28.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NM. sleeve+tooploader - Fast shipping",
       "date": 1783164321.1738856,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           32.0,
@@ -1682,11 +1643,16 @@
           1778917211.5309439
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783164321.1738856
+        ]
+      ],
       "first_date": 1775595567.528781,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1950,7 +1916,7 @@
       "comment": "A1 JP SP",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1961,7 +1927,7 @@
       "first_date": 1782823572.8267672,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2013,7 +1979,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2022,6 +1988,53 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Carrot (OP08-023) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Carrot-OP08-023-V2",
+      "seller": {
+        "name": "Blessed9",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 29.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! 2xSleeve->Toploader->Sleeve",
+      "date": 1783334173.7131224,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          24.99,
+          1780891883.3449848
+        ],
+        [
+          25.0,
+          1780999424.3807385
+        ],
+        [
+          24.99,
+          1781726841.781616
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781726841.781616
+        ],
+        [
+          0,
+          1781726841.781616
+        ]
+      ],
+      "first_date": 1780891883.3449848,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2040,7 +2053,7 @@
       "comment": "",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2051,7 +2064,7 @@
       "first_date": 1781944041.4458625,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2153,7 +2166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2204,7 +2217,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Other cards and products on profile!",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2229,7 +2242,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2254,7 +2267,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve + Cardsaver - pics possible",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2281,7 +2294,7 @@
       "comment": "Booster -> Sleeve -> Toploader",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           35.0,
@@ -2305,7 +2318,7 @@
       "first_date": 1781868073.6280553,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2324,7 +2337,7 @@
       "comment": "Top loader and sealed. Fast shipping",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2335,7 +2348,7 @@
       "first_date": 1782555239.0372503,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2390,7 +2403,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2467,7 +2480,7 @@
       ],
       "first_date": 1778133035.654927,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2485,7 +2498,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2812,7 +2825,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2867,7 +2880,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#binder",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2892,7 +2905,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster fresh -> fast shipping",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2922,7 +2935,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3072,7 +3085,7 @@
       "comment": "",
       "date": 1782823572.8267672,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3083,7 +3096,7 @@
       "first_date": 1771770329.6081007,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3312,7 +3325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster + Sleeve + Toploader",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3337,7 +3350,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3400,7 +3413,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3430,7 +3443,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3462,7 +3475,7 @@
       "previous_quantities": [],
       "first_date": 1771899769.1913724,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3505,7 +3518,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[AiGrad 9.5] Graded Card - Store in Udine",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3539,7 +3552,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783164321.1738856,
+      "date": 1783334173.7131224,
       "ended": false,
       "new": false,
       "previous_prices": [],

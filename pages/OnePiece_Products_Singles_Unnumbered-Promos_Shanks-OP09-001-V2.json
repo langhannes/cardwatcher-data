@@ -8,9 +8,9 @@
     "English"
   ],
   "only_germany": false,
-  "available": 50,
-  "sold": 3,
-  "inserted": 13,
+  "available": 48,
+  "sold": 6,
+  "inserted": 4,
   "listings": [
     {
       "card": "Shanks (OP09-001) (V.2)",
@@ -2259,7 +2259,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast and cheap shipping.",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2288,7 +2288,32 @@
       ],
       "first_date": 1770758985.4907982,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
+        "name": "bbboomboom",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Beckett 4",
+      "date": 1783285715.5153823,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783285715.5153823,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4024,12 +4049,12 @@
       },
       "language": "English",
       "price": 229.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Sealed",
       "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           149.99,
@@ -4040,12 +4065,16 @@
         [
           0,
           1775864333.780093
+        ],
+        [
+          1,
+          1783118043.49193
         ]
       ],
       "first_date": 1770827183.1394925,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4139,7 +4168,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Small dent on top.",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4188,7 +4217,7 @@
       ],
       "first_date": 1771508267.1841505,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4203,18 +4232,23 @@
       },
       "language": "English",
       "price": 235.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
       "date": 1783118043.49193,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783118043.49193
+        ]
+      ],
       "first_date": 1783118043.49193,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4391,17 +4425,95 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
+        "name": "The-Grislybear",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 239.26,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Card bent visible on back and not visible on front.",
+      "date": 1783285715.5153823,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          298.45,
+          1781392396.155285
+        ],
+        [
+          298.52,
+          1781484455.5560725
+        ],
+        [
+          297.99,
+          1781572955.8904214
+        ],
+        [
+          297.74,
+          1781657082.859442
+        ],
+        [
+          297.67,
+          1781754083.5843277
+        ],
+        [
+          296.68,
+          1781890652.1872563
+        ],
+        [
+          296.97,
+          1782087723.1042438
+        ],
+        [
+          298.5,
+          1782179302.6428394
+        ],
+        [
+          298.71,
+          1782277146.7438564
+        ],
+        [
+          298.59,
+          1782356404.9319136
+        ],
+        [
+          298.87,
+          1782507458.181996
+        ],
+        [
+          298.43,
+          1782777506.553977
+        ],
+        [
+          300.68,
+          1783118043.49193
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781315466.3220541,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
         "name": "DaraoloTook",
         "country": "Item location: Italy"
       },
       "language": "English",
       "price": 240.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           250.0,
@@ -4428,12 +4540,16 @@
         [
           0,
           1782356404.9319136
+        ],
+        [
+          1,
+          1783118043.49193
         ]
       ],
       "first_date": 1780945788.6805296,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4639,7 +4755,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Not sealed",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4713,53 +4829,6 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
-        "name": "Edwyx",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 249.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Very Clean. Fast Shipping! ASK FOR PICS UNSEALED!!",
-      "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          250.0,
-          1782087723.1042438
-        ],
-        [
-          280.0,
-          1782179302.6428394
-        ],
-        [
-          270.0,
-          1782777506.553977
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782179302.6428394
-        ],
-        [
-          0,
-          1782179302.6428394
-        ]
-      ],
-      "first_date": 1782087723.1042438,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
-      "seller": {
         "name": "Signoretti95",
         "country": "Item location: Netherlands"
       },
@@ -4768,7 +4837,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect conditions",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4812,8 +4881,59 @@
       "previous_quantities": [],
       "first_date": 1779680018.541412,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
+        "name": "Edwyx",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 249.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Very Clean. Fast Shipping! ASK FOR PICS UNSEALED!!",
+      "date": 1783118043.49193,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          250.0,
+          1782087723.1042438
+        ],
+        [
+          280.0,
+          1782179302.6428394
+        ],
+        [
+          270.0,
+          1782777506.553977
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782179302.6428394
+        ],
+        [
+          0,
+          1782179302.6428394
+        ],
+        [
+          1,
+          1783118043.49193
+        ]
+      ],
+      "first_date": 1782087723.1042438,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4830,7 +4950,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9  MANY SLABS IN STOCK CHECK",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4882,18 +5002,23 @@
       },
       "language": "English",
       "price": 249.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "AOG GEM MINT 9.5",
       "date": 1783118043.49193,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783118043.49193
+        ]
+      ],
       "first_date": 1783118043.49193,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4949,6 +5074,31 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
+        "name": "bbboomboom",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Beckett 9",
+      "date": 1783285715.5153823,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783285715.5153823,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
         "name": "AmiBoi",
         "country": "Item location: Germany"
       },
@@ -4957,7 +5107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed (white spot to the right is just reflection)",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4998,7 +5148,7 @@
       ],
       "first_date": 1771236574.6223066,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5263,7 +5413,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5315,12 +5465,12 @@
       },
       "language": "English",
       "price": 264.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           285.0,
@@ -5343,11 +5493,16 @@
           1782087723.1042438
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783118043.49193
+        ]
+      ],
       "first_date": 1780054249.3059008,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5428,8 +5583,8 @@
       "price": 270.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Fast shipping // unused!!",
-      "date": 1783118043.49193,
+      "comment": "Fast shipping // unused!!",
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5446,7 +5601,7 @@
       "first_date": 1781572955.8904214,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5463,7 +5618,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5488,7 +5643,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect. ask for photos",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5616,7 +5771,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Large Stock // Binder OP",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5641,7 +5796,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 ( barcode can be differente )",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5682,8 +5837,8 @@
       "price": 280.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783118043.49193,
+      "comment": "",
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5708,8 +5863,8 @@
       ],
       "first_date": 1781572955.8904214,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5728,7 +5883,7 @@
       "comment": "Sealed. ask for pics",
       "date": 1782777506.553977,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           114.0,
@@ -5764,7 +5919,37 @@
       "first_date": 1776364488.5803716,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
+        "name": "aXakal",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 289.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783285715.5153823,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          298.0,
+          1783118043.49193
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782277146.7438564,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5811,7 +5996,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5853,31 +6038,6 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
-        "name": "aXakal",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 298.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782277146.7438564,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
-      "seller": {
         "name": "TIDE-TCG",
         "country": "Item location: Portugal"
       },
@@ -5886,7 +6046,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Secure shipping. eBay since 2019.",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5958,7 +6118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "STORE IN OMBRIANO (CR)",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6203,7 +6363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6233,7 +6393,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6267,7 +6427,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed + PSA magazine",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6310,7 +6470,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "sealed in psa Gradefit",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6614,80 +6774,6 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
-        "name": "The-Grislybear",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 300.68,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "Card bent visible on back and not visible on front.",
-      "date": 1783118043.49193,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          298.45,
-          1781392396.155285
-        ],
-        [
-          298.52,
-          1781484455.5560725
-        ],
-        [
-          297.99,
-          1781572955.8904214
-        ],
-        [
-          297.74,
-          1781657082.859442
-        ],
-        [
-          297.67,
-          1781754083.5843277
-        ],
-        [
-          296.68,
-          1781890652.1872563
-        ],
-        [
-          296.97,
-          1782087723.1042438
-        ],
-        [
-          298.5,
-          1782179302.6428394
-        ],
-        [
-          298.71,
-          1782277146.7438564
-        ],
-        [
-          298.59,
-          1782356404.9319136
-        ],
-        [
-          298.87,
-          1782507458.181996
-        ],
-        [
-          298.43,
-          1782777506.553977
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781315466.3220541,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
-      "seller": {
         "name": "BUBOLJUBO",
         "country": "Item location: Slovenia"
       },
@@ -6696,9 +6782,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "in MINT condition polished and prepared for grading",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -6984,10 +7070,10 @@
       "price": 375.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "Becket 9.5 (Gem Mint)",
-      "date": 1783118043.49193,
+      "comment": "Becket (BGS) 9.5 (Gem Mint)",
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -7045,7 +7131,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7095,7 +7181,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7154,7 +7240,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Large Stock // Binder OP",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7261,9 +7347,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "OP09-001 - SGC 10 Gem Mint",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -7316,7 +7402,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7357,7 +7443,7 @@
       "comment": "SEALED",
       "date": 1782777506.553977,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7368,7 +7454,7 @@
       "first_date": 1782679832.5604584,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7457,7 +7543,7 @@
       "comment": "TAG 10  - GEM MINT",
       "date": 1782777506.553977,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7468,7 +7554,7 @@
       "first_date": 1782507458.181996,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7532,9 +7618,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10 cert #126337432",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -7557,7 +7643,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7671,9 +7757,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -7696,7 +7782,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7745,7 +7831,7 @@
       ],
       "first_date": 1773179609.2943175,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7763,7 +7849,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7828,9 +7914,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10 more feedback on me",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -7853,7 +7939,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7951,7 +8037,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8129,7 +8215,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8200,9 +8286,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -8485,9 +8571,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783118043.49193,
@@ -8510,7 +8596,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8532,11 +8618,11 @@
       },
       "language": "English",
       "price": 700.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1782593034.2213466,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1783285715.5153823,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -8556,12 +8642,16 @@
         [
           1,
           1782593034.2213466
+        ],
+        [
+          0,
+          1782593034.2213466
         ]
       ],
       "first_date": 1779510551.3906176,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8578,7 +8668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8603,7 +8693,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8638,6 +8728,31 @@
       "card": "Shanks (OP09-001) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
       "seller": {
+        "name": "greencollector",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 950.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 10 PRISTINE",
+      "date": 1783285715.5153823,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783285715.5153823,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Shanks-OP09-001-V2",
+      "seller": {
         "name": "Crudy-CrazyCards",
         "country": "Item location: Germany"
       },
@@ -8646,7 +8761,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783118043.49193,
+      "date": 1783285715.5153823,
       "ended": false,
       "new": false,
       "previous_prices": [],

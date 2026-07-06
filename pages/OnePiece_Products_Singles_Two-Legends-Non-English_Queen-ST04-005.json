@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 45,
-  "sold": 3,
-  "inserted": 3,
+  "available": 42,
+  "sold": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Queen (ST04-005)",
@@ -879,7 +879,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front NM / Back EX",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -931,18 +931,23 @@
       },
       "language": "S-Chinese",
       "price": 24.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "rarer than japanese. shipping in toploader",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1783120314.944741
+        ]
+      ],
       "first_date": 1782595435.6936412,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1375,7 +1380,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1414,7 +1419,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster - Sleeve - Toploader",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1570,7 +1575,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1617,7 +1622,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfetta + Sleeve + Toploader",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1651,9 +1656,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783120314.944741,
@@ -1864,12 +1869,12 @@
       },
       "language": "Japanese",
       "price": 25.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Boosterfresh Sleeve + Toploader",
       "date": 1783120314.944741,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           25.99,
@@ -1880,11 +1885,16 @@
           1782779965.6400166
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783120314.944741
+        ]
+      ],
       "first_date": 1781317904.2898262,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1992,7 +2002,7 @@
       "comment": "",
       "date": 1782779965.6400166,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           33.0,
@@ -2008,7 +2018,7 @@
       "first_date": 1781317904.2898262,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2025,7 +2035,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Double Sleeved & Fast Shipping :)",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2067,7 +2077,7 @@
       "first_date": 1779137000.9358861,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2086,7 +2096,7 @@
       "comment": "Sleeve and Toploader//More Cards in Stock",
       "date": 1782779965.6400166,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2097,7 +2107,7 @@
       "first_date": 1780948230.1113672,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2139,7 +2149,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2224,11 +2234,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 27.37,
+      "price": 27.36,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2283,6 +2293,10 @@
         [
           27.16,
           1782779965.6400166
+        ],
+        [
+          27.37,
+          1783120314.944741
         ]
       ],
       "previous_quantities": [],
@@ -2430,7 +2444,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pictures; Kleinunternehmer gemäß § 19 UStG",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2981,7 +2995,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3006,7 +3020,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3031,7 +3045,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "theke",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3569,7 +3583,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3631,8 +3645,8 @@
       "price": 32.9,
       "quantity": 3,
       "condition": "NM",
-      "comment": "RELISTED! booster -> sleeve",
-      "date": 1783120314.944741,
+      "comment": "booster -> sleeve",
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3649,7 +3663,7 @@
       "first_date": 1779763162.4056196,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3728,7 +3742,7 @@
       "comment": "OP ALT",
       "date": 1782779965.6400166,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3739,7 +3753,7 @@
       "first_date": 1772671260.0642524,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3798,7 +3812,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3823,7 +3837,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3912,7 +3926,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3950,7 +3964,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3989,7 +4003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4044,7 +4058,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4078,7 +4092,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4278,7 +4292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4303,7 +4317,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4333,7 +4347,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4358,7 +4372,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4401,7 +4415,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4461,7 +4475,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4486,7 +4500,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4508,12 +4522,12 @@
       },
       "language": "Japanese",
       "price": 95.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 10 pristine",
       "date": 1783120314.944741,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4531,12 +4545,16 @@
         [
           0,
           1782279515.7533014
+        ],
+        [
+          1,
+          1783120314.944741
         ]
       ],
       "first_date": 1779373498.180108,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4578,7 +4596,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5/ ask for pictures :)",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4603,7 +4621,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS (Beckett Grading Services) 10 - Pristine",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4633,7 +4651,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Fast Secured Shipping",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4663,7 +4681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 10.0] PRISTINE - Join our discord! discord.gg/cardhub",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4688,9 +4706,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783120314.944741,
@@ -4713,7 +4731,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4747,7 +4765,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783120314.944741,
+      "date": 1783288167.249082,
       "ended": false,
       "new": false,
       "previous_prices": [

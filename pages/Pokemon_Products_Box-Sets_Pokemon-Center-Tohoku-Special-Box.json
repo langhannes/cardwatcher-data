@@ -8,9 +8,9 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 371,
-  "sold": 6,
-  "inserted": 17,
+  "available": 348,
+  "sold": 8,
+  "inserted": 5,
   "listings": [
     {
       "card": "Pokémon Center Tohoku Special Box",
@@ -622,7 +622,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping - Hiroshima set also available",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -638,7 +638,7 @@
       "previous_quantities": [],
       "first_date": 1781862421.5650864,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -656,7 +656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -741,7 +741,7 @@
       ],
       "first_date": 1770746650.866361,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -756,18 +756,23 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
       "date": 1783158953.196289,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ]
+      ],
       "first_date": 1783158953.196289,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -956,97 +961,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "Nicenijs",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 127.5,
-      "quantity": 16,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          160.0,
-          4750739.9331
-        ],
-        [
-          125.0,
-          1766081311.0737822
-        ],
-        [
-          129.99,
-          1776174583.1723497
-        ],
-        [
-          149.95,
-          1779837096.252904
-        ],
-        [
-          139.95,
-          1779960434.6540308
-        ],
-        [
-          137.5,
-          1780262268.8047376
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776174583.1723497
-        ],
-        [
-          4,
-          1779132761.0846899
-        ],
-        [
-          6,
-          1779586584.4031138
-        ],
-        [
-          5,
-          1779677885.5737343
-        ],
-        [
-          6,
-          1779757559.3090343
-        ],
-        [
-          5,
-          1779960434.6540308
-        ],
-        [
-          15,
-          1780051749.3840148
-        ],
-        [
-          13,
-          1780168899.3975732
-        ],
-        [
-          6,
-          1780262268.8047376
-        ],
-        [
-          0,
-          1780262268.8047376
-        ]
-      ],
-      "first_date": 1764588602.3972394,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 16,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "ShibuyaCards",
         "country": "Item location: Netherlands"
       },
@@ -1055,7 +969,7 @@
       "quantity": 42,
       "condition": "NM",
       "comment": "OVP Sealed | B2B Possible",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1164,8 +1078,103 @@
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "Nicenijs",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 127.5,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1783158953.196289,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          160.0,
+          4750739.9331
+        ],
+        [
+          125.0,
+          1766081311.0737822
+        ],
+        [
+          129.99,
+          1776174583.1723497
+        ],
+        [
+          149.95,
+          1779837096.252904
+        ],
+        [
+          139.95,
+          1779960434.6540308
+        ],
+        [
+          137.5,
+          1780262268.8047376
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776174583.1723497
+        ],
+        [
+          4,
+          1779132761.0846899
+        ],
+        [
+          6,
+          1779586584.4031138
+        ],
+        [
+          5,
+          1779677885.5737343
+        ],
+        [
+          6,
+          1779757559.3090343
+        ],
+        [
+          5,
+          1779960434.6540308
+        ],
+        [
+          15,
+          1780051749.3840148
+        ],
+        [
+          13,
+          1780168899.3975732
+        ],
+        [
+          6,
+          1780262268.8047376
+        ],
+        [
+          0,
+          1780262268.8047376
+        ],
+        [
+          16,
+          1783158953.196289
+        ]
+      ],
+      "first_date": 1764588602.3972394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -16,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1325,8 +1334,8 @@
       "price": 129.0,
       "quantity": 3,
       "condition": "NM",
-      "comment": "RELISTED! Mint",
-      "date": 1783158953.196289,
+      "comment": "Mint",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1347,8 +1356,8 @@
       ],
       "first_date": 1779757559.3090343,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 3,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1426,7 +1435,7 @@
       "comment": "sealed ovp & fast shipping",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1437,7 +1446,7 @@
       "first_date": 1782818369.9294412,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1485,10 +1494,10 @@
       },
       "language": "Japanese",
       "price": 129.99,
-      "quantity": 89,
+      "quantity": 88,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1697,12 +1706,16 @@
         [
           93,
           1782818369.9294412
+        ],
+        [
+          89,
+          1783158953.196289
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -4,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1916,6 +1929,36 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "ItsRoelie",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 130.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed/ for questions or offers dm me",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          210.0,
+          1783158953.196289
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783158953.196289,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "Lomar92",
         "country": "Item location: Germany"
       },
@@ -1923,8 +1966,8 @@
       "price": 130.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783158953.196289,
+      "comment": "",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1945,8 +1988,8 @@
       ],
       "first_date": 1780533992.5640647,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1962,10 +2005,10 @@
       "price": 130.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Riss in der Folie. daher eher zum öffnen geeignet!",
-      "date": 1783158953.196289,
+      "comment": "Riss in der Folie s. Bild",
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -2661,7 +2704,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2766,7 +2809,32 @@
       ],
       "first_date": 1768908734.4230418,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "CharliezardCardhouse",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 134.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed - Fast & Safe Shipping!",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783328198.7749982,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2786,7 +2854,7 @@
       "comment": "Sealed",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2797,7 +2865,7 @@
       "first_date": 1782818369.9294412,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2885,12 +2953,12 @@
       },
       "language": "Japanese",
       "price": 135.0,
-      "quantity": 7,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed. special discount",
       "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           137.0,
@@ -2949,12 +3017,16 @@
         [
           8,
           1782818369.9294412
+        ],
+        [
+          7,
+          1783158953.196289
         ]
       ],
       "first_date": 1781529832.762606,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": -7,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3403,7 +3475,7 @@
       "comment": "New & Sealed - wonderful sealed condition (differenzbesteuert)",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           133.84,
@@ -3419,7 +3491,7 @@
       "first_date": 1782722871.0219593,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3554,7 +3626,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed - fast shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3587,7 +3659,7 @@
       ],
       "first_date": 1780991289.8919463,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3715,7 +3787,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "sealed . fast ship",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3844,7 +3916,7 @@
       "comment": "JP Edition with shrink foil",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           135.0,
@@ -3860,7 +3932,7 @@
       "first_date": 1781936047.5795994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4073,10 +4145,10 @@
       },
       "language": "Japanese",
       "price": 139.99,
-      "quantity": 7,
+      "quantity": 6,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4121,12 +4193,16 @@
         [
           8,
           1782548668.65896
+        ],
+        [
+          7,
+          1783158953.196289
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4297,7 +4373,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4319,10 +4395,10 @@
       },
       "language": "Japanese",
       "price": 140.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! OVP Sealed + safe shipping",
-      "date": 1783158953.196289,
+      "comment": "OVP Sealed + safe shipping",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4343,11 +4419,15 @@
         [
           0,
           1780168899.3975732
+        ],
+        [
+          1,
+          1783158953.196289
         ]
       ],
       "first_date": 1779508498.7766948,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4365,7 +4445,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4390,7 +4470,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Precintado. perfecto estado.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4467,8 +4547,8 @@
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4485,7 +4565,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4510,7 +4590,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5259,7 +5339,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5330,7 +5410,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5436,7 +5516,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed All three available - ask for Acryl cases",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5487,7 +5567,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping // OVP Neu Good Condition differenzbesteuert",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5528,7 +5608,7 @@
       "comment": "Inkl. 19% Mwst / Minty Condition / Fast Shipping",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5539,7 +5619,7 @@
       "first_date": 1782548668.65896,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5939,7 +6019,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5964,7 +6044,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - perfect - Stan's Collectibles Guarantee!",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6222,9 +6302,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -6247,7 +6327,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Sealed ready to ship",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6306,7 +6386,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Fast shipping.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6340,7 +6420,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pokemon Tohoku Special",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7204,18 +7284,23 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 156.3,
+      "price": 156.31,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          156.3,
+          1783158953.196289
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7280,7 +7365,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sigillato/Nuovo/Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7452,7 +7537,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed incl vat / mwst",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7516,7 +7601,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP Sealed / little Dents possible!",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7575,20 +7660,20 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "VypoCards",
+        "name": "EasywayTCG",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 159.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783158953.196289,
+      "comment": "Original Sealed - Fast shipping",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1764588602.3972394,
+      "first_date": 1783158953.196289,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7600,23 +7685,28 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "EasywayTCG",
+        "name": "VypoCards",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 159.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Original Sealed - Fast shipping",
+      "comment": "",
       "date": 1783158953.196289,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783158953.196289,
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ]
+      ],
+      "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7635,7 +7725,7 @@
       "comment": "sealed",
       "date": 1782818369.9294412,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7646,7 +7736,7 @@
       "first_date": 1778085445.8506103,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7697,7 +7787,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7722,7 +7812,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7941,11 +8031,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 162.31,
+      "price": 162.32,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8048,6 +8138,10 @@
         [
           161.37,
           1782818369.9294412
+        ],
+        [
+          162.31,
+          1783158953.196289
         ]
       ],
       "previous_quantities": [],
@@ -8101,7 +8195,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "New / Sealed / OVP",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8216,6 +8310,31 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "CharliezardCardhouse",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 164.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed - Perfect Condition! Private Sealed Collection! + Acryl Case! Fast & Safe Shipping!",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783328198.7749982,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "R3flected",
         "country": "Item location: Italy"
       },
@@ -8284,7 +8403,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8309,7 +8428,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Nieuw sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8763,11 +8882,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 168.33,
+      "price": 168.34,
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED Daily shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8926,6 +9045,10 @@
         [
           167.35,
           1782818369.9294412
+        ],
+        [
+          168.33,
+          1783158953.196289
         ]
       ],
       "previous_quantities": [
@@ -9036,18 +9159,23 @@
       },
       "language": "Japanese",
       "price": 169.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
       "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ]
+      ],
       "first_date": 1780991289.8919463,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9119,9 +9247,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -9144,7 +9272,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Solo pacco tracciato. consegna a mano Pisa",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9178,7 +9306,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and with acrylic box",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9203,7 +9331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller.For more photos. write to me.Sealed box.Perfect condition.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9233,7 +9361,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9485,7 +9613,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9619,7 +9747,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9653,7 +9781,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9678,7 +9806,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9729,7 +9857,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed / keine Beschädigung",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9775,7 +9903,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP / sealed con pellicola",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9809,7 +9937,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "20 available - Perfect seal. fast and safe shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9839,7 +9967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed ||| Fast Same/Next Day Shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10017,7 +10145,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10047,12 +10175,37 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "TVA 20% INCL. B2B POSSIBLE. 100+ AVAILABLE.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782323517.1958306,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "Zaptoys",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 179.95,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "new and factory sealed",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783328198.7749982,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10072,7 +10225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10122,7 +10275,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "In stock ovp sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10147,7 +10300,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10185,41 +10338,16 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "Kantoclub1980",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PERFECT SEAL !!!",
-      "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1767729095.3848803,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "Psomi4",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 180.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed in Bubblewrap",
-      "date": 1782133129.0035255,
-      "ended": true,
+      "comment": "RELISTED! Sealed in Bubblewrap",
+      "date": 1783328198.7749982,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -10251,9 +10379,38 @@
         [
           1,
           1782133129.0035255
+        ],
+        [
+          0,
+          1782133129.0035255
         ]
       ],
       "first_date": 1779132761.0846899,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "Kantoclub1980",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PERFECT SEAL !!!",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1767729095.3848803,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10354,11 +10511,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 180.34,
+      "price": 180.35,
       "quantity": 1,
       "condition": "NM",
       "comment": "Hiroshima and Fukuoka also available",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10589,6 +10746,10 @@
         [
           179.29,
           1782818369.9294412
+        ],
+        [
+          180.34,
+          1783158953.196289
         ]
       ],
       "previous_quantities": [],
@@ -10612,7 +10773,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "5 in stock",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10637,7 +10798,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "Wide selection. B2B possible",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10671,7 +10832,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed + Extras :-)",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10705,7 +10866,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10760,9 +10921,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -10785,7 +10946,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10885,7 +11046,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10986,11 +11147,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 192.37,
+      "price": 192.38,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11365,6 +11526,10 @@
         [
           191.26,
           1782818369.9294412
+        ],
+        [
+          192.37,
+          1783158953.196289
         ]
       ],
       "previous_quantities": [],
@@ -11388,7 +11553,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellée",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11413,7 +11578,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11438,7 +11603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed - B2B possible",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11480,7 +11645,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11505,7 +11670,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "( Wien abholung möglich)",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11530,7 +11695,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11647,7 +11812,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11672,7 +11837,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Great condition. Factory sealed - fast shipping",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11714,6 +11879,31 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "POKEJEM",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1783328198.7749982,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783328198.7749982,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "rjbrethouwer",
         "country": "Item location: Netherlands"
       },
@@ -11722,7 +11912,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11747,9 +11937,9 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -11772,7 +11962,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SCELLÉ ENVOIE RAPIDE",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11970,37 +12160,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1776648537.0776527,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "ItsRoelie",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 210.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed/ for questions or offers dm me",
-      "date": 1783158953.196289,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783158953.196289,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12020,7 +12185,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12095,7 +12260,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "inkl. 19% MwSt. | OVP. sealed | schneller Versand",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12294,7 +12459,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Mini cut on the backside",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12437,7 +12602,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New. Sealed. OVP // We offer B2B services",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12471,7 +12636,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Premium WPN Store/huge selection. no shipping on holidays and weekends.",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12639,7 +12804,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Box has been opened - Promo sealed - inkl. VAT",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12699,7 +12864,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12749,7 +12914,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP SEALED / §25a",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12774,7 +12939,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. all 3 PC Special boxes available",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12813,7 +12978,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Original verpackt",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12838,7 +13003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13008,7 +13173,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13349,7 +13514,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13373,8 +13538,8 @@
       "price": 270.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! OVP Sealed. Entrega en mano posible (Bilbao y Santander) Devolución del sobrante de gastos de envío",
-      "date": 1783158953.196289,
+      "comment": "OVP Sealed. Entrega en mano posible (Bilbao y Santander) Devolución del sobrante de gastos de envío",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13391,7 +13556,7 @@
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -13433,7 +13598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED / FAST SHIPPING",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13513,7 +13678,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED / CON PELLICOLA NEW SELLER",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13565,31 +13730,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 299.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1773327169.3147893,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "collectandcompute",
         "country": "Item location: Germany"
       },
@@ -13598,7 +13738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13623,7 +13763,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Differenzbesteuert. sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13640,6 +13780,36 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 299.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783158953.196289,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ]
+      ],
+      "first_date": 1773327169.3147893,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "manson0815",
         "country": "Item location: Germany"
       },
@@ -13648,9 +13818,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
@@ -13673,7 +13843,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13712,7 +13882,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed perfetto",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13822,7 +13992,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Fast & Safe shipping!",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13852,7 +14022,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP - SEALED FAST DAILY SHIPPING",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13907,7 +14077,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14027,7 +14197,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NEU / OVP / SEALED",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14051,8 +14221,8 @@
       "price": 400.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783158953.196289,
+      "comment": "",
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14085,7 +14255,7 @@
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14102,7 +14272,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14152,7 +14322,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed Sammlungsauflösung",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14174,12 +14344,12 @@
       },
       "language": "Japanese",
       "price": 499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed",
       "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -14201,12 +14371,16 @@
         [
           0,
           1781721169.4631329
+        ],
+        [
+          1,
+          1783158953.196289
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14223,7 +14397,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14257,7 +14431,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and NEW",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14307,7 +14481,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14332,37 +14506,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782224697.004273,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "lipillowli13",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 999.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783158953.196289,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14382,7 +14531,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed / perfect state",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14407,15 +14556,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "lipillowli13",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783158953.196289,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ]
+      ],
+      "first_date": 1764588602.3972394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14462,7 +14641,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14570,7 +14749,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - long time investment",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14595,7 +14774,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783158953.196289,
+      "date": 1783328198.7749982,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 5,
-  "sold": 1,
-  "inserted": 1,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Pikachu (XY-P 090)",
@@ -1023,7 +1023,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 mint!",
-      "date": 1783106132.240399,
+      "date": 1783272677.4936264,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1035,7 +1035,7 @@
       "previous_quantities": [],
       "first_date": 1779273963.3450391,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1053,7 +1053,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - box #0001 HE T",
-      "date": 1783106132.240399,
+      "date": 1783272677.4936264,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1365,7 +1365,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1783106132.240399,
+      "date": 1783272677.4936264,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1440,7 +1440,7 @@
       "comment": "CGC GRADE PRISTINE 10",
       "date": 1782765594.1511316,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           9522.15,
@@ -1888,7 +1888,7 @@
       "first_date": 1755774006.9515474,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1901,18 +1901,23 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 8418.98,
+      "price": 8416.02,
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1783106132.240399,
+      "date": 1783272677.4936264,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          8418.98,
+          1783106132.240399
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1783106132.240399,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1969,7 +1974,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 + acryl case",
-      "date": 1783106132.240399,
+      "date": 1783272677.4936264,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2029,7 +2034,7 @@
       "previous_quantities": [],
       "first_date": 1755774006.9515474,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

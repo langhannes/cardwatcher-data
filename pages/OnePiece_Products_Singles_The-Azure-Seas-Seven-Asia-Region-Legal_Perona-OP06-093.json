@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 18,
-  "sold": 5,
-  "inserted": 4,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Perona (OP06-093)",
@@ -1018,7 +1018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1074,7 +1074,7 @@
       "previous_quantities": [],
       "first_date": 1781350414.4888146,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1910,18 +1910,23 @@
       },
       "language": "Japanese",
       "price": 70.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Sleeve. toploader",
       "date": 1783151415.3791704,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783151415.3791704
+        ]
+      ],
       "first_date": 1783151415.3791704,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2023,7 +2028,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photo",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2103,7 +2108,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2395,7 +2400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2407,7 +2412,7 @@
       "previous_quantities": [],
       "first_date": 1782628726.090836,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2575,7 +2580,7 @@
       "comment": "Join our discord! discord.gg/cardhub",
       "date": 1782811146.3863032,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2586,7 +2591,7 @@
       "first_date": 1781925724.1182299,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2692,41 +2697,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Perona (OP06-093)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
-      "seller": {
-        "name": "kelefaba",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 80.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "sleeved/toploader",
-      "date": 1782811146.3863032,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          100.0,
-          1774647782.6816804
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782811146.3863032
-        ]
-      ],
-      "first_date": 1771298092.2885454,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2856,196 +2826,6 @@
       "first_date": 1769597482.8940678,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Perona (OP06-093)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
-      "seller": {
-        "name": "Pmon33yy",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 84.15,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783151415.3791704,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          89.14,
-          1777278699.0428503
-        ],
-        [
-          89.2,
-          1777391392.6864898
-        ],
-        [
-          89.16,
-          1777491384.5850284
-        ],
-        [
-          89.17,
-          1777582040.8163042
-        ],
-        [
-          89.44,
-          1777742123.8831482
-        ],
-        [
-          89.47,
-          1777878493.457667
-        ],
-        [
-          89.4,
-          1778020132.9918113
-        ],
-        [
-          89.35,
-          1778184441.940823
-        ],
-        [
-          89.34,
-          1778387093.6409502
-        ],
-        [
-          89.25,
-          1778473262.546644
-        ],
-        [
-          89.23,
-          1778608119.2266169
-        ],
-        [
-          89.2,
-          1778747696.18152
-        ],
-        [
-          88.69,
-          1778822496.7575805
-        ],
-        [
-          88.52,
-          1779038479.6082504
-        ],
-        [
-          89.04,
-          1779165544.9816499
-        ],
-        [
-          89.16,
-          1779315168.220417
-        ],
-        [
-          83.3,
-          1779398762.1956563
-        ],
-        [
-          83.34,
-          1779472440.5863304
-        ],
-        [
-          83.43,
-          1779624388.5239363
-        ],
-        [
-          83.48,
-          1779721097.729947
-        ],
-        [
-          83.6,
-          1779800607.2901628
-        ],
-        [
-          83.35,
-          1779923938.219273
-        ],
-        [
-          83.18,
-          1780093040.7898414
-        ],
-        [
-          83.19,
-          1780226157.5794187
-        ],
-        [
-          83.23,
-          1780302674.4126992
-        ],
-        [
-          83.4,
-          1780407911.3362875
-        ],
-        [
-          83.49,
-          1780523490.379707
-        ],
-        [
-          83.45,
-          1780873267.2719517
-        ],
-        [
-          83.37,
-          1780980778.7891219
-        ],
-        [
-          83.56,
-          1781427285.4292336
-        ],
-        [
-          83.58,
-          1781519339.8374052
-        ],
-        [
-          83.43,
-          1781607863.3903084
-        ],
-        [
-          83.36,
-          1781713997.6663797
-        ],
-        [
-          83.06,
-          1781855268.1658473
-        ],
-        [
-          83.14,
-          1781925724.1182299
-        ],
-        [
-          83.12,
-          1782122800.436548
-        ],
-        [
-          83.57,
-          1782214376.3212206
-        ],
-        [
-          83.63,
-          1782315858.3291736
-        ],
-        [
-          83.6,
-          1782391894.8904696
-        ],
-        [
-          83.55,
-          1782715458.7658389
-        ],
-        [
-          83.67,
-          1782811146.3863032
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777278699.0428503,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3263,7 +3043,7 @@
       "comment": "",
       "date": 1782811146.3863032,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           89.9,
@@ -3279,7 +3059,7 @@
       "first_date": 1771444426.2277534,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3391,7 +3171,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3475,7 +3255,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FAST SHIPPING Store in Rome",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3565,6 +3345,49 @@
       "card": "Perona (OP06-093)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
       "seller": {
+        "name": "kelefaba",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! sleeved/toploader",
+      "date": 1783321710.950549,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1774647782.6816804
+        ],
+        [
+          80.0,
+          1782811146.3863032
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782811146.3863032
+        ],
+        [
+          0,
+          1782811146.3863032
+        ]
+      ],
+      "first_date": 1771298092.2885454,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
         "name": "BooTCG",
         "country": "Item location: Germany"
       },
@@ -3575,7 +3398,7 @@
       "comment": "RELISTED! ",
       "date": 1782811146.3863032,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           60.0,
@@ -3599,7 +3422,7 @@
       "first_date": 1776909426.0937383,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3695,6 +3518,200 @@
       "first_date": 1767869071.627778,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
+        "name": "Pmon33yy",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 96.18,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783321710.950549,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          89.14,
+          1777278699.0428503
+        ],
+        [
+          89.2,
+          1777391392.6864898
+        ],
+        [
+          89.16,
+          1777491384.5850284
+        ],
+        [
+          89.17,
+          1777582040.8163042
+        ],
+        [
+          89.44,
+          1777742123.8831482
+        ],
+        [
+          89.47,
+          1777878493.457667
+        ],
+        [
+          89.4,
+          1778020132.9918113
+        ],
+        [
+          89.35,
+          1778184441.940823
+        ],
+        [
+          89.34,
+          1778387093.6409502
+        ],
+        [
+          89.25,
+          1778473262.546644
+        ],
+        [
+          89.23,
+          1778608119.2266169
+        ],
+        [
+          89.2,
+          1778747696.18152
+        ],
+        [
+          88.69,
+          1778822496.7575805
+        ],
+        [
+          88.52,
+          1779038479.6082504
+        ],
+        [
+          89.04,
+          1779165544.9816499
+        ],
+        [
+          89.16,
+          1779315168.220417
+        ],
+        [
+          83.3,
+          1779398762.1956563
+        ],
+        [
+          83.34,
+          1779472440.5863304
+        ],
+        [
+          83.43,
+          1779624388.5239363
+        ],
+        [
+          83.48,
+          1779721097.729947
+        ],
+        [
+          83.6,
+          1779800607.2901628
+        ],
+        [
+          83.35,
+          1779923938.219273
+        ],
+        [
+          83.18,
+          1780093040.7898414
+        ],
+        [
+          83.19,
+          1780226157.5794187
+        ],
+        [
+          83.23,
+          1780302674.4126992
+        ],
+        [
+          83.4,
+          1780407911.3362875
+        ],
+        [
+          83.49,
+          1780523490.379707
+        ],
+        [
+          83.45,
+          1780873267.2719517
+        ],
+        [
+          83.37,
+          1780980778.7891219
+        ],
+        [
+          83.56,
+          1781427285.4292336
+        ],
+        [
+          83.58,
+          1781519339.8374052
+        ],
+        [
+          83.43,
+          1781607863.3903084
+        ],
+        [
+          83.36,
+          1781713997.6663797
+        ],
+        [
+          83.06,
+          1781855268.1658473
+        ],
+        [
+          83.14,
+          1781925724.1182299
+        ],
+        [
+          83.12,
+          1782122800.436548
+        ],
+        [
+          83.57,
+          1782214376.3212206
+        ],
+        [
+          83.63,
+          1782315858.3291736
+        ],
+        [
+          83.6,
+          1782391894.8904696
+        ],
+        [
+          83.55,
+          1782715458.7658389
+        ],
+        [
+          83.67,
+          1782811146.3863032
+        ],
+        [
+          84.15,
+          1783151415.3791704
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777278699.0428503,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3810,7 +3827,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nano blanc bord dos",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3843,7 +3860,7 @@
       ],
       "first_date": 1780523490.379707,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3899,7 +3916,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3949,7 +3966,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3987,7 +4004,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4054,7 +4071,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4079,7 +4096,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Schneller Versand & sichere Verpackung",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4187,7 +4204,7 @@
       "comment": "GRAAD 10",
       "date": 1782811146.3863032,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4198,7 +4215,7 @@
       "first_date": 1782540041.1176853,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4249,9 +4266,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783151415.3791704,
@@ -4274,7 +4291,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Prestine",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4286,7 +4303,7 @@
       "previous_quantities": [],
       "first_date": 1782214376.3212206,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4304,9 +4321,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783151415.3791704,
@@ -4372,9 +4389,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783151415.3791704,
+      "date": 1783321710.950549,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783151415.3791704,

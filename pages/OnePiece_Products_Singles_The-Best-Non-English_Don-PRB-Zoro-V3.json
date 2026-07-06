@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 18,
-  "sold": 1,
+  "available": 16,
+  "sold": 3,
   "inserted": 1,
   "listings": [
     {
@@ -587,7 +587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2172,18 +2172,23 @@
       },
       "language": "Japanese",
       "price": 194.65,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "exc-nm! / Quick shipping! / DM for questions! / Check my other stuff!",
       "date": 1783166598.7816353,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783166598.7816353
+        ]
+      ],
       "first_date": 1782234436.1195185,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2513,18 +2518,23 @@
       },
       "language": "Japanese",
       "price": 204.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783166598.7816353,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783166598.7816353
+        ]
+      ],
       "first_date": 1782142873.8857882,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2538,12 +2548,12 @@
       },
       "language": "Japanese",
       "price": 209.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783166598.7816353,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2553,12 +2563,16 @@
         [
           0,
           1781370828.170524
+        ],
+        [
+          1,
+          1783166598.7816353
         ]
       ],
       "first_date": 1781370828.170524,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2737,7 +2751,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2769,7 +2783,7 @@
       "comment": "",
       "date": 1782824893.196562,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           145.0,
@@ -2793,7 +2807,7 @@
       "first_date": 1765402306.104001,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2832,6 +2846,49 @@
       "card": "Don!! (PRB Zoro) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
       "seller": {
+        "name": "schmayf",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 229.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster -> Sleeve",
+      "date": 1783336353.959609,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          189.99,
+          1769686371.4878085
+        ],
+        [
+          169.99,
+          1776928982.0778842
+        ],
+        [
+          250.0,
+          1783166598.7816353
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776928982.0778842
+        ]
+      ],
+      "first_date": 1765402306.104001,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Don!! (PRB Zoro) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
+      "seller": {
         "name": "StrigoYY",
         "country": "Item location: France"
       },
@@ -2840,7 +2897,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2865,51 +2922,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781869322.9031446,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Don!! (PRB Zoro) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
-      "seller": {
-        "name": "schmayf",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Booster -> Sleeve",
-      "date": 1783166598.7816353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          189.99,
-          1769686371.4878085
-        ],
-        [
-          169.99,
-          1776928982.0778842
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776928982.0778842
-        ]
-      ],
-      "first_date": 1765402306.104001,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2954,7 +2972,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3127,7 +3145,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 9.5 - Differenzbesteuert - Fast Secured Shipping",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3162,31 +3180,6 @@
       "card": "Don!! (PRB Zoro) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
       "seller": {
-        "name": "Crux877",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783166598.7816353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782142873.8857882,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Don!! (PRB Zoro) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
-      "seller": {
         "name": "MarcoMarcetti",
         "country": "Item location: Germany"
       },
@@ -3195,7 +3188,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3267,7 +3260,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC 10",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3366,9 +3359,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10 cert #102910618",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783166598.7816353,
@@ -3391,7 +3384,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3442,7 +3435,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3468,6 +3461,31 @@
       "card": "Don!! (PRB Zoro) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
       "seller": {
+        "name": "LootSpot19",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783336353.959609,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783336353.959609,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Don!! (PRB Zoro) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
+      "seller": {
         "name": "HamzaDportgas117",
         "country": "Item location: Germany"
       },
@@ -3476,7 +3494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 ! You can feel free to DM for pics. :)",
-      "date": 1783166598.7816353,
+      "date": 1783336353.959609,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3493,6 +3511,36 @@
       "first_date": 1765402306.104001,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Don!! (PRB Zoro) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
+      "seller": {
+        "name": "Crux877",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783336353.959609,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          350.0,
+          1783166598.7816353
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782142873.8857882,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

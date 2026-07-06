@@ -11,7 +11,7 @@
   ],
   "only_germany": false,
   "available": 50,
-  "sold": 3,
+  "sold": 2,
   "inserted": 2,
   "listings": [
     {
@@ -1189,7 +1189,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "pack fresh",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1210,7 +1210,7 @@
       ],
       "first_date": 1769679574.1010208,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1260,18 +1260,23 @@
       },
       "language": "Japanese",
       "price": 39.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783121974.5376668,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783121974.5376668
+        ]
+      ],
       "first_date": 1778876631.2995589,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1326,7 +1331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1353,7 +1358,7 @@
       "comment": "RELISTED! ",
       "date": 1782782229.4869435,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           37.0,
@@ -1385,7 +1390,7 @@
       "first_date": 1770713205.2691078,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1495,7 +1500,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2025-10-03 - PRB02-JP-000",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1520,7 +1525,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VETRINA DA",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1559,7 +1564,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1879,7 +1884,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2026,7 +2031,7 @@
       "comment": "",
       "date": 1782782229.4869435,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2037,7 +2042,7 @@
       "first_date": 1782684443.3517866,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2076,6 +2081,31 @@
       "card": "DON!! (PRB02 - Yamato) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
       "seller": {
+        "name": "onecardtcgstore",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.93,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783290052.8584394,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783290052.8584394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "DON!! (PRB02 - Yamato) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
+      "seller": {
         "name": "NenaShopTCG",
         "country": "Item location: Italy"
       },
@@ -2084,7 +2114,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2118,7 +2148,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2153,12 +2183,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780843016.5692756,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "DON!! (PRB02 - Yamato) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
+      "seller": {
+        "name": "horrorclown",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783290052.8584394,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783290052.8584394,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2178,9 +2233,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783121974.5376668,
@@ -2203,7 +2258,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2230,7 +2285,7 @@
       "comment": "",
       "date": 1782782229.4869435,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           50.0,
@@ -2250,7 +2305,7 @@
       "first_date": 1781319547.5797472,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2369,6 +2424,40 @@
       "card": "DON!! (PRB02 - Yamato) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
       "seller": {
+        "name": "Embathie",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 48.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783290052.8584394,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.98,
+          1782360839.8464408
+        ],
+        [
+          99.98,
+          1783121974.5376668
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780949882.2623,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "DON!! (PRB02 - Yamato) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
+      "seller": {
         "name": "Melo42",
         "country": "Item location: Germany"
       },
@@ -2377,7 +2466,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast shipping dm for pics",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2402,7 +2491,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2427,7 +2516,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> sleeve --> Toploader please ask for fotos :)",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2470,7 +2559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See my other cards JP",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2509,7 +2598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Parfait !",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2534,7 +2623,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2585,11 +2674,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 54.13,
+      "price": 54.11,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Tiny white spot. ask for pictures",
-      "date": 1783121974.5376668,
+      "comment": "Tiny white spot. ask for pictures",
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2696,6 +2785,10 @@
         [
           59.75,
           1782281105.74319
+        ],
+        [
+          54.13,
+          1783121974.5376668
         ]
       ],
       "previous_quantities": [
@@ -2719,7 +2812,7 @@
       "first_date": 1778583155.152734,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2786,7 +2879,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2803,8 +2896,8 @@
       ],
       "first_date": 1781319547.5797472,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2821,7 +2914,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2876,7 +2969,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3127,7 +3220,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "Playset only!",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3217,7 +3310,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3242,7 +3335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3267,32 +3360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769679574.1010208,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "DON!! (PRB02 - Yamato) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
-      "seller": {
-        "name": "Xx-MasterHunter-xX",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 70.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3317,7 +3385,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3334,6 +3402,36 @@
       "card": "DON!! (PRB02 - Yamato) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
       "seller": {
+        "name": "Xx-MasterHunter-xX",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783121974.5376668,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783121974.5376668
+        ]
+      ],
+      "first_date": 1769679574.1010208,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "DON!! (PRB02 - Yamato) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
+      "seller": {
         "name": "Gianaros",
         "country": "Item location: Greece"
       },
@@ -3342,7 +3440,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "x10 only.",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3377,7 +3475,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3392,36 +3490,6 @@
         ]
       ],
       "first_date": 1777995385.9906013,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "DON!! (PRB02 - Yamato) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_DON-PRB02-Yamato-V3",
-      "seller": {
-        "name": "Embathie",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 99.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783121974.5376668,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          49.98,
-          1782360839.8464408
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1780949882.2623,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3466,7 +3534,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783121974.5376668,
+      "date": 1783290052.8584394,
       "ended": false,
       "new": false,
       "previous_prices": [],

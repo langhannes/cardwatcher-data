@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 7,
-  "sold": 0,
-  "inserted": 1,
+  "available": 6,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Nico Olvia (OP09-106) (V.2)",
@@ -105,7 +105,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -143,7 +143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster frisch / fast shipping",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -216,7 +216,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -266,7 +266,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Double Sleeved & Fast Shipping + Toploader",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -321,7 +321,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -355,7 +355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CHINESE CHAMPIONSHIP STAMP FOILD CARD",
-      "date": 1783141080.6448598,
+      "date": 1783310292.1595361,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -441,12 +441,12 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Other cards in trade-pack fresh!",
       "date": 1783141080.6448598,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           80.0,
@@ -461,12 +461,16 @@
         [
           0,
           1780511645.92216
+        ],
+        [
+          1,
+          1783141080.6448598
         ]
       ],
       "first_date": 1771786860.174893,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
