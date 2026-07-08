@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
+  "available": 3,
   "sold": 1,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1783322183.138492,
+      "date": 1783421283.5425537,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -48,12 +48,12 @@
       },
       "language": "Korean",
       "price": 275.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "GRAAD 8.5",
       "date": 1783322183.138492,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           250.0,
@@ -64,11 +64,16 @@
           1781714711.8104475
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783322183.138492
+        ]
+      ],
       "first_date": 1781351479.5206485,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -85,7 +90,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1783322183.138492,
+      "date": 1783421283.5425537,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -162,7 +167,7 @@
       "comment": "",
       "date": 1783151759.5321567,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -173,7 +178,7 @@
       "first_date": 1771830443.176994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -190,7 +195,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1783322183.138492,
+      "date": 1783421283.5425537,
       "ended": false,
       "new": false,
       "previous_prices": [

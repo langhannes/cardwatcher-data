@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 18,
-  "sold": 1,
-  "inserted": 1,
+  "available": 16,
+  "sold": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Perona (OP06-093)",
@@ -1015,12 +1015,12 @@
       },
       "language": "S-Chinese",
       "price": 60.12,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783321710.950549,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           65.66,
@@ -1071,11 +1071,16 @@
           1782811146.3863032
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783321710.950549
+        ]
+      ],
       "first_date": 1781350414.4888146,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1915,7 +1920,7 @@
       "comment": "Sleeve. toploader",
       "date": 1783151415.3791704,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1926,7 +1931,7 @@
       "first_date": 1783151415.3791704,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2028,7 +2033,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photo",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2108,7 +2113,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2397,23 +2402,28 @@
       },
       "language": "Japanese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783321710.950549,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           78.5,
           1782811146.3863032
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783321710.950549
+        ]
+      ],
       "first_date": 1782628726.090836,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3171,7 +3181,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3255,7 +3265,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FAST SHIPPING Store in Rome",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3352,8 +3362,8 @@
       "price": 95.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! sleeved/toploader",
-      "date": 1783321710.950549,
+      "comment": "sleeved/toploader",
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3378,8 +3388,8 @@
       ],
       "first_date": 1771298092.2885454,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3531,11 +3541,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 96.18,
+      "price": 96.45,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3706,6 +3716,10 @@
         [
           84.15,
           1783151415.3791704
+        ],
+        [
+          96.18,
+          1783321710.950549
         ]
       ],
       "previous_quantities": [],
@@ -3827,7 +3841,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nano blanc bord dos",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3916,7 +3930,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3966,7 +3980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4004,7 +4018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4071,7 +4085,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4096,7 +4110,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Schneller Versand & sichere Verpackung",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4266,7 +4280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4291,7 +4305,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Prestine",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4321,7 +4335,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4389,7 +4403,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783321710.950549,
+      "date": 1783420959.4568398,
       "ended": false,
       "new": false,
       "previous_prices": [],

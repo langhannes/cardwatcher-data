@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 41,
-  "sold": 2,
-  "inserted": 1,
+  "available": 40,
+  "sold": 6,
+  "inserted": 4,
   "listings": [
     {
       "card": "Rob Lucci (OP03-092)",
@@ -1754,12 +1754,12 @@
       },
       "language": "S-Chinese",
       "price": 27.06,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           29.85,
@@ -1810,11 +1810,16 @@
           1783119083.5973165
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783286504.7755473
+        ]
+      ],
       "first_date": 1781316665.720548,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2229,23 +2234,27 @@
       },
       "language": "Japanese",
       "price": 29.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783119083.5973165,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1783386648.5406508,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1783119083.5973165
+        ],
+        [
+          0,
           1783119083.5973165
         ]
       ],
       "first_date": 1782508220.312677,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2715,353 +2724,6 @@
       "card": "Rob Lucci (OP03-092)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
       "seller": {
-        "name": "BubbaWatts",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 29.93,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          49.7,
-          1769179978.777654
-        ],
-        [
-          49.91,
-          1769342295.7034342
-        ],
-        [
-          47.33,
-          1769497841.3888137
-        ],
-        [
-          47.29,
-          1769619593.4392483
-        ],
-        [
-          47.43,
-          1769677120.5404549
-        ],
-        [
-          47.45,
-          1769941156.7148714
-        ],
-        [
-          47.42,
-          1770040708.76629
-        ],
-        [
-          47.64,
-          1770232434.6585386
-        ],
-        [
-          47.52,
-          1770326182.1512403
-        ],
-        [
-          47.24,
-          1770761946.3694117
-        ],
-        [
-          47.13,
-          1770829413.0901968
-        ],
-        [
-          47.18,
-          1770916590.4057753
-        ],
-        [
-          47.17,
-          1770992467.067046
-        ],
-        [
-          47.26,
-          1771347214.9321547
-        ],
-        [
-          47.03,
-          1771510479.8435483
-        ],
-        [
-          47.01,
-          1771785479.9473412
-        ],
-        [
-          47.0,
-          1771849793.8968518
-        ],
-        [
-          47.05,
-          1771913277.7739317
-        ],
-        [
-          47.12,
-          1772032956.3283486
-        ],
-        [
-          47.16,
-          1772128712.0432549
-        ],
-        [
-          46.89,
-          1772385357.7504754
-        ],
-        [
-          46.88,
-          1772462592.7638988
-        ],
-        [
-          47.12,
-          1772558001.653744
-        ],
-        [
-          47.24,
-          1772718210.1956785
-        ],
-        [
-          47.29,
-          1772814140.6327446
-        ],
-        [
-          47.44,
-          1773048197.719254
-        ],
-        [
-          47.51,
-          1773180891.5786078
-        ],
-        [
-          47.53,
-          1773239335.9846988
-        ],
-        [
-          47.65,
-          1773331190.775571
-        ],
-        [
-          47.67,
-          1773390034.7590013
-        ],
-        [
-          47.58,
-          1773778362.3546286
-        ],
-        [
-          47.57,
-          1773916388.7044277
-        ],
-        [
-          35.62,
-          1774217902.7053401
-        ],
-        [
-          35.41,
-          1775435691.4117653
-        ],
-        [
-          26.53,
-          1775653183.9116108
-        ],
-        [
-          26.57,
-          1775738344.0240028
-        ],
-        [
-          26.56,
-          1775866041.03119
-        ],
-        [
-          26.52,
-          1776077433.713291
-        ],
-        [
-          26.57,
-          1776178376.7100606
-        ],
-        [
-          26.61,
-          1776266219.403293
-        ],
-        [
-          26.59,
-          1776366316.1460507
-        ],
-        [
-          26.55,
-          1776456583.4410734
-        ],
-        [
-          26.58,
-          1776559842.537655
-        ],
-        [
-          26.55,
-          1776652598.055366
-        ],
-        [
-          26.61,
-          1776882073.0776973
-        ],
-        [
-          26.67,
-          1776949399.29652
-        ],
-        [
-          26.71,
-          1777214887.752524
-        ],
-        [
-          26.69,
-          1777311874.5642085
-        ],
-        [
-          26.7,
-          1777519427.7576995
-        ],
-        [
-          26.82,
-          1777610002.5148375
-        ],
-        [
-          26.78,
-          1777770613.5842254
-        ],
-        [
-          26.79,
-          1777906089.7585793
-        ],
-        [
-          26.77,
-          1777992542.923836
-        ],
-        [
-          26.79,
-          1778088526.8973105
-        ],
-        [
-          26.75,
-          1778156514.3245869
-        ],
-        [
-          26.71,
-          1778795921.783854
-        ],
-        [
-          26.56,
-          1778873902.8706174
-        ],
-        [
-          26.5,
-          1779008706.4308808
-        ],
-        [
-          26.51,
-          1779135803.740646
-        ],
-        [
-          26.7,
-          1779285355.0399394
-        ],
-        [
-          26.74,
-          1779445208.261709
-        ],
-        [
-          26.76,
-          1779589886.1072047
-        ],
-        [
-          26.78,
-          1779681319.6997528
-        ],
-        [
-          29.73,
-          1781485650.1315265
-        ],
-        [
-          29.67,
-          1781574148.84965
-        ],
-        [
-          29.65,
-          1781658278.297098
-        ],
-        [
-          29.64,
-          1781755654.7006302
-        ],
-        [
-          29.54,
-          1781891813.314694
-        ],
-        [
-          29.56,
-          1782088883.4169157
-        ],
-        [
-          29.72,
-          1782180466.0172727
-        ],
-        [
-          29.74,
-          1782278320.9742968
-        ],
-        [
-          29.73,
-          1782357172.8856728
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778156514.3245869
-        ],
-        [
-          0,
-          1778156514.3245869
-        ],
-        [
-          1,
-          1779285355.0399394
-        ],
-        [
-          0,
-          1779285355.0399394
-        ],
-        [
-          1,
-          1779681319.6997528
-        ],
-        [
-          0,
-          1779681319.6997528
-        ],
-        [
-          1,
-          1782357172.8856728
-        ],
-        [
-          0,
-          1782357172.8856728
-        ]
-      ],
-      "first_date": 1769179978.777654,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP03-092)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
-      "seller": {
         "name": "TamsCardshub",
         "country": "Item location: Germany"
       },
@@ -3230,12 +2892,12 @@
       },
       "language": "Japanese",
       "price": 29.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": 1783119083.5973165,
-      "ended": true,
-      "new": true,
+      "date": 1783386648.5406508,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3273,12 +2935,16 @@
         [
           1,
           1783119083.5973165
+        ],
+        [
+          0,
+          1783119083.5973165
         ]
       ],
       "first_date": 1772032956.3283486,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3473,7 +3139,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3512,7 +3178,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3537,7 +3203,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more sp in stock",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3948,6 +3614,357 @@
       "card": "Rob Lucci (OP03-092)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
       "seller": {
+        "name": "BubbaWatts",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 30.01,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783386648.5406508,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.7,
+          1769179978.777654
+        ],
+        [
+          49.91,
+          1769342295.7034342
+        ],
+        [
+          47.33,
+          1769497841.3888137
+        ],
+        [
+          47.29,
+          1769619593.4392483
+        ],
+        [
+          47.43,
+          1769677120.5404549
+        ],
+        [
+          47.45,
+          1769941156.7148714
+        ],
+        [
+          47.42,
+          1770040708.76629
+        ],
+        [
+          47.64,
+          1770232434.6585386
+        ],
+        [
+          47.52,
+          1770326182.1512403
+        ],
+        [
+          47.24,
+          1770761946.3694117
+        ],
+        [
+          47.13,
+          1770829413.0901968
+        ],
+        [
+          47.18,
+          1770916590.4057753
+        ],
+        [
+          47.17,
+          1770992467.067046
+        ],
+        [
+          47.26,
+          1771347214.9321547
+        ],
+        [
+          47.03,
+          1771510479.8435483
+        ],
+        [
+          47.01,
+          1771785479.9473412
+        ],
+        [
+          47.0,
+          1771849793.8968518
+        ],
+        [
+          47.05,
+          1771913277.7739317
+        ],
+        [
+          47.12,
+          1772032956.3283486
+        ],
+        [
+          47.16,
+          1772128712.0432549
+        ],
+        [
+          46.89,
+          1772385357.7504754
+        ],
+        [
+          46.88,
+          1772462592.7638988
+        ],
+        [
+          47.12,
+          1772558001.653744
+        ],
+        [
+          47.24,
+          1772718210.1956785
+        ],
+        [
+          47.29,
+          1772814140.6327446
+        ],
+        [
+          47.44,
+          1773048197.719254
+        ],
+        [
+          47.51,
+          1773180891.5786078
+        ],
+        [
+          47.53,
+          1773239335.9846988
+        ],
+        [
+          47.65,
+          1773331190.775571
+        ],
+        [
+          47.67,
+          1773390034.7590013
+        ],
+        [
+          47.58,
+          1773778362.3546286
+        ],
+        [
+          47.57,
+          1773916388.7044277
+        ],
+        [
+          35.62,
+          1774217902.7053401
+        ],
+        [
+          35.41,
+          1775435691.4117653
+        ],
+        [
+          26.53,
+          1775653183.9116108
+        ],
+        [
+          26.57,
+          1775738344.0240028
+        ],
+        [
+          26.56,
+          1775866041.03119
+        ],
+        [
+          26.52,
+          1776077433.713291
+        ],
+        [
+          26.57,
+          1776178376.7100606
+        ],
+        [
+          26.61,
+          1776266219.403293
+        ],
+        [
+          26.59,
+          1776366316.1460507
+        ],
+        [
+          26.55,
+          1776456583.4410734
+        ],
+        [
+          26.58,
+          1776559842.537655
+        ],
+        [
+          26.55,
+          1776652598.055366
+        ],
+        [
+          26.61,
+          1776882073.0776973
+        ],
+        [
+          26.67,
+          1776949399.29652
+        ],
+        [
+          26.71,
+          1777214887.752524
+        ],
+        [
+          26.69,
+          1777311874.5642085
+        ],
+        [
+          26.7,
+          1777519427.7576995
+        ],
+        [
+          26.82,
+          1777610002.5148375
+        ],
+        [
+          26.78,
+          1777770613.5842254
+        ],
+        [
+          26.79,
+          1777906089.7585793
+        ],
+        [
+          26.77,
+          1777992542.923836
+        ],
+        [
+          26.79,
+          1778088526.8973105
+        ],
+        [
+          26.75,
+          1778156514.3245869
+        ],
+        [
+          26.71,
+          1778795921.783854
+        ],
+        [
+          26.56,
+          1778873902.8706174
+        ],
+        [
+          26.5,
+          1779008706.4308808
+        ],
+        [
+          26.51,
+          1779135803.740646
+        ],
+        [
+          26.7,
+          1779285355.0399394
+        ],
+        [
+          26.74,
+          1779445208.261709
+        ],
+        [
+          26.76,
+          1779589886.1072047
+        ],
+        [
+          26.78,
+          1779681319.6997528
+        ],
+        [
+          29.73,
+          1781485650.1315265
+        ],
+        [
+          29.67,
+          1781574148.84965
+        ],
+        [
+          29.65,
+          1781658278.297098
+        ],
+        [
+          29.64,
+          1781755654.7006302
+        ],
+        [
+          29.54,
+          1781891813.314694
+        ],
+        [
+          29.56,
+          1782088883.4169157
+        ],
+        [
+          29.72,
+          1782180466.0172727
+        ],
+        [
+          29.74,
+          1782278320.9742968
+        ],
+        [
+          29.73,
+          1782357172.8856728
+        ],
+        [
+          29.93,
+          1783286504.7755473
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778156514.3245869
+        ],
+        [
+          0,
+          1778156514.3245869
+        ],
+        [
+          1,
+          1779285355.0399394
+        ],
+        [
+          0,
+          1779285355.0399394
+        ],
+        [
+          1,
+          1779681319.6997528
+        ],
+        [
+          0,
+          1779681319.6997528
+        ],
+        [
+          1,
+          1782357172.8856728
+        ],
+        [
+          0,
+          1782357172.8856728
+        ]
+      ],
+      "first_date": 1769179978.777654,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP03-092)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
+      "seller": {
         "name": "ocaba596",
         "country": "Item location: Spain"
       },
@@ -3956,7 +3973,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4116,7 +4133,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved. fast shipping. NM",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4141,7 +4158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A lot of japanese cards",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4153,7 +4170,7 @@
       "previous_quantities": [],
       "first_date": 1779964467.9507432,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4312,7 +4329,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "P3-B",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4417,7 +4434,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4433,7 +4450,7 @@
       "previous_quantities": [],
       "first_date": 1770992467.067046,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4529,148 +4546,48 @@
       "card": "Rob Lucci (OP03-092)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
       "seller": {
-        "name": "Rising-Phoenix",
+        "name": "CardMaster23-Arezzo",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 34.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "R.P. - 186 Photos available on Rising Phoenix Ebay store!",
-      "date": 1783286504.7755473,
+      "quantity": 2,
+      "condition": "EX",
+      "comment": "RELISTED! Little white on back",
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
-          1,
-          1778445494.7562242
+          2,
+          1777992542.923836
         ],
         [
           0,
-          1778445494.7562242
+          1777992542.923836
         ],
         [
-          1,
-          1782180466.0172727
-        ],
-        [
-          0,
-          1782180466.0172727
-        ],
-        [
-          1,
-          1782593929.0228984
+          2,
+          1779135803.740646
         ],
         [
           0,
-          1782593929.0228984
+          1779135803.740646
+        ],
+        [
+          2,
+          1781393593.1169436
+        ],
+        [
+          0,
+          1781393593.1169436
         ]
       ],
-      "first_date": 1770761946.3694117,
+      "first_date": 1769677120.5404549,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP03-092)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
-      "seller": {
-        "name": "Rising-Phoenix",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 34.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "R.P. - 185 Photos available on Rising Phoenix Ebay store!",
-      "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778445494.7562242
-        ],
-        [
-          0,
-          1778445494.7562242
-        ],
-        [
-          1,
-          1782180466.0172727
-        ],
-        [
-          0,
-          1782180466.0172727
-        ],
-        [
-          1,
-          1782593929.0228984
-        ],
-        [
-          0,
-          1782593929.0228984
-        ]
-      ],
-      "first_date": 1770761946.3694117,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP03-092)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
-      "seller": {
-        "name": "Rising-Phoenix",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 34.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "R.P. - 184 Photos available on Rising Phoenix Ebay store!",
-      "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778445494.7562242
-        ],
-        [
-          0,
-          1778445494.7562242
-        ],
-        [
-          1,
-          1782180466.0172727
-        ],
-        [
-          0,
-          1782180466.0172727
-        ],
-        [
-          1,
-          1782593929.0228984
-        ],
-        [
-          0,
-          1782593929.0228984
-        ]
-      ],
-      "first_date": 1770761946.3694117,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4687,7 +4604,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4701,6 +4618,168 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP03-092)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 34.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "R.P. - 186 Photos available on Rising Phoenix Ebay store!",
+      "date": 1783286504.7755473,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778445494.7562242
+        ],
+        [
+          0,
+          1778445494.7562242
+        ],
+        [
+          1,
+          1782180466.0172727
+        ],
+        [
+          0,
+          1782180466.0172727
+        ],
+        [
+          1,
+          1782593929.0228984
+        ],
+        [
+          0,
+          1782593929.0228984
+        ],
+        [
+          1,
+          1783286504.7755473
+        ]
+      ],
+      "first_date": 1770761946.3694117,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP03-092)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 34.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "R.P. - 185 Photos available on Rising Phoenix Ebay store!",
+      "date": 1783286504.7755473,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778445494.7562242
+        ],
+        [
+          0,
+          1778445494.7562242
+        ],
+        [
+          1,
+          1782180466.0172727
+        ],
+        [
+          0,
+          1782180466.0172727
+        ],
+        [
+          1,
+          1782593929.0228984
+        ],
+        [
+          0,
+          1782593929.0228984
+        ],
+        [
+          1,
+          1783286504.7755473
+        ]
+      ],
+      "first_date": 1770761946.3694117,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP03-092)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
+      "seller": {
+        "name": "Rising-Phoenix",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 34.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "R.P. - 184 Photos available on Rising Phoenix Ebay store!",
+      "date": 1783286504.7755473,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778445494.7562242
+        ],
+        [
+          0,
+          1778445494.7562242
+        ],
+        [
+          1,
+          1782180466.0172727
+        ],
+        [
+          0,
+          1782180466.0172727
+        ],
+        [
+          1,
+          1782593929.0228984
+        ],
+        [
+          0,
+          1782593929.0228984
+        ],
+        [
+          1,
+          1783286504.7755473
+        ]
+      ],
+      "first_date": 1770761946.3694117,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4749,52 +4828,6 @@
         ]
       ],
       "first_date": 1776882073.0776973,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP03-092)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
-      "seller": {
-        "name": "CardMaster23-Arezzo",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 34.99,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "Little white on back",
-      "date": 1781393593.1169436,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1777992542.923836
-        ],
-        [
-          0,
-          1777992542.923836
-        ],
-        [
-          2,
-          1779135803.740646
-        ],
-        [
-          0,
-          1779135803.740646
-        ],
-        [
-          2,
-          1781393593.1169436
-        ]
-      ],
-      "first_date": 1769677120.5404549,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5001,12 +5034,12 @@
       },
       "language": "Japanese",
       "price": 36.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "~#| Order more. save on shipping",
       "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           33.99,
@@ -5033,12 +5066,16 @@
         [
           0,
           1780490549.0023072
+        ],
+        [
+          1,
+          1783286504.7755473
         ]
       ],
       "first_date": 1778721130.5613046,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5055,7 +5092,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "@Cardmadness",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5080,7 +5117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to Sleeve",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5131,11 +5168,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 38.48,
+      "price": 38.59,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5150,6 +5187,10 @@
         [
           38.49,
           1783119083.5973165
+        ],
+        [
+          38.48,
+          1783286504.7755473
         ]
       ],
       "previous_quantities": [
@@ -5161,6 +5202,56 @@
       "first_date": 1782508220.312677,
       "last_date": 0.0,
       "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP03-092)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
+      "seller": {
+        "name": "CardMaster23-Arezzo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 38.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Little white point on back",
+      "date": 1783386648.5406508,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1777992542.923836
+        ],
+        [
+          0,
+          1777992542.923836
+        ],
+        [
+          3,
+          1779135803.740646
+        ],
+        [
+          0,
+          1779135803.740646
+        ],
+        [
+          1,
+          1781393593.1169436
+        ],
+        [
+          0,
+          1781393593.1169436
+        ]
+      ],
+      "first_date": 1770992467.067046,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5189,52 +5280,6 @@
         ]
       ],
       "first_date": 1769179978.777654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP03-092)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Rob-Lucci-OP03-092",
-      "seller": {
-        "name": "CardMaster23-Arezzo",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 38.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Little white point on back",
-      "date": 1781393593.1169436,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1777992542.923836
-        ],
-        [
-          0,
-          1777992542.923836
-        ],
-        [
-          3,
-          1779135803.740646
-        ],
-        [
-          0,
-          1779135803.740646
-        ],
-        [
-          1,
-          1781393593.1169436
-        ]
-      ],
-      "first_date": 1770992467.067046,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5284,7 +5329,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve - >toploader",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5386,7 +5431,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5466,7 +5511,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5505,7 +5550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> sleeve --> Toploader please ask for fotos :)",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5544,7 +5589,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5603,7 +5648,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5633,7 +5678,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5658,7 +5703,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Very good Condition",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5713,7 +5758,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5856,7 +5901,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GP 10 New Seller I do my best :)",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5906,7 +5951,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fresh from booster",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5940,7 +5985,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9  MANY SLABS IN STOCK CHECK",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6110,18 +6155,23 @@
       },
       "language": "Japanese",
       "price": 89.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "[GRAAD 9.5]",
       "date": 1783286504.7755473,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783286504.7755473
+        ]
+      ],
       "first_date": 1783119083.5973165,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6313,7 +6363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0] ^_^ Experience and Passion at your Service ^_^",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6402,7 +6452,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6432,7 +6482,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6462,7 +6512,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10   NEW SELLER",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6487,7 +6537,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6530,7 +6580,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10 - Images available upon request",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6577,7 +6627,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AP Grading 10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6611,7 +6661,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6645,7 +6695,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783286504.7755473,
+      "date": 1783386648.5406508,
       "ended": false,
       "new": false,
       "previous_prices": [
