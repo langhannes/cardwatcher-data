@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 31,
+  "available": 33,
   "sold": 1,
-  "inserted": 1,
+  "inserted": 2,
   "listings": [
     {
       "card": "Nami (OP01-016) (V.2)",
@@ -2825,7 +2825,7 @@
       "comment": "",
       "date": 1783318628.5066476,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2844,7 +2844,7 @@
       "first_date": 1777481047.0536857,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4703,11 +4703,11 @@
       },
       "language": "S-Chinese",
       "price": 97.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1783418268.6636703,
-      "ended": false,
+      "date": 1783672603.2940598,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4719,7 +4719,12 @@
           1779719070.695762
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783672603.2940598
+        ]
+      ],
       "first_date": 1736841888.2769332,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6220,44 +6225,6 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "AntoineMarthy",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 119.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "booster -> sleeve",
-      "date": 1780977580.762671,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779798580.9047408
-        ],
-        [
-          0,
-          1779798580.9047408
-        ],
-        [
-          1,
-          1780977580.762671
-        ]
-      ],
-      "first_date": 1779719070.695762,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
-      "seller": {
         "name": "VannyTCG",
         "country": "Item location: Germany"
       },
@@ -6797,6 +6764,61 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
+        "name": "Pohlgold",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 130.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783919841.139159,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "Pohlgold",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 130.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783672603.2940598,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783672603.2940598
+        ]
+      ],
+      "first_date": 1783554555.659134,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
         "name": "Phoenixhunter1",
         "country": "Item location: Austria"
       },
@@ -6883,6 +6905,40 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1771244737.6432822,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "Isonn",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "Japanese",
+      "price": 133.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfect condition",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          160.0,
+          1783318628.5066476
+        ],
+        [
+          145.0,
+          1783418268.6636703
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783318628.5066476,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7100,8 +7156,8 @@
       "price": 140.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Foil",
-      "date": 1783418268.6636703,
+      "comment": "Foil",
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7131,7 +7187,7 @@
       "first_date": 1769160191.044804,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7250,6 +7306,36 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
+        "name": "gumgumkev",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 144.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "DM for detailed pics :)",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.99,
+          1783672603.2940598
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783318628.5066476,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
         "name": "cardsity2",
         "country": "Item location: France"
       },
@@ -7300,27 +7386,36 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "Isonn",
-        "country": "Item location: Luxembourg"
+        "name": "ocaba596",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 145.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Perfect condition",
-      "date": 1783418268.6636703,
+      "comment": "",
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          160.0,
-          1783318628.5066476
+          175.0,
+          1783554555.659134
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1783318628.5066476,
+      "previous_quantities": [
+        [
+          1,
+          1782537381.3651638
+        ],
+        [
+          0,
+          1782537381.3651638
+        ]
+      ],
+      "first_date": 1781922581.7523084,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7360,11 +7455,11 @@
       },
       "language": "Japanese",
       "price": 148.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pictures. Sleeved and Toploaded.",
-      "date": 1783418268.6636703,
-      "ended": false,
+      "date": 1783554555.659134,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7372,10 +7467,15 @@
           1783318628.5066476
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783554555.659134
+        ]
+      ],
       "first_date": 1783318628.5066476,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7390,11 +7490,11 @@
       },
       "language": "Japanese",
       "price": 148.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Strict grading | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
       "date": 1783418268.6636703,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7410,6 +7510,10 @@
         [
           0,
           1755774063.2329285
+        ],
+        [
+          1,
+          1783418268.6636703
         ]
       ],
       "first_date": 1755774063.2329285,
@@ -7463,31 +7567,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1765525225.063859,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
-      "seller": {
-        "name": "gumgumkev",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 149.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "DM for detailed pics :)",
-      "date": 1783418268.6636703,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783318628.5066476,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7554,12 +7633,12 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
-      "ended": false,
-      "new": false,
+      "date": 1783919841.139159,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7569,12 +7648,16 @@
         [
           0,
           1782537381.3651638
+        ],
+        [
+          1,
+          1783919841.139159
         ]
       ],
       "first_date": 1782119662.1051965,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7840,59 +7923,16 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "Sapphire-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 154.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1783418268.6636703,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          109.89,
-          1780520305.2634544
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1780520305.2634544
-        ],
-        [
-          0,
-          1780520305.2634544
-        ],
-        [
-          2,
-          1781853133.4017327
-        ]
-      ],
-      "first_date": 1780520305.2634544,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
-      "seller": {
         "name": "Ghostcards",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 154.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "cosmic grading 10",
       "date": 1783418268.6636703,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7928,6 +7968,10 @@
         [
           0,
           1781922581.7523084
+        ],
+        [
+          1,
+          1783418268.6636703
         ]
       ],
       "first_date": 1772111082.7452013,
@@ -7986,6 +8030,53 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1736841888.2769332,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "AntoineMarthy",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 159.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to sleeve",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          119.9,
+          1780977580.762671
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779798580.9047408
+        ],
+        [
+          0,
+          1779798580.9047408
+        ],
+        [
+          1,
+          1780977580.762671
+        ],
+        [
+          0,
+          1780977580.762671
+        ]
+      ],
+      "first_date": 1779719070.695762,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8072,6 +8163,31 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
+        "name": "SilentX",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 160.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "shipping with toploader",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783919841.139159,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
         "name": "LRDCshop",
         "country": "Item location: France"
       },
@@ -8079,16 +8195,25 @@
       "price": 160.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783418268.6636703,
+      "comment": "RELISTED! ",
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783672603.2940598
+        ],
+        [
+          0,
+          1783672603.2940598
+        ]
+      ],
       "first_date": 1783148620.907685,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8230,7 +8355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8387,7 +8512,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8840,40 +8965,6 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "ocaba596",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 175.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783418268.6636703,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782537381.3651638
-        ],
-        [
-          0,
-          1782537381.3651638
-        ]
-      ],
-      "first_date": 1781922581.7523084,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
-      "seller": {
         "name": "TruMan84",
         "country": "Item location: Italy"
       },
@@ -9099,7 +9190,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9114,6 +9205,31 @@
         ]
       ],
       "first_date": 1782312198.9532905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "Batomando",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783672603.2940598,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9301,7 +9417,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG Grading 9.5+",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9335,7 +9451,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9416,6 +9532,140 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1767384850.3089674,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 189.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          109.89,
+          1780520305.2634544
+        ],
+        [
+          154.98,
+          1783418268.6636703
+        ],
+        [
+          147.99,
+          1783672603.2940598
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1780520305.2634544
+        ],
+        [
+          0,
+          1780520305.2634544
+        ],
+        [
+          2,
+          1781853133.4017327
+        ],
+        [
+          1,
+          1783672603.2940598
+        ]
+      ],
+      "first_date": 1780520305.2634544,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "shakeii",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 190.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          80.0,
+          1768160597.5260017
+        ],
+        [
+          90.0,
+          1768771267.7155972
+        ],
+        [
+          120.0,
+          1770288937.1065743
+        ],
+        [
+          110.0,
+          1772780106.0769303
+        ],
+        [
+          99.0,
+          1774647226.5963047
+        ],
+        [
+          90.0,
+          1779396272.2787566
+        ],
+        [
+          200.0,
+          1780870076.6533582
+        ],
+        [
+          220.0,
+          1780977580.762671
+        ],
+        [
+          390.0,
+          1783672603.2940598
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777551206.1288233
+        ],
+        [
+          0,
+          1777551206.1288233
+        ],
+        [
+          1,
+          1779396272.2787566
+        ],
+        [
+          0,
+          1779396272.2787566
+        ]
+      ],
+      "first_date": 1764930643.1743152,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9655,7 +9905,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 (9.5. 9.5. 9.5. 9) Gem Mint",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9680,7 +9930,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9800,7 +10050,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9863,7 +10113,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10059,6 +10309,31 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
+        "name": "CardsRealm",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784044045.5178888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
         "name": "Lesjeuxdemerlin",
         "country": "Item location: France"
       },
@@ -10067,7 +10342,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10094,44 +10369,6 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "Wild-Jinzo",
-        "country": "Item location: Greece"
-      },
-      "language": "S-Chinese",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1783418268.6636703,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          170.0,
-          0.0
-        ],
-        [
-          150.0,
-          0.0
-        ],
-        [
-          120.0,
-          1768771267.7155972
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1720078266.3559916,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
-      "seller": {
         "name": "Reymond-TCG",
         "country": "Item location: Switzerland"
       },
@@ -10140,7 +10377,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10164,6 +10401,49 @@
         ]
       ],
       "first_date": 1778819486.8900204,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
+        "name": "Wild-Jinzo",
+        "country": "Item location: Greece"
+      },
+      "language": "S-Chinese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1783418268.6636703,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          0.0
+        ],
+        [
+          150.0,
+          0.0
+        ],
+        [
+          120.0,
+          1768771267.7155972
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783418268.6636703
+        ]
+      ],
+      "first_date": 1720078266.3559916,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10691,7 +10971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10848,7 +11128,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. cert 82588210",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10903,11 +11183,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 241.14,
+      "price": 241.56,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11022,6 +11302,22 @@
         [
           240.48,
           1783318628.5066476
+        ],
+        [
+          241.14,
+          1783418268.6636703
+        ],
+        [
+          241.07,
+          1783554555.659134
+        ],
+        [
+          241.66,
+          1783672603.2940598
+        ],
+        [
+          241.8,
+          1783919841.139159
         ]
       ],
       "previous_quantities": [
@@ -11224,7 +11520,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "from booster to plastic box",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11298,7 +11594,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11403,70 +11699,20 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
-        "name": "shakeii",
-        "country": "Item location: Germany"
+        "name": "clouddann",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 390.0,
+      "price": 380.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783418268.6636703,
+      "condition": "MT",
+      "comment": "psa10  newseller Fast delivery thanks",
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          80.0,
-          1768160597.5260017
-        ],
-        [
-          90.0,
-          1768771267.7155972
-        ],
-        [
-          120.0,
-          1770288937.1065743
-        ],
-        [
-          110.0,
-          1772780106.0769303
-        ],
-        [
-          99.0,
-          1774647226.5963047
-        ],
-        [
-          90.0,
-          1779396272.2787566
-        ],
-        [
-          200.0,
-          1780870076.6533582
-        ],
-        [
-          220.0,
-          1780977580.762671
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777551206.1288233
-        ],
-        [
-          0,
-          1777551206.1288233
-        ],
-        [
-          1,
-          1779396272.2787566
-        ],
-        [
-          0,
-          1779396272.2787566
-        ]
-      ],
-      "first_date": 1764930643.1743152,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783554555.659134,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11486,7 +11732,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "! PSA 10 !",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11547,6 +11793,31 @@
       "card": "Nami (OP01-016) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
       "seller": {
+        "name": "emacacca",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "psa 10!",
+      "date": 1784044045.5178888,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783554555.659134,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Nami-OP01-016-V2",
+      "seller": {
         "name": "Na1a007",
         "country": "Item location: Germany"
       },
@@ -11555,7 +11826,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783418268.6636703,
+      "date": 1784044045.5178888,
       "ended": false,
       "new": false,
       "previous_prices": [

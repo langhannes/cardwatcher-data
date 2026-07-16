@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 4,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Iris (BW9 082)",
@@ -73,6 +73,31 @@
       "card": "Iris (BW9 082)",
       "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
       "seller": {
+        "name": "Metropolis-Center",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 349.99,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Since 1996 - TOP SERVICE",
+      "date": 1784033143.1068678,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784033143.1068678,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Iris (BW9 082)",
+      "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
+      "seller": {
         "name": "PokekaTCG",
         "country": "Item location: Germany"
       },
@@ -81,7 +106,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "real good. check image. extremly rare card",
-      "date": 1783396771.2991989,
+      "date": 1784033143.1068678,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -124,7 +149,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeve and top loader",
-      "date": 1783396771.2991989,
+      "date": 1784033143.1068678,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -201,18 +226,23 @@
       },
       "language": "Japanese",
       "price": 360.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "please check image",
-      "date": 1783396771.2991989,
-      "ended": false,
-      "new": false,
+      "date": 1783909447.115098,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783909447.115098
+        ]
+      ],
       "first_date": 1780849050.3976173,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -259,7 +289,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 4",
-      "date": 1783396771.2991989,
+      "date": 1784033143.1068678,
       "ended": false,
       "new": false,
       "previous_prices": [],

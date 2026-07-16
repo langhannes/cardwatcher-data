@@ -262,14 +262,19 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "PSA 4",
-      "date": 1783383000.793862,
-      "ended": false,
+      "date": 1783895684.7103963,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783895684.7103963
+        ]
+      ],
       "first_date": 1782083210.6355941,
       "last_date": 0.0,
       "price_is_new": false,
@@ -311,14 +316,19 @@
         "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 700.0,
+      "price": 650.0,
       "quantity": 1,
       "condition": "PO",
-      "comment": "PSA 1",
-      "date": 1783383000.793862,
+      "comment": "PSA 1!",
+      "date": 1784174479.4714856,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          700.0,
+          1783519323.2715902
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1781568320.8400116,
       "last_date": 0.0,
@@ -375,7 +385,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Front: GOOD/LP. Back: LP. I got more Rayquaza! I sell a lot of Japanese cards <3",
-      "date": 1783383000.793862,
+      "date": 1784174479.4714856,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -515,7 +525,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front very tiny scratch silver border bottom/back some whitening on edges",
-      "date": 1783383000.793862,
+      "date": 1784174479.4714856,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -543,7 +553,7 @@
       "previous_quantities": [],
       "first_date": 1778149803.2651796,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -561,7 +571,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "RAW EXC",
-      "date": 1783383000.793862,
+      "date": 1784174479.4714856,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -627,6 +637,31 @@
         ]
       ],
       "first_date": 1782352262.6276956,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza  (BW5t 055)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Rayquaza",
+      "seller": {
+        "name": "cocojambo1995",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "front mint back nm -",
+      "date": 1784174479.4714856,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783895684.7103963,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

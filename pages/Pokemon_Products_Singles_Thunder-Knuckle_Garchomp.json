@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
+  "available": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fotos auf Anfrage!",
-      "date": 1783401599.8703077,
+      "date": 1784048238.6048157,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -145,7 +145,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fotos auf Anfrage!",
-      "date": 1783401599.8703077,
+      "date": 1784048238.6048157,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -166,14 +166,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 499.99,
+      "price": 489.99,
       "quantity": 1,
       "condition": "EX",
       "comment": "Vint_Bros",
-      "date": 1783401599.8703077,
+      "date": 1784048238.6048157,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          499.99,
+          1783401599.8703077
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1781587466.4510567,
       "last_date": 0.0,
@@ -282,11 +287,11 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1783401599.8703077,
-      "ended": false,
+      "date": 1783538245.289655,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -302,6 +307,10 @@
         [
           0,
           1777325568.1042585
+        ],
+        [
+          1,
+          1783538245.289655
         ]
       ],
       "first_date": 1777222573.5057526,

@@ -3218,7 +3218,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783420471.7627392,
+      "date": 1784054685.8578858,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3253,7 +3253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAD 9.5 BECKETT",
-      "date": 1783420471.7627392,
+      "date": 1784054685.8578858,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3438,7 +3438,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783420471.7627392,
+      "date": 1784054685.8578858,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3467,7 +3467,7 @@
       ],
       "first_date": 1768160681.7323387,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3507,11 +3507,11 @@
       },
       "language": "English",
       "price": 3990.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10!",
       "date": 1783420471.7627392,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3519,10 +3519,40 @@
           1783321101.0214717
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783420471.7627392
+        ]
+      ],
       "first_date": 1782628330.2202766,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
+      "seller": {
+        "name": "Govotz1991",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 4500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa10",
+      "date": 1784054685.8578858,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783855716.4689515,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3591,7 +3621,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1783420471.7627392,
+      "date": 1784054685.8578858,
       "ended": false,
       "new": false,
       "previous_prices": [],

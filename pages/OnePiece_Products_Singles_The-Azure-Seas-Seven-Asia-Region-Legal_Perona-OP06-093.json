@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 16,
-  "sold": 2,
+  "available": 18,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -1020,7 +1020,7 @@
       "comment": "",
       "date": 1783321710.950549,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           65.66,
@@ -1080,7 +1080,7 @@
       "first_date": 1781350414.4888146,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2033,7 +2033,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photo",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2110,11 +2110,11 @@
       },
       "language": "Japanese",
       "price": 73.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1783420959.4568398,
-      "ended": false,
+      "date": 1783557169.8379436,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2122,7 +2122,12 @@
           1776204248.0549014
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783557169.8379436
+        ]
+      ],
       "first_date": 1775764142.0378683,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2407,7 +2412,7 @@
       "comment": "",
       "date": 1783321710.950549,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           78.5,
@@ -2423,7 +2428,7 @@
       "first_date": 1782628726.090836,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3181,7 +3186,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3265,7 +3270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FAST SHIPPING Store in Rome",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3363,7 +3368,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved/toploader",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3387,6 +3392,31 @@
         ]
       ],
       "first_date": 1771298092.2885454,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
+        "name": "anastasak0s",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784055320.8852308,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783856207.9031093,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3537,15 +3567,49 @@
       "card": "Perona (OP06-093)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
       "seller": {
+        "name": "danielmil27023",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 96.6,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784055320.8852308,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          96.71,
+          1783856207.9031093
+        ],
+        [
+          96.7,
+          1783931260.5373478
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783856207.9031093,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
         "name": "Pmon33yy",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 96.45,
+      "price": 96.62,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3720,6 +3784,22 @@
         [
           96.18,
           1783321710.950549
+        ],
+        [
+          96.45,
+          1783420959.4568398
+        ],
+        [
+          96.42,
+          1783557169.8379436
+        ],
+        [
+          96.72,
+          1783856207.9031093
+        ],
+        [
+          96.71,
+          1783931260.5373478
         ]
       ],
       "previous_quantities": [],
@@ -3841,7 +3921,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nano blanc bord dos",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3930,7 +4010,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3972,17 +4052,42 @@
       "card": "Perona (OP06-093)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
       "seller": {
+        "name": "Back2BackCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Mit Herz in ein neues Zuhause",
+      "date": 1784055320.8852308,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783856207.9031093,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
         "name": "Hansecollectibles",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 109.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783420959.4568398,
-      "ended": false,
-      "new": false,
+      "date": 1783931260.5373478,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           84.95,
@@ -3997,11 +4102,16 @@
           1782122800.436548
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783931260.5373478
+        ]
+      ],
       "first_date": 1768160716.8010132,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4014,11 +4124,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 120.0,
+      "price": 115.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4045,6 +4155,10 @@
         [
           71.99,
           1782391894.8904696
+        ],
+        [
+          120.0,
+          1783557169.8379436
         ]
       ],
       "previous_quantities": [
@@ -4077,6 +4191,31 @@
       "card": "Perona (OP06-093)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
       "seller": {
+        "name": "Cano612",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784055320.8852308,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783931260.5373478,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Perona (OP06-093)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Perona-OP06-093",
+      "seller": {
         "name": "fireTCGsales",
         "country": "Item location: Netherlands"
       },
@@ -4085,7 +4224,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4110,7 +4249,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Schneller Versand & sichere Verpackung",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4280,7 +4419,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4301,23 +4440,27 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 269.0,
+      "price": 249.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Prestine",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           299.0,
           1782811146.3863032
+        ],
+        [
+          269.0,
+          1783931260.5373478
         ]
       ],
       "previous_quantities": [],
       "first_date": 1782214376.3212206,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4331,14 +4474,19 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 269.0,
+      "price": 249.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          269.0,
+          1783856207.9031093
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1783151415.3791704,
       "last_date": 0.0,
@@ -4403,7 +4551,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783420959.4568398,
+      "date": 1784055320.8852308,
       "ended": false,
       "new": false,
       "previous_prices": [],

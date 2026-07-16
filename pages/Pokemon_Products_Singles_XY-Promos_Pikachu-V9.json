@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -1023,7 +1023,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 mint!",
-      "date": 1783375149.0538275,
+      "date": 1784145524.1171892,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1050,11 +1050,11 @@
       },
       "language": "Japanese",
       "price": 3600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - box #0001 HE T",
-      "date": 1783375149.0538275,
-      "ended": false,
+      "date": 1783635000.6744258,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1082,6 +1082,10 @@
         [
           0,
           1781739724.3917232
+        ],
+        [
+          1,
+          1783635000.6744258
         ]
       ],
       "first_date": 1777200396.663249,
@@ -1346,49 +1350,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1769977247.5603533,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu  (XY-P 090)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
-      "seller": {
-        "name": "PokeQueen96",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 7900.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1783375149.0538275,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3500.0,
-          1774994158.1898925
-        ],
-        [
-          3150.0,
-          1775166226.5244
-        ],
-        [
-          3500.0,
-          1775724710.8980722
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775724710.8980722
-        ]
-      ],
-      "first_date": 1765402395.378645,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1901,11 +1862,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 8416.53,
+      "price": 8452.5,
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1783375149.0538275,
+      "date": 1784145524.1171892,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1916,10 +1877,73 @@
         [
           8416.02,
           1783272677.4936264
+        ],
+        [
+          8416.53,
+          1783375149.0538275
+        ],
+        [
+          8437.22,
+          1783511323.206325
+        ],
+        [
+          8454.52,
+          1783635000.6744258
+        ],
+        [
+          8462.96,
+          1783989541.696152
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783106132.240399,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
+        "name": "PokeQueen96",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 8500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1784145524.1171892,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3500.0,
+          1774994158.1898925
+        ],
+        [
+          3150.0,
+          1775166226.5244
+        ],
+        [
+          3500.0,
+          1775724710.8980722
+        ],
+        [
+          7900.0,
+          1783989541.696152
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775724710.8980722
+        ]
+      ],
+      "first_date": 1765402395.378645,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -1970,15 +1994,53 @@
       "card": "Pikachu  (XY-P 090)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
       "seller": {
+        "name": "dazinol777",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 9000.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 + SLAB",
+      "date": 1779743891.172183,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777980302.2326102
+        ],
+        [
+          0,
+          1777980302.2326102
+        ],
+        [
+          1,
+          1779743891.172183
+        ]
+      ],
+      "first_date": 1775422030.3416367,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
         "name": "Danjayyy",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 9000.0,
+      "price": 10500.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 + acryl case",
-      "date": 1783375149.0538275,
+      "date": 1784145524.1171892,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2033,48 +2095,14 @@
         [
           9500.0,
           1782765594.1511316
+        ],
+        [
+          9000.0,
+          1783635000.6744258
         ]
       ],
       "previous_quantities": [],
       "first_date": 1755774006.9515474,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu  (XY-P 090)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
-      "seller": {
-        "name": "dazinol777",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 9000.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10 + SLAB",
-      "date": 1779743891.172183,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777980302.2326102
-        ],
-        [
-          0,
-          1777980302.2326102
-        ],
-        [
-          1,
-          1779743891.172183
-        ]
-      ],
-      "first_date": 1775422030.3416367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

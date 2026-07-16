@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 35,
-  "sold": 4,
-  "inserted": 1,
+  "available": 25,
+  "sold": 1,
+  "inserted": 3,
   "listings": [
     {
       "card": "Yamato (OP01-121)",
@@ -2895,7 +2895,7 @@
       "comment": "",
       "date": 1783351204.5695374,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           71.57,
@@ -2967,7 +2967,7 @@
       "first_date": 1780488144.6051307,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4445,14 +4445,19 @@
       },
       "language": "Japanese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783486450.1524837,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783486450.1524837
+        ]
+      ],
       "first_date": 1783117604.8006113,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5194,19 +5199,67 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
+        "name": "ocaba596",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783610359.3180487,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          85.0,
+          1783486450.1524837
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782507144.4675064
+        ],
+        [
+          0,
+          1782507144.4675064
+        ],
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
+      "first_date": 1782086577.1125288,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
         "name": "Daco015",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 80.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
       "first_date": 1782275975.8921263,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5224,14 +5277,19 @@
       },
       "language": "Japanese",
       "price": 80.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783486450.1524837,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783486450.1524837
+        ]
+      ],
       "first_date": 1781314286.43452,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5390,36 +5448,6 @@
         ]
       ],
       "first_date": 1774920592.4773562,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
-      "seller": {
-        "name": "eliav00",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 80.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1777990199.3050857,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777990199.3050857
-        ]
-      ],
-      "first_date": 1774215346.474859,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5717,11 +5745,11 @@
       },
       "language": "Japanese",
       "price": 82.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5732,6 +5760,10 @@
         [
           0,
           1781752530.9543557
+        ],
+        [
+          1,
+          1783610359.3180487
         ]
       ],
       "first_date": 1781314286.43452,
@@ -5801,53 +5833,24 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "ocaba596",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 85.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783486450.1524837,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782507144.4675064
-        ],
-        [
-          0,
-          1782507144.4675064
-        ]
-      ],
-      "first_date": 1782086577.1125288,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
-      "seller": {
         "name": "KrisNakama",
         "country": "Item location: Norway"
       },
       "language": "Japanese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Secure packaging - All cards NM",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
       "first_date": 1730791672.4248524,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6035,14 +6038,23 @@
       },
       "language": "Japanese",
       "price": 88.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "direct to sleeve",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1783486450.1524837
+        ],
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
       "first_date": 1783117604.8006113,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6060,14 +6072,19 @@
       },
       "language": "Japanese",
       "price": 88.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
       "first_date": 1781889505.284443,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6085,11 +6102,11 @@
       },
       "language": "Japanese",
       "price": 89.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Boosterfresh. Check all my cards. shipping every day",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -6108,6 +6125,10 @@
         [
           0,
           1780488144.6051307
+        ],
+        [
+          1,
+          1783610359.3180487
         ]
       ],
       "first_date": 1773328049.7698789,
@@ -6263,14 +6284,19 @@
       },
       "language": "Japanese",
       "price": 90.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Perfect card",
       "date": 1783486450.1524837,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783486450.1524837
+        ]
+      ],
       "first_date": 1783117604.8006113,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6435,6 +6461,70 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "Rik3rs",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve and Toploader",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783878594.4391265,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "eliav00",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          80.0,
+          1777990199.3050857
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777990199.3050857
+        ],
+        [
+          0,
+          1777990199.3050857
+        ]
+      ],
+      "first_date": 1774215346.474859,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6620,66 +6710,20 @@
       },
       "language": "Japanese",
       "price": 96.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "2 white dots",
-      "date": 1783486450.1524837,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780837710.0836825,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
-      "seller": {
-        "name": "Galactus-Roma",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 96.99,
       "quantity": 0,
       "condition": "NM",
-      "comment": "~#| Order more. save on shipping",
-      "date": 1780488144.6051307,
+      "comment": "2 white dots",
+      "date": 1783610359.3180487,
       "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          101.99,
-          1776649426.814182
-        ],
-        [
-          102.99,
-          1779133511.2134588
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
-          0,
-          1777212590.4921536
-        ],
-        [
           1,
-          1779133511.2134588
-        ],
-        [
-          0,
-          1779133511.2134588
-        ],
-        [
-          1,
-          1780488144.6051307
+          1783610359.3180487
         ]
       ],
-      "first_date": 1776649426.814182,
+      "first_date": 1780837710.0836825,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6699,7 +6743,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6755,16 +6799,41 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "ILFORZIEREDELMANA",
-        "country": "Item location: Italy"
+        "name": "dred71",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 99.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1783486450.1524837,
+      "comment": "",
+      "date": 1784158101.8202064,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783878594.4391265,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "ILFORZIEREDELMANA",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -6788,12 +6857,16 @@
         [
           0,
           1782777145.4774413
+        ],
+        [
+          1,
+          1783610359.3180487
         ]
       ],
       "first_date": 1730791672.4248524,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6895,114 +6968,16 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.78,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783486450.1524837,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          179.99,
-          1770751449.8806837
-        ],
-        [
-          119.89,
-          1774618391.292168
-        ],
-        [
-          99.88,
-          1777903328.7417552
-        ],
-        [
-          99.78,
-          1778357029.4355419
-        ],
-        [
-          99.88,
-          1778871667.0211966
-        ],
-        [
-          99.98,
-          1779283074.3854911
-        ],
-        [
-          99.82,
-          1779587401.3377972
-        ],
-        [
-          99.98,
-          1780052748.5089157
-        ],
-        [
-          99.47,
-          1780488144.6051307
-        ],
-        [
-          99.78,
-          1780944604.8679652
-        ],
-        [
-          99.47,
-          1781571779.4503393
-        ],
-        [
-          98.99,
-          1781655906.8850267
-        ],
-        [
-          99.47,
-          1781889505.284443
-        ],
-        [
-          99.78,
-          1782356055.478613
-        ],
-        [
-          99.47,
-          1782507144.4675064
-        ],
-        [
-          89.52,
-          1782592667.180754
-        ],
-        [
-          80.57,
-          1782679513.6341069
-        ],
-        [
-          79.98,
-          1782777145.4774413
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769588067.8977273,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
-      "seller": {
         "name": "Ionocast-Shop",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 99.79,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Weißer Binder - 6",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7010,7 +6985,12 @@
           1769498372.3355758
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783610359.3180487
+        ]
+      ],
       "first_date": 1769498372.3355758,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7094,40 +7074,6 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "MagicLizard",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1783486450.1524837,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778718892.9273746
-        ],
-        [
-          0,
-          1778718892.9273746
-        ]
-      ],
-      "first_date": 1770989147.705661,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
-      "seller": {
         "name": "ZurisShop",
         "country": "Item location: Germany"
       },
@@ -7136,7 +7082,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More Singles. Local Store Wuppertal",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7170,7 +7116,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7263,12 +7209,62 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New store legnano",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782086577.1125288,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "IGotNoGems",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784002623.780108,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "Accia96",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782507144.4675064,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7288,7 +7284,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for picture",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7310,20 +7306,25 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "Accia96",
-        "country": "Item location: Italy"
+        "name": "Slaggs",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 100.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783486450.1524837,
+      "comment": "Für weitere Fotos gerne melden",
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          120.0,
+          1783117604.8006113
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1782507144.4675064,
+      "first_date": 1769588067.8977273,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7335,25 +7336,25 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
-        "name": "Slaggs",
-        "country": "Item location: Germany"
+        "name": "IlanAujaud",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Für weitere Fotos gerne melden",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "comment": "Sleeve + Toploader + International Shipping",
+      "date": 1783878594.4391265,
+      "ended": true,
       "new": false,
-      "previous_prices": [
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          120.0,
-          1783117604.8006113
+          1,
+          1783878594.4391265
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1769588067.8977273,
+      "first_date": 1783878594.4391265,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7559,6 +7560,31 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
+        "name": "MirageTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "X",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783878594.4391265,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
         "name": "Cookfyzz",
         "country": "Item location: France"
       },
@@ -7594,6 +7620,65 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "Galactus-Roma",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 108.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ~#| Order more. save on shipping",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          101.99,
+          1776649426.814182
+        ],
+        [
+          102.99,
+          1779133511.2134588
+        ],
+        [
+          96.99,
+          1780488144.6051307
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1777212590.4921536
+        ],
+        [
+          1,
+          1779133511.2134588
+        ],
+        [
+          0,
+          1779133511.2134588
+        ],
+        [
+          1,
+          1780488144.6051307
+        ],
+        [
+          0,
+          1780488144.6051307
+        ]
+      ],
+      "first_date": 1776649426.814182,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7703,7 +7788,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7785,6 +7870,45 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
       "seller": {
+        "name": "MagicLizard",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 114.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "^_^ Experience and Passion at your Service ^_^",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          99.99,
+          1783610359.3180487
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778718892.9273746
+        ],
+        [
+          0,
+          1778718892.9273746
+        ]
+      ],
+      "first_date": 1770989147.705661,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
         "name": "cardlogia",
         "country": "Item location: Netherlands"
       },
@@ -7849,12 +7973,12 @@
       },
       "language": "Japanese",
       "price": 119.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783351204.5695374,
-      "ended": true,
-      "new": true,
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           99.95,
@@ -7893,12 +8017,16 @@
         [
           1,
           1783351204.5695374
+        ],
+        [
+          0,
+          1783351204.5695374
         ]
       ],
       "first_date": 1769342881.9360943,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7915,7 +8043,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sleeved - Toploader - Fast Secured ShiP",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8038,12 +8166,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "** Mint. Fresly oppened **",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769498372.3355758,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "Dustin3110",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 125.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783878594.4391265,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8063,7 +8216,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8134,7 +8287,7 @@
       "comment": "AOG 10",
       "date": 1783351204.5695374,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8145,7 +8298,7 @@
       "first_date": 1768771225.654173,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9373,23 +9526,27 @@
       },
       "language": "Japanese",
       "price": 199.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "[GRAAD 10.0]",
-      "date": 1783351204.5695374,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! [GRAAD 10.0]",
+      "date": 1784158101.8202064,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1783351204.5695374
+        ],
+        [
+          0,
           1783351204.5695374
         ]
       ],
       "first_date": 1783117604.8006113,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9500,7 +9657,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9532,14 +9689,19 @@
       },
       "language": "Japanese",
       "price": 244.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 READY TO SHIP",
-      "date": 1783486450.1524837,
-      "ended": false,
+      "date": 1783878594.4391265,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783878594.4391265
+        ]
+      ],
       "first_date": 1782777145.4774413,
       "last_date": 0.0,
       "price_is_new": false,
@@ -9590,8 +9752,115 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          179.99,
+          1770751449.8806837
+        ],
+        [
+          119.89,
+          1774618391.292168
+        ],
+        [
+          99.88,
+          1777903328.7417552
+        ],
+        [
+          99.78,
+          1778357029.4355419
+        ],
+        [
+          99.88,
+          1778871667.0211966
+        ],
+        [
+          99.98,
+          1779283074.3854911
+        ],
+        [
+          99.82,
+          1779587401.3377972
+        ],
+        [
+          99.98,
+          1780052748.5089157
+        ],
+        [
+          99.47,
+          1780488144.6051307
+        ],
+        [
+          99.78,
+          1780944604.8679652
+        ],
+        [
+          99.47,
+          1781571779.4503393
+        ],
+        [
+          98.99,
+          1781655906.8850267
+        ],
+        [
+          99.47,
+          1781889505.284443
+        ],
+        [
+          99.78,
+          1782356055.478613
+        ],
+        [
+          99.47,
+          1782507144.4675064
+        ],
+        [
+          89.52,
+          1782592667.180754
+        ],
+        [
+          80.57,
+          1782679513.6341069
+        ],
+        [
+          79.98,
+          1782777145.4774413
+        ],
+        [
+          99.78,
+          1783610359.3180487
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1783610359.3180487
+        ]
+      ],
+      "first_date": 1769588067.8977273,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Yamato-OP01-121",
+      "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 249.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "[PSA 10.0]",
+      "date": 1783610359.3180487,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9607,6 +9876,10 @@
         [
           2,
           1782178156.844479
+        ],
+        [
+          1,
+          1783610359.3180487
         ]
       ],
       "first_date": 1770826113.2536108,
@@ -9659,7 +9932,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9681,18 +9954,23 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 109973967",
-      "date": 1783486450.1524837,
-      "ended": false,
-      "new": false,
+      "date": 1784002623.780108,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784002623.780108
+        ]
+      ],
       "first_date": 1780263266.2679129,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9709,7 +9987,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1783486450.1524837,
+      "date": 1784158101.8202064,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,7 +10,7 @@
   "only_germany": "False",
   "available": 11,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Nami (OP01-016) (V.3)",
@@ -2196,11 +2196,11 @@
       },
       "language": "S-Chinese",
       "price": 2699.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Little white dot on top on the back. Number 3851",
       "date": 1783491399.2271821,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2208,10 +2208,15 @@
           1783356653.623875
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783491399.2271821
+        ]
+      ],
       "first_date": 1783356653.623875,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2518,61 +2523,6 @@
         ]
       ],
       "first_date": 1783174729.2340438,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
-      "seller": {
-        "name": "Drossrex",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 3000.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! PGS 9",
-      "date": 1782541722.376019,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          2500.0,
-          1770297107.8399339
-        ],
-        [
-          2400.0,
-          1770930000.7840667
-        ],
-        [
-          1900.0,
-          1774633979.1651697
-        ],
-        [
-          1800.0,
-          1775811161.5500188
-        ],
-        [
-          1900.0,
-          1776962767.1859272
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776962767.1859272
-        ],
-        [
-          1,
-          1782541722.376019
-        ]
-      ],
-      "first_date": 1770202229.1719217,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2952,7 +2902,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 - slab has small crack at front - message me for more pictures",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3390,7 +3340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3398,6 +3348,73 @@
       "first_date": 1783356653.623875,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
+      "seller": {
+        "name": "Drossrex",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 4300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PGS 9",
+      "date": 1784163056.4868188,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2500.0,
+          1770297107.8399339
+        ],
+        [
+          2400.0,
+          1770930000.7840667
+        ],
+        [
+          1900.0,
+          1774633979.1651697
+        ],
+        [
+          1800.0,
+          1775811161.5500188
+        ],
+        [
+          1900.0,
+          1776962767.1859272
+        ],
+        [
+          3000.0,
+          1782541722.376019
+        ],
+        [
+          3300.0,
+          1784007599.0617502
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776962767.1859272
+        ],
+        [
+          1,
+          1782541722.376019
+        ],
+        [
+          0,
+          1782541722.376019
+        ]
+      ],
+      "first_date": 1770202229.1719217,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3701,7 +3718,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9 - Fast Secured Shipping",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3712,6 +3729,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1781352551.0525742,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
+      "seller": {
+        "name": "Mimmiie",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 6500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "psa10",
+      "date": 1784163056.4868188,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783883711.9246953,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3817,55 +3859,12 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782216476.518193,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Nami (OP01-016) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
-      "seller": {
-        "name": "UltraCardDispenser",
-        "country": "Item location: Netherlands"
-      },
-      "language": "S-Chinese",
-      "price": 7000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Psa10",
-      "date": 1783491399.2271821,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          4900.0,
-          1780875405.1600392
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780875405.1600392
-        ],
-        [
-          0,
-          1780875405.1600392
-        ],
-        [
-          2,
-          1781352551.0525742
-        ]
-      ],
-      "first_date": 1780875405.1600392,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3885,7 +3884,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3915,15 +3914,62 @@
       "card": "Nami (OP01-016) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
       "seller": {
+        "name": "UltraCardDispenser",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 7000.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Psa10",
+      "date": 1783491399.2271821,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          4900.0,
+          1780875405.1600392
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780875405.1600392
+        ],
+        [
+          0,
+          1780875405.1600392
+        ],
+        [
+          2,
+          1781352551.0525742
+        ],
+        [
+          1,
+          1783491399.2271821
+        ]
+      ],
+      "first_date": 1780875405.1600392,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
+      "seller": {
         "name": "darkarmy",
         "country": "Item location: United Kingdom"
       },
       "language": "S-Chinese",
-      "price": 7231.9,
+      "price": 7291.17,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - DM for photos",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3950,6 +3996,22 @@
         [
           7214.17,
           1783356653.623875
+        ],
+        [
+          7231.9,
+          1783491399.2271821
+        ],
+        [
+          7246.73,
+          1783615044.34298
+        ],
+        [
+          7254.83,
+          1783883711.9246953
+        ],
+        [
+          7246.73,
+          1784007599.0617502
         ]
       ],
       "previous_quantities": [
@@ -3978,7 +4040,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Differenzbesteuert - PSA10 - Fast Secured Shipping",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4038,7 +4100,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Serial card ~0500",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4203,7 +4265,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#1096",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4243,11 +4305,11 @@
       },
       "language": "S-Chinese",
       "price": 25000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Sequential psa10 including red nami (without blue nami)",
       "date": 1783491399.2271821,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4255,7 +4317,12 @@
           1781352551.0525742
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783491399.2271821
+        ]
+      ],
       "first_date": 1781352551.0525742,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4272,24 +4339,33 @@
         "country": "Item location: Switzerland"
       },
       "language": "S-Chinese",
-      "price": 28999.0,
-      "quantity": 0,
+      "price": 25999.0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "Sequential PSA 10 Set. Full Set including Box. Extras and brown Box (no blue nami)",
-      "date": 1782216476.518193,
-      "ended": true,
+      "comment": "RELISTED! Sequential PSA 10 Set. Full Set including Box. Extras and brown Box (no blue nami)",
+      "date": 1784163056.4868188,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          28999.0,
+          1782216476.518193
+        ]
+      ],
       "previous_quantities": [
         [
           1,
+          1782216476.518193
+        ],
+        [
+          0,
           1782216476.518193
         ]
       ],
       "first_date": 1781927824.9170046,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true
@@ -4306,7 +4382,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Insta tyzeftcg in Paris All others 1 st anniversary  in stock psa10 Shop on Vinted also : tyzeftcg",
-      "date": 1783491399.2271821,
+      "date": 1784163056.4868188,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 22,
-  "sold": 1,
+  "available": 23,
+  "sold": 0,
   "inserted": 1,
   "listings": [
     {
@@ -358,7 +358,7 @@
       "comment": "",
       "date": 1783293330.5881104,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           47.57,
@@ -438,7 +438,7 @@
       "first_date": 1780350216.9511166,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -503,11 +503,11 @@
       },
       "language": "Japanese",
       "price": 48.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster --> Sleeve --> Toploader",
       "date": 1783393404.148862,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -523,12 +523,16 @@
         [
           2,
           1783293330.5881104
+        ],
+        [
+          1,
+          1783393404.148862
         ]
       ],
       "first_date": 1781399395.5346174,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -703,7 +707,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -725,11 +729,11 @@
       },
       "language": "Japanese",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Sleeve+Toploader// Fast shipping",
       "date": 1783393404.148862,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -740,12 +744,16 @@
         [
           0,
           1783124909.993827
+        ],
+        [
+          1,
+          1783393404.148862
         ]
       ],
       "first_date": 1779768958.8042045,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1660,7 +1668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1672,6 +1680,14 @@
         [
           0,
           1782600318.2545524
+        ],
+        [
+          1,
+          1783651938.8006241
+        ],
+        [
+          0,
+          1783651938.8006241
         ]
       ],
       "first_date": 1781322488.504719,
@@ -1686,54 +1702,20 @@
       "card": "Sugar (OP10-065)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
       "seller": {
-        "name": "CardEmpireHU",
-        "country": "Item location: Hungary"
+        "name": "RetroGameCollectorBE",
+        "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 58.17,
+      "price": 58.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Store in Budapest. Buy and Sell Cards",
-      "date": 1783393404.148862,
+      "comment": "",
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1779141010.775316
-        ],
-        [
-          59.94,
-          1781491457.379428
-        ],
-        [
-          58.17,
-          1781664094.3166783
-        ],
-        [
-          57.98,
-          1781897472.8507912
-        ],
-        [
-          58.17,
-          1782186127.139695
-        ],
-        [
-          57.98,
-          1782363912.6198206
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778093827.9762938
-        ],
-        [
-          0,
-          1778093827.9762938
-        ]
-      ],
-      "first_date": 1775872348.6031601,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783906178.4252667,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1753,7 +1735,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "V2. More Cards on Stock",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1796,7 +1778,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1827,11 +1809,11 @@
       },
       "language": "Japanese",
       "price": 59.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Toploader - Perfect condition",
-      "date": 1783393404.148862,
-      "ended": false,
+      "date": 1783651938.8006241,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1843,7 +1825,12 @@
           1780845988.6703956
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783651938.8006241
+        ]
+      ],
       "first_date": 1773245936.3862605,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1970,11 +1957,11 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "A1 SP",
-      "date": 1782785007.001046,
-      "ended": true,
+      "comment": "RELISTED! A1 SP",
+      "date": 1784184382.5332425,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1994,12 +1981,16 @@
         [
           1,
           1782785007.001046
+        ],
+        [
+          0,
+          1782785007.001046
         ]
       ],
       "first_date": 1772675100.5061834,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2042,6 +2033,31 @@
       "card": "Sugar (OP10-065)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
       "seller": {
+        "name": "ImperiumGamesLatina",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784184382.5332425,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783529747.817804,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sugar (OP10-065)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
+      "seller": {
         "name": "Supernacho",
         "country": "Item location: Spain"
       },
@@ -2050,7 +2066,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Top loader and sealed. Fast shipping",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2384,6 +2400,69 @@
       "card": "Sugar (OP10-065)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
       "seller": {
+        "name": "CardEmpireHU",
+        "country": "Item location: Hungary"
+      },
+      "language": "Japanese",
+      "price": 67.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Store in Budapest. Buy and Sell Cards",
+      "date": 1784184382.5332425,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1779141010.775316
+        ],
+        [
+          59.94,
+          1781491457.379428
+        ],
+        [
+          58.17,
+          1781664094.3166783
+        ],
+        [
+          57.98,
+          1781897472.8507912
+        ],
+        [
+          58.17,
+          1782186127.139695
+        ],
+        [
+          57.98,
+          1782363912.6198206
+        ],
+        [
+          58.17,
+          1783906178.4252667
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778093827.9762938
+        ],
+        [
+          0,
+          1778093827.9762938
+        ]
+      ],
+      "first_date": 1775872348.6031601,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sugar (OP10-065)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
+      "seller": {
         "name": "Ace77",
         "country": "Item location: Germany"
       },
@@ -2417,7 +2496,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2736,6 +2815,44 @@
       "card": "Sugar (OP10-065)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
       "seller": {
+        "name": "DarkSphere",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 72.92,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784184382.5332425,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          72.5,
+          1783651938.8006241
+        ],
+        [
+          72.54,
+          1783906178.4252667
+        ],
+        [
+          72.47,
+          1784029797.6683123
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783651677.5622678,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sugar (OP10-065)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sugar-OP10-065",
+      "seller": {
         "name": "FunComics",
         "country": "Item location: Italy"
       },
@@ -2886,7 +3003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2933,7 +3050,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Zuris-Shop Wuppertal",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2972,7 +3089,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2997,7 +3114,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3022,7 +3139,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3072,7 +3189,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New store legnano",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3097,7 +3214,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PERFECT CONDITION !",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3261,7 +3378,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 Pristine. fast and safe shipping",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3286,7 +3403,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ai Grading 10",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3316,11 +3433,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 10",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783529747.817804
+        ],
+        [
+          0,
+          1783529747.817804
+        ]
+      ],
       "first_date": 1781579956.3558252,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3488,11 +3614,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 385.82,
+      "price": 388.87,
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.5] Message to discuss price! Fast Shipping!",
-      "date": 1783393404.148862,
+      "date": 1784184382.5332425,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3535,6 +3661,26 @@
         [
           384.74,
           1783293330.5881104
+        ],
+        [
+          385.82,
+          1783393404.148862
+        ],
+        [
+          385.71,
+          1783529747.817804
+        ],
+        [
+          386.66,
+          1783651938.8006241
+        ],
+        [
+          386.88,
+          1783906178.4252667
+        ],
+        [
+          386.5,
+          1784029797.6683123
         ]
       ],
       "previous_quantities": [],

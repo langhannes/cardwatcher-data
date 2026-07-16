@@ -10,7 +10,7 @@
   ],
   "only_germany": false,
   "available": 35,
-  "sold": 1,
+  "sold": 2,
   "inserted": 2,
   "listings": [
     {
@@ -24,16 +24,63 @@
       "price": 15.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "S-Chinese Variant. No Stamp",
-      "date": 1783494795.5553956,
+      "comment": "RELISTED! S-Chinese Variant. No Stamp",
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783886871.1531093
+        ],
+        [
+          0,
+          1783886871.1531093
+        ]
+      ],
       "first_date": 1782647386.2314434,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "O-Nami (OP05-062) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
+      "seller": {
+        "name": "Bramssou",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! sleeve==>top loader",
+      "date": 1784010647.527182,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783618465.7821777
+        ],
+        [
+          0,
+          1783618465.7821777
+        ],
+        [
+          1,
+          1784010647.527182
+        ]
+      ],
+      "first_date": 1783618058.0646865,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -52,7 +99,7 @@
       "comment": "RELISTED! | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
       "date": 1783360155.9060733,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           169.95,
@@ -71,40 +118,6 @@
         [
           1,
           1783360155.9060733
-        ]
-      ],
-      "first_date": 1782647386.2314434,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "O-Nami (OP05-062) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
-      "seller": {
-        "name": "Mafede84",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 160.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Slevee + Toploader",
-      "date": 1783494795.5553956,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782835382.131667
-        ],
-        [
-          0,
-          1782835382.131667
         ]
       ],
       "first_date": 1782647386.2314434,
@@ -149,18 +162,27 @@
       "card": "O-Nami (OP05-062) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
       "seller": {
-        "name": "sancur",
-        "country": "Item location: France"
+        "name": "Mafede84",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 170.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeve + Toploader",
-      "date": 1783494795.5553956,
+      "comment": "Slevee + Toploader",
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          160.0,
+          1783494795.5553956
+        ],
+        [
+          165.0,
+          1783618465.7821777
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -169,12 +191,50 @@
         [
           0,
           1782835382.131667
+        ],
+        [
+          1,
+          1783618465.7821777
+        ],
+        [
+          0,
+          1783618465.7821777
         ]
       ],
       "first_date": 1782647386.2314434,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "O-Nami (OP05-062) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
+      "seller": {
+        "name": "KaiDo98",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 175.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784010647.527182,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784010647.527182
+        ]
+      ],
+      "first_date": 1784010647.527182,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -191,7 +251,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -225,7 +285,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sleeve + Toploader",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -250,7 +310,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -280,7 +340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for picture",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -319,7 +379,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -344,7 +404,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "super clean. perfect for grading",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -375,6 +435,31 @@
       "card": "O-Nami (OP05-062) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
       "seller": {
+        "name": "ZombieGamesCafe",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 188.36,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784166062.9198048,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784166062.9198048,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "O-Nami (OP05-062) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
+      "seller": {
         "name": "Kezzari",
         "country": "Item location: France"
       },
@@ -383,11 +468,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SUPER CLEAN",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1782647386.2314434,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "O-Nami (OP05-062) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
+      "seller": {
+        "name": "sancur",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve + Toploader",
+      "date": 1784166062.9198048,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          1783618465.7821777
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782835382.131667
+        ],
+        [
+          0,
+          1782835382.131667
+        ]
+      ],
       "first_date": 1782647386.2314434,
       "last_date": 0.0,
       "price_is_new": false,
@@ -408,7 +532,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -433,7 +557,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "bgs 9.5",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -458,9 +582,9 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed possible - Fast & Safe Shipment",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783494795.5553956,
@@ -483,7 +607,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "set of 3",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -508,32 +632,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "9 SET COMPLETI DISPONIBILI. PREZZO PER IL SET COMPLETO",
-      "date": 1783494795.5553956,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782647386.2314434,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "O-Nami (OP05-062) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
-      "seller": {
-        "name": "yamal84",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "All 3 cards sealed ! 95% Nami is psa10. Price for all 3 card",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -554,16 +653,51 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 898.89,
-      "quantity": 4,
+      "price": 798.89,
+      "quantity": 3,
       "condition": "NM",
       "comment": "Sealed Pack with all 3 Stamped Promos - Fast & Safe Shipment",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
-      "new": true,
+      "new": false,
+      "previous_prices": [
+        [
+          898.89,
+          1783494795.5553956
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1783618465.7821777
+        ]
+      ],
+      "first_date": 1783494795.5553956,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "O-Nami (OP05-062) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_O-Nami-OP05-062-V1",
+      "seller": {
+        "name": "yamal84",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "All 3 cards sealed ! 95% Nami is psa10. Price for all 3 card",
+      "date": 1784166062.9198048,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783494795.5553956,
+      "first_date": 1782647386.2314434,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -583,7 +717,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 PRISTINE",
-      "date": 1783494795.5553956,
+      "date": 1784166062.9198048,
       "ended": false,
       "new": false,
       "previous_prices": [],

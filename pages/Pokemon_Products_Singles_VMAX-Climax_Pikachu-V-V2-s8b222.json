@@ -12,7 +12,7 @@
     "Thai"
   ],
   "only_germany": false,
-  "available": 33,
+  "available": 34,
   "sold": 0,
   "inserted": 1,
   "listings": [
@@ -215,7 +215,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Sleeve-Toploader 2 Printlines",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -314,11 +314,11 @@
       },
       "language": "Japanese",
       "price": 77.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve + Toploader. 2 Printlines vorhanden",
-      "date": 1783419437.1756823,
-      "ended": false,
+      "date": 1783555676.0180933,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -329,6 +329,10 @@
         [
           0,
           1781854187.8243742
+        ],
+        [
+          1,
+          1783555676.0180933
         ]
       ],
       "first_date": 1778385529.950931,
@@ -889,7 +893,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pictures at request",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -974,7 +978,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1139,14 +1143,19 @@
       },
       "language": "Japanese",
       "price": 104.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1783419437.1756823,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783419437.1756823
+        ]
+      ],
       "first_date": 1781606247.9727576,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1167,7 +1176,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1206,46 +1215,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check other cards available!",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783320109.5918052,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu V  (s8b 222)",
-      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
-      "seller": {
-        "name": "PeppiCollect",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 109.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "ws",
-      "date": 1783419437.1756823,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          119.95,
-          1782212795.1057894
-        ],
-        [
-          114.95,
-          1782314595.2958403
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781712914.0070548,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1265,7 +1240,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1283,6 +1258,155 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "PeppiCollect",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 109.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "ws",
+      "date": 1783555676.0180933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          119.95,
+          1782212795.1057894
+        ],
+        [
+          114.95,
+          1782314595.2958403
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783555676.0180933
+        ]
+      ],
+      "first_date": 1781712914.0070548,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "BacRoms",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PCA 9.5 pm for pictures",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1782538845.02139
+        ],
+        [
+          135.0,
+          1783320109.5918052
+        ],
+        [
+          120.0,
+          1783673779.9738085
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781924138.0355613
+        ],
+        [
+          0,
+          1781924138.0355613
+        ]
+      ],
+      "first_date": 1781517732.5961533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "BKollector",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! ACE 9 // Ask for photo",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1780092013.4673727
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780092013.4673727
+        ],
+        [
+          0,
+          1780092013.4673727
+        ],
+        [
+          1,
+          1780521885.5570061
+        ],
+        [
+          0,
+          1780521885.5570061
+        ],
+        [
+          1,
+          1782809775.4410646
+        ],
+        [
+          0,
+          1782809775.4410646
+        ],
+        [
+          1,
+          1783673779.9738085
+        ],
+        [
+          0,
+          1783673779.9738085
+        ]
+      ],
+      "first_date": 1779720063.9682984,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1321,57 +1445,6 @@
       "card": "Pikachu V  (s8b 222)",
       "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
       "seller": {
-        "name": "BKollector",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "ACE 9 // Ask for photo",
-      "date": 1782809775.4410646,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          100.0,
-          1780092013.4673727
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780092013.4673727
-        ],
-        [
-          0,
-          1780092013.4673727
-        ],
-        [
-          1,
-          1780521885.5570061
-        ],
-        [
-          0,
-          1780521885.5570061
-        ],
-        [
-          1,
-          1782809775.4410646
-        ]
-      ],
-      "first_date": 1779720063.9682984,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu V  (s8b 222)",
-      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
-      "seller": {
         "name": "Nerdzentrale-KA",
         "country": "Item location: Germany"
       },
@@ -1380,7 +1453,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1405,7 +1478,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1413,49 +1486,6 @@
       "first_date": 1782809775.4410646,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu V  (s8b 222)",
-      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
-      "seller": {
-        "name": "BacRoms",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 120.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PCA 9.5 pm for pictures",
-      "date": 1783419437.1756823,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1782538845.02139
-        ],
-        [
-          135.0,
-          1783320109.5918052
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781924138.0355613
-        ],
-        [
-          0,
-          1781924138.0355613
-        ]
-      ],
-      "first_date": 1781517732.5961533,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1576,7 +1606,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 9 (Sleeve + Toploader) ask for pictures",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1648,12 +1678,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "G5503 -DM for shipping discounts outside NL-",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781924138.0355613,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "Lando-TCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 137.5,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast Shipping",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783921381.0454934,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1695,6 +1750,66 @@
       "card": "Pikachu V  (s8b 222)",
       "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
       "seller": {
+        "name": "DinoHut",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 159.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.95,
+          1783921381.0454934
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783555676.0180933,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "DinoHut",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 159.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.95,
+          1783921381.0454934
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783673779.9738085,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
         "name": "Twisztar",
         "country": "Item location: Germany"
       },
@@ -1703,7 +1818,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to Toploader",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1737,7 +1852,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "NM Thousands of Japanese Holo's and Bulk! Old + Modern!",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1771,7 +1886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 9",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1810,7 +1925,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCA 9.5",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1835,12 +1950,46 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "OFFCIAL PSA 9",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783419437.1756823
+        ],
+        [
+          0,
+          1783419437.1756823
+        ]
+      ],
+      "first_date": 1782538845.02139,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "Dani97441",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 220.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782538845.02139,
+      "first_date": 1783555676.0180933,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1857,11 +2006,11 @@
       },
       "language": "Japanese",
       "price": 229.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1782809775.4410646,
-      "ended": true,
+      "date": 1784045340.609397,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1872,6 +2021,10 @@
       "previous_quantities": [
         [
           1,
+          1782809775.4410646
+        ],
+        [
+          0,
           1782809775.4410646
         ]
       ],
@@ -1892,14 +2045,19 @@
       },
       "language": "Japanese",
       "price": 229.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1783419437.1756823,
-      "ended": false,
+      "date": 1783555676.0180933,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783555676.0180933
+        ]
+      ],
       "first_date": 1782313775.2703304,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1920,7 +2078,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1953,8 +2111,8 @@
       "price": 249.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! [BGS 9.0]",
-      "date": 1783419437.1756823,
+      "comment": "[BGS 9.0]",
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1984,7 +2142,7 @@
       "first_date": 1777581580.9941392,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2001,7 +2159,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster fresh box 7",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2044,7 +2202,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2091,7 +2249,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ordner TPL-01",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2130,7 +2288,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10 Gem Mint **New here. check my store on Instagram @teampocketstore**",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2166,14 +2324,19 @@
       },
       "language": "Japanese",
       "price": 329.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "LOTS OF SLABS / PSA 10 / NO PICTURES!",
       "date": 1783419437.1756823,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783419437.1756823
+        ]
+      ],
       "first_date": 1782212795.1057894,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2257,7 +2420,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC PRISTINE 10 - BIG SALE NO OFFERS",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2343,31 +2506,6 @@
       "card": "Pikachu V  (s8b 222)",
       "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
       "seller": {
-        "name": "4n7ar3s",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 399.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 (GRADED)",
-      "date": 1783419437.1756823,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779720063.9682984,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu V  (s8b 222)",
-      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
-      "seller": {
         "name": "CHellaStore",
         "country": "Item location: Germany"
       },
@@ -2406,7 +2544,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2431,7 +2569,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 - available Pikachu VMAX as well",
-      "date": 1783419437.1756823,
+      "date": 1784045340.609397,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2475,6 +2613,36 @@
         ]
       ],
       "first_date": 1777581580.9941392,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu V  (s8b 222)",
+      "canonical_name": "Pokemon_Products_Singles_VMAX-Climax_Pikachu-V-V2-s8b222",
+      "seller": {
+        "name": "4n7ar3s",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 499.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 (GRADED)",
+      "date": 1784045340.609397,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.0,
+          1783673779.9738085
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779720063.9682984,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

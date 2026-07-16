@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -23,14 +23,19 @@
       },
       "language": "Japanese",
       "price": 258.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "PL-",
-      "date": 1783436634.5288801,
-      "ended": false,
+      "date": 1783574852.5636768,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1783574852.5636768
+        ]
+      ],
       "first_date": 1769113020.293601,
       "last_date": 0.0,
       "price_is_new": false,
@@ -76,7 +81,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "GD-LP Check Image. soft scratch on back",
-      "date": 1783436634.5288801,
+      "date": 1784153998.3833222,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -123,7 +128,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "one damaged corner EX-GD 1",
-      "date": 1783436634.5288801,
+      "date": 1784153998.3833222,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -166,7 +171,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Cheap fast reliable shippin",
-      "date": 1783436634.5288801,
+      "date": 1784153998.3833222,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -241,7 +246,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Check Image",
-      "date": 1783436634.5288801,
+      "date": 1784153998.3833222,
       "ended": false,
       "new": false,
       "previous_prices": [
