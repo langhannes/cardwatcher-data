@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
-  "sold": 0,
+  "available": 9,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -69,7 +69,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Check Image!",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -298,7 +298,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -362,7 +362,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "TCG Shop in Finland - Ask for more cards",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -387,7 +387,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "ask for pics before buy. i show you all details",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -547,7 +547,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for more pictures if needed! :) Top loader included.",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -615,7 +615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -675,11 +675,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1026.63,
+      "price": 1030.73,
       "quantity": 1,
       "condition": "NM",
       "comment": "Can send more pics if needed",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1110,6 +1110,14 @@
         [
           1027.65,
           1783913179.7146246
+        ],
+        [
+          1026.63,
+          1784036861.976689
+        ],
+        [
+          1032.92,
+          1784191073.6328351
         ]
       ],
       "previous_quantities": [],
@@ -1158,7 +1166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784036861.976689,
+      "date": 1784294525.4366236,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1235,12 +1243,12 @@
       },
       "language": "Japanese",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - Brand New",
-      "date": 1784036861.976689,
-      "ended": false,
-      "new": false,
+      "date": 1784191073.6328351,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1000.0,
@@ -1259,12 +1267,16 @@
         [
           0,
           1780369533.3099186
+        ],
+        [
+          1,
+          1784191073.6328351
         ]
       ],
       "first_date": 1761774327.1882043,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

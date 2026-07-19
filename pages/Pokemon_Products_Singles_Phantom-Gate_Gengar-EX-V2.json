@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 6,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Gengar EX  (XY4 090)",
@@ -614,7 +614,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "LP+; Good-",
-      "date": 1784052055.372082,
+      "date": 1784308465.5973215,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -644,7 +644,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ask for photos",
-      "date": 1784052055.372082,
+      "date": 1784308465.5973215,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -799,7 +799,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "cl",
-      "date": 1784052055.372082,
+      "date": 1784308465.5973215,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -859,11 +859,11 @@
       },
       "language": "Japanese",
       "price": 1499.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "A1-014. send in toploader",
       "date": 1784052055.372082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -879,6 +879,10 @@
         [
           0,
           1778808690.1414258
+        ],
+        [
+          1,
+          1784052055.372082
         ]
       ],
       "first_date": 1778101724.9495728,
@@ -956,7 +960,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1784052055.372082,
+      "date": 1784308465.5973215,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -996,6 +1000,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "itze4",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2499.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784308465.5973215,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784206041.2710843,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -1135,6 +1164,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1761774353.8732572,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gengar EX  (XY4 090)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V2",
+      "seller": {
+        "name": "PokemonFr75",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 10100.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
+      "date": 1784308465.5973215,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784308465.5973215,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 10,
-  "sold": 2,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "nm with small bent",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -85,7 +85,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -110,7 +110,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeved + Toploader /Ask for Pic",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -144,7 +144,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "NM/EX Dent in back with right angle",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -176,7 +176,7 @@
       "comment": "J6",
       "date": 1783985440.8551161,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -187,7 +187,7 @@
       "first_date": 1781378979.107436,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -204,7 +204,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -279,7 +279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sortie de booster sleeve + toploader",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -301,18 +301,23 @@
       },
       "language": "Japanese",
       "price": 119.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "C11-9 | We buy your single cards. collections and sealed products",
-      "date": 1784142003.3443255,
-      "ended": false,
-      "new": false,
+      "date": 1784243635.157421,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784243635.157421
+        ]
+      ],
       "first_date": 1783985440.8551161,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -402,7 +407,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for as many pics as you like :) Top loader.",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -427,7 +432,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784142003.3443255,
+      "date": 1784401864.691676,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -458,12 +463,12 @@
       },
       "language": "Japanese",
       "price": 335.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / Free shipping /  T50",
-      "date": 1783985440.8551161,
-      "ended": true,
-      "new": true,
+      "date": 1784401864.691676,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           345.0,
@@ -474,12 +479,16 @@
         [
           1,
           1783985440.8551161
+        ],
+        [
+          0,
+          1783985440.8551161
         ]
       ],
       "first_date": 1778994789.2551854,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
