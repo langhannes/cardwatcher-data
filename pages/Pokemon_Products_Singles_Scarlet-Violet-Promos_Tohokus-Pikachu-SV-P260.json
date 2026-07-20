@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 129,
-  "sold": 5,
+  "available": 142,
+  "sold": 6,
   "inserted": 7,
   "listings": [
     {
@@ -48,18 +48,23 @@
       },
       "language": "Japanese",
       "price": 84.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8",
       "date": 1784294076.0070138,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1784294076.0070138
+        ]
+      ],
       "first_date": 1784294076.0070138,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -73,18 +78,23 @@
       },
       "language": "Japanese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Classeur à TopLoader",
       "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784294076.0070138
+        ]
+      ],
       "first_date": 1784190679.8103828,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -98,12 +108,12 @@
       },
       "language": "Japanese",
       "price": 88.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "fast shipping . OC ask for pictures",
       "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           95.0,
@@ -118,12 +128,16 @@
         [
           0,
           1783912777.08438
+        ],
+        [
+          1,
+          1784294076.0070138
         ]
       ],
       "first_date": 1783912777.08438,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -140,7 +154,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve -> Toploader",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -173,7 +187,7 @@
       ],
       "first_date": 1778737060.3766627,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -191,7 +205,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve -> Toploader #3",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -228,7 +242,7 @@
       ],
       "first_date": 1781594558.1991165,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -243,12 +257,12 @@
       },
       "language": "Japanese",
       "price": 89.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
       "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           99.99,
@@ -299,12 +313,16 @@
         [
           0,
           1783912777.08438
+        ],
+        [
+          2,
+          1784294076.0070138
         ]
       ],
       "first_date": 1782201302.431026,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -346,7 +364,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Cheap fast reliable shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -371,7 +389,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -420,8 +438,47 @@
       ],
       "first_date": 1782109714.8412988,
       "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 94.99,
+      "quantity": 8,
+      "condition": "NM",
+      "comment": "Shrink sealed",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          120.0,
+          1782800405.097881
+        ],
+        [
+          115.0,
+          1784294076.0070138
+        ]
+      ],
+      "previous_quantities": [
+        [
+          5,
+          1784294076.0070138
+        ]
+      ],
+      "first_date": 1782109714.8412988,
+      "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": -1,
+      "quantity_change": 3,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -438,9 +495,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Packed fresh/sleeved+toploader/ for better pictures pm!/ a lot of cards available!!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784294076.0070138,
@@ -460,18 +517,23 @@
       },
       "language": "Japanese",
       "price": 95.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9 - 145400037",
       "date": 1784294076.0070138,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784294076.0070138
+        ]
+      ],
       "first_date": 1784294076.0070138,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -616,7 +678,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -704,7 +766,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "NM TOP",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -738,7 +800,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cheap fast reliable shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -933,7 +995,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 - Cheap fast reliable shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -946,7 +1008,7 @@
       "first_date": 1784190679.8103828,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -963,7 +1025,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1038,7 +1100,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1097,7 +1159,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1136,7 +1198,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1175,7 +1237,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1214,7 +1276,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1253,7 +1315,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1308,7 +1370,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1359,7 +1421,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1381,23 +1443,27 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784190679.8103828,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! PSA 9 - Fast shipping. contact for questions/pics",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784190679.8103828
+        ],
+        [
+          0,
           1784190679.8103828
         ]
       ],
       "first_date": 1784190679.8103828,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -1411,23 +1477,91 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1784190679.8103828,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! PSA 9 - Fast shipping. contact for questions/pics",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784190679.8103828
+        ],
+        [
+          0,
           1784190679.8103828
         ]
       ],
       "first_date": 1784190679.8103828,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "Thokemen",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! PSA 9 - Fast shipping. contact for questions/pics",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1784190679.8103828
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784190679.8103828
+        ],
+        [
+          0,
+          1784190679.8103828
+        ]
+      ],
+      "first_date": 1784190679.8103828,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 6,
+      "condition": "NM",
+      "comment": "Shrink sealed",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784455583.2568443,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -1552,6 +1686,31 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1769529052.5201108,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "Japanstore",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784455583.2568443,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1914,7 +2073,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A6 - check my JP inventory",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2207,7 +2366,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A15|1",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2241,7 +2400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A15|2",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2279,7 +2438,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A15|3",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2438,7 +2597,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2463,7 +2622,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2527,7 +2686,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2552,7 +2711,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2784,7 +2943,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "ZK1 SEALED",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2949,7 +3108,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed .off centrie",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2976,11 +3135,11 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 0,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "New / Sealed / OVP -> Fast ship",
-      "date": 1783664550.287566,
-      "ended": true,
+      "comment": "RELISTED! New / Sealed / OVP -> Fast ship",
+      "date": 1784455583.2568443,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -3016,12 +3175,16 @@
         [
           3,
           1783664550.287566
+        ],
+        [
+          0,
+          1783664550.287566
         ]
       ],
       "first_date": 1776670787.0434253,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 3,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -3423,7 +3586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "B7",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3524,17 +3687,12 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed. Full set available.",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          120.0,
-          1782800405.097881
-        ]
-      ],
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782109714.8412988,
+      "first_date": 1784455583.2568443,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3728,7 +3886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Lokal Store in Esslingen",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4018,7 +4176,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4112,7 +4270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DS26-307 // PA1",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4142,7 +4300,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DS26-328 // PA1",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4197,7 +4355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#2139",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4791,7 +4949,7 @@
       "comment": "Sealed! Promo box! Private collection!",
       "date": 1784190679.8103828,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4802,7 +4960,7 @@
       "first_date": 1782109714.8412988,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -4819,7 +4977,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ARS 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4989,7 +5147,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SEALED! Not PSA 10 because slightly off-center!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5209,9 +5367,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Freshly opened",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784294076.0070138,
@@ -5706,7 +5864,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5765,7 +5923,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCG 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5790,7 +5948,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed ask for Pics",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6311,18 +6469,23 @@
       },
       "language": "Japanese",
       "price": 144.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve/Toploader   Many Single Cards :)",
       "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784294076.0070138
+        ]
+      ],
       "first_date": 1782302662.3867881,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -6339,7 +6502,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6364,7 +6527,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#1135555",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6444,7 +6607,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GVO - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6524,7 +6687,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Scellé. envoi rapide dans toploader papier bulle",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6567,7 +6730,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Tohoku special sleeve. Toploader. Daily Shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6979,7 +7142,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 MINT",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7004,7 +7167,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 / Happy to help. just ask!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7038,7 +7201,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed . spedizione in giornata",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7068,7 +7231,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. clean slab. fast shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7093,7 +7256,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Carta en perfecto estado",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7274,7 +7437,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed! Ask for fotos",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7308,7 +7471,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "schneller Versand / Viele weitere Einzelkarten",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7342,7 +7505,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7515,7 +7678,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7554,7 +7717,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7579,7 +7742,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7664,7 +7827,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Prückis Cards TCG Store Berlin » Fragen: wa.me/pruckis",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7698,7 +7861,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Check inventory for more slabs: Sort Mint condition - Z05",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7723,7 +7886,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Scellé. Plus de photos en DM",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7920,7 +8083,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7954,7 +8117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8033,7 +8196,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8121,7 +8284,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8206,7 +8369,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153924971 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8231,7 +8394,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   142720393 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8256,7 +8419,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153925023 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8281,7 +8444,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153924904 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8451,7 +8614,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8571,7 +8734,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 9.0] PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9117,7 +9280,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9474,7 +9637,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unopened and sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9499,7 +9662,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "safe/fast shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9713,7 +9876,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9827,7 +9990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / Holo Huge selection. no shipping on holidays and weekends.",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9852,7 +10015,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 / Cert 0019069243 / Fast & Secure Shipping",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9877,7 +10040,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed | vetrina",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9982,7 +10145,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 9.5 Gem Mint",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10035,7 +10198,7 @@
       "comment": "",
       "date": 1784190679.8103828,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           275.0,
@@ -10051,7 +10214,7 @@
       "first_date": 1780860729.5359156,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -10064,11 +10227,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 296.49,
+      "price": 296.25,
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10147,6 +10310,10 @@
         [
           297.12,
           1784190679.8103828
+        ],
+        [
+          296.49,
+          1784294076.0070138
         ]
       ],
       "previous_quantities": [],
@@ -10191,11 +10358,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 303.16,
+      "price": 302.91,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10442,6 +10609,10 @@
         [
           303.8,
           1784190679.8103828
+        ],
+        [
+          303.16,
+          1784294076.0070138
         ]
       ],
       "previous_quantities": [
@@ -10466,6 +10637,36 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 325.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          395.0,
+          1784294076.0070138
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783309972.3742454,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "DanishViking",
         "country": "Item location: Denmark"
       },
@@ -10474,7 +10675,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Graded!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10530,7 +10731,7 @@
       "previous_quantities": [],
       "first_date": 1779866068.2975578,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -10547,8 +10748,8 @@
       "price": 329.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1784294076.0070138,
+      "comment": "PSA 10",
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10569,8 +10770,8 @@
       ],
       "first_date": 1784036285.111976,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -10587,7 +10788,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "PSA 10!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10667,7 +10868,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10723,36 +10924,6 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
-        "name": "Thokemen",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 349.99,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10 - Fast shipping. contact for questions/pics",
-      "date": 1784190679.8103828,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784190679.8103828
-        ]
-      ],
-      "first_date": 1784190679.8103828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
         "name": "Xyrandox",
         "country": "Item location: Netherlands"
       },
@@ -10761,7 +10932,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10786,9 +10957,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 - NEW LABEL",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784294076.0070138,
@@ -10976,7 +11147,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11026,7 +11197,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11034,6 +11205,36 @@
       "first_date": 1782529894.9721048,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "Wint3r99",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 390.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Graded",
+      "date": 1784455583.2568443,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1784294076.0070138
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783309972.3742454,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -11143,31 +11344,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1771260636.6532009,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "Poke-Gallery",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 395.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783309972.3742454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11361,31 +11537,6 @@
         ]
       ],
       "first_date": 1765402385.092618,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "Wint3r99",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 400.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 Graded",
-      "date": 1784294076.0070138,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783309972.3742454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11776,7 +11927,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11947,7 +12098,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "cgc 9 ERROR CRIMP",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12014,7 +12165,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Graded!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12115,7 +12266,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12180,7 +12331,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12324,7 +12475,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12395,7 +12546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12420,7 +12571,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ccc 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12525,7 +12676,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[BGS 9.5]",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12571,11 +12722,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 576.0,
+      "price": 575.52,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10 Cert Number 152950571",
-      "date": 1784294076.0070138,
+      "comment": "PSA 10 Cert Number 152950571",
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12654,6 +12805,10 @@
         [
           573.94,
           1783664550.287566
+        ],
+        [
+          576.0,
+          1784294076.0070138
         ]
       ],
       "previous_quantities": [
@@ -12669,7 +12824,7 @@
       "first_date": 1780511158.0649493,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false
@@ -12863,7 +13018,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12956,7 +13111,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 10 sequential set of all 3!",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13147,7 +13302,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Trio Progressive Psa 10",
-      "date": 1784294076.0070138,
+      "date": 1784455583.2568443,
       "ended": false,
       "new": false,
       "previous_prices": [],

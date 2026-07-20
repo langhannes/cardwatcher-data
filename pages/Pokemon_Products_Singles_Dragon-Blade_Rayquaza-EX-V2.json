@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
-  "sold": 0,
+  "available": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -998,18 +998,23 @@
       },
       "language": "Japanese",
       "price": 2100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 MINT // Questions? Feel free to ask! :)",
       "date": 1784276148.7210834,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784276148.7210834
+        ]
+      ],
       "first_date": 1784018067.8897457,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

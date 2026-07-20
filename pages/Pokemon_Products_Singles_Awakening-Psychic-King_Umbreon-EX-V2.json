@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 2,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1784312391.29188,
+      "date": 1784475057.4174192,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -90,7 +90,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1784312391.29188,
+      "date": 1784475057.4174192,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -197,7 +197,7 @@
       "comment": "PSA 8",
       "date": 1784209554.9013736,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1100.0,
@@ -229,7 +229,7 @@
       "first_date": 1771763960.455647,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

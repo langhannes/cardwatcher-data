@@ -12,9 +12,9 @@
     "Thai"
   ],
   "only_germany": "False",
-  "available": 16,
-  "sold": 5,
-  "inserted": 0,
+  "available": 24,
+  "sold": 1,
+  "inserted": 7,
   "listings": [
     {
       "card": "MEGA Dream ex Booster Box Case",
@@ -679,12 +679,12 @@
       },
       "language": "Japanese",
       "price": 1800.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! Saled",
-      "date": 1784217561.1072364,
-      "ended": true,
-      "new": true,
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           2000.0,
@@ -727,12 +727,16 @@
         [
           1,
           1784217561.1072364
+        ],
+        [
+          0,
+          1784217561.1072364
         ]
       ],
       "first_date": 1779637487.071557,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1109,126 +1113,20 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
-        "name": "Kyodai-TCG",
+        "name": "Shiny-TCG",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 1925.0,
-      "quantity": 0,
+      "price": 1950.0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "OVP Sealed - B2B Possible - Fast Shipping",
-      "date": 1782820763.1325214,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1995.95,
-          1776342352.0168588
-        ],
-        [
-          1989.95,
-          1777745335.8666513
-        ],
-        [
-          2299.95,
-          1779177933.4221282
-        ],
-        [
-          2099.95,
-          1779327550.267302
-        ],
-        [
-          2200.0,
-          1780101021.8375287
-        ],
-        [
-          2099.0,
-          1780537450.2538714
-        ],
-        [
-          1999.0,
-          1780887213.0393178
-        ],
-        [
-          1979.0,
-          1781621832.139054
-        ],
-        [
-          1989.0,
-          1781723573.3804362
-        ],
-        [
-          1999.0,
-          1782402541.6570578
-        ],
-        [
-          1949.0,
-          1782639522.416065
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1777745335.8666513
-        ],
-        [
-          0,
-          1777745335.8666513
-        ],
-        [
-          5,
-          1779327550.267302
-        ],
-        [
-          0,
-          1779327550.267302
-        ],
-        [
-          2,
-          1779483788.641771
-        ],
-        [
-          0,
-          1779483788.641771
-        ],
-        [
-          1,
-          1780310679.8958008
-        ],
-        [
-          2,
-          1780537450.2538714
-        ],
-        [
-          3,
-          1780887213.0393178
-        ],
-        [
-          1,
-          1780994751.3077466
-        ],
-        [
-          3,
-          1781621832.139054
-        ],
-        [
-          4,
-          1781723573.3804362
-        ],
-        [
-          3,
-          1782402541.6570578
-        ],
-        [
-          2,
-          1782639522.416065
-        ],
-        [
-          1,
-          1782820763.1325214
-        ]
-      ],
-      "first_date": 1776242300.9086506,
+      "comment": "",
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784483701.9497488,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1325,17 +1223,156 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
+        "name": "Kyodai-TCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1979.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! Before Purchase. Please DM First - B2B Possible",
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1995.95,
+          1776342352.0168588
+        ],
+        [
+          1989.95,
+          1777745335.8666513
+        ],
+        [
+          2299.95,
+          1779177933.4221282
+        ],
+        [
+          2099.95,
+          1779327550.267302
+        ],
+        [
+          2200.0,
+          1780101021.8375287
+        ],
+        [
+          2099.0,
+          1780537450.2538714
+        ],
+        [
+          1999.0,
+          1780887213.0393178
+        ],
+        [
+          1979.0,
+          1781621832.139054
+        ],
+        [
+          1989.0,
+          1781723573.3804362
+        ],
+        [
+          1999.0,
+          1782402541.6570578
+        ],
+        [
+          1949.0,
+          1782639522.416065
+        ],
+        [
+          1925.0,
+          1782820763.1325214
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1777745335.8666513
+        ],
+        [
+          0,
+          1777745335.8666513
+        ],
+        [
+          5,
+          1779327550.267302
+        ],
+        [
+          0,
+          1779327550.267302
+        ],
+        [
+          2,
+          1779483788.641771
+        ],
+        [
+          0,
+          1779483788.641771
+        ],
+        [
+          1,
+          1780310679.8958008
+        ],
+        [
+          2,
+          1780537450.2538714
+        ],
+        [
+          3,
+          1780887213.0393178
+        ],
+        [
+          1,
+          1780994751.3077466
+        ],
+        [
+          3,
+          1781621832.139054
+        ],
+        [
+          4,
+          1781723573.3804362
+        ],
+        [
+          3,
+          1782402541.6570578
+        ],
+        [
+          2,
+          1782639522.416065
+        ],
+        [
+          1,
+          1782820763.1325214
+        ],
+        [
+          0,
+          1782820763.1325214
+        ]
+      ],
+      "first_date": 1776242300.9086506,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
         "name": "AndreYLanza",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 1990.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! SEALED PERFECT NEW",
-      "date": 1784217561.1072364,
-      "ended": true,
-      "new": true,
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           1890.0,
@@ -1386,12 +1423,41 @@
         [
           1,
           1784217561.1072364
+        ],
+        [
+          0,
+          1784217561.1072364
         ]
       ],
       "first_date": 1781723573.3804362,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "ElenaTCGShop",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1990.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED - Sigillato",
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784483701.9497488,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1405,12 +1471,12 @@
       },
       "language": "Japanese",
       "price": 1990.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! SEALED",
-      "date": 1784217561.1072364,
-      "ended": true,
-      "new": true,
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1424,12 +1490,16 @@
         [
           1,
           1784217561.1072364
+        ],
+        [
+          0,
+          1784217561.1072364
         ]
       ],
       "first_date": 1783428765.8598893,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1740,12 +1810,12 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 2250.0,
-      "quantity": 0,
+      "price": 2295.0,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "",
-      "date": 1784064648.4745593,
-      "ended": true,
+      "comment": "RELISTED! Discount by order of 2",
+      "date": 1784483701.9497488,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1783,6 +1853,10 @@
         [
           2200.0,
           1783940523.0735495
+        ],
+        [
+          2250.0,
+          1784064648.4745593
         ]
       ],
       "previous_quantities": [
@@ -1821,12 +1895,16 @@
         [
           2,
           1784064648.4745593
+        ],
+        [
+          0,
+          1784064648.4745593
         ]
       ],
       "first_date": 1778032167.0337894,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1845,7 +1923,7 @@
       "comment": "RELISTED! Discount by order of 2",
       "date": 1784217561.1072364,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           2050.0,
@@ -1957,7 +2035,7 @@
       "first_date": 1775212467.6932077,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1974,7 +2052,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2017,7 +2095,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VAT | SEALED | FAST INSURED SHIPPING",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2025,6 +2103,40 @@
       "first_date": 1779808945.5551095,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "Kayseri38",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784483701.9497488,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2400.0,
+          1783161270.266827
+        ],
+        [
+          2450.0,
+          1784320873.8709726
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783161270.266827,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2072,7 +2184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2098,36 +2210,6 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
-        "name": "Kayseri38",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 2450.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784320873.8709726,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          2400.0,
-          1783161270.266827
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783161270.266827,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
         "name": "OngBak88",
         "country": "Item location: Germany"
       },
@@ -2138,7 +2220,7 @@
       "comment": "",
       "date": 1784217561.1072364,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2149,7 +2231,7 @@
       "first_date": 1784217561.1072364,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2166,7 +2248,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2188,12 +2270,12 @@
       },
       "language": "Japanese",
       "price": 2499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "inkl. VAT [5012-m2a]",
       "date": 1784320873.8709726,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1769.99,
@@ -2248,12 +2330,16 @@
         [
           0,
           1782724975.498182
+        ],
+        [
+          1,
+          1784320873.8709726
         ]
       ],
       "first_date": 1773087762.058022,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2424,7 +2510,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Solo recogida local(Valencia o alrededores) /Sellada de fabrica/ Pedir con antelacion / Precio 1850",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2499,7 +2585,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784320873.8709726,
+      "date": 1784483701.9497488,
       "ended": false,
       "new": false,
       "previous_prices": [],
