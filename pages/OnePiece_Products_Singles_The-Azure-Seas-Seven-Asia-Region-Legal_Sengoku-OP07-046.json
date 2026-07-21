@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 26,
-  "sold": 1,
+  "available": 23,
+  "sold": 5,
   "inserted": 2,
   "listings": [
     {
@@ -99,7 +99,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -253,12 +253,12 @@
       },
       "language": "Japanese",
       "price": 27.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784448737.5019753,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -276,12 +276,16 @@
         [
           0,
           1783124476.308841
+        ],
+        [
+          1,
+          1784448737.5019753
         ]
       ],
       "first_date": 1778093409.8946245,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -395,12 +399,12 @@
       },
       "language": "Japanese",
       "price": 27.75,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "booster to sleeve + toploader",
       "date": 1784448737.5019753,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -426,12 +430,16 @@
         [
           0,
           1783651469.2362447
+        ],
+        [
+          1,
+          1784448737.5019753
         ]
       ],
       "first_date": 1775744180.3622594,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2356,6 +2364,31 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "EAG-TCG",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 38.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RMP Paris or delivry",
+      "date": 1784603396.7111104,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784603396.7111104,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "Pelicone1986",
         "country": "Item location: Italy"
       },
@@ -2432,9 +2465,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Booster to sleeve",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784448737.5019753,
@@ -2457,7 +2490,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2482,7 +2515,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2504,23 +2537,27 @@
       },
       "language": "Japanese",
       "price": 39.8,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784448737.5019753,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           2,
           1783651469.2362447
+        ],
+        [
+          1,
+          1784448737.5019753
         ]
       ],
       "first_date": 1783651139.534491,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2567,7 +2604,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Wide selection. B2B possible",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2660,31 +2697,6 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
-        "name": "boostertcgandmore",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 39.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784448737.5019753,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784184035.866307,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Sengoku (OP07-046)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
-      "seller": {
         "name": "ZurisShop",
         "country": "Item location: Germany"
       },
@@ -2693,7 +2705,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Zuris-Shop Wuppertal",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2726,8 +2738,8 @@
       "price": 39.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "R.P. - 258",
-      "date": 1784448737.5019753,
+      "comment": "R.P. - 233",
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2786,17 +2798,47 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "boostertcgandmore",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 39.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784448737.5019753,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784448737.5019753
+        ]
+      ],
+      "first_date": 1784184035.866307,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "Rising-Phoenix",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 39.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "R.P. - 233",
       "date": 1784448737.5019753,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           39.99,
@@ -2839,12 +2881,16 @@
         [
           0,
           1783292941.4205575
+        ],
+        [
+          1,
+          1784448737.5019753
         ]
       ],
       "first_date": 1773726696.1516807,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2937,7 +2983,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2962,7 +3008,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "shipping with toploader",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3541,7 +3587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve+Toploader",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3566,7 +3612,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3613,7 +3659,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4202,7 +4248,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4224,12 +4270,12 @@
       },
       "language": "Japanese",
       "price": 54.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1784287257.9389427,
-      "ended": true,
-      "new": true,
+      "date": 1784603396.7111104,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4243,12 +4289,16 @@
         [
           1,
           1784287257.9389427
+        ],
+        [
+          0,
+          1784287257.9389427
         ]
       ],
       "first_date": 1769352973.3712986,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4265,7 +4315,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved/toploader",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4308,7 +4358,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster -> sleeve -> toploader",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4574,7 +4624,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Shipments outside the EU only with tracking.",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4643,7 +4693,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4673,9 +4723,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784448737.5019753,
@@ -4758,7 +4808,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 -  Bonus Card with every order",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4823,7 +4873,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784448737.5019753,
+      "date": 1784603396.7111104,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -9,8 +9,8 @@
     "French"
   ],
   "only_germany": false,
-  "available": 23,
-  "sold": 3,
+  "available": 22,
+  "sold": 2,
   "inserted": 1,
   "listings": [
     {
@@ -510,7 +510,7 @@
       "comment": "RELISTED! 4373 - pickup also possible in Sofia/Utrecht regionals",
       "date": 1784255299.1650634,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3000.0,
@@ -550,7 +550,7 @@
       "first_date": 1780433549.206814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1052,18 +1052,23 @@
       },
       "language": "English",
       "price": 3500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "bgs9.5",
       "date": 1784416567.3447516,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784416567.3447516
+        ]
+      ],
       "first_date": 1784416567.3447516,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1082,7 +1087,7 @@
       "comment": "RELISTED! Numero 1957",
       "date": 1784255299.1650634,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3800.0,
@@ -1114,7 +1119,7 @@
       "first_date": 1780433549.206814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1308,6 +1313,53 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
+        "name": "FabioFazu",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 3600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Sealed",
+      "date": 1784573371.4539602,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3400.0,
+          1783169257.494988
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781730227.096818
+        ],
+        [
+          0,
+          1781730227.096818
+        ],
+        [
+          1,
+          1783874122.3877459
+        ],
+        [
+          0,
+          1783874122.3877459
+        ]
+      ],
+      "first_date": 1780433549.206814,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
         "name": "Dasobankz",
         "country": "Item location: Netherlands"
       },
@@ -1343,49 +1395,6 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
-        "name": "FabioFazu",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 3600.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1783874122.3877459,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          3400.0,
-          1783169257.494988
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781730227.096818
-        ],
-        [
-          0,
-          1781730227.096818
-        ],
-        [
-          1,
-          1783874122.3877459
-        ]
-      ],
-      "first_date": 1780433549.206814,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
         "name": "Zentex",
         "country": "Item location: United Kingdom"
       },
@@ -1396,7 +1405,7 @@
       "comment": "Opened. 4784 clean card",
       "date": 1784255299.1650634,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3813.05,
@@ -1500,7 +1509,7 @@
       "first_date": 1780433549.206814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1670,7 +1679,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1729,7 +1738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. pref meet up BE",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1860,7 +1869,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 possible pickup sofia/utrecht/prague",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1920,7 +1929,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "N. 1666/5000       and      4318/5000",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1945,7 +1954,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed just Pick up Cologne",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1975,7 +1984,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nr 1443",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2000,7 +2009,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 - number: 1940",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2030,7 +2039,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nummer 1103",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2060,7 +2069,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3819/5000 / pick up Hamburg or Utrecht",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2095,7 +2104,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2594",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2120,7 +2129,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. only pick up. PM if interested",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2181,18 +2190,23 @@
       },
       "language": "English",
       "price": 5299.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Nr. 765/5000 /// BGS 9.5 ( 9.5-10-9.5-10) hmu for offers",
       "date": 1784416567.3447516,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784416567.3447516
+        ]
+      ],
       "first_date": 1783338631.0698812,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2209,7 +2223,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2234,7 +2248,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "133/5000 Will be judging BG REG AND BCG FEST . can meet there",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2246,7 +2260,7 @@
       "previous_quantities": [],
       "first_date": 1782827096.37433,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2260,11 +2274,11 @@
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 6900.0,
+      "price": 7900.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed // HH",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2275,6 +2289,10 @@
         [
           6500.0,
           1784255299.1650634
+        ],
+        [
+          6900.0,
+          1784416567.3447516
         ]
       ],
       "previous_quantities": [],
@@ -2328,7 +2346,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed meet up in Sophia or Wolverhampton possible",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2353,7 +2371,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3852",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2383,7 +2401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "N279. Pick up in Wolverhampton. Utrecht. and Sofia",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2417,7 +2435,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "n* 2000/5000",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2480,7 +2498,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "1132/5000 BGS10 SUB: 9.5 10 10 10 ask for more",
-      "date": 1784416567.3447516,
+      "date": 1784573371.4539602,
       "ended": false,
       "new": false,
       "previous_prices": [],

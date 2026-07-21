@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 28,
-  "sold": 0,
-  "inserted": 1,
+  "available": 29,
+  "sold": 2,
+  "inserted": 2,
   "listings": [
     {
       "card": "Charlotte Linlin (OP03-114)",
@@ -54,8 +54,8 @@
       "price": 37.57,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784425125.2161338,
+      "comment": "",
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -96,8 +96,8 @@
       ],
       "first_date": 1783172490.9877305,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -144,7 +144,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -192,7 +192,7 @@
       "previous_quantities": [],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -270,7 +270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -406,11 +406,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 42.41,
+      "price": 42.42,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -449,6 +449,10 @@
         [
           42.45,
           1784263650.2559195
+        ],
+        [
+          42.41,
+          1784425125.2161338
         ]
       ],
       "previous_quantities": [
@@ -647,7 +651,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -897,7 +901,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfresh. sleeve & Toploader",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -919,18 +923,23 @@
       },
       "language": "Japanese",
       "price": 47.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784425125.2161338,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784425125.2161338
+        ]
+      ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -947,7 +956,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "TR6",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -999,7 +1008,7 @@
       "previous_quantities": [],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1099,10 +1108,10 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1110,12 +1119,84 @@
         [
           2,
           1784263650.2559195
+        ],
+        [
+          1,
+          1784425125.2161338
         ]
       ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Nicks055",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1784581240.7384188,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783354785.1898293
+        ],
+        [
+          0,
+          1783354785.1898293
+        ]
+      ],
+      "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Leafiax3",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to sleeve to toploader",
+      "date": 1784581240.7384188,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1720078817.3044605
+        ],
+        [
+          60.0,
+          1784425125.2161338
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1712643082.5973094,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1132,7 +1213,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1157,42 +1238,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784161507.49778,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
-        "name": "Nicks055",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 50.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783354785.1898293,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783354785.1898293
-        ]
-      ],
-      "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1269,23 +1320,27 @@
       },
       "language": "Japanese",
       "price": 50.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Showase",
-      "date": 1783881899.0807657,
-      "ended": true,
+      "comment": "RELISTED! Showase",
+      "date": 1784581240.7384188,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1783881899.0807657
+        ],
+        [
+          0,
+          1783881899.0807657
         ]
       ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1586,7 +1641,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1608,18 +1663,23 @@
       },
       "language": "Japanese",
       "price": 59.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784425125.2161338,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784425125.2161338
+        ]
+      ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1636,7 +1696,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Safe Storage Box / Fast Shipping / Ask for Pics",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1696,42 +1756,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->Sleeve->Toploader",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           70.0,
-          1720078817.3044605
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1712643082.5973094,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
-        "name": "Leafiax3",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Booster to sleeve to toploader",
-      "date": 1784425125.2161338,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          100.0,
           1720078817.3044605
         ]
       ],
@@ -1806,7 +1836,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "X",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1831,7 +1861,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1856,7 +1886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1961,7 +1991,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2046,7 +2076,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2076,7 +2106,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2131,7 +2161,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2211,7 +2241,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm or better. booster to sleeve!",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2505,7 +2535,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2530,7 +2560,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2555,7 +2585,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784425125.2161338,
+      "date": 1784581240.7384188,
       "ended": false,
       "new": false,
       "previous_prices": [],

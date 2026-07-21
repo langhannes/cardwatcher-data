@@ -8,9 +8,9 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 106,
-  "sold": 3,
-  "inserted": 7,
+  "available": 108,
+  "sold": 1,
+  "inserted": 3,
   "listings": [
     {
       "card": "Charizard (CEL BS 4)",
@@ -5410,12 +5410,12 @@
       },
       "language": "English",
       "price": 135.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "RELISTED! ",
       "date": 1784457848.378137,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5425,12 +5425,16 @@
         [
           0,
           1784193026.7314794
+        ],
+        [
+          1,
+          1784457848.378137
         ]
       ],
       "first_date": 1783143374.9200513,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5570,7 +5574,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7138,7 +7142,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small chip on the back (as usual)",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7163,7 +7167,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Factory chipped",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7353,7 +7357,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7380,7 +7384,7 @@
       "comment": "GSG 7.5",
       "date": 1784296404.1883495,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7399,7 +7403,7 @@
       "first_date": 1780220592.0146227,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7753,7 +7757,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Photo sur demande - Cvault",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7778,7 +7782,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "tres leger fortement haut arrière droit",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8113,8 +8117,8 @@
       "price": 185.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784457848.378137,
+      "comment": "",
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8135,8 +8139,8 @@
       ],
       "first_date": 1782113115.4684787,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8300,6 +8304,61 @@
       "card": "Charizard  (CEL BS 4)",
       "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
       "seller": {
+        "name": "PokeyaCollectables",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 189.99,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "Could have the usual chip damage",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          219.99,
+          1781707470.5416794
+        ],
+        [
+          199.99,
+          1783549017.1990557
+        ],
+        [
+          189.99,
+          1784193026.7314794
+        ],
+        [
+          199.99,
+          1784457848.378137
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781707470.5416794
+        ],
+        [
+          0,
+          1781707470.5416794
+        ],
+        [
+          4,
+          1783143374.9200513
+        ]
+      ],
+      "first_date": 1781598016.7898731,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CEL BS 4)",
+      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
+      "seller": {
         "name": "Sapphire-Cards",
         "country": "Item location: Germany"
       },
@@ -8338,7 +8397,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8363,7 +8422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8698,7 +8757,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "More Great Prices!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8723,7 +8782,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Mit Aufsteller. Metal Karte",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8975,7 +9034,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Very small gold dot on the back",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9035,7 +9094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Chip left topside",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9060,7 +9119,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Discounted & Fast shipping - More Celebrations cards available! - Ask for pictures!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9090,7 +9149,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9179,7 +9238,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "XXL-Tournament Store",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9204,7 +9263,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9247,7 +9306,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "wir kaufen ganze Sammlungen zu fairen Preisen!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9272,7 +9331,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "We buy your single cards. collections and sealed products",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9306,8 +9365,8 @@
       "price": 199.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784457848.378137,
+      "comment": "",
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9324,7 +9383,7 @@
       "first_date": 1783143374.9200513,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9341,7 +9400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No factory damage. Fast shipping. many cards in stock! EN-3-1",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9375,7 +9434,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "poc en haut",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9400,63 +9459,12 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780864219.933674,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CEL BS 4)",
-      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
-      "seller": {
-        "name": "PokeyaCollectables",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 199.99,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "Could have the usual chip damage",
-      "date": 1784457848.378137,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          219.99,
-          1781707470.5416794
-        ],
-        [
-          199.99,
-          1783549017.1990557
-        ],
-        [
-          189.99,
-          1784193026.7314794
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781707470.5416794
-        ],
-        [
-          0,
-          1781707470.5416794
-        ],
-        [
-          4,
-          1783143374.9200513
-        ]
-      ],
-      "first_date": 1781598016.7898731,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9628,7 +9636,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Album Giò",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9653,7 +9661,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small chip top side",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9678,7 +9686,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9703,7 +9711,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10331,7 +10339,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10428,11 +10436,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 212.04,
+      "price": 212.1,
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10443,6 +10451,10 @@
         [
           212.21,
           1784296404.1883495
+        ],
+        [
+          212.04,
+          1784457848.378137
         ]
       ],
       "previous_quantities": [],
@@ -10466,7 +10478,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10661,7 +10673,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10749,6 +10761,31 @@
       "archived": false
     },
     {
+      "card": "Charizard  (CEL BS 4)",
+      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
+      "seller": {
+        "name": "Flori525",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 229.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 7",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784612733.367799,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
       "card": "Charizard (CEL BS 4)",
       "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
       "seller": {
@@ -10790,7 +10827,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7  NM",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10817,7 +10854,7 @@
       "comment": "We buy all your cards",
       "date": 1784296404.1883495,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -10836,7 +10873,7 @@
       "first_date": 1782803261.236806,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -11081,7 +11118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Lokal Store in Esslingen",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11106,7 +11143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "In Sleeve+Toploader. Very Safe and fast shipping. Front Top Factory Damage EX Back Near Mint",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11145,7 +11182,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front nm-mint. Back smal clip right side.",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11335,7 +11372,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7 - Discounted & Fast shipping - More Graded cards available! - Ask for pictures!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11360,7 +11397,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM - EX Ask for Pictures",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11390,7 +11427,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NM with small imperfections as always for this card",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11425,7 +11462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11500,7 +11537,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11534,7 +11571,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11559,7 +11596,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "EG 8.5 | NUEVO VENDEDOR | 100% HONESTO",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11799,7 +11836,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 25TH",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11824,7 +11861,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Very clean. especcialy for a metal card!",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11928,12 +11965,12 @@
       },
       "language": "English",
       "price": 275.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784296404.1883495,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           350.0,
@@ -11968,12 +12005,16 @@
         [
           1,
           1784296404.1883495
+        ],
+        [
+          0,
+          1784296404.1883495
         ]
       ],
       "first_date": 1781340565.9336011,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -12086,6 +12127,57 @@
       "card": "Charizard  (CEL BS 4)",
       "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
       "seller": {
+        "name": "sasalucijamarija",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 280.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 9",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          240.0,
+          1781417445.134204
+        ],
+        [
+          340.0,
+          1781916043.5102398
+        ],
+        [
+          280.0,
+          1782113115.4684787
+        ],
+        [
+          300.0,
+          1784457848.378137
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782113115.4684787
+        ],
+        [
+          0,
+          1782113115.4684787
+        ]
+      ],
+      "first_date": 1781340565.9336011,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CEL BS 4)",
+      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
+      "seller": {
         "name": "pokescenate",
         "country": "Item location: Italy"
       },
@@ -12150,21 +12242,63 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 284.74,
+      "price": 284.82,
       "quantity": 1,
       "condition": "NM",
       "comment": "ACE 8 (Can provide pics)",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           284.97,
           1784296404.1883495
+        ],
+        [
+          284.74,
+          1784457848.378137
         ]
       ],
       "previous_quantities": [],
       "first_date": 1784296404.1883495,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CEL BS 4)",
+      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
+      "seller": {
+        "name": "Gumboow",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 288.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast shipping! Ask for pics",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          340.0,
+          1782620443.5307586
+        ],
+        [
+          330.0,
+          1783312688.5365589
+        ],
+        [
+          320.0,
+          1784457848.378137
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781848756.3547344,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -12184,9 +12318,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Will be shipped in a sleeve + hard case.",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784457848.378137,
@@ -12239,7 +12373,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12341,7 +12475,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12363,45 +12497,23 @@
       "card": "Charizard  (CEL BS 4)",
       "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
       "seller": {
-        "name": "sasalucijamarija",
+        "name": "Hofi420",
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 300.0,
+      "price": 299.99,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "RELISTED! AOG 9",
-      "date": 1784457848.378137,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784612733.367799,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          240.0,
-          1781417445.134204
-        ],
-        [
-          340.0,
-          1781916043.5102398
-        ],
-        [
-          280.0,
-          1782113115.4684787
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782113115.4684787
-        ],
-        [
-          0,
-          1782113115.4684787
-        ]
-      ],
-      "first_date": 1781340565.9336011,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784612733.367799,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -12418,7 +12530,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "AP Grading 8.5",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12443,7 +12555,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12473,9 +12585,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean PSA 8",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784457848.378137,
@@ -12498,7 +12610,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12582,46 +12694,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784296404.1883495,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CEL BS 4)",
-      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
-      "seller": {
-        "name": "Gumboow",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 320.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Fast shipping! Ask for pics",
-      "date": 1784457848.378137,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          340.0,
-          1782620443.5307586
-        ],
-        [
-          330.0,
-          1783312688.5365589
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781848756.3547344,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12641,7 +12719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA8 - Fast shipping - ask for pics",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12915,7 +12993,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SGS 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12940,7 +13018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm+ packfresh into sleeve and cardsaver - MPbox",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12995,7 +13073,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Frome Booster to Sleeve & Toploader Boosterfrisch Sehr Guter Zustand",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13020,7 +13098,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 NM-MT",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13059,7 +13137,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "certif PCA 25TH",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13204,7 +13282,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13333,7 +13411,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Global Grading 9 - fast shipping - ask for pics",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13388,7 +13466,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 würde erneut einsenden die Karte ist Top",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13413,7 +13491,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 top Slab",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13669,7 +13747,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "toploader - check photos for condition",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13720,7 +13798,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Original plastic holder",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13745,7 +13823,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DM for Pictures",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13890,7 +13968,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack to sleeve.",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13920,7 +13998,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CM 8.5 grading!! Mint+",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13945,7 +14023,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC mint 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14077,7 +14155,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14171,7 +14249,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9 / small case damage right corner. reholder service?",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14210,9 +14288,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784457848.378137,
@@ -14265,46 +14343,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782113115.4684787,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard  (CEL BS 4)",
-      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
-      "seller": {
-        "name": "SammysGameshop",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9. Ask for photos MV",
-      "date": 1784457848.378137,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782532327.6094482
-        ],
-        [
-          0,
-          1782532327.6094482
-        ]
-      ],
-      "first_date": 1781598016.7898731,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14324,7 +14368,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 | MT",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14371,6 +14415,45 @@
       "card": "Charizard  (CEL BS 4)",
       "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
       "seller": {
+        "name": "SammysGameshop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 680.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9. Ask for photos MV",
+      "date": 1784612733.367799,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          650.0,
+          1784457848.378137
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782532327.6094482
+        ],
+        [
+          0,
+          1782532327.6094482
+        ]
+      ],
+      "first_date": 1781598016.7898731,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard  (CEL BS 4)",
+      "canonical_name": "Pokemon_Products_Singles_Celebrations_Charizard-V2",
+      "seller": {
         "name": "Speedyxo",
         "country": "Item location: Finland"
       },
@@ -14379,7 +14462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ACE 8",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14404,7 +14487,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 ask for pics many more cards listed #diff",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14451,7 +14534,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14476,7 +14559,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa  9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14510,7 +14593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14535,7 +14618,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 / Weitere Bilder auf Anfrage",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14569,7 +14652,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14594,7 +14677,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14619,7 +14702,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Graded 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14788,7 +14871,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14848,7 +14931,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14887,7 +14970,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. clean slab. fast shipping. Sequintional graded with pikachu metal card",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14912,7 +14995,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "MISPRINT. GOLD BACK (see photo) - GRAAD AUTENTHICATED",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14937,7 +15020,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast secured shipping- Toploader Bubblemailed- Ask for photos",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15242,11 +15325,11 @@
         "country": "Item location: Switzerland"
       },
       "language": "English",
-      "price": 1694.85,
+      "price": 1627.73,
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Fast. protected shipping - *",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15365,6 +15448,10 @@
         [
           1764.73,
           1784296404.1883495
+        ],
+        [
+          1694.85,
+          1784457848.378137
         ]
       ],
       "previous_quantities": [],
@@ -15516,11 +15603,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 4543.58,
+      "price": 4544.93,
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 10 - ACE label. perfect sub-grade scores",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15639,6 +15726,10 @@
         [
           4547.33,
           1784296404.1883495
+        ],
+        [
+          4543.58,
+          1784457848.378137
         ]
       ],
       "previous_quantities": [],
@@ -15692,7 +15783,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 // Contact me on instagram : LarchangeTCG",
-      "date": 1784457848.378137,
+      "date": 1784612733.367799,
       "ended": false,
       "new": false,
       "previous_prices": [],

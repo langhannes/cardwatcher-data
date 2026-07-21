@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 9,
+  "available": 8,
   "sold": 1,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Yamato (OP06-022)",
@@ -26,9 +26,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Flawless!",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784433411.5802343,
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -73,18 +73,23 @@
       },
       "language": "S-Chinese",
       "price": 370.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784433411.5802343,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784433411.5802343
+        ]
+      ],
       "first_date": 1783498136.6327288,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -103,7 +108,7 @@
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
       "date": 1784272302.2890043,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           418.0,
@@ -119,7 +124,7 @@
       "first_date": 1782460927.7988453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -136,7 +141,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -192,23 +197,27 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 485.0,
+      "price": 470.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           500.0,
           1784014129.8002143
+        ],
+        [
+          485.0,
+          1784433411.5802343
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783363278.8758004,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -261,7 +270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -286,7 +295,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Conditions More High End Cards Available",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -307,11 +316,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 666.4,
+      "price": 666.48,
       "quantity": 1,
       "condition": "MT",
       "comment": "Msg for pics/ offers :)",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -346,6 +355,10 @@
         [
           848.84,
           1784272302.2890043
+        ],
+        [
+          666.4,
+          1784433411.5802343
         ]
       ],
       "previous_quantities": [],
@@ -404,7 +417,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->top loader",
-      "date": 1784433411.5802343,
+      "date": 1784589164.916717,
       "ended": false,
       "new": false,
       "previous_prices": [],

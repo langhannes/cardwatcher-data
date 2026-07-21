@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 0,
-  "sold": 1,
-  "inserted": 0,
+  "available": 2,
+  "sold": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Rayquaza EX (BW5e 053)",
@@ -860,31 +860,6 @@
       "archived": false
     },
     {
-      "card": "Rayquaza EX  (BW5e 053)",
-      "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
-      "seller": {
-        "name": "Pokemoncollector2001",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 400.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "",
-      "date": 1776644266.4467678,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771425603.3854594,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
       "card": "Rayquaza EX (BW5e 053)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
       "seller": {
@@ -905,6 +880,41 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza EX  (BW5e 053)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
+      "seller": {
+        "name": "Pokemoncollector2001",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 780.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "RELISTED! ",
+      "date": 1784592443.3270512,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1776644266.4467678
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776644266.4467678
+        ]
+      ],
+      "first_date": 1771425603.3854594,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -998,23 +1008,27 @@
       },
       "language": "Japanese",
       "price": 2100.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9 MINT // Questions? Feel free to ask! :)",
-      "date": 1784276148.7210834,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! PSA 9 MINT // Questions? Feel free to ask! :)",
+      "date": 1784592443.3270512,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784276148.7210834
+        ],
+        [
+          0,
           1784276148.7210834
         ]
       ],
       "first_date": 1784018067.8897457,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
