@@ -139,7 +139,7 @@
     const rowClass =
       "show-" + country.slice(15) +
       " language-" + lang +
-      " availability-" + String(!ended) +
+      " availability-" + (ended ? "False" : "True") +
       " condition-" + cond.toLowerCase() + "-val" +
       " firsted-" + firstEdHider +
       " reverseholo-" + revHoloHider +
