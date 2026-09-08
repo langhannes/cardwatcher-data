@@ -9,10 +9,10 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 31,
-  "available_graded": 4,
-  "sold": 1,
-  "inserted": 5,
+  "available": 45,
+  "available_graded": 5,
+  "sold": 0,
+  "inserted": 4,
   "listings": [
     {
       "card": "Charlotte Linlin (OP03-114)",
@@ -23,14 +23,27 @@
       },
       "language": "S-Chinese",
       "price": 33.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "True NM + Checked before shipping + Sleeve and Toploader for valuable cards",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "date": 1787993612.8739147,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786768247.7974555
+        ],
+        [
+          0,
+          1786768247.7974555
+        ],
+        [
+          1,
+          1787993612.8739147
+        ]
+      ],
       "first_date": 1785058147.445089,
       "last_date": 0.0,
       "price_is_new": false,
@@ -79,16 +92,201 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
+        "name": "PriayOP",
+        "country": "Item location: Croatia"
+      },
+      "language": "S-Chinese",
+      "price": 37.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788577873.1568234,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "BackSlash",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 37.15,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "TR6",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          47.81,
+          1782459775.834764
+        ],
+        [
+          47.74,
+          1782735123.0676358
+        ],
+        [
+          47.81,
+          1782830120.3181703
+        ],
+        [
+          48.08,
+          1783172490.9877305
+        ],
+        [
+          48.09,
+          1783354785.1898293
+        ],
+        [
+          48.21,
+          1783489595.1874735
+        ],
+        [
+          48.3,
+          1783613253.7773993
+        ],
+        [
+          48.36,
+          1783881899.0807657
+        ],
+        [
+          48.3,
+          1784005963.7396376
+        ],
+        [
+          48.29,
+          1784161507.49778
+        ],
+        [
+          48.5,
+          1784263650.2559195
+        ],
+        [
+          48.46,
+          1784581240.7384188
+        ],
+        [
+          48.34,
+          1784716529.6482694
+        ],
+        [
+          48.28,
+          1785058147.445089
+        ],
+        [
+          48.15,
+          1785234026.2689693
+        ],
+        [
+          48.01,
+          1785406566.0332813
+        ],
+        [
+          48.17,
+          1785569960.195893
+        ],
+        [
+          48.14,
+          1785738070.1577706
+        ],
+        [
+          48.05,
+          1785838705.5967703
+        ],
+        [
+          48.09,
+          1786341340.7107587
+        ],
+        [
+          48.21,
+          1786560550.5610578
+        ],
+        [
+          48.18,
+          1786768247.7974555
+        ],
+        [
+          48.22,
+          1786944674.6932292
+        ],
+        [
+          48.16,
+          1787116285.5855272
+        ],
+        [
+          48.08,
+          1787293283.9884746
+        ],
+        [
+          48.14,
+          1787473205.4943445
+        ],
+        [
+          48.15,
+          1787642299.5316348
+        ],
+        [
+          48.04,
+          1787820278.6363618
+        ],
+        [
+          48.14,
+          1787993612.8739147
+        ],
+        [
+          48.13,
+          1788219546.5568378
+        ],
+        [
+          48.03,
+          1788392596.628723
+        ],
+        [
+          47.95,
+          1788577873.1568234
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
         "name": "ProtectAndCollect",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 37.22,
-      "quantity": 0,
+      "price": 37.16,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785406566.0332813,
-      "ended": true,
+      "date": 1788754229.4767795,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -130,6 +328,38 @@
         [
           37.33,
           1785234026.2689693
+        ],
+        [
+          37.22,
+          1785406566.0332813
+        ],
+        [
+          37.32,
+          1787473205.4943445
+        ],
+        [
+          37.33,
+          1787642299.5316348
+        ],
+        [
+          37.24,
+          1787820278.6363618
+        ],
+        [
+          37.32,
+          1787993612.8739147
+        ],
+        [
+          37.31,
+          1788219546.5568378
+        ],
+        [
+          37.24,
+          1788392596.628723
+        ],
+        [
+          37.17,
+          1788577873.1568234
         ]
       ],
       "previous_quantities": [
@@ -144,9 +374,41 @@
         [
           1,
           1785406566.0332813
+        ],
+        [
+          0,
+          1785406566.0332813
         ]
       ],
       "first_date": 1783172490.9877305,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "anizucenter",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 37.31,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788219546.5568378,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -194,69 +456,15 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
-        "name": "danielmil27023",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 38.45,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785838705.5967703,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          38.63,
-          1785058147.445089
-        ],
-        [
-          38.53,
-          1785234026.2689693
-        ],
-        [
-          38.42,
-          1785406566.0332813
-        ],
-        [
-          38.55,
-          1785569960.195893
-        ],
-        [
-          38.52,
-          1785738070.1577706
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1785838705.5967703
-        ]
-      ],
-      "first_date": 1785058147.445089,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
         "name": "GameCorner",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 38.48,
+      "price": 38.36,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -331,10 +539,116 @@
         [
           38.45,
           1785838705.5967703
+        ],
+        [
+          38.48,
+          1786341340.7107587
+        ],
+        [
+          38.58,
+          1786560550.5610578
+        ],
+        [
+          38.56,
+          1786768247.7974555
+        ],
+        [
+          38.58,
+          1786944674.6932292
+        ],
+        [
+          38.54,
+          1787116285.5855272
+        ],
+        [
+          38.48,
+          1787293283.9884746
+        ],
+        [
+          38.52,
+          1787473205.4943445
+        ],
+        [
+          38.53,
+          1787642299.5316348
+        ],
+        [
+          38.44,
+          1787820278.6363618
+        ],
+        [
+          38.52,
+          1787993612.8739147
+        ],
+        [
+          38.51,
+          1788219546.5568378
+        ],
+        [
+          38.44,
+          1788392596.628723
+        ],
+        [
+          38.37,
+          1788577873.1568234
         ]
       ],
       "previous_quantities": [],
       "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "danielmil27023",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 38.45,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785838705.5967703,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          38.63,
+          1785058147.445089
+        ],
+        [
+          38.53,
+          1785234026.2689693
+        ],
+        [
+          38.42,
+          1785406566.0332813
+        ],
+        [
+          38.55,
+          1785569960.195893
+        ],
+        [
+          38.52,
+          1785738070.1577706
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785838705.5967703
+        ]
+      ],
+      "first_date": 1785058147.445089,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -401,6 +715,72 @@
         ]
       ],
       "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "iabio",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 40.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "ask for photo",
+      "date": 1787993612.8739147,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787993612.8739147
+        ]
+      ],
+      "first_date": 1787993612.8739147,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Franklin-mug",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 40.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeves --> top loader",
+      "date": 1787642299.5316348,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787642299.5316348
+        ]
+      ],
+      "first_date": 1786560550.5610578,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -530,56 +910,15 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
-        "name": "CardgazerTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 41.98,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Keep cardgazing!^^",
-      "date": 1783613253.7773993,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783172490.9877305
-        ],
-        [
-          0,
-          1783172490.9877305
-        ],
-        [
-          1,
-          1783613253.7773993
-        ]
-      ],
-      "first_date": 1782459775.834764,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
         "name": "TridentCards",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 42.09,
+      "price": 41.96,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -654,6 +993,58 @@
         [
           42.06,
           1785838705.5967703
+        ],
+        [
+          42.09,
+          1786341340.7107587
+        ],
+        [
+          42.2,
+          1786560550.5610578
+        ],
+        [
+          42.17,
+          1786768247.7974555
+        ],
+        [
+          42.2,
+          1786944674.6932292
+        ],
+        [
+          42.15,
+          1787116285.5855272
+        ],
+        [
+          42.09,
+          1787293283.9884746
+        ],
+        [
+          42.13,
+          1787473205.4943445
+        ],
+        [
+          42.14,
+          1787642299.5316348
+        ],
+        [
+          42.04,
+          1787820278.6363618
+        ],
+        [
+          42.13,
+          1787993612.8739147
+        ],
+        [
+          42.12,
+          1788219546.5568378
+        ],
+        [
+          42.04,
+          1788392596.628723
+        ],
+        [
+          41.97,
+          1788577873.1568234
         ]
       ],
       "previous_quantities": [
@@ -672,6 +1063,47 @@
         [
           1,
           1785234026.2689693
+        ]
+      ],
+      "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "CardgazerTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 41.98,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Keep cardgazing!^^",
+      "date": 1783613253.7773993,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783172490.9877305
+        ],
+        [
+          0,
+          1783172490.9877305
+        ],
+        [
+          1,
+          1783613253.7773993
         ]
       ],
       "first_date": 1782459775.834764,
@@ -776,6 +1208,39 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
+        "name": "TCGame1633",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 43.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Physical Store - Fast Shipping -",
+      "date": 1788392596.628723,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788392596.628723
+        ]
+      ],
+      "first_date": 1787993612.8739147,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
         "name": "sarahhuenerfauth",
         "country": "Item location: Germany"
       },
@@ -813,24 +1278,33 @@
         "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 44.9,
-      "quantity": 0,
+      "price": 44.3,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783613253.7773993,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1788754229.4767795,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          44.9,
+          1783613253.7773993
+        ]
+      ],
       "previous_quantities": [
         [
           1,
+          1783613253.7773993
+        ],
+        [
+          0,
           1783613253.7773993
         ]
       ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -875,11 +1349,11 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784716529.6482694,
-      "ended": true,
+      "date": 1788754229.4767795,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -891,9 +1365,132 @@
         [
           1,
           1784716529.6482694
+        ],
+        [
+          0,
+          1784716529.6482694
         ]
       ],
       "first_date": 1784161507.49778,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "xocolono",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787820278.6363618,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "TikTakkk",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Perfect Slive + Toploader",
+      "date": 1788392596.628723,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788392596.628723
+        ]
+      ],
+      "first_date": 1787993612.8739147,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Vitaroux",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788392596.628723,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1785234026.2689693
+        ],
+        [
+          55.0,
+          1786768247.7974555
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785234026.2689693
+        ],
+        [
+          0,
+          1785234026.2689693
+        ],
+        [
+          1,
+          1786768247.7974555
+        ],
+        [
+          0,
+          1786768247.7974555
+        ],
+        [
+          1,
+          1788392596.628723
+        ]
+      ],
+      "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -913,14 +1510,19 @@
       },
       "language": "Japanese",
       "price": 45.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NM- | 2 little white dots at the back",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "date": 1786944674.6932292,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786944674.6932292
+        ]
+      ],
       "first_date": 1785569960.195893,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1218,6 +1820,56 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
+        "name": "TCGHakiCards",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 46.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          47.95,
+          1784425125.2161338
+        ],
+        [
+          49.95,
+          1785234026.2689693
+        ],
+        [
+          47.95,
+          1787116285.5855272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784425125.2161338
+        ],
+        [
+          0,
+          1784425125.2161338
+        ]
+      ],
+      "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
         "name": "LezTune99",
         "country": "Item location: Germany"
       },
@@ -1251,20 +1903,25 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
-        "name": "hoangphuong",
-        "country": "Item location: Germany"
+        "name": "GiliLorcana",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 47.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Secured Shipping! Dms for pics",
-      "date": 1786341340.7107587,
-      "ended": false,
-      "new": true,
+      "comment": "",
+      "date": 1787642299.5316348,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786341340.7107587,
+      "previous_quantities": [
+        [
+          1,
+          1787642299.5316348
+        ]
+      ],
+      "first_date": 1786768247.7974555,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1279,38 +1936,29 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
-        "name": "TCGHakiCards",
-        "country": "Item location: Switzerland"
+        "name": "hoangphuong",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 47.95,
-      "quantity": 1,
+      "price": 47.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "comment": "Secured Shipping! Dms for pics",
+      "date": 1787473205.4943445,
+      "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          47.95,
-          1784425125.2161338
-        ],
-        [
-          49.95,
-          1785234026.2689693
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1784425125.2161338
+          1786341340.7107587
         ],
         [
-          0,
-          1784425125.2161338
+          2,
+          1787473205.4943445
         ]
       ],
-      "first_date": 1782459775.834764,
+      "first_date": 1786341340.7107587,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1335,7 +1983,7 @@
       "comment": "",
       "date": 1786221062.7975185,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1344,111 +1992,6 @@
         ]
       ],
       "first_date": 1785738070.1577706,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
-        "name": "BackSlash",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 48.09,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "TR6",
-      "date": 1786341340.7107587,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          47.81,
-          1782459775.834764
-        ],
-        [
-          47.74,
-          1782735123.0676358
-        ],
-        [
-          47.81,
-          1782830120.3181703
-        ],
-        [
-          48.08,
-          1783172490.9877305
-        ],
-        [
-          48.09,
-          1783354785.1898293
-        ],
-        [
-          48.21,
-          1783489595.1874735
-        ],
-        [
-          48.3,
-          1783613253.7773993
-        ],
-        [
-          48.36,
-          1783881899.0807657
-        ],
-        [
-          48.3,
-          1784005963.7396376
-        ],
-        [
-          48.29,
-          1784161507.49778
-        ],
-        [
-          48.5,
-          1784263650.2559195
-        ],
-        [
-          48.46,
-          1784581240.7384188
-        ],
-        [
-          48.34,
-          1784716529.6482694
-        ],
-        [
-          48.28,
-          1785058147.445089
-        ],
-        [
-          48.15,
-          1785234026.2689693
-        ],
-        [
-          48.01,
-          1785406566.0332813
-        ],
-        [
-          48.17,
-          1785569960.195893
-        ],
-        [
-          48.14,
-          1785738070.1577706
-        ],
-        [
-          48.05,
-          1785838705.5967703
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1532,11 +2075,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786560550.5610578
+        ],
+        [
+          0,
+          1786560550.5610578
+        ]
+      ],
       "first_date": 1786098934.5058162,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1560,7 +2112,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Little white point on back",
-      "date": 1785838705.5967703,
+      "date": 1787993612.8739147,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -1580,6 +2132,14 @@
         [
           1,
           1785838705.5967703
+        ],
+        [
+          0,
+          1785838705.5967703
+        ],
+        [
+          1,
+          1787993612.8739147
         ]
       ],
       "first_date": 1783354785.1898293,
@@ -1605,7 +2165,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1621,6 +2181,14 @@
         [
           2,
           1785234026.2689693
+        ],
+        [
+          1,
+          1787293283.9884746
+        ],
+        [
+          0,
+          1787293283.9884746
         ]
       ],
       "first_date": 1782459775.834764,
@@ -1646,7 +2214,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1683,7 +2251,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve to toploader",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1720,11 +2288,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787116285.5855272
+        ],
+        [
+          0,
+          1787116285.5855272
+        ]
+      ],
       "first_date": 1782459775.834764,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1811,11 +2388,11 @@
       },
       "language": "Japanese",
       "price": 50.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Showase",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "date": 1786944674.6932292,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1826,6 +2403,10 @@
         [
           0,
           1783881899.0807657
+        ],
+        [
+          1,
+          1786944674.6932292
         ]
       ],
       "first_date": 1782459775.834764,
@@ -1956,6 +2537,39 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
+        "name": "AntoineMarthy",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 54.9,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "Booster to sleeve",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1787993612.8739147
+        ]
+      ],
+      "first_date": 1787820278.6363618,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
         "name": "Milk85",
         "country": "Item location: Germany"
       },
@@ -2011,48 +2625,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
-        "name": "Vitaroux",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 55.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1786341340.7107587,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1785234026.2689693
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1785234026.2689693
-        ],
-        [
-          0,
-          1785234026.2689693
-        ]
-      ],
-      "first_date": 1782459775.834764,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2234,14 +2806,27 @@
       },
       "language": "Japanese",
       "price": 59.49,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "date": 1787642299.5316348,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786560550.5610578
+        ],
+        [
+          0,
+          1786560550.5610578
+        ],
+        [
+          1,
+          1787642299.5316348
+        ]
+      ],
       "first_date": 1783881899.0807657,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2262,16 +2847,20 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Safe Storage Box / Fast Shipping / Ask for Pics",
-      "date": 1785058147.445089,
-      "ended": true,
+      "date": 1788754229.4767795,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785058147.445089
+        ],
+        [
+          0,
           1785058147.445089
         ]
       ],
@@ -2335,8 +2924,8 @@
       "price": 60.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Booster->Sleeve->Toploader",
-      "date": 1786341340.7107587,
+      "comment": "RELISTED! Booster->Sleeve->Toploader",
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2345,8 +2934,45 @@
           1720078817.3044605
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786560550.5610578
+        ],
+        [
+          0,
+          1786560550.5610578
+        ]
+      ],
       "first_date": 1712643082.5973094,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Daniel251297",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788754229.4767795,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2491,7 +3117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2566,9 +3192,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-11",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786341340.7107587,
@@ -2594,7 +3220,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2628,6 +3254,52 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1713505598.8921762,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Galactus-Roma",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 67.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "~#| Order more. save on shipping",
+      "date": 1788392596.628723,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          66.99,
+          1786944674.6932292
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786944674.6932292
+        ],
+        [
+          0,
+          1786944674.6932292
+        ],
+        [
+          1,
+          1788392596.628723
+        ]
+      ],
+      "first_date": 1786768247.7974555,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2711,9 +3383,9 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-11",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786341340.7107587,
@@ -2739,7 +3411,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2842,7 +3514,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2872,20 +3544,52 @@
       },
       "language": "Japanese",
       "price": 69.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pictures",
-      "date": 1786098934.5058162,
-      "ended": true,
+      "date": 1788754229.4767795,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1786098934.5058162
+        ],
+        [
+          0,
+          1786098934.5058162
         ]
       ],
       "first_date": 1785406566.0332813,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Pbooy1",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Check Out My Other Stuff",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788219546.5568378,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2908,7 +3612,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2969,7 +3673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2997,11 +3701,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787293283.9884746
+        ],
+        [
+          0,
+          1787293283.9884746
+        ]
+      ],
       "first_date": 1785406566.0332813,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3086,7 +3799,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm or better. booster to sleeve!",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3415,12 +4128,12 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 179.99,
-      "quantity": 1,
+      "price": 159.99,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10",
-      "date": 1786341340.7107587,
-      "ended": false,
+      "comment": "RELISTED! PSA10",
+      "date": 1787993612.8739147,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3434,6 +4147,14 @@
         [
           189.99,
           1785234026.2689693
+        ],
+        [
+          179.99,
+          1786341340.7107587
+        ],
+        [
+          174.99,
+          1787642299.5316348
         ]
       ],
       "previous_quantities": [
@@ -3444,12 +4165,121 @@
         [
           0,
           1785234026.2689693
+        ],
+        [
+          1,
+          1786341340.7107587
+        ],
+        [
+          0,
+          1786341340.7107587
+        ],
+        [
+          1,
+          1787642299.5316348
+        ],
+        [
+          0,
+          1787642299.5316348
+        ],
+        [
+          1,
+          1787993612.8739147
         ]
       ],
       "first_date": 1784807682.6077833,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "cardlegendsde",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10 / Differenzbesteuert",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788754229.4767795,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Das-Goldhaus",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 235.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          250.0,
+          1787116285.5855272
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782459775.834764,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charlotte Linlin (OP03-114)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
+      "seller": {
+        "name": "Waldbeer",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - quick shipping",
+      "date": 1788754229.4767795,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787293283.9884746,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3469,7 +4299,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3494,34 +4324,6 @@
       "card": "Charlotte Linlin (OP03-114)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
       "seller": {
-        "name": "Das-Goldhaus",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1786341340.7107587,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782459775.834764,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charlotte Linlin (OP03-114)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Charlotte-Linlin-OP03-114",
-      "seller": {
         "name": "Magellan95",
         "country": "Item location: Belgium"
       },
@@ -3530,7 +4332,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1786341340.7107587,
+      "date": 1788754229.4767795,
       "ended": false,
       "new": false,
       "previous_prices": [],

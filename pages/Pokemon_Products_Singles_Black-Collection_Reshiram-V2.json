@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
+  "available": 12,
   "available_graded": 0,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -243,7 +243,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -267,14 +267,19 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 39.95,
+      "price": 34.9,
       "quantity": 1,
       "condition": "PO",
       "comment": "Ug Blu",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          39.95,
+          1787801003.6233332
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1777222746.892649,
       "last_date": 0.0,
@@ -393,7 +398,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "FRONT GOOD / BACK PL",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -418,11 +423,11 @@
       },
       "language": "Japanese",
       "price": 55.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PL",
       "comment": "New Cards every week!",
-      "date": 1784668904.0453918,
-      "ended": true,
+      "date": 1788709758.0251203,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -436,6 +441,10 @@
         ],
         [
           1,
+          1784668904.0453918
+        ],
+        [
+          0,
           1784668904.0453918
         ]
       ],
@@ -487,6 +496,34 @@
       "card": "Reshiram  (BW1b 055)",
       "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
       "seller": {
+        "name": "Gemvisory",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.99,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "101",
+      "date": 1788709758.0251203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786748864.4717636,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Reshiram  (BW1b 055)",
+      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
+      "seller": {
         "name": "D4RkHappy",
         "country": "Item location: France"
       },
@@ -495,7 +532,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "MP Photos",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -628,14 +665,19 @@
       },
       "language": "Japanese",
       "price": 89.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "back good",
-      "date": 1786540417.4297805,
-      "ended": false,
+      "date": 1787273673.2150412,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787273673.2150412
+        ]
+      ],
       "first_date": 1785011080.409647,
       "last_date": 0.0,
       "price_is_new": false,
@@ -697,6 +739,39 @@
       "card": "Reshiram  (BW1b 055)",
       "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
       "seller": {
+        "name": "TGCardshop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Little scratch. Sleeved. Toploader. Ask for pics.",
+      "date": 1788709758.0251203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1788145943.3049088
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783851125.199726,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Reshiram  (BW1b 055)",
+      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
+      "seller": {
         "name": "DavidLiu",
         "country": "Item location: Netherlands"
       },
@@ -707,7 +782,7 @@
       "comment": "GRADING 8. Daily shipping(except Sunday)~",
       "date": 1786323286.5056493,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           110.0,
@@ -727,7 +802,7 @@
       "first_date": 1784668904.0453918,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -747,7 +822,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -798,34 +873,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Reshiram  (BW1b 055)",
-      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
-      "seller": {
-        "name": "TGCardshop",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 100.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Little scratch. Sleeved. Toploader. Ask for pics.",
-      "date": 1786540417.4297805,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783851125.199726,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -907,11 +954,11 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786201300.0120656,
-      "ended": true,
+      "date": 1788709758.0251203,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -925,6 +972,10 @@
         ],
         [
           1,
+          1786201300.0120656
+        ],
+        [
+          0,
           1786201300.0120656
         ]
       ],
@@ -1013,14 +1064,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 111.0,
+      "price": 130.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "gesleevt + Toploader",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          111.0,
+          1787453394.5090644
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -1062,7 +1118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "UNLIMITED NM- Ask for Pics! Sleeve+Toploader",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1095,7 +1151,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786540417.4297805,
+      "date": 1788709758.0251203,
       "ended": false,
       "new": false,
       "previous_prices": [],

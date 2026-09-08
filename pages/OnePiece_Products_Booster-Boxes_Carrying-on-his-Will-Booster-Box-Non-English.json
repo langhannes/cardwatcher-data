@@ -10,10 +10,10 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 101,
+  "available": 127,
   "available_graded": 0,
-  "sold": 4,
-  "inserted": 7,
+  "sold": 9,
+  "inserted": 5,
   "listings": [
     {
       "card": "Carrying on his Will Booster Box (Non-English)",
@@ -24,11 +24,11 @@
       },
       "language": "S-Chinese",
       "price": 29.95,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Slim Box 6 pax per box / Exclusive Chinese",
       "date": 1786549422.3237426,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -64,6 +64,10 @@
         [
           1,
           1785802501.0357494
+        ],
+        [
+          2,
+          1786549422.3237426
         ]
       ],
       "first_date": 1781914565.3347702,
@@ -100,34 +104,6 @@
         ]
       ],
       "first_date": 1783184381.366447,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": true,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "HelsingeBK",
-        "country": "Item location: Denmark"
-      },
-      "language": "S-Chinese",
-      "price": 33.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Slim box 6 packs per box",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782111635.5330381,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -683,55 +659,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Tremorion",
-        "country": "Item location: Austria"
-      },
-      "language": "S-Chinese",
-      "price": 40.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP Slim Box 6 Packs per box",
-      "date": 1786086047.096184,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1784491208.6041086
-        ],
-        [
-          1,
-          1784691730.273108
-        ],
-        [
-          3,
-          1784783273.0903776
-        ],
-        [
-          2,
-          1785802501.0357494
-        ],
-        [
-          1,
-          1786086047.096184
-        ]
-      ],
-      "first_date": 1783501165.437621,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": true,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "CardHubShopTCG",
         "country": "Item location: Spain"
       },
@@ -782,6 +709,43 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Nikos93",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 45.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Slim Packs mit 6 Booster. unmapped. viele vorhanden",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1788381246.486706
+        ],
+        [
+          1,
+          1788539684.6848075
+        ]
+      ],
+      "first_date": 1788381246.486706,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1994,6 +1958,138 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "Tremorion",
+        "country": "Item location: Austria"
+      },
+      "language": "S-Chinese",
+      "price": 70.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "OVP Slim Box 6 Packs per box",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1786086047.096184
+        ],
+        [
+          60.0,
+          1787631779.8807871
+        ],
+        [
+          62.0,
+          1787983035.8297663
+        ],
+        [
+          80.0,
+          1788539684.6848075
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1784491208.6041086
+        ],
+        [
+          1,
+          1784691730.273108
+        ],
+        [
+          3,
+          1784783273.0903776
+        ],
+        [
+          2,
+          1785802501.0357494
+        ],
+        [
+          1,
+          1786086047.096184
+        ],
+        [
+          0,
+          1786086047.096184
+        ],
+        [
+          2,
+          1787809835.8249557
+        ],
+        [
+          1,
+          1787983035.8297663
+        ]
+      ],
+      "first_date": 1783501165.437621,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": true,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Jesusarkoss",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 70.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Perfecto estado",
+      "date": 1788208581.617602,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1786549422.3237426
+        ],
+        [
+          65.0,
+          1786757249.9723923
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1786549422.3237426
+        ],
+        [
+          1,
+          1786757249.9723923
+        ],
+        [
+          0,
+          1786757249.9723923
+        ],
+        [
+          1,
+          1788208581.617602
+        ]
+      ],
+      "first_date": 1786331503.467203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "Marcheddu23",
         "country": "Item location: Italy"
       },
@@ -2234,16 +2330,78 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "HelsingeBK",
+        "country": "Item location: Denmark"
+      },
+      "language": "S-Chinese",
+      "price": 75.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Slim Box 6 Packs per box",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          33.0,
+          1786757249.9723923
+        ],
+        [
+          65.0,
+          1787104890.808951
+        ],
+        [
+          58.0,
+          1787631779.8807871
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1786757249.9723923
+        ],
+        [
+          1,
+          1787104890.808951
+        ],
+        [
+          0,
+          1787104890.808951
+        ],
+        [
+          2,
+          1787631779.8807871
+        ],
+        [
+          0,
+          1787631779.8807871
+        ]
+      ],
+      "first_date": 1782111635.5330381,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": true,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "Stennu75",
         "country": "Item location: Estonia"
       },
       "language": "S-Chinese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Original & Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1788208581.617602,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2303,6 +2461,10 @@
         [
           2,
           1782367485.1732934
+        ],
+        [
+          1,
+          1788208581.617602
         ]
       ],
       "first_date": 1769617416.800458,
@@ -2325,43 +2487,20 @@
       },
       "language": "S-Chinese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Original & Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1788208581.617602,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788208581.617602
+        ]
+      ],
       "first_date": 1782517821.201013,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "Jesusarkoss",
-        "country": "Item location: Spain"
-      },
-      "language": "S-Chinese",
-      "price": 75.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "En perfecto estado",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786331503.467203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2732,6 +2871,56 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "Jroel1965",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Chinese OP13 - ovp.",
+      "date": 1787809835.8249557,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          55.0,
+          1787104890.808951
+        ],
+        [
+          100.0,
+          1787462288.2100127
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787462288.2100127
+        ],
+        [
+          1,
+          1787631779.8807871
+        ],
+        [
+          2,
+          1787809835.8249557
+        ]
+      ],
+      "first_date": 1787104890.808951,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "FlashStore",
         "country": "Item location: Spain"
       },
@@ -2808,11 +2997,11 @@
       },
       "language": "S-Chinese",
       "price": 83.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed / protect and fast Shipping TCGLEVEL",
       "date": 1786549422.3237426,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2868,12 +3057,16 @@
         [
           3,
           1786331503.467203
+        ],
+        [
+          1,
+          1786549422.3237426
         ]
       ],
       "first_date": 1777273906.2635312,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2946,11 +3139,11 @@
       },
       "language": "S-Chinese",
       "price": 85.0,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed",
       "date": 1786549422.3237426,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2981,6 +3174,10 @@
         [
           0,
           1783624807.3820138
+        ],
+        [
+          4,
+          1786549422.3237426
         ]
       ],
       "first_date": 1777634492.9518673,
@@ -3225,70 +3422,16 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Meisterball33",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 89.5,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "OVP Sealed | inkl.19%MwSt.",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          91.99,
-          1781706491.1839051
-        ]
-      ],
-      "previous_quantities": [
-        [
-          5,
-          1783624807.3820138
-        ],
-        [
-          3,
-          1783979810.3093586
-        ],
-        [
-          5,
-          1785802501.0357494
-        ],
-        [
-          3,
-          1786210236.4595797
-        ],
-        [
-          2,
-          1786331503.467203
-        ]
-      ],
-      "first_date": 1779391500.95759,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "Reherischef",
         "country": "Item location: Germany"
       },
       "language": "S-Chinese",
       "price": 89.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1787282184.8910112,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3324,6 +3467,10 @@
         [
           2,
           1784691730.273108
+        ],
+        [
+          1,
+          1787282184.8910112
         ]
       ],
       "first_date": 1777544056.8919213,
@@ -3552,6 +3699,72 @@
       ],
       "previous_quantities": [],
       "first_date": 1768771127.5707726,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Anjoal",
+        "country": "Item location: Italy"
+      },
+      "language": "Korean",
+      "price": 90.0,
+      "quantity": 7,
+      "condition": "NM",
+      "comment": "OVP SEALED / CASE AVAILABLE",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          115.0,
+          1786331503.467203
+        ],
+        [
+          95.0,
+          1787809835.8249557
+        ]
+      ],
+      "previous_quantities": [
+        [
+          12,
+          1785208500.9165616
+        ],
+        [
+          9,
+          1785381635.4632175
+        ],
+        [
+          12,
+          1786210236.4595797
+        ],
+        [
+          11,
+          1786331503.467203
+        ],
+        [
+          8,
+          1786933141.3295426
+        ],
+        [
+          7,
+          1787104890.808951
+        ],
+        [
+          8,
+          1788381246.486706
+        ]
+      ],
+      "first_date": 1785032818.721269,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4150,14 +4363,35 @@
       },
       "language": "Korean",
       "price": 94.95,
-      "quantity": 9,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sicherer Versand bei einem der größten TCG Shops in Deutschland :)",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": true,
+      "date": 1788381246.486706,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          9,
+          1787282184.8910112
+        ],
+        [
+          7,
+          1787462288.2100127
+        ],
+        [
+          6,
+          1787631779.8807871
+        ],
+        [
+          7,
+          1787809835.8249557
+        ],
+        [
+          3,
+          1788381246.486706
+        ]
+      ],
       "first_date": 1786549422.3237426,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4229,84 +4463,25 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Anjoal",
-        "country": "Item location: Italy"
+        "name": "Duki11",
+        "country": "Item location: Austria"
       },
       "language": "Korean",
       "price": 95.0,
-      "quantity": 8,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "OVP SEALED / CASE AVAILABLE",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "comment": "Sealed / OVP",
+      "date": 1787462288.2100127,
+      "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          115.0,
-          1786331503.467203
-        ]
-      ],
-      "previous_quantities": [
-        [
-          12,
-          1785208500.9165616
-        ],
-        [
-          9,
-          1785381635.4632175
-        ],
-        [
-          12,
-          1786210236.4595797
-        ],
-        [
-          11,
-          1786331503.467203
-        ]
-      ],
-      "first_date": 1785032818.721269,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -3,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "Santo-Sama",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 95.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "perfect condition - parfait état - fast shipping - low price",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          80.0,
-          1779788920.5678713
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1779306167.0162065
-        ],
-        [
-          0,
-          1779306167.0162065
+          1787462288.2100127
         ]
       ],
-      "first_date": 1777475584.9696238,
+      "first_date": 1787282184.8910112,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5265,34 +5440,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Santus95",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 99.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1775175645.3511825,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1770824724.0198388,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "PortaCards",
         "country": "Item location: Germany"
       },
@@ -5343,11 +5490,11 @@
       },
       "language": "S-Chinese",
       "price": 99.95,
-      "quantity": 5,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Sicherer Versand bei einem der größten TCG Shops in Deutschland :)",
       "date": 1786549422.3237426,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5427,12 +5574,16 @@
         [
           0,
           1786086047.096184
+        ],
+        [
+          5,
+          1786549422.3237426
         ]
       ],
       "first_date": 1770322588.8825502,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 5,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true,
@@ -5720,6 +5871,52 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "Santo-Sama",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "perfect condition - parfait état - fast shipping - low price",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          80.0,
+          1779788920.5678713
+        ],
+        [
+          95.0,
+          1788208581.617602
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779306167.0162065
+        ],
+        [
+          0,
+          1779306167.0162065
+        ]
+      ],
+      "first_date": 1777475584.9696238,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "Nacho131306",
         "country": "Item location: Spain"
       },
@@ -5910,51 +6107,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1773234903.640845,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "Berger121",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 104.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed. Kleinunternehmer Regelung",
-      "date": 1773912783.2451715,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          84.99,
-          1768771127.5707726
-        ],
-        [
-          98.99,
-          1769762453.324658
-        ],
-        [
-          107.59,
-          1770322588.8825502
-        ],
-        [
-          108.99,
-          1771908334.024482
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1768771127.5707726,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6331,6 +6483,68 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770747229.719758,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Meisterball33",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 109.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Sealed | inkl.19%MwSt.",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          91.99,
+          1781706491.1839051
+        ],
+        [
+          89.5,
+          1787983035.8297663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          5,
+          1783624807.3820138
+        ],
+        [
+          3,
+          1783979810.3093586
+        ],
+        [
+          5,
+          1785802501.0357494
+        ],
+        [
+          3,
+          1786210236.4595797
+        ],
+        [
+          2,
+          1786331503.467203
+        ],
+        [
+          3,
+          1787809835.8249557
+        ]
+      ],
+      "first_date": 1779391500.95759,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7006,10 +7220,10 @@
       },
       "language": "S-Chinese",
       "price": 119.99,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! OVP - SEALED",
-      "date": 1786549422.3237426,
+      "comment": "OVP - SEALED",
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7066,12 +7280,16 @@
         [
           0,
           1786086047.096184
+        ],
+        [
+          2,
+          1787809835.8249557
         ]
       ],
       "first_date": 1778011519.977818,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7912,39 +8130,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Duki11",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 125.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed / OVP",
-      "date": 1776648090.77153,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          130.0,
-          1776361806.5015328
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1776361806.5015328,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "Gengcards-SLO",
         "country": "Item location: Slovenia"
       },
@@ -8006,14 +8191,19 @@
       },
       "language": "Japanese",
       "price": 130.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Original + Sealed. Versand aus Deutschland",
       "date": 1786549422.3237426,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786549422.3237426
+        ]
+      ],
       "first_date": 1786549422.3237426,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8329,6 +8519,60 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "MewGalaxy",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 132.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Perfect Sealed",
+      "date": 1788539684.6848075,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          129.0,
+          1780969410.990084
+        ],
+        [
+          145.0,
+          1784396390.7428122
+        ],
+        [
+          155.0,
+          1788208581.617602
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1780862699.3925416
+        ],
+        [
+          1,
+          1780969410.990084
+        ],
+        [
+          2,
+          1788539684.6848075
+        ]
+      ],
+      "first_date": 1780862699.3925416,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "Dimaxzy",
         "country": "Item location: Germany"
       },
@@ -8353,6 +8597,47 @@
         ]
       ],
       "first_date": 1777273906.2635312,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Keidex",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 135.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP - SEALED",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          160.0,
+          1780862699.3925416
+        ],
+        [
+          150.0,
+          1787282184.8910112
+        ],
+        [
+          140.0,
+          1787631779.8807871
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780513120.5359507,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8724,6 +9009,121 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "HiTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 137.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! free shipping/  SEALED",
+      "date": 1787809835.8249557,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          139.0,
+          1787104890.808951
+        ],
+        [
+          145.0,
+          1787282184.8910112
+        ],
+        [
+          142.0,
+          1787462288.2100127
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787462288.2100127
+        ],
+        [
+          0,
+          1787462288.2100127
+        ],
+        [
+          2,
+          1787809835.8249557
+        ]
+      ],
+      "first_date": 1786933141.3295426,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Kekkkk",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 137.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "free shipping/ OVP",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788713282.0462675,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "RetroGameCollectorBE",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 138.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1787983035.8297663,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787983035.8297663
+        ]
+      ],
+      "first_date": 1787282184.8910112,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "mrmtc",
         "country": "Item location: Germany"
       },
@@ -8882,6 +9282,139 @@
         ]
       ],
       "first_date": 1778813698.342117,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "ChiaraTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 138.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Box sigillati - Spedizione veloce",
+      "date": 1788208581.617602,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          178.0,
+          1786549422.3237426
+        ],
+        [
+          167.0,
+          1787809835.8249557
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788208581.617602
+        ]
+      ],
+      "first_date": 1786210236.4595797,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "MasterSien",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 139.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1788208581.617602,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          140.0,
+          1786086047.096184
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1785381635.4632175
+        ],
+        [
+          1,
+          1785702954.8370404
+        ],
+        [
+          2,
+          1786086047.096184
+        ],
+        [
+          0,
+          1786086047.096184
+        ],
+        [
+          1,
+          1787809835.8249557
+        ],
+        [
+          2,
+          1788208581.617602
+        ]
+      ],
+      "first_date": 1785032818.721269,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Luisybeta94",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 139.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1787282184.8910112,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1787282184.8910112
+        ]
+      ],
+      "first_date": 1787104890.808951,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9111,6 +9644,452 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "Zetsu25z",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.8,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          132.0,
+          1776944894.85293
+        ],
+        [
+          134.0,
+          1777386579.3306131
+        ],
+        [
+          132.0,
+          1777634492.9518673
+        ],
+        [
+          138.0,
+          1778378055.802142
+        ],
+        [
+          138.6,
+          1778464219.1317835
+        ],
+        [
+          138.4,
+          1778738907.8821554
+        ],
+        [
+          137.98,
+          1778891698.5723364
+        ],
+        [
+          136.98,
+          1779156568.1800957
+        ],
+        [
+          136.0,
+          1780294166.749723
+        ],
+        [
+          138.0,
+          1780370733.5430992
+        ],
+        [
+          140.0,
+          1780969410.990084
+        ],
+        [
+          158.0,
+          1783979810.3093586
+        ],
+        [
+          156.0,
+          1784491208.6041086
+        ],
+        [
+          146.0,
+          1786086047.096184
+        ],
+        [
+          144.8,
+          1786331503.467203
+        ],
+        [
+          144.98,
+          1786757249.9723923
+        ],
+        [
+          148.8,
+          1787631779.8807871
+        ],
+        [
+          148.6,
+          1788208581.617602
+        ],
+        [
+          149.8,
+          1788381246.486706
+        ],
+        [
+          146.8,
+          1788539684.6848075
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1777795167.0765717
+        ],
+        [
+          1,
+          1777931074.7159736
+        ],
+        [
+          2,
+          1778599075.5031164
+        ],
+        [
+          1,
+          1778891698.5723364
+        ],
+        [
+          2,
+          1779029482.295379
+        ],
+        [
+          1,
+          1779156568.1800957
+        ],
+        [
+          0,
+          1779156568.1800957
+        ],
+        [
+          2,
+          1779868456.6516495
+        ],
+        [
+          1,
+          1780005930.875475
+        ],
+        [
+          2,
+          1780083600.0513022
+        ],
+        [
+          0,
+          1780083600.0513022
+        ],
+        [
+          1,
+          1780370733.5430992
+        ],
+        [
+          2,
+          1780513120.5359507
+        ],
+        [
+          0,
+          1780513120.5359507
+        ],
+        [
+          1,
+          1780969410.990084
+        ],
+        [
+          0,
+          1780969410.990084
+        ],
+        [
+          2,
+          1783184381.366447
+        ],
+        [
+          0,
+          1783184381.366447
+        ],
+        [
+          2,
+          1783624807.3820138
+        ],
+        [
+          1,
+          1783979810.3093586
+        ],
+        [
+          2,
+          1784136175.4384823
+        ],
+        [
+          0,
+          1784136175.4384823
+        ],
+        [
+          2,
+          1784491208.6041086
+        ],
+        [
+          0,
+          1784491208.6041086
+        ],
+        [
+          2,
+          1785802501.0357494
+        ],
+        [
+          1,
+          1786210236.4595797
+        ]
+      ],
+      "first_date": 1776877569.9874218,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Santus95",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 139.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          99.9,
+          1775175645.3511825
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775175645.3511825
+        ]
+      ],
+      "first_date": 1770824724.0198388,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "TAKARATCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 139.95,
+      "quantity": 30,
+      "condition": "NM",
+      "comment": "Sealed // More One Piece Available // B2B Possible",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          134.95,
+          1788208581.617602
+        ]
+      ],
+      "previous_quantities": [
+        [
+          34,
+          1788208581.617602
+        ],
+        [
+          32,
+          1788381246.486706
+        ]
+      ],
+      "first_date": 1788208581.617602,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Ecclesia-II",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 139.99,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "OVP SEALED. SLIGHT DENT",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          119.99,
+          1770987746.9096863
+        ],
+        [
+          164.99,
+          1788381246.486706
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1770987746.9096863
+        ],
+        [
+          12,
+          1778738907.8821554
+        ],
+        [
+          11,
+          1779156568.1800957
+        ],
+        [
+          9,
+          1780969410.990084
+        ],
+        [
+          5,
+          1783365899.1283298
+        ],
+        [
+          4,
+          1783501165.437621
+        ],
+        [
+          5,
+          1786086047.096184
+        ],
+        [
+          0,
+          1786086047.096184
+        ],
+        [
+          5,
+          1788539684.6848075
+        ]
+      ],
+      "first_date": 1770322588.8825502,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "PiRoGammaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "inkl. 19% | OVP. sealed | B2B möglich",
+      "date": 1786933141.3295426,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          114.5,
+          1770987746.9096863
+        ],
+        [
+          146.99,
+          1780862699.3925416
+        ],
+        [
+          149.99,
+          1783365899.1283298
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1770987746.9096863
+        ],
+        [
+          9,
+          1780370733.5430992
+        ],
+        [
+          0,
+          1780370733.5430992
+        ],
+        [
+          2,
+          1780862699.3925416
+        ],
+        [
+          0,
+          1780862699.3925416
+        ],
+        [
+          3,
+          1783365899.1283298
+        ],
+        [
+          0,
+          1783365899.1283298
+        ],
+        [
+          4,
+          1786757249.9723923
+        ],
+        [
+          3,
+          1786933141.3295426
+        ]
+      ],
+      "first_date": 1769762453.324658,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "RaveCardsGbR",
         "country": "Item location: Germany"
       },
@@ -9232,10 +10211,10 @@
       },
       "language": "Japanese",
       "price": 140.0,
-      "quantity": 2,
+      "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9260,9 +10239,117 @@
         [
           0,
           1785032818.721269
+        ],
+        [
+          2,
+          1786549422.3237426
+        ],
+        [
+          4,
+          1786757249.9723923
+        ],
+        [
+          3,
+          1786933141.3295426
+        ],
+        [
+          4,
+          1787983035.8297663
+        ],
+        [
+          3,
+          1788208581.617602
         ]
       ],
       "first_date": 1766529239.7690325,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "m1wy-TCG",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 140.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fast ship",
+      "date": 1787462288.2100127,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          98.99,
+          1775861837.2941697
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775861837.2941697
+        ],
+        [
+          1,
+          1787462288.2100127
+        ]
+      ],
+      "first_date": 1774364986.8408873,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Duki11",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 140.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! OVP",
+      "date": 1787104890.808951,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          130.0,
+          1776361806.5015328
+        ],
+        [
+          125.0,
+          1776648090.77153
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776648090.77153
+        ],
+        [
+          1,
+          1787104890.808951
+        ]
+      ],
+      "first_date": 1776361806.5015328,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9282,11 +10369,11 @@
       },
       "language": "Japanese",
       "price": 140.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bin Selbstsammler siehe Bild",
       "date": 1786549422.3237426,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9294,87 +10381,13 @@
           1786331503.467203
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1786331503.467203,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "m1wy-TCG",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 140.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Fast ship",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          98.99,
-          1775861837.2941697
-        ]
-      ],
       "previous_quantities": [
-        [
-          0,
-          1775861837.2941697
-        ]
-      ],
-      "first_date": 1774364986.8408873,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "MasterSien",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 140.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1786086047.096184,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1785381635.4632175
-        ],
         [
           1,
-          1785702954.8370404
-        ],
-        [
-          2,
-          1786086047.096184
+          1786549422.3237426
         ]
       ],
-      "first_date": 1785032818.721269,
+      "first_date": 1786331503.467203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9587,6 +10600,34 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "RaulSalci",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 141.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "JAP. fast shipping. OVP Sealed.",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787282184.8910112,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "starz-collectibles",
         "country": "Item location: Germany"
       },
@@ -9688,7 +10729,7 @@
       "comment": "Ovp",
       "date": 1786331503.467203,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           149.98,
@@ -9708,7 +10749,49 @@
       "first_date": 1786086047.096184,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "BlackHulk27",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 143.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1787631779.8807871,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          144.99,
+          1786549422.3237426
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787104890.808951
+        ],
+        [
+          1,
+          1787631779.8807871
+        ]
+      ],
+      "first_date": 1786210236.4595797,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9797,228 +10880,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1770038331.898876,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "Zetsu25z",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 144.98,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          132.0,
-          1776944894.85293
-        ],
-        [
-          134.0,
-          1777386579.3306131
-        ],
-        [
-          132.0,
-          1777634492.9518673
-        ],
-        [
-          138.0,
-          1778378055.802142
-        ],
-        [
-          138.6,
-          1778464219.1317835
-        ],
-        [
-          138.4,
-          1778738907.8821554
-        ],
-        [
-          137.98,
-          1778891698.5723364
-        ],
-        [
-          136.98,
-          1779156568.1800957
-        ],
-        [
-          136.0,
-          1780294166.749723
-        ],
-        [
-          138.0,
-          1780370733.5430992
-        ],
-        [
-          140.0,
-          1780969410.990084
-        ],
-        [
-          158.0,
-          1783979810.3093586
-        ],
-        [
-          156.0,
-          1784491208.6041086
-        ],
-        [
-          146.0,
-          1786086047.096184
-        ],
-        [
-          144.8,
-          1786331503.467203
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1777795167.0765717
-        ],
-        [
-          1,
-          1777931074.7159736
-        ],
-        [
-          2,
-          1778599075.5031164
-        ],
-        [
-          1,
-          1778891698.5723364
-        ],
-        [
-          2,
-          1779029482.295379
-        ],
-        [
-          1,
-          1779156568.1800957
-        ],
-        [
-          0,
-          1779156568.1800957
-        ],
-        [
-          2,
-          1779868456.6516495
-        ],
-        [
-          1,
-          1780005930.875475
-        ],
-        [
-          2,
-          1780083600.0513022
-        ],
-        [
-          0,
-          1780083600.0513022
-        ],
-        [
-          1,
-          1780370733.5430992
-        ],
-        [
-          2,
-          1780513120.5359507
-        ],
-        [
-          0,
-          1780513120.5359507
-        ],
-        [
-          1,
-          1780969410.990084
-        ],
-        [
-          0,
-          1780969410.990084
-        ],
-        [
-          2,
-          1783184381.366447
-        ],
-        [
-          0,
-          1783184381.366447
-        ],
-        [
-          2,
-          1783624807.3820138
-        ],
-        [
-          1,
-          1783979810.3093586
-        ],
-        [
-          2,
-          1784136175.4384823
-        ],
-        [
-          0,
-          1784136175.4384823
-        ],
-        [
-          2,
-          1784491208.6041086
-        ],
-        [
-          0,
-          1784491208.6041086
-        ],
-        [
-          2,
-          1785802501.0357494
-        ],
-        [
-          1,
-          1786210236.4595797
-        ]
-      ],
-      "first_date": 1776877569.9874218,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "BlackHulk27",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 144.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786210236.4595797,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10268,6 +11129,125 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1776555326.1987796,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Sadri123",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 148.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788381246.486706,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "rbkxrk",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 148.75,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "20 Stück vorhanden gerne alle aufeinmal",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1787631779.8807871
+        ],
+        [
+          0,
+          1787631779.8807871
+        ]
+      ],
+      "first_date": 1787631779.8807871,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "AAS27",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 149.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP Sealed",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          125.0,
+          1776944894.85293
+        ],
+        [
+          149.0,
+          1786331503.467203
+        ],
+        [
+          154.0,
+          1786757249.9723923
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776944894.85293
+        ],
+        [
+          1,
+          1786757249.9723923
+        ],
+        [
+          0,
+          1786757249.9723923
+        ]
+      ],
+      "first_date": 1776648090.77153,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10603,19 +11583,64 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 149.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP - SEALED",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787983035.8297663,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "DrisoCard",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 149.99,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1787809835.8249557,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          4,
+          1786757249.9723923
+        ],
+        [
+          3,
+          1787104890.808951
+        ],
+        [
+          2,
+          1787462288.2100127
+        ],
+        [
+          1,
+          1787809835.8249557
+        ]
+      ],
       "first_date": 1786086047.096184,
       "last_date": 0.0,
       "price_is_new": false,
@@ -10631,54 +11656,25 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "PiRoGammaTCG",
+        "name": "Muchachoo",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 149.99,
       "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! inkl. 19% | OVP. sealed | B2B möglich",
-      "date": 1783365899.1283298,
+      "comment": "",
+      "date": 1787462288.2100127,
       "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          114.5,
-          1770987746.9096863
-        ],
-        [
-          146.99,
-          1780862699.3925416
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
-          0,
-          1770987746.9096863
-        ],
-        [
-          9,
-          1780370733.5430992
-        ],
-        [
-          0,
-          1780370733.5430992
-        ],
-        [
-          2,
-          1780862699.3925416
-        ],
-        [
-          0,
-          1780862699.3925416
-        ],
-        [
-          3,
-          1783365899.1283298
+          1,
+          1787462288.2100127
         ]
       ],
-      "first_date": 1769762453.324658,
+      "first_date": 1787462288.2100127,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10726,6 +11722,109 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "RequiemZero",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Sealed Safe and Fast Shipping",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          85.0,
+          1768160446.6506183
+        ],
+        [
+          90.0,
+          1768771127.5707726
+        ],
+        [
+          1200.0,
+          1769153939.3134553
+        ],
+        [
+          125.0,
+          1770228840.7072399
+        ],
+        [
+          200.0,
+          1787462288.2100127
+        ],
+        [
+          170.0,
+          1787631779.8807871
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1770228840.7072399
+        ],
+        [
+          6,
+          1787462288.2100127
+        ],
+        [
+          1,
+          1787631779.8807871
+        ],
+        [
+          0,
+          1787631779.8807871
+        ]
+      ],
+      "first_date": 1768160446.6506183,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "phdargaud",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          160.0,
+          1788539684.6848075
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783184381.366447,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "eliav00",
         "country": "Item location: Germany"
       },
@@ -10734,7 +11833,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10788,39 +11887,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Keidex",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP - SEALED",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          160.0,
-          1780862699.3925416
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1780513120.5359507,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "Solosomosodio",
         "country": "Item location: Spain"
       },
@@ -10829,7 +11895,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed available 2 units",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10871,6 +11937,34 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "SanFumaN",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788539684.6848075,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "CardiCards",
         "country": "Item location: Germany"
       },
@@ -10881,7 +11975,7 @@
       "comment": "Displayware aus Japan. alle Hits möglich!",
       "date": 1786331503.467203,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -10892,7 +11986,7 @@
       "first_date": 1786210236.4595797,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11098,48 +12192,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "AAS27",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 154.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          125.0,
-          1776944894.85293
-        ],
-        [
-          149.0,
-          1786331503.467203
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776944894.85293
-        ]
-      ],
-      "first_date": 1776648090.77153,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "Atonmain",
         "country": "Item location: United Kingdom"
       },
@@ -11193,66 +12245,20 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "CrisPoke93",
-        "country": "Item location: Italy"
+        "name": "Richard-Cesar",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 155.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1778011519.977818,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "MewGalaxy",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 155.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Perfect Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          129.0,
-          1780969410.990084
-        ],
-        [
-          145.0,
-          1784396390.7428122
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1780862699.3925416
-        ],
-        [
-          1,
-          1780969410.990084
-        ]
-      ],
-      "first_date": 1780862699.3925416,
+      "first_date": 1787631779.8807871,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11275,7 +12281,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Contattami per acquistare",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11380,14 +12386,23 @@
       },
       "language": "Japanese",
       "price": 155.95,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1787983035.8297663,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1786549422.3237426
+        ],
+        [
+          1,
+          1787983035.8297663
+        ]
+      ],
       "first_date": 1785208500.9165616,
       "last_date": 0.0,
       "price_is_new": false,
@@ -11395,6 +12410,72 @@
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Catchem-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 156.99,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "OVP SEALED inkl. 19% MwSt",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1490.0,
+          1773384976.7090254
+        ],
+        [
+          1290.0,
+          1775089855.6680715
+        ],
+        [
+          1999.0,
+          1777544056.8919213
+        ],
+        [
+          1899.0,
+          1782203224.602786
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780083600.0513022
+        ],
+        [
+          0,
+          1780083600.0513022
+        ],
+        [
+          1,
+          1782203224.602786
+        ],
+        [
+          0,
+          1782203224.602786
+        ],
+        [
+          6,
+          1788381246.486706
+        ]
+      ],
+      "first_date": 1771779732.5228765,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": true,
       "grade_company": "",
       "grade": null,
       "grade_source": "auto"
@@ -11449,7 +12530,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "RELISTED! Sealed 11 box avialable",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11461,12 +12542,144 @@
         [
           0,
           1785802501.0357494
+        ],
+        [
+          2,
+          1786933141.3295426
+        ],
+        [
+          0,
+          1786933141.3295426
         ]
       ],
       "first_date": 1782111635.5330381,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Berger121",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 159.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Sealed. Kleinunternehmer Regelung",
+      "date": 1787983035.8297663,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          84.99,
+          1768771127.5707726
+        ],
+        [
+          98.99,
+          1769762453.324658
+        ],
+        [
+          107.59,
+          1770322588.8825502
+        ],
+        [
+          108.99,
+          1771908334.024482
+        ],
+        [
+          104.99,
+          1773912783.2451715
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773912783.2451715
+        ],
+        [
+          3,
+          1787282184.8910112
+        ],
+        [
+          0,
+          1787282184.8910112
+        ],
+        [
+          3,
+          1787983035.8297663
+        ]
+      ],
+      "first_date": 1768771127.5707726,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Kaisaking-TCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 159.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed - Straight from the Case",
+      "date": 1787104890.808951,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          99.89,
+          1769091023.5138917
+        ],
+        [
+          98.89,
+          1769762453.324658
+        ],
+        [
+          98.99,
+          1769847224.169089
+        ],
+        [
+          189.99,
+          1786549422.3237426
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1769847224.169089
+        ],
+        [
+          2,
+          1786549422.3237426
+        ],
+        [
+          1,
+          1787104890.808951
+        ]
+      ],
+      "first_date": 1769071210.5844595,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11856,34 +13069,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "phdargaud",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 160.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783184381.366447,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "IBlueIce",
         "country": "Item location: Germany"
       },
@@ -12005,11 +13190,11 @@
       },
       "language": "Japanese",
       "price": 161.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP sealed - 19%",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1786933141.3295426,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -12033,6 +13218,10 @@
         [
           0,
           1783624807.3820138
+        ],
+        [
+          1,
+          1786933141.3295426
         ]
       ],
       "first_date": 1783184381.366447,
@@ -12107,7 +13296,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed OVP - B2B possible",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12128,6 +13317,14 @@
         [
           4,
           1782788563.3062387
+        ],
+        [
+          3,
+          1786549422.3237426
+        ],
+        [
+          0,
+          1786549422.3237426
         ]
       ],
       "first_date": 1768771127.5707726,
@@ -12145,54 +13342,116 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Ecclesia-II",
-        "country": "Item location: Italy"
+        "name": "DeckDynastie",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 164.99,
-      "quantity": 0,
+      "price": 164.0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "OVP SEALED. 12= sealed case/from japan/white tape",
-      "date": 1786086047.096184,
-      "ended": true,
+      "comment": "inkl. 19% Mwst. - B2B Rechnung möglich | Possible Invoice",
+      "date": 1788713282.0462675,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
-          119.99,
-          1770987746.9096863
+          149.0,
+          1787631779.8807871
         ]
       ],
       "previous_quantities": [
         [
-          0,
-          1770987746.9096863
+          2,
+          1787631779.8807871
+        ]
+      ],
+      "first_date": 1787462288.2100127,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "TCG-entertainment",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 164.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          4,
+          1787462288.2100127
         ],
         [
-          12,
-          1778738907.8821554
+          3,
+          1787983035.8297663
         ],
         [
-          11,
-          1779156568.1800957
-        ],
+          1,
+          1788208581.617602
+        ]
+      ],
+      "first_date": 1787282184.8910112,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Najada-Games",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "Japanese",
+      "price": 164.99,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          9,
-          1780969410.990084
+          7,
+          1787282184.8910112
         ],
         [
           5,
-          1783365899.1283298
+          1787462288.2100127
         ],
         [
           4,
-          1783501165.437621
+          1787983035.8297663
         ],
         [
-          5,
-          1786086047.096184
+          2,
+          1788208581.617602
         ]
       ],
-      "first_date": 1770322588.8825502,
+      "first_date": 1787282184.8910112,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12277,7 +13536,7 @@
       "quantity": 14,
       "condition": "NM",
       "comment": "Wide selection. B2B possible",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12326,7 +13585,7 @@
       "first_date": 1779029482.295379,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 4,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12346,7 +13605,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12465,16 +13724,72 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "alxcard",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 167.95,
+      "quantity": 10,
+      "condition": "NM",
+      "comment": "OVP and sealed. sourced from Osaka",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788208581.617602,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "cashflow13",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 169.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787809835.8249557,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "verdelfo",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 169.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
+      "date": 1786757249.9723923,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -12502,6 +13817,10 @@
         [
           0,
           1784396390.7428122
+        ],
+        [
+          1,
+          1786757249.9723923
         ]
       ],
       "first_date": 1773912783.2451715,
@@ -12527,7 +13846,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bump on the bottom. Perfect for opening. Fast ship.",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12554,8 +13873,8 @@
       "price": 169.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed from case",
-      "date": 1786549422.3237426,
+      "comment": "Sealed from case",
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12585,34 +13904,6 @@
       "first_date": 1771779732.5228765,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "Theayll",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 170.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781706491.1839051,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -12629,13 +13920,13 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 174.36,
-      "quantity": 0,
+      "price": 173.84,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1786331503.467203,
-      "ended": true,
-      "new": true,
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           173.1,
@@ -12688,6 +13979,50 @@
         [
           174.37,
           1786086047.096184
+        ],
+        [
+          174.36,
+          1786331503.467203
+        ],
+        [
+          174.82,
+          1786933141.3295426
+        ],
+        [
+          174.62,
+          1787104890.808951
+        ],
+        [
+          174.34,
+          1787282184.8910112
+        ],
+        [
+          174.52,
+          1787462288.2100127
+        ],
+        [
+          174.57,
+          1787631779.8807871
+        ],
+        [
+          174.16,
+          1787809835.8249557
+        ],
+        [
+          174.54,
+          1787983035.8297663
+        ],
+        [
+          174.5,
+          1788208581.617602
+        ],
+        [
+          174.15,
+          1788381246.486706
+        ],
+        [
+          173.76,
+          1788539684.6848075
         ]
       ],
       "previous_quantities": [
@@ -12726,39 +14061,15 @@
         [
           2,
           1786331503.467203
+        ],
+        [
+          0,
+          1786331503.467203
         ]
       ],
       "first_date": 1781339060.7980337,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "ChiaraTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 178.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Box sigillati - Spedizione veloce",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786210236.4595797,
-      "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -12803,6 +14114,115 @@
         ]
       ],
       "first_date": 1765786038.7302985,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Funkelpappe",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 179.9,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Neu & Sealed | Mehr im Funkelpappe Shop",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.9,
+          1788208581.617602
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1787809835.8249557,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Theayll",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1788208581.617602,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          1787983035.8297663
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788208581.617602
+        ]
+      ],
+      "first_date": 1781706491.1839051,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "CrisPoke93",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1787809835.8249557,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          155.0,
+          1786549422.3237426
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1787809835.8249557
+        ]
+      ],
+      "first_date": 1778011519.977818,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12883,41 +14303,28 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Kaisaking-TCG",
+        "name": "MxMCards",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 189.99,
-      "quantity": 2,
+      "price": 183.99,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          99.89,
-          1769091023.5138917
-        ],
-        [
-          98.89,
-          1769762453.324658
-        ],
-        [
-          98.99,
-          1769847224.169089
-        ]
-      ],
+      "comment": "Differenzbesteuert frisch vom case",
+      "date": 1788539684.6848075,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [
         [
-          0,
-          1769847224.169089
+          5,
+          1788539684.6848075
         ]
       ],
-      "first_date": 1769071210.5844595,
+      "first_date": 1788208581.617602,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -5,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12937,7 +14344,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Nuovo/Sigillato/Sealed",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13096,12 +14503,12 @@
       },
       "language": "Japanese",
       "price": 199.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786331503.467203,
-      "ended": true,
-      "new": true,
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -13115,59 +14522,13 @@
         [
           1,
           1786331503.467203
+        ],
+        [
+          0,
+          1786331503.467203
         ]
       ],
       "first_date": 1783184381.366447,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
-        "name": "RequiemZero",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 200.0,
-      "quantity": 6,
-      "condition": "NM",
-      "comment": "OVP Sealed Safe Shipping",
-      "date": 1786549422.3237426,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          85.0,
-          1768160446.6506183
-        ],
-        [
-          90.0,
-          1768771127.5707726
-        ],
-        [
-          1200.0,
-          1769153939.3134553
-        ],
-        [
-          125.0,
-          1770228840.7072399
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1770228840.7072399
-        ]
-      ],
-      "first_date": 1768160446.6506183,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -13190,9 +14551,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu und OVP",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786549422.3237426,
@@ -13218,7 +14579,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Quality!",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14224,60 +15585,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Catchem-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1899.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed Case 19% MwSt",
-      "date": 1782203224.602786,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1490.0,
-          1773384976.7090254
-        ],
-        [
-          1290.0,
-          1775089855.6680715
-        ],
-        [
-          1999.0,
-          1777544056.8919213
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780083600.0513022
-        ],
-        [
-          0,
-          1780083600.0513022
-        ],
-        [
-          1,
-          1782203224.602786
-        ]
-      ],
-      "first_date": 1771779732.5228765,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": true,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "SironEx007",
         "country": "Item location: Germany"
       },
@@ -14402,7 +15709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Case New",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14435,7 +15742,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED. only pick up in vienna",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14460,20 +15767,33 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Kardora",
+        "name": "SivosNaaman",
         "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 3500.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "sealed case",
-      "date": 1786549422.3237426,
+      "comment": "Sealed case",
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          4500.0,
+          1783624807.3820138
+        ],
+        [
+          4000.0,
+          1785208500.9165616
+        ],
+        [
+          3800.0,
+          1787983035.8297663
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1783184381.366447,
+      "first_date": 1782788563.3062387,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14488,29 +15808,48 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "SivosNaaman",
+        "name": "lamegow",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 3500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed Case",
+      "date": 1788713282.0462675,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787104890.808951,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Kardora",
         "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 3800.0,
+      "price": 3500.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed case",
-      "date": 1786549422.3237426,
+      "comment": "sealed case",
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          4500.0,
-          1783624807.3820138
-        ],
-        [
-          4000.0,
-          1785208500.9165616
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782788563.3062387,
+      "first_date": 1783184381.366447,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14533,7 +15872,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Case / First Print",
-      "date": 1786549422.3237426,
+      "date": 1788713282.0462675,
       "ended": false,
       "new": false,
       "previous_prices": [

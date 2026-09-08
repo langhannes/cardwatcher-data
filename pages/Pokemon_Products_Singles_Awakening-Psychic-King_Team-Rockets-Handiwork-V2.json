@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
-  "available_graded": 3,
+  "available": 6,
+  "available_graded": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Many more Japanese and other cards! Safely packed!",
-      "date": 1786420678.4518018,
+      "date": 1788758136.6779263,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -60,7 +60,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #496",
-      "date": 1786420678.4518018,
+      "date": 1788758136.6779263,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -102,7 +102,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ask for pics. 1st ed",
-      "date": 1786420678.4518018,
+      "date": 1788758136.6779263,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -130,7 +130,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786420678.4518018,
+      "date": 1788758136.6779263,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -158,7 +158,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA9 / Lokal Store in Esslingen",
-      "date": 1786420678.4518018,
+      "date": 1788758136.6779263,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -183,14 +183,19 @@
       },
       "language": "Japanese",
       "price": 499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - BIG SALE NO OFFERS",
       "date": 1786420678.4518018,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786420678.4518018
+        ]
+      ],
       "first_date": 1785794616.9042506,
       "last_date": 0.0,
       "price_is_new": false,
@@ -210,14 +215,23 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 499.99,
+      "price": 575.0,
       "quantity": 0,
       "condition": "MT",
-      "comment": "PSA 10 - BIG SALE NO OFFERS",
-      "date": 1785486914.205316,
+      "comment": "PSA 10 - MORE PSA CARDS",
+      "date": 1787956883.1206656,
       "ended": true,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          499.99,
+          1785486914.205316
+        ],
+        [
+          550.0,
+          1787435055.2901447
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -230,6 +244,14 @@
         [
           1,
           1785486914.205316
+        ],
+        [
+          0,
+          1785486914.205316
+        ],
+        [
+          1,
+          1787956883.1206656
         ]
       ],
       "first_date": 1778272698.763233,

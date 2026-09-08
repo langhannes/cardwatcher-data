@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
-  "available_graded": 1,
+  "available": 3,
+  "available_graded": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -562,7 +562,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "For any questions. DM me!",
-      "date": 1786543871.9253664,
+      "date": 1788758958.3856907,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -657,14 +657,19 @@
       },
       "language": "Japanese",
       "price": 1999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Excellent + near Mint",
-      "date": 1786543871.9253664,
-      "ended": false,
+      "date": 1786752249.7365127,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786752249.7365127
+        ]
+      ],
       "first_date": 1763817999.0676353,
       "last_date": 0.0,
       "price_is_new": false,
@@ -814,7 +819,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "CGC 4",
-      "date": 1786543871.9253664,
+      "date": 1788758958.3856907,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -861,11 +866,11 @@
       },
       "language": "Japanese",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "EX please ask for more photos!",
-      "date": 1786543871.9253664,
-      "ended": false,
+      "date": 1788149042.9445257,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -881,6 +886,10 @@
         [
           0,
           1780963629.0433967
+        ],
+        [
+          1,
+          1788149042.9445257
         ]
       ],
       "first_date": 1773264458.5435843,
@@ -1215,6 +1224,34 @@
         ]
       ],
       "first_date": 1778101270.65327,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pikachu  (BW-P 229)",
+      "canonical_name": "Pokemon_Products_Singles_BW-Promos_Pikachu-V5",
+      "seller": {
+        "name": "Shayken",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 4900.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1788758958.3856907,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788582602.7671533,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1609,16 +1646,49 @@
       "card": "Pikachu  (BW-P 229)",
       "canonical_name": "Pokemon_Products_Singles_BW-Promos_Pikachu-V5",
       "seller": {
+        "name": "Umutg24",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 24000.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Sealed Box ask for pictures",
+      "date": 1786927885.6043143,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786927885.6043143
+        ]
+      ],
+      "first_date": 1785188661.5980053,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pikachu  (BW-P 229)",
+      "canonical_name": "Pokemon_Products_Singles_BW-Promos_Pikachu-V5",
+      "seller": {
         "name": "Jpajo",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 19999.0,
-      "quantity": 1,
+      "price": 24999.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Sealed box",
-      "date": 1786543871.9253664,
-      "ended": false,
+      "date": 1787804742.4700017,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1640,38 +1710,19 @@
         [
           24999.0,
           1785188661.5980053
+        ],
+        [
+          19999.0,
+          1786543871.9253664
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787804742.4700017
+        ]
+      ],
       "first_date": 1764588793.6878364,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pikachu  (BW-P 229)",
-      "canonical_name": "Pokemon_Products_Singles_BW-Promos_Pikachu-V5",
-      "seller": {
-        "name": "Umutg24",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 24000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Sealed Box ask for pictures",
-      "date": 1786543871.9253664,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785188661.5980053,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

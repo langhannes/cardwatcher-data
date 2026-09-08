@@ -11,9 +11,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
+  "available": 5,
   "available_graded": 0,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -124,15 +124,48 @@
       },
       "language": "Japanese",
       "price": 200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "store in bologna",
-      "date": 1786402939.5518596,
+      "date": 1786789421.7453842,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786789421.7453842
+        ]
+      ],
+      "first_date": 1786129941.5224984,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MLucario EX  (BXY 176)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_MLucario-EX-V2",
+      "seller": {
+        "name": "Achillexx16767",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "",
+      "date": 1788717279.2545187,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1786129941.5224984,
+      "first_date": 1788413568.3605003,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -152,12 +185,12 @@
       },
       "language": "Japanese",
       "price": 300.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1786247192.4354556,
-      "ended": true,
-      "new": true,
+      "date": 1788717279.2545187,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -171,12 +204,16 @@
         [
           1,
           1786247192.4354556
+        ],
+        [
+          0,
+          1786247192.4354556
         ]
       ],
       "first_date": 1779665299.4197052,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -193,16 +230,20 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "[GRAAD 6.5] THE CARDS YOU WANT",
-      "date": 1785873195.3356042,
-      "ended": true,
+      "date": 1788717279.2545187,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785873195.3356042
+        ],
+        [
+          0,
           1785873195.3356042
         ]
       ],
@@ -229,7 +270,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786402939.5518596,
+      "date": 1788717279.2545187,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -238,7 +279,16 @@
           1780036815.4469824
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786402939.5518596
+        ],
+        [
+          0,
+          1786402939.5518596
+        ]
+      ],
       "first_date": 1778996358.3489783,
       "last_date": 0.0,
       "price_is_new": false,
@@ -258,12 +308,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 601.22,
-      "quantity": 1,
+      "price": 599.3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786402939.5518596,
-      "ended": false,
+      "date": 1788413568.3605003,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -337,9 +387,58 @@
         [
           601.25,
           1786129941.5224984
+        ],
+        [
+          601.22,
+          1786402939.5518596
+        ],
+        [
+          602.91,
+          1786582973.9327605
+        ],
+        [
+          602.38,
+          1786789421.7453842
+        ],
+        [
+          602.8,
+          1786966537.0994153
+        ],
+        [
+          602.13,
+          1787138914.2760656
+        ],
+        [
+          601.15,
+          1787314986.7150066
+        ],
+        [
+          601.78,
+          1787494350.9861207
+        ],
+        [
+          601.96,
+          1787663731.4655633
+        ],
+        [
+          600.55,
+          1787841240.948723
+        ],
+        [
+          601.85,
+          1788015250.522854
+        ],
+        [
+          600.73,
+          1788241541.273846
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788413568.3605003
+        ]
+      ],
       "first_date": 1782579579.2162826,
       "last_date": 0.0,
       "price_is_new": false,
@@ -434,7 +533,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA \"10\"",
-      "date": 1786402939.5518596,
+      "date": 1788717279.2545187,
       "ended": false,
       "new": false,
       "previous_prices": [],

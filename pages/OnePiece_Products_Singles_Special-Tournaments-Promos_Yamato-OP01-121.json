@@ -8,8 +8,8 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 2,
-  "available_graded": 3,
+  "available": 7,
+  "available_graded": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -3542,11 +3542,11 @@
         "country": "Item location: Spain"
       },
       "language": "English",
-      "price": 2900.0,
+      "price": 2590.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "GRAD 9.5 BECKETT",
-      "date": 1784766053.193863,
+      "comment": "9.5 BECKETT BINDER",
+      "date": 1788119917.3112519,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -3565,6 +3565,14 @@
         [
           3200.0,
           1780302336.154129
+        ],
+        [
+          2900.0,
+          1784766053.193863
+        ],
+        [
+          3150.0,
+          1787772601.0201542
         ]
       ],
       "previous_quantities": [
@@ -3579,6 +3587,14 @@
         [
           1,
           1784766053.193863
+        ],
+        [
+          0,
+          1784766053.193863
+        ],
+        [
+          1,
+          1788119917.3112519
         ]
       ],
       "first_date": 1775643908.8117056,
@@ -3589,6 +3605,75 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
+      "seller": {
+        "name": "MisiTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 2900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9",
+      "date": 1788737519.4869435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3200.0,
+          1787511022.1455853
+        ],
+        [
+          2600.0,
+          1787772601.0201542
+        ],
+        [
+          2150.0,
+          1788272524.501629
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786646169.4095075,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
+      "seller": {
+        "name": "Starlax",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Graded 9.5 by CCC",
+      "date": 1788737519.4869435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788272524.501629,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "UNK",
       "grade": 9.5,
       "grade_source": "auto"
     },
@@ -3673,8 +3758,8 @@
       "price": 3300.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "BGS 9.5",
-      "date": 1786436764.1361465,
+      "comment": "BGS 9.5 MEET IN MILANO",
+      "date": 1788737519.4869435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3758,6 +3843,48 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
       "seller": {
+        "name": "SrZeno",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 3499.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1788737519.4869435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          4998.0,
+          1786436764.1361465
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786436764.1361465
+        ],
+        [
+          0,
+          1786436764.1361465
+        ]
+      ],
+      "first_date": 1786074984.7363467,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
+      "seller": {
         "name": "BOV13TH",
         "country": "Item location: Italy"
       },
@@ -3766,7 +3893,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1786436764.1361465,
+      "date": 1788737519.4869435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3791,6 +3918,14 @@
         [
           0,
           1768160681.7323387
+        ],
+        [
+          1,
+          1787335282.2478254
+        ],
+        [
+          0,
+          1787335282.2478254
         ]
       ],
       "first_date": 1768160681.7323387,
@@ -3844,7 +3979,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1786436764.1361465,
+      "date": 1788737519.4869435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4007,34 +4142,6 @@
       "card": "Yamato (OP01-121)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
       "seller": {
-        "name": "SrZeno",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 4998.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1786436764.1361465,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786074984.7363467,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP01-121)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-OP01-121",
-      "seller": {
         "name": "darkMC7",
         "country": "Item location: Lithuania"
       },
@@ -4043,7 +4150,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1786436764.1361465,
+      "date": 1788737519.4869435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4055,7 +4162,7 @@
       "previous_quantities": [],
       "first_date": 1778115930.8089058,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

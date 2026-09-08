@@ -12,8 +12,8 @@
   "only_germany": "False",
   "available": 7,
   "available_graded": 2,
-  "sold": 1,
-  "inserted": 0,
+  "sold": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "MCharizard EX  (CP6 091)",
@@ -57,14 +57,19 @@
       },
       "language": "Korean",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786536757.4185357,
-      "ended": false,
+      "date": 1787969816.7973633,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787969816.7973633
+        ]
+      ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
@@ -85,14 +90,19 @@
       },
       "language": "Korean",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sous top loader",
-      "date": 1786536757.4185357,
-      "ended": false,
+      "date": 1786744285.4344618,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786744285.4344618
+        ]
+      ],
       "first_date": 1786319032.9405186,
       "last_date": 0.0,
       "price_is_new": false,
@@ -112,24 +122,33 @@
         "country": "Item location: Belgium"
       },
       "language": "Korean",
-      "price": 289.99,
-      "quantity": 0,
+      "price": 299.99,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786319032.9405186,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
+      "date": 1788769846.0585551,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          289.99,
+          1786319032.9405186
+        ]
+      ],
       "previous_quantities": [
         [
           1,
+          1786319032.9405186
+        ],
+        [
+          0,
           1786319032.9405186
         ]
       ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -169,6 +188,34 @@
       "card": "MCharizard EX  (CP6 091)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
       "seller": {
+        "name": "Rigand91",
+        "country": "Item location: Italy"
+      },
+      "language": "Korean",
+      "price": 300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ask for pics! :)",
+      "date": 1788769846.0585551,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788294573.350131,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MCharizard EX  (CP6 091)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
+      "seller": {
         "name": "TeoLe",
         "country": "Item location: Slovakia"
       },
@@ -177,7 +224,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1786536757.4185357,
+      "date": 1788769846.0585551,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -205,11 +252,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "KOR Sleeve + Toploader",
-      "date": 1786536757.4185357,
+      "date": 1788769846.0585551,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786920108.8954687
+        ],
+        [
+          0,
+          1786920108.8954687
+        ]
+      ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
@@ -304,7 +360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1786536757.4185357,
+      "date": 1788769846.0585551,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -599,16 +655,25 @@
       "price": 1000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "CGC 8. make an offer",
-      "date": 1786536757.4185357,
+      "comment": "RELISTED! CGC 8. make an offer",
+      "date": 1788769846.0585551,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787092512.0280354
+        ],
+        [
+          0,
+          1787092512.0280354
+        ]
+      ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -658,14 +723,19 @@
       },
       "language": "Japanese",
       "price": 2900.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786536757.4185357,
-      "ended": false,
+      "date": 1787092512.0280354,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787092512.0280354
+        ]
+      ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
@@ -686,14 +756,19 @@
       },
       "language": "Japanese",
       "price": 3800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PCA10",
-      "date": 1786536757.4185357,
-      "ended": false,
+      "date": 1787092512.0280354,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787092512.0280354
+        ]
+      ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
@@ -717,7 +792,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1786536757.4185357,
+      "date": 1788769846.0585551,
       "ended": false,
       "new": false,
       "previous_prices": [],

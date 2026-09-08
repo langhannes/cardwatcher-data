@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 29,
-  "available_graded": 23,
+  "available": 53,
+  "available_graded": 25,
   "sold": 2,
-  "inserted": 2,
+  "inserted": 4,
   "listings": [
     {
       "card": "Mega Tokyo's Pikachu (XY-P 098)",
@@ -3617,11 +3617,11 @@
       },
       "language": "Japanese",
       "price": 389.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Pretty big CREASE. should be fixable",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1787146887.425155,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3673,6 +3673,10 @@
         [
           0,
           1783645793.9989674
+        ],
+        [
+          1,
+          1787146887.425155
         ]
       ],
       "first_date": 1765808379.6397698,
@@ -3936,7 +3940,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "The card has visible wear and whitening along the top edge (as shown in the photos). Sent in sleeve",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4644,7 +4648,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "small crease. deep scratch",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4833,20 +4837,20 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "KiraKiraJP",
-        "country": "Item location: Italy"
+        "name": "WiindMaker",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 499.99,
       "quantity": 1,
       "condition": "GD",
-      "comment": "Minor Imperfections. GOOD++",
-      "date": 1786410675.9643836,
+      "comment": "PARIS MEET UP POSSIBLE",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784442279.7810838,
+      "first_date": 1782779200.648161,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4861,20 +4865,91 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "WiindMaker",
-        "country": "Item location: France"
+        "name": "NaraCollect",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 499.99,
       "quantity": 1,
       "condition": "GD",
-      "comment": "PARIS MEET UP POSSIBLE",
-      "date": 1786410675.9643836,
+      "comment": "Minor Imperfections. GOOD++",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          389.99,
+          1787502621.2608857
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1782779200.648161,
+      "first_date": 1787322910.4653223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "NaraCollect",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 499.99,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "Minor Imperfections. GOOD++",
+      "date": 1787502621.2608857,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787502621.2608857
+        ]
+      ],
+      "first_date": 1787322910.4653223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "KiraKiraJP",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 499.99,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "Minor Imperfections. GOOD++",
+      "date": 1787146887.425155,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787146887.425155
+        ]
+      ],
+      "first_date": 1784442279.7810838,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4962,13 +5037,104 @@
       "price": 500.0,
       "quantity": 1,
       "condition": "PL",
-      "comment": "ign",
-      "date": 1786410675.9643836,
+      "comment": "RELISTED! ign",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788421266.9434626
+        ],
+        [
+          0,
+          1788421266.9434626
+        ]
+      ],
       "first_date": 1782508578.8067477,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "SoyunJapanCards",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "LP",
+      "comment": "",
+      "date": 1788421266.9434626,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          249.9,
+          1766529493.8729358
+        ],
+        [
+          225.0,
+          1768161197.35787
+        ],
+        [
+          205.0,
+          1773916759.0685632
+        ],
+        [
+          400.0,
+          1780343375.3920054
+        ],
+        [
+          600.0,
+          1785881635.0134096
+        ],
+        [
+          420.0,
+          1788023136.9515595
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777906557.1551373
+        ],
+        [
+          0,
+          1777906557.1551373
+        ],
+        [
+          1,
+          1780343375.3920054
+        ],
+        [
+          0,
+          1780343375.3920054
+        ],
+        [
+          1,
+          1785881635.0134096
+        ],
+        [
+          0,
+          1785881635.0134096
+        ],
+        [
+          1,
+          1788421266.9434626
+        ]
+      ],
+      "first_date": 1761774407.3717823,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5156,6 +5322,34 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "Przemasty",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 540.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Minor dent at corner. 1 whitening at the back. Check photo.",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786590493.137761,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "vincentvsl",
         "country": "Item location: France"
       },
@@ -5202,12 +5396,49 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Daily shipping. sleeved & toploaded - We buy your cards! DM us.. More cards in stock",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787850021.8895438
+        ],
+        [
+          0,
+          1787850021.8895438
+        ]
+      ],
+      "first_date": 1785422475.3597286,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "UniBear",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Ship in Toploader",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785422475.3597286,
+      "first_date": 1787850021.8895438,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5230,7 +5461,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5354,14 +5585,19 @@
       },
       "language": "Japanese",
       "price": 590.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1786410675.9643836,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786410675.9643836
+        ]
+      ],
       "first_date": 1785074767.75686,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5415,16 +5651,20 @@
       },
       "language": "Japanese",
       "price": 599.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
       "comment": "MON-0433",
-      "date": 1785250953.7468443,
-      "ended": true,
+      "date": 1788794852.647763,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785250953.7468443
+        ],
+        [
+          0,
           1785250953.7468443
         ]
       ],
@@ -5470,6 +5710,68 @@
       "archived": false,
       "grade_company": "AOG",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "AnyCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 599.99,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "Sleeved // Ship in Smart Guard",
+      "date": 1788421266.9434626,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1776077864.468887
+        ],
+        [
+          549.99,
+          1776266680.113823
+        ],
+        [
+          504.99,
+          1776949862.0457144
+        ],
+        [
+          629.99,
+          1787322910.4653223
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776949862.0457144
+        ],
+        [
+          1,
+          1783119568.8904245
+        ],
+        [
+          0,
+          1783119568.8904245
+        ],
+        [
+          1,
+          1788421266.9434626
+        ]
+      ],
+      "first_date": 1775866472.1016376,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -5526,72 +5828,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
-        "name": "SoyunJapanCards",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 600.0,
-      "quantity": 0,
-      "condition": "LP",
-      "comment": "",
-      "date": 1785881635.0134096,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          249.9,
-          1766529493.8729358
-        ],
-        [
-          225.0,
-          1768161197.35787
-        ],
-        [
-          205.0,
-          1773916759.0685632
-        ],
-        [
-          400.0,
-          1780343375.3920054
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777906557.1551373
-        ],
-        [
-          0,
-          1777906557.1551373
-        ],
-        [
-          1,
-          1780343375.3920054
-        ],
-        [
-          0,
-          1780343375.3920054
-        ],
-        [
-          1,
-          1785881635.0134096
-        ]
-      ],
-      "first_date": 1761774407.3717823,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -5691,60 +5927,6 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "AnyCards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 629.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Sleeved // Ship in Smart Guard",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          349.99,
-          1776077864.468887
-        ],
-        [
-          549.99,
-          1776266680.113823
-        ],
-        [
-          504.99,
-          1776949862.0457144
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776949862.0457144
-        ],
-        [
-          1,
-          1783119568.8904245
-        ],
-        [
-          0,
-          1783119568.8904245
-        ]
-      ],
-      "first_date": 1775866472.1016376,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
         "name": "Jon00Deu",
         "country": "Item location: Italy"
       },
@@ -5792,6 +5974,121 @@
         ]
       ],
       "first_date": 1781393994.3585012,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "mijumaru-",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 639.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CGC 7",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          599.0,
+          1788249782.4500277
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788249782.4500277,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 7.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "foglee",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 649.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "A0014",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          480.0,
+          1777519897.0424857
+        ],
+        [
+          680.0,
+          1787502621.2608857
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1777215222.0404994
+        ],
+        [
+          1,
+          1777519897.0424857
+        ],
+        [
+          0,
+          1777519897.0424857
+        ],
+        [
+          1,
+          1781574551.232428
+        ],
+        [
+          0,
+          1781574551.232428
+        ],
+        [
+          1,
+          1782779200.648161
+        ],
+        [
+          0,
+          1782779200.648161
+        ],
+        [
+          1,
+          1784823668.238993
+        ],
+        [
+          0,
+          1784823668.238993
+        ],
+        [
+          1,
+          1786590493.137761
+        ],
+        [
+          0,
+          1786590493.137761
+        ]
+      ],
+      "first_date": 1775436122.3289218,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5917,7 +6214,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B-019. EXC-",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5931,6 +6228,56 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "Lars-Michel",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "AOG 7 / ask for more pictures",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          900.0,
+          1785881635.0134096
+        ],
+        [
+          800.0,
+          1786590493.137761
+        ],
+        [
+          700.0,
+          1788421266.9434626
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786590493.137761
+        ],
+        [
+          0,
+          1786590493.137761
+        ]
+      ],
+      "first_date": 1784023928.759063,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 7.0,
       "grade_source": "auto"
     },
     {
@@ -6282,14 +6629,19 @@
       },
       "language": "Japanese",
       "price": 675.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
-      "comment": "Has a very small dent (in photo)99999999999999999999999999999999999999999999999999",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "comment": "Has a very small dent (in photo)",
+      "date": 1788249782.4500277,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788249782.4500277
+        ]
+      ],
       "first_date": 1785622502.4470115,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6305,65 +6657,86 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "foglee",
-        "country": "Item location: Switzerland"
+        "name": "elonflask",
+        "country": "Item location: Malta"
       },
       "language": "Japanese",
-      "price": 680.0,
+      "price": 690.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "A0014",
-      "date": 1786410675.9643836,
+      "condition": "EX",
+      "comment": "FRONT EXC - BACK NM (GREAT VALUE)",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          480.0,
-          1777519897.0424857
+          700.0,
+          1785783269.4501147
+        ],
+        [
+          670.0,
+          1786255490.0202868
+        ],
+        [
+          700.0,
+          1788617917.0786297
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784732647.360204,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "mitchstockentree",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 690.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Nice card (not a 10)",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          750.0,
+          1786410675.9643836
         ]
       ],
       "previous_quantities": [
         [
+          1,
+          1786410675.9643836
+        ],
+        [
           0,
-          1777215222.0404994
+          1786410675.9643836
         ],
         [
           1,
-          1777519897.0424857
+          1788421266.9434626
         ],
         [
           0,
-          1777519897.0424857
-        ],
-        [
-          1,
-          1781574551.232428
-        ],
-        [
-          0,
-          1781574551.232428
-        ],
-        [
-          1,
-          1782779200.648161
-        ],
-        [
-          0,
-          1782779200.648161
-        ],
-        [
-          1,
-          1784823668.238993
-        ],
-        [
-          0,
-          1784823668.238993
+          1788421266.9434626
         ]
       ],
-      "first_date": 1775436122.3289218,
+      "first_date": 1786410675.9643836,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6383,7 +6756,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6411,7 +6784,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 4! Dent/scratch thats why its a 4..",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6436,6 +6809,34 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "garretts-relics",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 699.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 7",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788421266.9434626,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 7.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "Misterbale",
         "country": "Item location: Germany"
       },
@@ -6444,7 +6845,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "C17",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6490,43 +6891,6 @@
       "first_date": 1711009654.75765,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
-        "name": "elonflask",
-        "country": "Item location: Malta"
-      },
-      "language": "Japanese",
-      "price": 700.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "FRONT EXC - BACK NM (GREAT VALUE)",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          700.0,
-          1785783269.4501147
-        ],
-        [
-          670.0,
-          1786255490.0202868
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784732647.360204,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6771,20 +7135,25 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "mitchstockentree",
+        "name": "PeakpacksNL",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 750.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Nice card (not a 10)",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": true,
+      "price": 749.99,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "More cards available! PM for pics!",
+      "date": 1788421266.9434626,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786410675.9643836,
+      "previous_quantities": [
+        [
+          1,
+          1788421266.9434626
+        ]
+      ],
+      "first_date": 1787672475.840449,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6837,11 +7206,11 @@
       },
       "language": "Japanese",
       "price": 780.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve+Toploader",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1786590493.137761,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -6852,6 +7221,10 @@
         [
           0,
           1785622502.4470115
+        ],
+        [
+          1,
+          1786590493.137761
         ]
       ],
       "first_date": 1785250953.7468443,
@@ -6902,6 +7275,34 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "Jungle-World-TCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 790.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Lokal Store in Esslingen",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787850021.8895438,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "PokeMano-Shop",
         "country": "Item location: Netherlands"
       },
@@ -6910,7 +7311,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7188,6 +7589,34 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "TCG-Experts",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 799.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787672475.840449,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "poimin7",
         "country": "Item location: Portugal"
       },
@@ -7221,39 +7650,6 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "Lars-Michel",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "AOG 7 / ask for more pictures",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          900.0,
-          1785881635.0134096
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784023928.759063,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "AOG",
-      "grade": 7.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
         "name": "mitchstockentree",
         "country": "Item location: Netherlands"
       },
@@ -7264,7 +7660,7 @@
       "comment": "Nice card (not a 10)",
       "date": 1786255490.0202868,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7275,7 +7671,7 @@
       "first_date": 1785783269.4501147,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7424,6 +7820,43 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "030-RoCards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 815.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          900.0,
+          1786974870.1551826
+        ],
+        [
+          890.0,
+          1788421266.9434626
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786974870.1551826,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
       "grade_source": "auto"
     },
     {
@@ -7583,7 +8016,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7597,6 +8030,47 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "ToAge06",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2000.0,
+          1779136191.6766205
+        ],
+        [
+          1400.0,
+          1782681346.1335142
+        ],
+        [
+          1200.0,
+          1788617917.0786297
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777215222.0404994,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
       "grade_source": "auto"
     },
     {
@@ -7640,12 +8114,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 903.99,
-      "quantity": 1,
+      "price": 901.72,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1787322910.4653223,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7779,6 +8253,26 @@
         [
           901.83,
           1786255490.0202868
+        ],
+        [
+          903.99,
+          1786410675.9643836
+        ],
+        [
+          904.36,
+          1786590493.137761
+        ],
+        [
+          903.57,
+          1786796954.0424073
+        ],
+        [
+          904.2,
+          1786974870.1551826
+        ],
+        [
+          903.2,
+          1787146887.425155
         ]
       ],
       "previous_quantities": [
@@ -7789,17 +8283,77 @@
         [
           0,
           1782278711.021747
+        ],
+        [
+          1,
+          1787322910.4653223
         ]
       ],
       "first_date": 1780840516.256824,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "gnagy",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "Japanese",
+      "price": 949.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787850021.8895438,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "ditte1999",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 950.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8 + guard",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787146887.425155,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
       "grade_source": "auto"
     },
     {
@@ -7880,6 +8434,39 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "dk2800",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 997.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA10?",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1450.0,
+          1788421266.9434626
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1787672475.840449,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "EpicDecksNL",
         "country": "Item location: Netherlands"
       },
@@ -7888,7 +8475,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 8 message for cert number & photos",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7908,16 +8495,49 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "nollector",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "Japanese",
+      "price": 999.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PM for more photos @ PSA 9/10 candidate",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1288.0,
+          1788249782.4500277
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1787850021.8895438,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "Oskaro",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "AOG 9 Mint. graded",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1786590493.137761,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7937,11 +8557,15 @@
         [
           0,
           1785622502.4470115
+        ],
+        [
+          1,
+          1786590493.137761
         ]
       ],
       "first_date": 1785622502.4470115,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7962,12 +8586,68 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "fast shipping / ask for pics",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785250953.7468443,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "alexlaudo",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Stark grading 9",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788794852.647763,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "UNK",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "PokemonCardPT",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast & Safe Shipping",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787850021.8895438,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8023,7 +8703,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 DM IF U WANT TO SEE. prefer to sell live",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8213,7 +8893,7 @@
       "comment": "AOG 9",
       "date": 1786255490.0202868,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8224,7 +8904,7 @@
       "first_date": 1785074767.75686,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8281,6 +8961,60 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "Michacho",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "Japanese",
+      "price": 1067.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9 - new seller. ask for more details or check my IG :)",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1199.0,
+          1786410675.9643836
+        ],
+        [
+          1150.0,
+          1787146887.425155
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786410675.9643836
+        ],
+        [
+          0,
+          1786410675.9643836
+        ],
+        [
+          1,
+          1787146887.425155
+        ],
+        [
+          0,
+          1787146887.425155
+        ]
+      ],
+      "first_date": 1786255490.0202868,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "Roums17",
         "country": "Item location: France"
       },
@@ -8289,7 +9023,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cgg 9.5",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8309,20 +9043,20 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "Michacho",
-        "country": "Item location: Czech Republic"
+        "name": "Misi1990",
+        "country": "Item location: Hungary"
       },
       "language": "Japanese",
-      "price": 1199.0,
+      "price": 1150.0,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 - new seller. contact me for more details",
-      "date": 1786410675.9643836,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1786255490.0202868,
+      "first_date": 1788421266.9434626,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8331,6 +9065,34 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "BlastoisePTY",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1189.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8 - NM-MT",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786590493.137761,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
       "grade_source": "auto"
     },
     {
@@ -8386,7 +9148,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "### CGC-Scan: 6055941004 [CGC 08] (50751)",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8406,29 +9168,20 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "ToAge06",
+        "name": "Prismania-Toys",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1200.0,
       "quantity": 1,
-      "condition": "NM",
+      "condition": "MT",
       "comment": "PSA 8",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          2000.0,
-          1779136191.6766205
-        ],
-        [
-          1400.0,
-          1782681346.1335142
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1777215222.0404994,
+      "first_date": 1787502621.2608857,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8577,7 +9330,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8588,6 +9341,47 @@
       ],
       "previous_quantities": [],
       "first_date": 1784442279.7810838,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "Zherys",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1299.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1999.0,
+          1779590306.1862452
+        ],
+        [
+          1799.0,
+          1779841648.1962905
+        ],
+        [
+          1599.0,
+          1786590493.137761
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779009093.8122725,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8752,11 +9546,11 @@
       },
       "language": "Japanese",
       "price": 1350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1786590493.137761,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -8767,6 +9561,10 @@
         [
           0,
           1780947392.487292
+        ],
+        [
+          1,
+          1786590493.137761
         ]
       ],
       "first_date": 1780490955.1484625,
@@ -9120,11 +9918,11 @@
       },
       "language": "Japanese",
       "price": 1449.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Global Grading 9",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1788249782.4500277,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9140,6 +9938,10 @@
         [
           0,
           1777771081.2507973
+        ],
+        [
+          1,
+          1788249782.4500277
         ]
       ],
       "first_date": 1776882535.2330294,
@@ -9219,7 +10021,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCA 9",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9247,7 +10049,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGG 9.5",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9261,6 +10063,39 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "Sergiiomora",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "New seller :)  / PSA 9 CERT 107044559",
+      "date": 1788421266.9434626,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788421266.9434626
+        ]
+      ],
+      "first_date": 1787850021.8895438,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -9364,7 +10199,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RAW /  Differenzbesteuert",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9402,43 +10237,6 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "Zherys",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1599.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1999.0,
-          1779590306.1862452
-        ],
-        [
-          1799.0,
-          1779841648.1962905
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779009093.8122725,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
         "name": "Urzas-Consulting",
         "country": "Item location: Italy"
       },
@@ -9446,16 +10244,25 @@
       "price": 1600.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "[BGS 9.0] 05202627 toploader",
-      "date": 1786410675.9643836,
+      "comment": "RELISTED! [BGS 9.0] 08202629",
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786974870.1551826
+        ],
+        [
+          0,
+          1786974870.1551826
+        ]
+      ],
       "first_date": 1780056277.9967177,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9475,7 +10282,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 9",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9674,14 +10481,19 @@
       },
       "language": "Japanese",
       "price": 1699.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "!!! PSA 9 !!! 12-05/26/1 1024/87",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1786796954.0424073,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786796954.0424073
+        ]
+      ],
       "first_date": 1779009093.8122725,
       "last_date": 0.0,
       "price_is_new": false,
@@ -9945,14 +10757,19 @@
       },
       "language": "Japanese",
       "price": 2100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1787502621.2608857,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787502621.2608857
+        ]
+      ],
       "first_date": 1779285742.9341595,
       "last_date": 0.0,
       "price_is_new": false,
@@ -9973,11 +10790,11 @@
       },
       "language": "Japanese",
       "price": 2150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1788023136.9515595,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -9988,6 +10805,10 @@
         [
           0,
           1784823668.238993
+        ],
+        [
+          1,
+          1788023136.9515595
         ]
       ],
       "first_date": 1784597988.8391385,
@@ -10167,16 +10988,49 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "Sparna51",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 2450.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "CCC 10",
+      "date": 1788023136.9515595,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788023136.9515595
+        ]
+      ],
+      "first_date": 1787322910.4653223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "Fabbes",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 2499.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - price negotiable",
       "date": 1786410675.9643836,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -10188,10 +11042,15 @@
           1786255490.0202868
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786410675.9643836
+        ]
+      ],
       "first_date": 1786137670.5822077,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10232,16 +11091,120 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2640.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1788421266.9434626,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          3495.0,
+          1785881635.0134096
+        ],
+        [
+          2995.0,
+          1787146887.425155
+        ],
+        [
+          2695.0,
+          1787850021.8895438
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788421266.9434626
+        ]
+      ],
+      "first_date": 1783119568.8904245,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
+        "name": "Maxitaxi23",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 2650.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10. many more PSA available",
+      "date": 1788794852.647763,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          297.0,
+          1716292826.8198981
+        ],
+        [
+          3199.99,
+          1779762107.7342224
+        ],
+        [
+          3349.99,
+          1781756181.4164124
+        ],
+        [
+          2750.0,
+          1787322910.4653223
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1716292826.8198981
+        ],
+        [
+          1,
+          1781756181.4164124
+        ],
+        [
+          0,
+          1781756181.4164124
+        ]
+      ],
+      "first_date": 1716292826.8198981,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "Mjrko",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 2500.0,
-      "quantity": 1,
+      "price": 2650.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1786590493.137761,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -10255,12 +11218,21 @@
         [
           2650.0,
           1786255490.0202868
+        ],
+        [
+          2500.0,
+          1786410675.9643836
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786590493.137761
+        ]
+      ],
       "first_date": 1785074767.75686,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10416,19 +11388,57 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "SB-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2750.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1788617917.0786297,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788617917.0786297
+        ]
+      ],
+      "first_date": 1787502621.2608857,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "maruchmjk",
         "country": "Item location: Poland"
       },
       "language": "Japanese",
       "price": 2800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 // FAST SHIPPING",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": true,
+      "date": 1786590493.137761,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786590493.137761
+        ]
+      ],
       "first_date": 1786410675.9643836,
       "last_date": 0.0,
       "price_is_new": false,
@@ -10477,14 +11487,19 @@
       },
       "language": "Japanese",
       "price": 2900.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Bgs 9.5. fast and safe shipping",
-      "date": 1786410675.9643836,
-      "ended": false,
+      "date": 1787146887.425155,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787146887.425155
+        ]
+      ],
       "first_date": 1784823668.238993,
       "last_date": 0.0,
       "price_is_new": false,
@@ -10524,39 +11539,6 @@
         ]
       ],
       "first_date": 1782681346.1335142,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
-      "seller": {
-        "name": "Poke-Gallery",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 2995.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1786410675.9643836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3495.0,
-          1785881635.0134096
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783119568.8904245,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10617,7 +11599,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 fast ship",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10645,7 +11627,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10. Actual shipping cost; excess refunded.",
-      "date": 1785881635.0134096,
+      "date": 1788249782.4500277,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -10682,6 +11664,14 @@
         [
           1,
           1785881635.0134096
+        ],
+        [
+          0,
+          1785881635.0134096
+        ],
+        [
+          1,
+          1788249782.4500277
         ]
       ],
       "first_date": 1779136191.6766205,
@@ -10827,6 +11817,39 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
+        "name": "breezy-cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3250.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10. CERT Private Chat",
+      "date": 1788617917.0786297,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788617917.0786297
+        ]
+      ],
+      "first_date": 1787146887.425155,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Tokyo's Pikachu  (XY-P 098)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
+      "seller": {
         "name": "RoskamTradingCards",
         "country": "Item location: Netherlands"
       },
@@ -10868,11 +11891,20 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787502621.2608857
+        ],
+        [
+          0,
+          1787502621.2608857
+        ]
+      ],
       "first_date": 1784597988.8391385,
       "last_date": 0.0,
       "price_is_new": false,
@@ -10888,38 +11920,25 @@
       "card": "Mega Tokyo's Pikachu  (XY-P 098)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Mega-Tokyos-Pikachu-V1-XY-P098",
       "seller": {
-        "name": "Maxitaxi23",
-        "country": "Item location: Netherlands"
+        "name": "elpigo",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 3349.99,
+      "price": 3400.0,
       "quantity": 0,
       "condition": "MT",
-      "comment": "PSA 10. many more PSA available",
-      "date": 1781756181.4164124,
+      "comment": "PSA10 ask for certification",
+      "date": 1787502621.2608857,
       "ended": true,
       "new": false,
-      "previous_prices": [
-        [
-          297.0,
-          1716292826.8198981
-        ],
-        [
-          3199.99,
-          1779762107.7342224
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
-          0,
-          1716292826.8198981
-        ],
-        [
           1,
-          1781756181.4164124
+          1787502621.2608857
         ]
       ],
-      "first_date": 1716292826.8198981,
+      "first_date": 1787146887.425155,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10942,7 +11961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Wide selection B2B possible",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11003,7 +12022,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10 info in dm",
-      "date": 1786410675.9643836,
+      "date": 1788794852.647763,
       "ended": false,
       "new": false,
       "previous_prices": [

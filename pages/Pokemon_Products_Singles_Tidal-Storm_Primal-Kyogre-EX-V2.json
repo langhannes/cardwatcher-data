@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 8,
+  "available": 6,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -37,6 +37,56 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Kyogre EX  (XY5t 073)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
+      "seller": {
+        "name": "Judanius",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "J6",
+      "date": 1788791417.81776,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          250.0,
+          1788019015.637391
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783127556.9916413
+        ],
+        [
+          0,
+          1783127556.9916413
+        ],
+        [
+          1,
+          1783908969.6950264
+        ],
+        [
+          0,
+          1783908969.6950264
+        ]
+      ],
+      "first_date": 1781325087.4129007,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -81,19 +131,14 @@
       "language": "Japanese",
       "price": 215.0,
       "quantity": 1,
-      "condition": "EX",
+      "condition": "GD",
       "comment": "",
-      "date": 1786406611.8013697,
+      "date": 1788791417.81776,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          250.0,
-          1783396338.1682346
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783396338.1682346,
+      "first_date": 1787667958.505834,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -108,41 +153,34 @@
       "card": "Primal Kyogre EX  (XY5t 073)",
       "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
       "seller": {
-        "name": "Judanius",
-        "country": "Item location: Netherlands"
+        "name": "gistingi",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "J6",
-      "date": 1786406611.8013697,
-      "ended": false,
+      "price": 215.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "",
+      "date": 1787498225.0430396,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          250.0,
+          1783396338.1682346
+        ]
+      ],
       "previous_quantities": [
         [
           1,
-          1783127556.9916413
-        ],
-        [
-          0,
-          1783127556.9916413
-        ],
-        [
-          1,
-          1783908969.6950264
-        ],
-        [
-          0,
-          1783908969.6950264
+          1787498225.0430396
         ]
       ],
-      "first_date": 1781325087.4129007,
+      "first_date": 1783396338.1682346,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 1,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -177,6 +215,64 @@
         ]
       ],
       "first_date": 1780276882.109754,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Kyogre EX  (XY5t 073)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
+      "seller": {
+        "name": "Mploqs",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 299.99,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "Excellent + / NM-",
+      "date": 1788019015.637391,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          329.99,
+          1772486415.4462502
+        ],
+        [
+          309.99,
+          1786406611.8013697
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778096373.8856335
+        ],
+        [
+          0,
+          1778096373.8856335
+        ],
+        [
+          1,
+          1786792822.6567938
+        ],
+        [
+          0,
+          1786792822.6567938
+        ],
+        [
+          1,
+          1788019015.637391
+        ]
+      ],
+      "first_date": 1772056495.400314,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -232,7 +328,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786406611.8013697,
+      "date": 1788791417.81776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -302,48 +398,6 @@
       "card": "Primal Kyogre EX  (XY5t 073)",
       "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
       "seller": {
-        "name": "Mploqs",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 309.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Excellent + / NM-",
-      "date": 1786406611.8013697,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          329.99,
-          1772486415.4462502
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778096373.8856335
-        ],
-        [
-          0,
-          1778096373.8856335
-        ]
-      ],
-      "first_date": 1772056495.400314,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Primal Kyogre EX  (XY5t 073)",
-      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
-      "seller": {
         "name": "PokePew",
         "country": "Item location: France"
       },
@@ -395,14 +449,19 @@
       },
       "language": "Japanese",
       "price": 340.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Nuovo venditore. contattatemi per maggiori info. grazie",
-      "date": 1786406611.8013697,
-      "ended": false,
+      "date": 1788417087.5094733,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788417087.5094733
+        ]
+      ],
       "first_date": 1786133736.2272394,
       "last_date": 0.0,
       "price_is_new": false,
@@ -513,7 +572,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM- Bottom left corner",
-      "date": 1786406611.8013697,
+      "date": 1788791417.81776,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -560,14 +619,27 @@
       },
       "language": "Japanese",
       "price": 399.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Groudon available !! unlimited edition !!",
-      "date": 1786406611.8013697,
-      "ended": false,
+      "date": 1788019015.637391,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786792822.6567938
+        ],
+        [
+          0,
+          1786792822.6567938
+        ],
+        [
+          1,
+          1788019015.637391
+        ]
+      ],
       "first_date": 1772581439.6570213,
       "last_date": 0.0,
       "price_is_new": false,
@@ -591,11 +663,20 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ask for pics - fast & save shipping - check out my other cards",
-      "date": 1786406611.8013697,
+      "date": 1788791417.81776,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787142628.903558
+        ],
+        [
+          0,
+          1787142628.903558
+        ]
+      ],
       "first_date": 1783532875.0529993,
       "last_date": 0.0,
       "price_is_new": false,
@@ -619,11 +700,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1786406611.8013697,
+      "date": 1788791417.81776,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787667958.505834
+        ],
+        [
+          0,
+          1787667958.505834
+        ]
+      ],
       "first_date": 1786133736.2272394,
       "last_date": 0.0,
       "price_is_new": false,

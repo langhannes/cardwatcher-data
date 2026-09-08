@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
-  "available_graded": 2,
+  "available": 11,
+  "available_graded": 4,
   "sold": 0,
-  "inserted": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Dragonite EX  (CP6 098)",
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Le segnature sono visibili nella foto. in generale è in buone condizioni.",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -55,7 +55,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -72,7 +72,7 @@
       "grade_source": "auto"
     },
     {
-      "card": "Dragonite EX (CP6 098)",
+      "card": "Dragonite EX  (CP6 098)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
       "seller": {
         "name": "LPPCOLLECTING-IT-SRL",
@@ -80,16 +80,20 @@
       },
       "language": "Korean",
       "price": 125.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
-      "comment": "Ex+",
-      "date": 1718290886.9739716,
-      "ended": true,
+      "comment": "STORE - ARCORE (MB)",
+      "date": 1788768805.597999,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1718290886.9739716
+        ],
+        [
+          0,
           1718290886.9739716
         ]
       ],
@@ -116,7 +120,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -144,7 +148,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "(DIV_AM) - GTradingCards(at)",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -169,11 +173,11 @@
       },
       "language": "Korean",
       "price": 165.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! nm/m",
-      "date": 1786535817.4526572,
-      "ended": false,
+      "comment": "nm/m",
+      "date": 1787969030.4293077,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -189,12 +193,16 @@
         [
           0,
           1718290886.9739716
+        ],
+        [
+          1,
+          1787969030.4293077
         ]
       ],
       "first_date": 1713720005.3086357,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -374,7 +382,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -402,7 +410,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -441,6 +449,67 @@
       ],
       "previous_quantities": [],
       "first_date": 1713720005.3086357,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Dragonite EX  (CP6 098)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
+      "seller": {
+        "name": "Drask",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 449.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1788768805.597999,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          549.95,
+          1787795267.5693889
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786919199.47085,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Dragonite EX  (CP6 098)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
+      "seller": {
+        "name": "Faridosss",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Korean",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9 - POP 10",
+      "date": 1788768805.597999,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787268378.4636588,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -562,7 +631,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 new cert",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -590,9 +659,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1786535817.4526572,
+      "date": 1788768805.597999,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786535817.4526572,

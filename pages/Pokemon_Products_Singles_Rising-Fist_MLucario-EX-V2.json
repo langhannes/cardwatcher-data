@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
-  "available_graded": 3,
+  "available": 8,
+  "available_graded": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -90,14 +90,19 @@
       },
       "language": "Japanese",
       "price": 60.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "many more cards",
-      "date": 1786398155.065209,
-      "ended": false,
+      "date": 1788010469.2057238,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788010469.2057238
+        ]
+      ],
       "first_date": 1784789637.1466668,
       "last_date": 0.0,
       "price_is_new": false,
@@ -171,7 +176,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
-      "date": 1786398155.065209,
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -224,6 +229,34 @@
       "card": "MLucario EX  (XY3 105)",
       "canonical_name": "Pokemon_Products_Singles_Rising-Fist_MLucario-EX-V2",
       "seller": {
+        "name": "CyCardSeller",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Takes 2 weeks to ship",
+      "date": 1788783996.979663,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788606677.8372824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MLucario EX  (XY3 105)",
+      "canonical_name": "Pokemon_Products_Singles_Rising-Fist_MLucario-EX-V2",
+      "seller": {
         "name": "jansancla",
         "country": "Item location: Spain"
       },
@@ -232,7 +265,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786398155.065209,
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -256,17 +289,25 @@
         "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 199.0,
+      "price": 170.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "+150 sales on vinted/wallapop/ebay",
-      "date": 1786398155.065209,
+      "comment": "+150 sales on vinted/wallapop/ebay - Video Available",
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           210.0,
           1785609422.3321474
+        ],
+        [
+          199.0,
+          1787134356.8354473
+        ],
+        [
+          180.0,
+          1788408981.6120577
         ]
       ],
       "previous_quantities": [],
@@ -275,6 +316,39 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MLucario EX  (XY3 105)",
+      "canonical_name": "Pokemon_Products_Singles_Rising-Fist_MLucario-EX-V2",
+      "seller": {
+        "name": "CyCardSeller",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 185.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Takes 2 weeks to ship",
+      "date": 1787310208.620988,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1787310208.620988
+        ]
+      ],
+      "first_date": 1787310208.620988,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -347,7 +421,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1786398155.065209,
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -380,7 +454,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1786398155.065209,
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -441,7 +515,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PGS 8",
-      "date": 1786398155.065209,
+      "date": 1788783996.979663,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -504,11 +578,11 @@
       },
       "language": "Japanese",
       "price": 499.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "PGS 8",
-      "date": 1783987575.013346,
-      "ended": true,
+      "date": 1788783996.979663,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -519,6 +593,10 @@
       "previous_quantities": [
         [
           1,
+          1783987575.013346
+        ],
+        [
+          0,
           1783987575.013346
         ]
       ],

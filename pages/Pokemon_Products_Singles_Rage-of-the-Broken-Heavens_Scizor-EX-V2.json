@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 6,
   "available_graded": 3,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Scizor EX (XY9 086)",
@@ -187,15 +187,43 @@
       "card": "Scizor EX  (XY9 086)",
       "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Scizor-EX-V2",
       "seller": {
+        "name": "DinoHut",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1788782472.5003655,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788782472.5003655,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Scizor EX  (XY9 086)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Scizor-EX-V2",
+      "seller": {
         "name": "zelazzin",
         "country": "Item location: Sweden"
       },
       "language": "Japanese",
-      "price": 290.0,
+      "price": 250.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786396998.3203318,
+      "date": 1788782472.5003655,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -206,6 +234,10 @@
         [
           299.0,
           1783987065.5657022
+        ],
+        [
+          290.0,
+          1786396998.3203318
         ]
       ],
       "previous_quantities": [],
@@ -232,7 +264,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1786396998.3203318,
+      "date": 1788782472.5003655,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -260,7 +292,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786396998.3203318,
+      "date": 1788782472.5003655,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -321,11 +353,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1786396998.3203318,
+      "date": 1788782472.5003655,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788009167.8712509
+        ],
+        [
+          0,
+          1788009167.8712509
+        ]
+      ],
       "first_date": 1785867029.290033,
       "last_date": 0.0,
       "price_is_new": false,
@@ -349,7 +390,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1786396998.3203318,
+      "date": 1788782472.5003655,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -407,11 +448,11 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 SEQUENTIAL 057 086 XY9 1ST EDITION",
-      "date": 1786396998.3203318,
-      "ended": false,
+      "date": 1788009167.8712509,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -419,7 +460,12 @@
           1782075643.6910849
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788009167.8712509
+        ]
+      ],
       "first_date": 1778995725.1442695,
       "last_date": 0.0,
       "price_is_new": false,

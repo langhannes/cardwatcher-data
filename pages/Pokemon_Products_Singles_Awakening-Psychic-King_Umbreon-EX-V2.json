@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 3,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -24,11 +24,11 @@
       },
       "language": "Korean",
       "price": 145.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1785584909.0803447,
-      "ended": true,
+      "date": 1788758602.8466814,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -42,6 +42,10 @@
         ],
         [
           1,
+          1785584909.0803447
+        ],
+        [
+          0,
           1785584909.0803447
         ]
       ],
@@ -110,7 +114,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1786543006.719415,
+      "date": 1788758602.8466814,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -120,6 +124,39 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Umbreon EX  (XY10 082)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Umbreon-EX-V2",
+      "seller": {
+        "name": "CyCardSeller",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "Takes 2 weeks to ship / Open to offers",
+      "date": 1786926796.375721,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786926796.375721
+        ]
+      ],
+      "first_date": 1786926796.375721,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -166,7 +203,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1786543006.719415,
+      "date": 1788758602.8466814,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 2,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -262,11 +262,11 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": 1786526362.8774617,
-      "ended": false,
+      "date": 1787610192.7078001,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -277,6 +277,10 @@
         [
           0,
           1780361300.78907
+        ],
+        [
+          1,
+          1787610192.7078001
         ]
       ],
       "first_date": 1730793392.600934,
@@ -849,6 +853,34 @@
       "card": "Mew EX  (BW5t 051)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Mew-EX-V2",
       "seller": {
+        "name": "kyuby88",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "",
+      "date": 1788765442.6870787,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787960913.382944,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mew EX  (BW5t 051)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Mew-EX-V2",
+      "seller": {
         "name": "Pokedia",
         "country": "Item location: Czech Republic"
       },
@@ -857,7 +889,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1786526362.8774617,
+      "date": 1788765442.6870787,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 1,
-  "available_graded": 2,
+  "available": 4,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 1,
   "listings": [
@@ -324,6 +324,34 @@
       "card": "Rayquaza Spirit Link (XY-P 126)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
       "seller": {
+        "name": "neogenesis95",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 69.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "@ VAT/MWSt - Ebay: neogenesis95",
+      "date": 1788795947.8714347,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787528444.2375326,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Rayquaza Spirit Link (XY-P 126)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
+      "seller": {
         "name": "lmhng",
         "country": "Item location: Netherlands"
       },
@@ -500,14 +528,19 @@
       },
       "language": "Japanese",
       "price": 219.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 @ VAT/MWSt - Ebay: neogenesis95",
-      "date": 1786411720.5542624,
-      "ended": false,
-      "new": true,
+      "date": 1787250419.285504,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1787250419.285504
+        ]
+      ],
       "first_date": 1786411720.5542624,
       "last_date": 0.0,
       "price_is_new": false,
@@ -527,14 +560,19 @@
         "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 470.0,
+      "price": 350.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1786411720.5542624,
+      "date": 1788795947.8714347,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          470.0,
+          1787528444.2375326
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1785265053.4799132,
       "last_date": 0.0,
@@ -556,23 +594,35 @@
       },
       "language": "Japanese",
       "price": 499.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
-      "comment": "[EXC+] [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1785882654.0781662,
-      "ended": true,
+      "comment": "RELISTED! [EXC+] [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
+      "date": 1788795947.8714347,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1785882654.0781662
+        ],
+        [
+          0,
+          1785882654.0781662
+        ],
+        [
+          1,
+          1788040798.790541
+        ],
+        [
+          0,
+          1788040798.790541
         ]
       ],
       "first_date": 1783311634.0882132,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -592,7 +642,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1786411720.5542624,
+      "date": 1788795947.8714347,
       "ended": false,
       "new": false,
       "previous_prices": [],

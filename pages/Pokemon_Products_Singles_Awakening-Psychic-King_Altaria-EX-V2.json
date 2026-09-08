@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
-  "available_graded": 1,
-  "sold": 1,
+  "available": 10,
+  "available_graded": 0,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -55,7 +55,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #489",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -92,7 +92,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785793721.6217277,
+      "date": 1787955948.1968517,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -100,6 +100,14 @@
         [
           1,
           1785793721.6217277
+        ],
+        [
+          0,
+          1785793721.6217277
+        ],
+        [
+          1,
+          1787955948.1968517
         ]
       ],
       "first_date": 1778994789.2551854,
@@ -125,7 +133,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #723",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -190,11 +198,11 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 84.0,
+      "price": 80.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "NM/EX Dent in back with right angle",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -205,12 +213,16 @@
         [
           85.0,
           1786263873.3453166
+        ],
+        [
+          84.0,
+          1788128089.5589397
         ]
       ],
       "previous_quantities": [],
       "first_date": 1782074678.7394774,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -227,14 +239,19 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 85.0,
+      "price": 82.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "J6",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          85.0,
+          1787077373.8931823
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -264,14 +281,19 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 89.99,
+      "price": 84.99,
       "quantity": 1,
       "condition": "EX",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1786419731.575858,
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          89.99,
+          1787077373.8931823
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1778994789.2551854,
       "last_date": 0.0,
@@ -313,6 +335,67 @@
       "grade_source": "auto"
     },
     {
+      "card": "Altaria EX  (XY10 086)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Altaria-EX-V2",
+      "seller": {
+        "name": "ThepokegalleryBV",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 104.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788705056.4336457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          114.95,
+          1787780889.9227364
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785037875.6230948,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Altaria EX  (XY10 086)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Altaria-EX-V2",
+      "seller": {
+        "name": "IIPegasi",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 109.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved & Toploader für Fotos einfach fragen :D",
+      "date": 1788705056.4336457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787253818.3934307,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
       "card": "Altaria EX (086) - Awakening Psychic King",
       "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Altaria-EX-V2",
       "seller": {
@@ -344,20 +427,46 @@
       "card": "Altaria EX  (XY10 086)",
       "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Altaria-EX-V2",
       "seller": {
-        "name": "ThepokegalleryBV",
+        "name": "CrowCardsNL",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 114.95,
+      "price": 115.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1786419731.575858,
+      "comment": "A19 | We buy your single cards. collections and sealed products",
+      "date": 1788705056.4336457,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785037875.6230948,
+      "previous_prices": [
+        [
+          119.99,
+          1786263873.3453166
+        ],
+        [
+          110.0,
+          1788128089.5589397
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784243635.157421
+        ],
+        [
+          0,
+          1784243635.157421
+        ],
+        [
+          1,
+          1786263873.3453166
+        ],
+        [
+          0,
+          1786263873.3453166
+        ]
+      ],
+      "first_date": 1783985440.8551161,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -395,47 +504,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Altaria EX  (XY10 086)",
-      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Altaria-EX-V2",
-      "seller": {
-        "name": "CrowCardsNL",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 119.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "C11-9 | We buy your single cards. collections and sealed products",
-      "date": 1786263873.3453166,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784243635.157421
-        ],
-        [
-          0,
-          1784243635.157421
-        ],
-        [
-          1,
-          1786263873.3453166
-        ]
-      ],
-      "first_date": 1783985440.8551161,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -530,16 +598,20 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Ask for as many pics as you like :) Top loader.",
-      "date": 1785387134.6360006,
-      "ended": true,
+      "date": 1788705056.4336457,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785387134.6360006
+        ],
+        [
+          0,
           1785387134.6360006
         ]
       ],
@@ -563,11 +635,11 @@
       },
       "language": "Japanese",
       "price": 130.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1786419731.575858,
-      "ended": false,
+      "date": 1788280693.570481,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -578,6 +650,10 @@
         [
           0,
           1716279476.347403
+        ],
+        [
+          1,
+          1788280693.570481
         ]
       ],
       "first_date": 1709034962.4715357,
@@ -600,11 +676,11 @@
       },
       "language": "Japanese",
       "price": 335.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / Free shipping /  T50",
-      "date": 1786419731.575858,
-      "ended": false,
+      "date": 1787603711.1183434,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -620,6 +696,10 @@
         [
           0,
           1783985440.8551161
+        ],
+        [
+          1,
+          1787603711.1183434
         ]
       ],
       "first_date": 1778994789.2551854,

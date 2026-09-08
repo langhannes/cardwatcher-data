@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 1,
   "available_graded": 0,
-  "sold": 2,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -29,7 +29,7 @@
       "comment": "Fotos auf Anfrage!",
       "date": 1786249813.0621214,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -40,7 +40,7 @@
       "first_date": 1777222573.5057526,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -165,7 +165,7 @@
       "comment": "Fotos auf Anfrage!",
       "date": 1786249813.0621214,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -176,7 +176,7 @@
       "first_date": 1777222573.5057526,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -192,12 +192,12 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 419.99,
-      "quantity": 1,
+      "price": 369.99,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Vint_Bros SALE",
-      "date": 1786405407.8989995,
-      "ended": false,
+      "date": 1788243738.4238653,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -211,6 +211,14 @@
         [
           439.99,
           1785274761.0071986
+        ],
+        [
+          419.99,
+          1786584925.41786
+        ],
+        [
+          399.99,
+          1787843968.6941135
         ]
       ],
       "previous_quantities": [
@@ -221,6 +229,10 @@
         [
           0,
           1784622937.7448432
+        ],
+        [
+          1,
+          1788243738.4238653
         ]
       ],
       "first_date": 1781587466.4510567,
@@ -278,8 +290,8 @@
       "price": 560.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "NM- kein 9.10er",
-      "date": 1782792801.9434085,
+      "comment": "RELISTED! NM- kein 9.10er",
+      "date": 1787496884.722629,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -287,6 +299,14 @@
         [
           1,
           1782792801.9434085
+        ],
+        [
+          0,
+          1782792801.9434085
+        ],
+        [
+          1,
+          1787496884.722629
         ]
       ],
       "first_date": 1782792801.9434085,
@@ -373,6 +393,34 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Garchomp  (BW8t 057)",
+      "canonical_name": "Pokemon_Products_Singles_Thunder-Knuckle_Garchomp",
+      "seller": {
+        "name": "Nnafri",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfecto estado fotos al privado",
+      "date": 1788717866.3979876,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787496884.722629,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
