@@ -56,3 +56,9 @@ The per-card price chart draws all five series the app does — **Trend** and
 overlays, computed in `js/card-market.js` (a port of
 `watcherbase.calculate_market_price_series` and its helpers). The JS output was
 validated to match the Python to the cent.
+
+Those overlays are filtered to one language per card (see `pageLanguage`). A
+page may pin that language by hand — the app writes `market_language` into the
+page JSON — and the viewer honours it, otherwise it votes over every listing on
+offer, graded copies included. Read the field; don't recompute around it, or the
+static site charts a different market than the app for the same card.

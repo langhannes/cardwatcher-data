@@ -2,8 +2,9 @@
  *
  * Client-side port of the Flask app's watcherbase market-price logic
  * (calculate_market_price_series and its helpers calculate_market_prices,
- * _listings_at_time, dominant_language, get_price_at_time, _iqr_bounds,
- * _percentile, calculate_price_average_time_weighted, _recency_weight_sum).
+ * _listings_at_time, page_language, dominant_language, get_price_at_time,
+ * _iqr_bounds, _percentile, calculate_price_average_time_weighted,
+ * _recency_weight_sum).
  *
  * Produces { labels, blend, transaction, floor } — the three market lines the
  * app bakes into blanko.htm as window.cwMarketSeries. Card.js calls
@@ -70,6 +71,18 @@
       active.push([l, getPriceAtTime(l, atTime)]);
     }
     return [active, sold];
+  }
+
+  // Verbatim page_language: the card's trading language over EVERY listing on
+  // offer, slabs included, unless the page pins one by hand. The override is set
+  // in the Flask app (card page -> Market language) and stored on the page file,
+  // so the viewer only has to read it -- but it must read it, or the static site
+  // charts a different market than the app does for the same card.
+  function pageLanguage(page, atTime) {
+    const override = page.market_language || "";
+    if (override) return override;
+    const [active, sold] = listingsAtTime(page, atTime == null ? null : atTime);
+    return dominantLanguage(active.map((x) => x[0])) || dominantLanguage(sold.map((x) => x[0]));
   }
 
   function dominantLanguage(listings) {
@@ -152,7 +165,7 @@
     if (arguments.length < 3) lang = UNSET;
     const [active, sold] = listingsAtTime(page, atTime == null ? null : atTime);
     if (lang === UNSET) {
-      lang = dominantLanguage(active.map((x) => x[0])) || dominantLanguage(sold.map((x) => x[0]));
+      lang = pageLanguage(page, atTime == null ? null : atTime);
     }
 
     function filtered(pairs) {
@@ -234,7 +247,8 @@
     const earliest = midnight(new Date(today.getTime() - maxDays * DAY * 1000));
     if (start < earliest) start = earliest;
 
-    // Pin one language across the whole series (current snapshot's dominant).
+    // Pin one language across the whole series (the page's override, else the
+    // current snapshot's dominant).
     const canonicalLang = calculateMarketPrices(page).language;
 
     const labels = [], blend = [], transaction = [], floor = [];
@@ -248,5 +262,5 @@
     return { labels, blend, transaction, floor };
   }
 
-  global.CWMarket = { calculateMarketPriceSeries, calculateMarketPrices };
+  global.CWMarket = { calculateMarketPriceSeries, calculateMarketPrices, pageLanguage };
 })(window);
