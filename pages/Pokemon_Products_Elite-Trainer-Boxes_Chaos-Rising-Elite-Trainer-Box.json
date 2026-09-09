@@ -13,10 +13,10 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 2028,
+  "available": 2035,
   "available_graded": 0,
-  "sold": 54,
-  "inserted": 33,
+  "sold": 21,
+  "inserted": 28,
   "listings": [
     {
       "card": "Chaos Rising Elite Trainer Box",
@@ -407,7 +407,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -436,7 +436,7 @@
       "first_date": 1785072072.0944574,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -453,18 +453,23 @@
       },
       "language": "Spanish",
       "price": 44.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1788716949.3872736,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
       "first_date": 1788716949.3872736,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -481,23 +486,28 @@
       },
       "language": "Italian",
       "price": 44.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Perfect Condition",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           54.9,
           1787646220.3336186
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
       "first_date": 1785072072.0944574,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -682,6 +692,52 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "mundomagicfantasy",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          53.0,
+          1786345683.3644412
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1786345683.3644412
+        ],
+        [
+          2,
+          1786772177.2836294
+        ],
+        [
+          0,
+          1786772177.2836294
+        ]
+      ],
+      "first_date": 1783282619.6246052,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Roberto2084",
         "country": "Item location: Italy"
       },
@@ -747,48 +803,6 @@
         ]
       ],
       "first_date": 1785574801.108565,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "mundomagicfantasy",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 45.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1786772177.2836294,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          53.0,
-          1786345683.3644412
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1786345683.3644412
-        ],
-        [
-          2,
-          1786772177.2836294
-        ]
-      ],
-      "first_date": 1783282619.6246052,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -981,7 +995,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1065,6 +1079,48 @@
       "first_date": 1785072072.0944574,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "IIIEternityIII",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 49.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          59.0,
+          1788716949.3872736
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785843559.84461
+        ],
+        [
+          0,
+          1785843559.84461
+        ]
+      ],
+      "first_date": 1781311970.3367503,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1221,7 +1277,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. molti altri prodotti sealed a prezzo stracciato sul mio profilo per fare un'unica spedizione",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1381,7 +1437,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1418,7 +1474,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1455,7 +1511,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed senza buchi perfetti. Possibile ritiro a mano in negozio a Granarolo dell'Emilia (BO))",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1483,7 +1539,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Difetto nella pellicola sottostante",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1525,7 +1581,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed italiano",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1698,7 +1754,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1764,7 +1820,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "PRECIO COMPENSA ENVíO. Sellado.",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1826,7 +1882,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed spedizione 24/48h bartolini",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1938,6 +1994,48 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "DreamDenTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 52.0,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          52.7,
+          1785419857.192669
+        ]
+      ],
+      "previous_quantities": [
+        [
+          5,
+          1785419857.192669
+        ],
+        [
+          0,
+          1785419857.192669
+        ]
+      ],
+      "first_date": 1783384383.5483246,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 5,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "teledeth",
         "country": "Item location: Italy"
       },
@@ -1946,7 +2044,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "New. sealed.",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1974,7 +2072,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Embalaje Premium GOLDENPULLS",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2019,7 +2117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2052,7 +2150,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "SEALED! - Per foto chiedete pure",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2200,7 +2298,7 @@
       "quantity": 11,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2298,39 +2396,6 @@
         ]
       ],
       "first_date": 1780835368.9776032,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "DreamDenTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 52.7,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785419857.192669,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          5,
-          1785419857.192669
-        ]
-      ],
-      "first_date": 1783384383.5483246,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2670,7 +2735,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A1",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2697,8 +2762,8 @@
       "price": 53.45,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sellado",
-      "date": 1788716949.3872736,
+      "comment": "Sellado",
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2836,7 +2901,7 @@
       "first_date": 1781311970.3367503,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2856,7 +2921,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2910,7 +2975,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2947,7 +3012,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3061,12 +3126,12 @@
       },
       "language": "Spanish",
       "price": 53.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP - Sealed. Fast Shipping",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           58.0,
@@ -3081,12 +3146,16 @@
         [
           0,
           1786345683.3644412
+        ],
+        [
+          1,
+          1788716949.3872736
         ]
       ],
       "first_date": 1786225100.9486237,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3238,7 +3307,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "feedback Vinted pietro0487 - Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3308,7 +3377,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More cards in my profile! Vinted: lechonk_64",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3346,7 +3415,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "SEALED ITALIAN - Store in Udine",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3462,7 +3531,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "50 pezzi disponibili",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3490,7 +3559,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "SIGILLATO - SPED VELOCE E SICURA",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3518,7 +3587,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3546,7 +3615,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "VENTA EN TIENDA DISPONIBLE / ENVIO GRATIS POR NUESTRA WEB",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3700,7 +3769,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3754,7 +3823,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed - Fast Shipping",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3787,7 +3856,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3815,7 +3884,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3869,51 +3938,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "ESSECARDS",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 54.9,
-      "quantity": 9,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          9,
-          1784175740.805172
-        ],
-        [
-          0,
-          1784175740.805172
-        ],
-        [
-          9,
-          1786345683.3644412
-        ],
-        [
-          0,
-          1786345683.3644412
-        ]
-      ],
-      "first_date": 1783897457.6867628,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "StudioDeSc",
         "country": "Item location: Italy"
       },
@@ -3922,7 +3946,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3952,7 +3976,7 @@
       "first_date": 1779440981.8330452,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3972,7 +3996,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sigillato GEDIS ITALIANO",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4000,7 +4024,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4028,7 +4052,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SIGILLATO - SPED VELOCE E SICURA",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4056,7 +4080,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4074,6 +4098,55 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "ESSECARDS",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 54.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788716949.3872736,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          9,
+          1784175740.805172
+        ],
+        [
+          0,
+          1784175740.805172
+        ],
+        [
+          9,
+          1786345683.3644412
+        ],
+        [
+          0,
+          1786345683.3644412
+        ],
+        [
+          9,
+          1788716949.3872736
+        ]
+      ],
+      "first_date": 1783897457.6867628,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -9,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4523,23 +4596,27 @@
       },
       "language": "Spanish",
       "price": 54.95,
-      "quantity": 0,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "",
-      "date": 1787120445.9857514,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           2,
           1787120445.9857514
+        ],
+        [
+          0,
+          1787120445.9857514
         ]
       ],
       "first_date": 1781887264.9178972,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4791,7 +4868,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4824,7 +4901,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Nuevo vendedor. regalo asegurado por pedido",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5202,7 +5279,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "SEALED - PERFETTO!! - SPEDIZIONE VELOCE CON CORRIERE",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5248,7 +5325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5290,7 +5367,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5355,7 +5432,7 @@
       "first_date": 1779834625.1905417,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5375,7 +5452,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5403,9 +5480,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -5431,7 +5508,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5468,7 +5545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "REMBOLSO DIFERENCIA DE ENVIO | Perfect. Sealed. Fast Shipping",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5522,7 +5599,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5550,7 +5627,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5595,7 +5672,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5623,7 +5700,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellada Devuelvo diferencia de envio",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5656,7 +5733,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "nuevo sellado. envio rapido",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6663,7 +6740,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Excelente!",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6874,7 +6951,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7130,7 +7207,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7817,7 +7894,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8808,6 +8885,52 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "KillaVince11",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 57.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          80.0,
+          1779834625.1905417
+        ],
+        [
+          65.0,
+          1782353696.8639014
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1786225100.9486237
+        ],
+        [
+          0,
+          1786225100.9486237
+        ]
+      ],
+      "first_date": 1779755094.2048986,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Juanvii98",
         "country": "Item location: Spain"
       },
@@ -8816,7 +8939,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8917,48 +9040,6 @@
         ]
       ],
       "first_date": 1786564508.747979,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "KillaVince11",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 57.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1786225100.9486237,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          80.0,
-          1779834625.1905417
-        ],
-        [
-          65.0,
-          1782353696.8639014
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1786225100.9486237
-        ]
-      ],
-      "first_date": 1779755094.2048986,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10452,8 +10533,8 @@
       "price": 57.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Ask for photos | More cards and material",
-      "date": 1788716949.3872736,
+      "comment": "OVP Sealed | Ask for photos | More cards and material",
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11030,6 +11111,51 @@
       "first_date": 1779584571.923354,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Floryan91666",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 58.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "OVP Sealed - F",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1782175911.5400722
+        ],
+        [
+          64.0,
+          1783643320.7099307
+        ],
+        [
+          62.0,
+          1785843559.84461
+        ],
+        [
+          60.0,
+          1788716949.3872736
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782084331.429572,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -12311,7 +12437,7 @@
       "comment": "RELISTED! Aucun défaut. envoi rapide et protégé",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           58.95,
@@ -12335,7 +12461,7 @@
       "first_date": 1787297232.4638662,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12352,23 +12478,27 @@
       },
       "language": "French",
       "price": 58.4,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           3,
           1788543721.6045368
+        ],
+        [
+          1,
+          1788716949.3872736
         ]
       ],
       "first_date": 1788543721.6045368,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12475,48 +12605,6 @@
         ]
       ],
       "first_date": 1780126632.3213482,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "X-magix",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 58.49,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Trou dans scellage en dessous",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          58.96,
-          1787476867.8691902
-        ],
-        [
-          58.94,
-          1787823996.8375907
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1787120445.9857514
-        ]
-      ],
-      "first_date": 1787120445.9857514,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -13193,6 +13281,52 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "X-magix",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 58.89,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Trou dans scellage en dessous",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          58.96,
+          1787476867.8691902
+        ],
+        [
+          58.94,
+          1787823996.8375907
+        ],
+        [
+          58.49,
+          1788716949.3872736
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1787120445.9857514
+        ]
+      ],
+      "first_date": 1787120445.9857514,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "timmybetze",
         "country": "Item location: Germany"
       },
@@ -13243,7 +13377,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Fast shipping.",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13276,7 +13410,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Envoi sous 48h",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13652,7 +13786,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13698,7 +13832,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pour Ouverture // Envoi TRES Rapide ;-)",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13789,7 +13923,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Coins/Cotés abîmés",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13875,7 +14009,7 @@
       "quantity": 11,
       "condition": "NM",
       "comment": "En MetixTcg com a 54.99",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14813,7 +14947,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP pick-up in-shop possible",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14871,7 +15005,7 @@
       "first_date": 1779440981.8330452,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14891,7 +15025,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "Sigillato/Nuovo/Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14920,43 +15054,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "IIIEternityIII",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 59.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785843559.84461
-        ],
-        [
-          0,
-          1785843559.84461
-        ]
-      ],
-      "first_date": 1781311970.3367503,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "M2workshop",
         "country": "Item location: Italy"
       },
@@ -14965,7 +15062,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "@q47",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14990,20 +15087,20 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "VincTCG",
-        "country": "Item location: France"
+        "name": "Pat271",
+        "country": "Item location: Germany"
       },
-      "language": "French",
+      "language": "German",
       "price": 59.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sans défaut",
-      "date": 1788716949.3872736,
+      "comment": "",
+      "date": 1788872997.1462348,
       "ended": false,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1788716949.3872736,
+      "first_date": 1788872997.1462348,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -15026,7 +15123,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Articolo italiano nuovo sigillato",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15035,6 +15132,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "VincTCG",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 59.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sans défaut",
+      "date": 1788716949.3872736,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
+      "first_date": 1788716949.3872736,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16794,7 +16924,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed - OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17120,7 +17250,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "SEALED - OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17194,7 +17324,7 @@
       "quantity": 45,
       "condition": "NM",
       "comment": "OVP/ sellado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17308,7 +17438,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17353,7 +17483,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17390,7 +17520,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17410,160 +17540,16 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "El-Podenco-TCG",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 59.9,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "Envío rápido y bien protegido.",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          5,
-          1786564508.747979
-        ],
-        [
-          0,
-          1786564508.747979
-        ]
-      ],
-      "first_date": 1786103156.054469,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "WiniGames",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 59.9,
-      "quantity": 34,
-      "condition": "NM",
-      "comment": "Sellado. Envío rápido.",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          64.9,
-          1780126632.3213482
-        ]
-      ],
-      "previous_quantities": [
-        [
-          40,
-          1780259802.3699238
-        ],
-        [
-          39,
-          1780942280.6773686
-        ],
-        [
-          38,
-          1784820593.0050468
-        ]
-      ],
-      "first_date": 1779834625.1905417,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "Funkelpappe",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 59.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          64.9,
-          1787476867.8691902
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784175740.805172,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "Samutamu",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 59.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sellado y sin tocar. envios españa",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1787646220.3336186,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "Darkvault",
         "country": "Item location: Spain"
       },
       "language": "Spanish",
       "price": 59.9,
-      "quantity": 0,
+      "quantity": 6,
       "condition": "NM",
-      "comment": "",
-      "date": 1788395465.5080738,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -17611,9 +17597,157 @@
         [
           10,
           1788395465.5080738
+        ],
+        [
+          0,
+          1788395465.5080738
         ]
       ],
       "first_date": 1779440981.8330452,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 6,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "El-Podenco-TCG",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 59.9,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "Envío rápido y bien protegido.",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          5,
+          1786564508.747979
+        ],
+        [
+          0,
+          1786564508.747979
+        ]
+      ],
+      "first_date": 1786103156.054469,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "WiniGames",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 59.9,
+      "quantity": 34,
+      "condition": "NM",
+      "comment": "Sellado. Envío rápido.",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          64.9,
+          1780126632.3213482
+        ]
+      ],
+      "previous_quantities": [
+        [
+          40,
+          1780259802.3699238
+        ],
+        [
+          39,
+          1780942280.6773686
+        ],
+        [
+          38,
+          1784820593.0050468
+        ]
+      ],
+      "first_date": 1779834625.1905417,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Funkelpappe",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 59.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          64.9,
+          1787476867.8691902
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784175740.805172,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Samutamu",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 59.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sellado y sin tocar. envios españa",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787646220.3336186,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -18587,7 +18721,7 @@
       "quantity": 20,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18624,7 +18758,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "New & sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18669,7 +18803,7 @@
       "quantity": 30,
       "condition": "NM",
       "comment": "envío 6 euros",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18702,7 +18836,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18752,7 +18886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "En perfecto estado. sellada",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18794,7 +18928,7 @@
       "quantity": 100,
       "condition": "NM",
       "comment": "VAT | SEALED | FAST INSURED SHIPPING",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19345,18 +19479,23 @@
       },
       "language": "German",
       "price": 59.96,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1788716949.3872736,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
       "first_date": 1788716949.3872736,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19373,12 +19512,12 @@
       },
       "language": "German",
       "price": 59.97,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Versand in PETCase - Weitere Bilder auf Anfrage",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           60.0,
@@ -19401,12 +19540,16 @@
         [
           0,
           1786772177.2836294
+        ],
+        [
+          1,
+          1788716949.3872736
         ]
       ],
       "first_date": 1785419857.192669,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19423,18 +19566,23 @@
       },
       "language": "German",
       "price": 59.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "+ Pet Case - OVP - Sealed",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
       "first_date": 1788395465.5080738,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19451,12 +19599,12 @@
       },
       "language": "German",
       "price": 59.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP - Sealed",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           65.0,
@@ -19475,12 +19623,16 @@
         [
           0,
           1785574801.108565
+        ],
+        [
+          1,
+          1788716949.3872736
         ]
       ],
       "first_date": 1780835368.9776032,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19741,7 +19893,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19778,7 +19930,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Nuovo e sigillato - IT Products",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19815,7 +19967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19857,43 +20009,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "Krasche97",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 59.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785742662.739141
-        ],
-        [
-          0,
-          1785742662.739141
-        ]
-      ],
-      "first_date": 1785742662.739141,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "Geinheit1",
         "country": "Item location: Germany"
       },
@@ -19902,9 +20017,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -19930,12 +20045,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/ OVP   Keine Umsatzsteuer; Kleinunternehmer gemäß § 19 UStG.",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786772177.2836294,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Jonetsu-cte",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 59.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP - Sealed - Gewerblicher Verkauf Kleinunternehmer $19",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788872997.1462348,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -19958,7 +20101,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20016,7 +20159,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20049,7 +20192,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20091,7 +20234,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Bilder auf Anfrage",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20100,6 +20243,47 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Krasche97",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 59.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788716949.3872736,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785742662.739141
+        ],
+        [
+          0,
+          1785742662.739141
+        ],
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
+      "first_date": 1785742662.739141,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -20121,7 +20305,7 @@
       "comment": "",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -20148,7 +20332,7 @@
       "first_date": 1780835368.9776032,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -20170,7 +20354,7 @@
       "comment": "OVP/SEALED/NEU",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -20181,7 +20365,7 @@
       "first_date": 1788543721.6045368,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -20203,7 +20387,7 @@
       "comment": "Sealed-Top Zustand",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -20214,7 +20398,7 @@
       "first_date": 1787997029.2349412,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22369,6 +22553,75 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "TCGCollectibles",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 60.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! We buy all your cards",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1781480972.26263
+        ],
+        [
+          0,
+          1781480972.26263
+        ],
+        [
+          2,
+          1783282619.6246052
+        ],
+        [
+          0,
+          1783282619.6246052
+        ],
+        [
+          2,
+          1784278689.9340825
+        ],
+        [
+          0,
+          1784278689.9340825
+        ],
+        [
+          2,
+          1787823996.8375907
+        ],
+        [
+          0,
+          1787823996.8375907
+        ],
+        [
+          2,
+          1788395465.5080738
+        ],
+        [
+          0,
+          1788395465.5080738
+        ]
+      ],
+      "first_date": 1779584571.923354,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Mad-moxgames",
         "country": "Item location: Spain"
       },
@@ -22377,7 +22630,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Check my combined tracked shipping",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22443,33 +22696,20 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "Floryan91666",
-        "country": "Item location: Austria"
+        "name": "Gonzo85",
+        "country": "Item location: Germany"
       },
       "language": "German",
       "price": 60.0,
-      "quantity": 3,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "OVP Sealed - F",
-      "date": 1788716949.3872736,
+      "comment": "OVP - SEALED inklusive Schutzhülle. Super Zustand!",
+      "date": 1788872997.1462348,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1782175911.5400722
-        ],
-        [
-          64.0,
-          1783643320.7099307
-        ],
-        [
-          62.0,
-          1785843559.84461
-        ]
-      ],
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782084331.429572,
+      "first_date": 1788872997.1462348,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22492,7 +22732,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Trou dans le scellage",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22520,7 +22760,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Abholung in Wien möglich - f",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22548,7 +22788,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22597,7 +22837,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22634,7 +22874,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "schneller Versand+ Sealed +  Fotos auf Anfrage",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22662,7 +22902,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP. Sealed. Fast Shipping",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22690,7 +22930,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask photo",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22723,9 +22963,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/ NO Demage",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -22751,7 +22991,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22779,7 +23019,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22816,7 +23056,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22844,7 +23084,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22872,7 +23112,7 @@
       "quantity": 29,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22930,7 +23170,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22958,7 +23198,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ohne Schäden sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22986,7 +23226,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23014,7 +23254,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pregunta por foto",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23059,7 +23299,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23092,7 +23332,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23125,7 +23365,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23153,7 +23393,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23182,6 +23422,34 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "Hunter-tcg01",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 60.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1787997029.2349412,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Johnferraira",
         "country": "Item location: Germany"
       },
@@ -23190,7 +23458,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Neu OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23228,34 +23496,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "Hunter-tcg01",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 60.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1787997029.2349412,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "AlexU78",
         "country": "Item location: Germany"
       },
@@ -23264,7 +23504,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed ohne schäden",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23309,12 +23549,40 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Entra también en nuestra pagina! Envíos rápidos. accesorios. singles y mas!",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783521042.3936412,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
+        "name": "Luinilxyz",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 60.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788872997.1462348,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -23337,7 +23605,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PERFETTO",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23374,7 +23642,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23402,7 +23670,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23431,6 +23699,34 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "ClashoWinner",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NEW / OVP / SEALED",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788872997.1462348,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Tuabuela146",
         "country": "Item location: Spain"
       },
@@ -23439,7 +23735,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "En perfecto estado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23467,7 +23763,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23495,7 +23791,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nueva Precintada de Amazon",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23525,7 +23821,7 @@
       "comment": "We buy your single cards. collections and sealed products",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23534,71 +23830,6 @@
         ]
       ],
       "first_date": 1788543721.6045368,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -4,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "TCGCollectibles",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 60.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "We buy all your cards",
-      "date": 1788395465.5080738,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1781480972.26263
-        ],
-        [
-          0,
-          1781480972.26263
-        ],
-        [
-          2,
-          1783282619.6246052
-        ],
-        [
-          0,
-          1783282619.6246052
-        ],
-        [
-          2,
-          1784278689.9340825
-        ],
-        [
-          0,
-          1784278689.9340825
-        ],
-        [
-          2,
-          1787823996.8375907
-        ],
-        [
-          0,
-          1787823996.8375907
-        ],
-        [
-          2,
-          1788395465.5080738
-        ]
-      ],
-      "first_date": 1779584571.923354,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -26169,7 +26400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26223,7 +26454,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Envio Inmediato",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26325,7 +26556,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Envios antes de las 20:00 se envian al dia siguiente a primera hora",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26492,7 +26723,7 @@
       "comment": "",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -26535,7 +26766,7 @@
       "first_date": 1779440981.8330452,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -6,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -26824,7 +27055,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "YT: Spielestyler - OVP - Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27153,7 +27384,7 @@
       "comment": "",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -27164,7 +27395,7 @@
       "first_date": 1788222850.2436972,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -27184,7 +27415,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Free shipping for orders of 300 euros or more",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27540,7 +27771,7 @@
       "quantity": 104,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27585,7 +27816,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Ovp Sealed/ Fast Shipping",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27613,7 +27844,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Paar leichte Kratzer - OVP sealed - Schneller Versand + Gift :)",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27762,7 +27993,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed - OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27870,6 +28101,48 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "TCG-Triaden",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 61.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! Neu OVP",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1787646220.3336186
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787646220.3336186
+        ],
+        [
+          0,
+          1787646220.3336186
+        ]
+      ],
+      "first_date": 1787476867.8691902,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "Kornyy",
         "country": "Item location: Germany"
       },
@@ -27878,7 +28151,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP/Sealed // Keine USt. gem. § 19 UStG",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27915,7 +28188,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "inkl. 19% MwSt",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28337,6 +28610,44 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "Teamfrappe",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 62.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          64.0,
+          1788716949.3872736
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1788716949.3872736
+        ]
+      ],
+      "first_date": 1788543721.6045368,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "SFaulwasser",
         "country": "Item location: Germany"
       },
@@ -28345,7 +28656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28378,7 +28689,7 @@
       ],
       "first_date": 1782353696.8639014,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -28399,7 +28710,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed/Bubble wrap/Secure packaging",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28427,7 +28738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed | Out of Supplier Box | Mint - Near Mint | No Defect",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28921,7 +29232,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29267,7 +29578,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP /  Kleinunternehmer gem. § 19 UStG - keine USt. ausgewiesen",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29548,7 +29859,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP / SEALED",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29614,7 +29925,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "OVP SEALED - NOT FOR COLLECTORS (small mark maybe visible)",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29660,7 +29971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu & OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29688,7 +29999,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29738,7 +30049,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30314,6 +30625,55 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "EpicHitStore",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 63.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1783643320.7099307
+        ],
+        [
+          2,
+          1786564508.747979
+        ],
+        [
+          0,
+          1786564508.747979
+        ],
+        [
+          2,
+          1788543721.6045368
+        ],
+        [
+          0,
+          1788543721.6045368
+        ]
+      ],
+      "first_date": 1781569470.8917317,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "NSPCards",
         "country": "Item location: Germany"
       },
@@ -30322,7 +30682,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30355,7 +30715,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP * sealed * incl. Schutzhülle * Sicherer Versand",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30409,9 +30769,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3 in stock",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -30437,7 +30797,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30446,51 +30806,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "EpicHitStore",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 63.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788543721.6045368,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1783643320.7099307
-        ],
-        [
-          2,
-          1786564508.747979
-        ],
-        [
-          0,
-          1786564508.747979
-        ],
-        [
-          2,
-          1788543721.6045368
-        ]
-      ],
-      "first_date": 1781569470.8917317,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -31045,7 +31360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP & Neuzustand. siehe Bild",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31238,7 +31553,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fresh from case / small hole in seal left side / inkl. 19% USt / BM-4",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31275,7 +31590,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fresh from case / seal not tight / inkl. 19% USt / BM-4",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31312,7 +31627,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Rmp 91 possible . très leger défaut de scellage",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31443,7 +31758,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unten Aufkleber. Siehe Foto",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31574,7 +31889,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "OVP - sealed / schneller und sicherer Versand",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31607,7 +31922,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfectly clean Seal",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31673,7 +31988,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31707,34 +32022,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "Teamfrappe",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 64.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788543721.6045368,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "excerion",
         "country": "Item location: Germany"
       },
@@ -31743,7 +32030,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NEU. OVP & SEALED",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31781,7 +32068,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Mint",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31819,7 +32106,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31849,7 +32136,7 @@
       "comment": "Preise inkl. MwSt. / OVP Sealed / Folie kann etwas eingerissen sein",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           65.5,
@@ -31873,7 +32160,7 @@
       "first_date": 1779675792.0653973,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -9,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32325,23 +32612,28 @@
       },
       "language": "German",
       "price": 64.48,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Inkl. PET Case. leichter schaden an folie siehe Foto",
       "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           60.0,
           1788222850.2436972
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788716949.3872736
+        ]
+      ],
       "first_date": 1788222850.2436972,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32669,6 +32961,56 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
+        "name": "edguy96",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 64.88,
+      "quantity": 7,
+      "condition": "NM",
+      "comment": "OVP! Sealed! Ready to ship!",
+      "date": 1788872997.1462348,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          64.88,
+          1782774503.0282192
+        ],
+        [
+          62.98,
+          1788543721.6045368
+        ],
+        [
+          64.98,
+          1788716949.3872736
+        ]
+      ],
+      "previous_quantities": [
+        [
+          6,
+          1785072072.0944574
+        ],
+        [
+          5,
+          1786103156.054469
+        ]
+      ],
+      "first_date": 1782175911.5400722,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Chaos Rising Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
+      "seller": {
         "name": "HallofGames",
         "country": "Item location: Germany"
       },
@@ -32677,7 +33019,7 @@
       "quantity": 15,
       "condition": "NM",
       "comment": "OVP - Sealed Lager Black (F)",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32792,7 +33134,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "Sigillato",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32825,7 +33167,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Sealed carefully packaged / Scellé & emballage soigné",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32873,8 +33215,8 @@
       "price": 64.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! NEU - OVP - SEALED - Minicut",
-      "date": 1788716949.3872736,
+      "comment": "NEU - OVP - SEALED - Minicut",
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32899,7 +33241,7 @@
       "first_date": 1779584571.923354,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32919,7 +33261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32947,7 +33289,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed - Differenzbesteuert gem. § 25a UStG",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32975,7 +33317,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No enviamos a Islas Canarias. Ceuta. Melilla e Islas Baleares",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33519,7 +33861,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "OVP/Sealed Differenzbesteuert B23",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33621,7 +33963,7 @@
       "first_date": 1779755094.2048986,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 7,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -33641,7 +33983,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/Sealed Differenzbesteuert B22 Regal4",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33731,7 +34073,7 @@
       "first_date": 1780336356.4584727,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -7,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -33751,7 +34093,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33789,7 +34131,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. Folie vollständig intakt",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33817,7 +34159,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33858,7 +34200,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33891,7 +34233,7 @@
       "quantity": 15,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33919,7 +34261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nuevo y sellado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33947,7 +34289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sets sellados en perfecto estado",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34293,52 +34635,6 @@
       "card": "Chaos Rising Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
       "seller": {
-        "name": "edguy96",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 64.98,
-      "quantity": 7,
-      "condition": "NM",
-      "comment": "OVP! Sealed! Ready to ship!",
-      "date": 1788716949.3872736,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          64.88,
-          1782774503.0282192
-        ],
-        [
-          62.98,
-          1788543721.6045368
-        ]
-      ],
-      "previous_quantities": [
-        [
-          6,
-          1785072072.0944574
-        ],
-        [
-          5,
-          1786103156.054469
-        ]
-      ],
-      "first_date": 1782175911.5400722,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
         "name": "Baerenkatapult",
         "country": "Item location: Switzerland"
       },
@@ -34347,7 +34643,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34454,7 +34750,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34482,7 +34778,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "De légers défauts - Pour Ouverture",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34510,7 +34806,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34552,7 +34848,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34601,7 +34897,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/Sealed",
-      "date": 1788716949.3872736,
+      "date": 1788872997.1462348,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34784,7 +35080,7 @@
       "comment": "",
       "date": 1788716949.3872736,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -34812,7 +35108,7 @@
       "comment": "",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           59.99,
@@ -34912,7 +35208,7 @@
       "first_date": 1783115159.0339324,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -34934,7 +35230,7 @@
       "comment": "Sealed - ask for pics",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           65.0,
@@ -34950,7 +35246,7 @@
       "first_date": 1785742662.739141,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -37006,7 +37302,7 @@
       "first_date": 1781887264.9178972,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -37285,7 +37581,7 @@
       "comment": "OVP - Super Zustand - Perfekt für die Sammlung ! Noch andere Top Waren da!",
       "date": 1788543721.6045368,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -37296,7 +37592,7 @@
       "first_date": 1788395465.5080738,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -37579,39 +37875,6 @@
         ]
       ],
       "first_date": 1782084331.429572,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Chaos Rising Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Chaos-Rising-Elite-Trainer-Box",
-      "seller": {
-        "name": "TCG-Triaden",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 65.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Neu OVP",
-      "date": 1787646220.3336186,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1787646220.3336186
-        ]
-      ],
-      "first_date": 1787476867.8691902,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -39738,8 +40001,8 @@
       ],
       "first_date": 1785247718.5791397,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -41050,7 +41313,7 @@
       "comment": "RELISTED! ",
       "date": 1788395465.5080738,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           89.98,
@@ -41074,7 +41337,7 @@
       "first_date": 1779584571.923354,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -41248,7 +41511,7 @@
       "comment": "Nur DHL Paket ab 7.19 EUR. Auch Karten vorhanden.",
       "date": 1788716949.3872736,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -41276,7 +41539,7 @@
       "comment": "Sealed New - Fast shipping",
       "date": 1788395465.5080738,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -41295,7 +41558,7 @@
       "first_date": 1785419857.192669,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -41672,7 +41935,7 @@
       "first_date": 1779440981.8330452,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -41770,7 +42033,7 @@
       "previous_quantities": [],
       "first_date": 1786564508.747979,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -42179,7 +42442,7 @@
       "first_date": 1779834625.1905417,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -42332,7 +42595,7 @@
       "comment": "sealed can by send in arcyl + 15 euro",
       "date": 1788395465.5080738,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -42343,7 +42606,7 @@
       "first_date": 1788395465.5080738,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -42365,7 +42628,7 @@
       "comment": "PM for shipping options and available quantities",
       "date": 1788395465.5080738,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -42388,7 +42651,7 @@
       "first_date": 1786103156.054469,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -42619,7 +42882,7 @@
       "first_date": 1788395465.5080738,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -42641,7 +42904,7 @@
       "comment": "20 available",
       "date": 1788716949.3872736,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -43039,7 +43302,7 @@
       "comment": "OVP - More products available!",
       "date": 1788716949.3872736,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788716949.3872736,
@@ -43343,7 +43606,7 @@
       "comment": "OVP sealed/ DAILY SHIPPING/ many more cards and products",
       "date": 1788395465.5080738,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -43358,7 +43621,7 @@
       "first_date": 1779957961.8421328,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -43380,7 +43643,7 @@
       "comment": "",
       "date": 1788222850.2436972,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           69.0,
@@ -43404,7 +43667,7 @@
       "first_date": 1780049287.2311585,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -44234,8 +44497,8 @@
       ],
       "first_date": 1787476867.8691902,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

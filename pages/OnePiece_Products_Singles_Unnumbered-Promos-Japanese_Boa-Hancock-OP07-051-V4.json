@@ -11,8 +11,8 @@
   "only_germany": false,
   "available": 19,
   "available_graded": 1,
-  "sold": 2,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Boa Hancock (OP07-051) (V.4)",
@@ -1474,7 +1474,7 @@
       "comment": "small dot on the back at the top",
       "date": 1788568894.1324046,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1485,7 +1485,7 @@
       "first_date": 1788433766.8904798,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1629,7 +1629,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition. Shipping with Toploader.",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1671,7 +1671,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and Toploader",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1687,7 +1687,7 @@
       "previous_quantities": [],
       "first_date": 1786084012.3647904,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1741,7 +1741,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "(Box-K)",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1795,7 +1795,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "clean",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1866,7 +1866,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PreGrade NM CCC Rmp possible Nord+Belgique",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1906,7 +1906,7 @@
       "previous_quantities": [],
       "first_date": 1784171295.9015944,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1993,7 +1993,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan exclusive",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2055,7 +2055,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2080,23 +2080,27 @@
       },
       "language": "Japanese",
       "price": 195.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
-      "date": 1788568894.1324046,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
+      "date": 1788899451.361349,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1788568894.1324046
+        ],
+        [
+          0,
           1788568894.1324046
         ]
       ],
       "first_date": 1787859831.8813434,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2149,7 +2153,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2177,7 +2181,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2239,7 +2243,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed pack from the collection box",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2307,12 +2311,12 @@
       },
       "language": "Japanese",
       "price": 246.85,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Pressure marks on back! / Quick shipping! / DM for questions! / Check my other stuff!",
       "date": 1788744665.1015503,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           46.85,
@@ -2335,12 +2339,16 @@
         [
           0,
           1783639241.8246002
+        ],
+        [
+          1,
+          1788744665.1015503
         ]
       ],
       "first_date": 1781883648.9835198,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2360,7 +2368,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean Condition",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2405,7 +2413,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2459,7 +2467,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Pack to Sleeve / + cards in stock",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2509,7 +2517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2588,7 +2596,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Exclusive Japanese Version",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2712,7 +2720,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1788744665.1015503,
+      "date": 1788899451.361349,
       "ended": false,
       "new": false,
       "previous_prices": [

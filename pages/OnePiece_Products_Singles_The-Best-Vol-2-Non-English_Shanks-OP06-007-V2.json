@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 37,
+  "available": 38,
   "available_graded": 5,
-  "sold": 1,
+  "sold": 3,
   "inserted": 4,
   "listings": [
     {
@@ -4799,18 +4799,23 @@
       },
       "language": "Japanese",
       "price": 68.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1788743282.1578553,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788743282.1578553
+        ]
+      ],
       "first_date": 1788567701.4014094,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4888,6 +4893,76 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "XxIChIgOxX",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Booster to Sleeve + Toploader",
+      "date": 1788898013.3907034,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          109.0,
+          1786993257.4822414
+        ],
+        [
+          95.0,
+          1787165793.7971613
+        ],
+        [
+          90.0,
+          1787341250.7876313
+        ],
+        [
+          85.0,
+          1787683227.4488053
+        ],
+        [
+          82.0,
+          1787856888.1165473
+        ],
+        [
+          80.0,
+          1788029767.4868927
+        ],
+        [
+          77.0,
+          1788256518.2781923
+        ],
+        [
+          75.0,
+          1788567701.4014094
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788567701.4014094
+        ],
+        [
+          0,
+          1788567701.4014094
+        ]
+      ],
+      "first_date": 1786819339.0131896,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "sammy1260",
         "country": "Item location: Switzerland"
       },
@@ -4896,9 +4971,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "(Fastshipping) booster->sleeve->toploader",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788743282.1578553,
@@ -5011,7 +5086,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping. Sleeve & Toploader",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5094,57 +5169,23 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "XxIChIgOxX",
-        "country": "Item location: Germany"
+        "name": "Pariaxnz",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 75.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Booster to Sleeve + Toploader",
-      "date": 1788567701.4014094,
-      "ended": true,
+      "comment": "Fast shipping",
+      "date": 1788898013.3907034,
+      "ended": false,
       "new": true,
-      "previous_prices": [
-        [
-          109.0,
-          1786993257.4822414
-        ],
-        [
-          95.0,
-          1787165793.7971613
-        ],
-        [
-          90.0,
-          1787341250.7876313
-        ],
-        [
-          85.0,
-          1787683227.4488053
-        ],
-        [
-          82.0,
-          1787856888.1165473
-        ],
-        [
-          80.0,
-          1788029767.4868927
-        ],
-        [
-          77.0,
-          1788256518.2781923
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1788567701.4014094
-        ]
-      ],
-      "first_date": 1786819339.0131896,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788898013.3907034,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5192,7 +5233,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "White micro dot Back",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5346,12 +5387,12 @@
       },
       "language": "Japanese",
       "price": 80.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! PM for pictures",
       "date": 1788743282.1578553,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           82.0,
@@ -5366,12 +5407,16 @@
         [
           0,
           1788256518.2781923
+        ],
+        [
+          2,
+          1788743282.1578553
         ]
       ],
       "first_date": 1788029767.4868927,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5391,7 +5436,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5419,7 +5464,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5513,7 +5558,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "direct to sleeve",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5541,7 +5586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "white micro dot",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6135,7 +6180,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small dot on top back",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6147,7 +6192,7 @@
       "previous_quantities": [],
       "first_date": 1787683227.4488053,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6267,6 +6312,34 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "Matthio64",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 99.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788898013.3907034,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1788898013.3907034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "BX-TCG",
         "country": "Item location: Germany"
       },
@@ -6275,7 +6348,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Includes 19% VAT. Carefully packaged and shipped.",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6322,6 +6395,52 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "Deniz2006",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! CGS 10 - Gem Mint - Art Label",
+      "date": 1788898013.3907034,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          249.99,
+          1772795273.4676206
+        ],
+        [
+          129.99,
+          1782321773.2084858
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782321773.2084858
+        ],
+        [
+          0,
+          1782321773.2084858
+        ]
+      ],
+      "first_date": 1769179681.9998214,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -6423,7 +6542,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6451,7 +6570,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6484,7 +6603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6637,7 +6756,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[V6] More Cards on Stock",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6698,7 +6817,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6855,7 +6974,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> Sleeve --> Toploader-->see more listings!",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6921,7 +7040,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6963,7 +7082,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Near Mint or better",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7057,7 +7176,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pulled clean and handled with care. this card is pack-fresh and immediately sleeved and protected.",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7136,7 +7255,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7164,7 +7283,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7242,7 +7361,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Small dent on the back",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7351,7 +7470,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7389,7 +7508,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve + Toploader / Fotos Anfragen",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7421,8 +7540,8 @@
       "price": 128.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Booster Fresh!!! Never Played! Delievered in Toploader:) Please PM me for Photos and Info:)",
-      "date": 1788743282.1578553,
+      "comment": "Booster Fresh!!! Never Played! Delievered in Toploader:) Please PM me for Photos and Info:)",
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7454,44 +7573,6 @@
         ]
       ],
       "first_date": 1780098011.6134882,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
-        "name": "Deniz2006",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 129.99,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "CGS 10 - Blitzversand - Offen für Angebote",
-      "date": 1782321773.2084858,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          249.99,
-          1772795273.4676206
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782321773.2084858
-        ]
-      ],
-      "first_date": 1769179681.9998214,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7547,7 +7628,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7621,7 +7702,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nouveau vendeur - envoi enveloppe bulle + sleeve + toploader",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7671,7 +7752,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "9.5 PGS",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7704,7 +7785,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Graad 9.5",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7732,7 +7813,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Cgc 10",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7897,7 +7978,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GSG 9.5",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7953,7 +8034,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 - G12",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7981,7 +8062,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading BECKETT (9.5)",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8205,7 +8286,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8233,7 +8314,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10  / Lokal Store in Esslingen",
-      "date": 1788743282.1578553,
+      "date": 1788898013.3907034,
       "ended": false,
       "new": false,
       "previous_prices": [],

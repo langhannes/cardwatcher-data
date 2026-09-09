@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 9,
+  "available": 8,
   "available_graded": 1,
-  "sold": 0,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Tyranitar EX (XY7 089)",
@@ -101,7 +101,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -150,8 +150,8 @@
       "price": 99.99,
       "quantity": 1,
       "condition": "PL",
-      "comment": "RELISTED! [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1788709183.2228272,
+      "comment": "[JAPANESE VINTAGE/AR/SAR AVAILABLE]",
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -168,7 +168,7 @@
       "first_date": 1787800568.3663301,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -188,7 +188,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available! :.",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -216,7 +216,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -277,7 +277,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Thousands of cards available :)",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -314,7 +314,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "__ ARCANA __ huge selection_strict grading_we buy cards",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -433,7 +433,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A14",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -508,12 +508,12 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NM",
       "date": 1788709183.2228272,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           199.0,
@@ -536,12 +536,16 @@
         [
           0,
           1786539999.2311027
+        ],
+        [
+          1,
+          1788709183.2228272
         ]
       ],
       "first_date": 1778995099.7138247,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -590,11 +594,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 344.95,
+      "price": 339.95,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 MINT - 1. Edition (Gemäß § 19 UStG ohne Umsatzsteuerausweis)",
-      "date": 1788709183.2228272,
+      "date": 1788864765.2839086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -641,6 +645,10 @@
         [
           349.95,
           1786924013.378029
+        ],
+        [
+          344.95,
+          1788709183.2228272
         ]
       ],
       "previous_quantities": [
@@ -655,7 +663,7 @@
       ],
       "first_date": 1783630078.3060777,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
