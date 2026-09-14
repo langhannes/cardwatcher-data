@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 37,
+  "market_language": "",
+  "available": 40,
   "available_graded": 2,
-  "sold": 1,
-  "inserted": 3,
+  "sold": 2,
+  "inserted": 0,
   "listings": [
     {
       "card": "Zekrom (BW1w 055)",
@@ -116,7 +117,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -249,7 +250,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "A14",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -284,11 +285,11 @@
       },
       "language": "Japanese",
       "price": 44.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PL",
       "comment": "Shipping discounts available on all foreign countries",
-      "date": 1788246160.5464158,
-      "ended": true,
+      "date": 1789364484.5624003,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -320,6 +321,10 @@
         [
           1,
           1788246160.5464158
+        ],
+        [
+          0,
+          1788246160.5464158
         ]
       ],
       "first_date": 1777222550.7210667,
@@ -345,7 +350,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Front is in very good conditon. Back has whitening",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -370,11 +375,11 @@
       },
       "language": "Japanese",
       "price": 49.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PL",
       "comment": "PL+ | Shipping discounts available on all foreign countries",
-      "date": 1788246160.5464158,
-      "ended": true,
+      "date": 1789364484.5624003,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -394,9 +399,41 @@
         [
           1,
           1788246160.5464158
+        ],
+        [
+          0,
+          1788246160.5464158
         ]
       ],
       "first_date": 1782521642.4283478,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (BW1w 055)",
+      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
+      "seller": {
+        "name": "SpielRaum",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "PO",
+      "comment": "### 13628",
+      "date": 1789364484.5624003,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789020052.2659492,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -416,12 +453,12 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": 1788792315.1366863,
-      "ended": false,
-      "new": false,
+      "date": 1789191674.834763,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           80.0,
@@ -436,12 +473,16 @@
         [
           0,
           1786586993.9347975
+        ],
+        [
+          1,
+          1789191674.834763
         ]
       ],
       "first_date": 1777222550.7210667,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -574,14 +615,19 @@
       },
       "language": "Japanese",
       "price": 55.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "54795081220435",
       "date": 1788792315.1366863,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788792315.1366863
+        ]
+      ],
       "first_date": 1788246160.5464158,
       "last_date": 0.0,
       "price_is_new": false,
@@ -605,7 +651,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "EX-GD",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -642,7 +688,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Many SR/EX/V/VSTAR/AR/SAR/CHR cards available! Thousands of Japanese Holo's+Bulk! Old+Modern!",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -687,7 +733,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Visit our shop for more rare japanese cards",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -715,7 +761,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -792,7 +838,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -853,7 +899,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #529",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -890,7 +936,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #516",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -935,12 +981,40 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780503543.4719937,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (BW1w 055)",
+      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
+      "seller": {
+        "name": "PokeMano-Shop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 64.99,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "Many Japanese Vintage Singles&Graded cards available! ::",
+      "date": 1789364484.5624003,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789020052.2659492,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1042,7 +1116,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "2| NM-EX/EX-GD really nice card but water damage on back see images",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1164,7 +1238,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "MP Photos",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1197,7 +1271,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "10% cashback on 50+ euro orders (refunded after purchase).",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1222,6 +1296,14 @@
         [
           0,
           1786252138.7094924
+        ],
+        [
+          1,
+          1788792315.1366863
+        ],
+        [
+          0,
+          1788792315.1366863
         ]
       ],
       "first_date": 1777222550.7210667,
@@ -1247,7 +1329,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "BOX V",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1468,7 +1550,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "A12",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1501,7 +1583,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "A12",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1529,7 +1611,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "PKM10 - 1 - 11",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1557,11 +1639,20 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788792315.1366863
+        ],
+        [
+          0,
+          1788792315.1366863
+        ]
+      ],
       "first_date": 1777222550.7210667,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1584,10 +1675,10 @@
       "price": 99.99,
       "quantity": 0,
       "condition": "GD",
-      "comment": "De #1 dealer in ACE & TAG slabs van de Benelux! > Website",
-      "date": 1788615059.3343706,
+      "comment": "RELISTED! De #1 dealer in ACE & TAG slabs van de Benelux! > Website",
+      "date": 1789020052.2659492,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1641,12 +1732,20 @@
         [
           1,
           1788615059.3343706
+        ],
+        [
+          0,
+          1788615059.3343706
+        ],
+        [
+          1,
+          1789020052.2659492
         ]
       ],
       "first_date": 1777222550.7210667,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1732,7 +1831,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1867,7 +1966,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front NM / Back EX",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1958,7 +2057,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "UNLIMITED // Clean front. perfect binder card",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2057,7 +2156,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Fast Shipping",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2085,7 +2184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM/EX Back whitening boarder but ffront is superb!",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2122,7 +2221,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A14",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2182,8 +2281,8 @@
       "price": 175.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! Front perfect. back edges little whitening. Perfect for in binder.",
-      "date": 1788792315.1366863,
+      "comment": "Front perfect. back edges little whitening. Perfect for in binder.",
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2253,7 +2352,7 @@
       "first_date": 1777222550.7210667,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2313,10 +2412,10 @@
       "price": 179.99,
       "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! NM front/ EXC back",
-      "date": 1784201369.0491138,
+      "comment": "NM front/ EXC back",
+      "date": 1789191674.834763,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2338,12 +2437,20 @@
         [
           1,
           1784201369.0491138
+        ],
+        [
+          0,
+          1784201369.0491138
+        ],
+        [
+          1,
+          1789191674.834763
         ]
       ],
       "first_date": 1782521642.4283478,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2462,6 +2569,100 @@
       "card": "Zekrom  (BW1w 055)",
       "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
       "seller": {
+        "name": "PokeMano-Shop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 189.6,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Many Japanese Vintage Singles&Graded cards available!",
+      "date": 1789364484.5624003,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.95,
+          1788792315.1366863
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777222550.7210667,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (BW1w 055)",
+      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
+      "seller": {
+        "name": "PokeMano-Shop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 189.7,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Many Japanese Vintage Singles&Graded cards available! ::",
+      "date": 1789364484.5624003,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789020052.2659492,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (BW1w 055)",
+      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
+      "seller": {
+        "name": "PokeMano-Shop",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 189.8,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Many Japanese Vintage Singles&Graded cards available! ::",
+      "date": 1789364484.5624003,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.95,
+          1788792315.1366863
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788246160.5464158,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (BW1w 055)",
+      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
+      "seller": {
         "name": "Misterbale",
         "country": "Item location: Germany"
       },
@@ -2470,68 +2671,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A12",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777222550.7210667,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (BW1w 055)",
-      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
-      "seller": {
-        "name": "PokeMano-Shop",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 199.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1788792315.1366863,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1777222550.7210667,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (BW1w 055)",
-      "canonical_name": "Pokemon_Products_Singles_White-Collection_Zekrom-V2",
-      "seller": {
-        "name": "PokeMano-Shop",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 199.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Many Japanese Vintage Singles&Graded cards available! ::",
-      "date": 1788792315.1366863,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788246160.5464158,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2554,7 +2699,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Hey. ask me for more pix. Kind Regards",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2614,8 +2759,8 @@
       "price": 210.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ORIGINAL BILD - TOPLOADER",
-      "date": 1788792315.1366863,
+      "comment": "ORIGINAL BILD - TOPLOADER",
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2640,7 +2785,7 @@
       "first_date": 1783131972.91961,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2660,7 +2805,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCC 8 UNLIMITED",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2688,9 +2833,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788792315.1366863,
@@ -2716,7 +2861,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2777,7 +2922,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1788792315.1366863,
+      "date": 1789364484.5624003,
       "ended": false,
       "new": false,
       "previous_prices": [],

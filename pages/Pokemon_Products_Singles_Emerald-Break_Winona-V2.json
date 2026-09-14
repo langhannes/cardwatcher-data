@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
+  "market_language": "",
+  "available": 9,
   "available_graded": 2,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Winona (XY6 088)",
@@ -27,7 +28,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #106",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -97,7 +98,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #499",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -134,7 +135,7 @@
       "quantity": 2,
       "condition": "GD",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -162,11 +163,20 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EX -",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788767734.8541293
+        ],
+        [
+          0,
+          1788767734.8541293
+        ]
+      ],
       "first_date": 1787477925.9398718,
       "last_date": 0.0,
       "price_is_new": false,
@@ -251,7 +261,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #1106",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -321,7 +331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster -> sleeve",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -438,23 +448,28 @@
       },
       "language": "Japanese",
       "price": 258.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1788767734.8541293,
-      "ended": false,
-      "new": false,
+      "date": 1789167096.6352954,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           248.99,
           1788223968.8868906
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789167096.6352954
+        ]
+      ],
       "first_date": 1777222678.2932582,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -529,16 +544,25 @@
       "price": 499.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1788767734.8541293,
+      "comment": "RELISTED! PSA 10",
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788994754.842399
+        ],
+        [
+          0,
+          1788994754.842399
+        ]
+      ],
       "first_date": 1788223968.8868906,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -558,7 +582,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1788767734.8541293,
+      "date": 1789340129.7153802,
       "ended": false,
       "new": false,
       "previous_prices": [],

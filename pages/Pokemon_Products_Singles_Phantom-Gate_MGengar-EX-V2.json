@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": "False",
+  "market_language": "",
   "available": 5,
   "available_graded": 1,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "MGengar EX (097) - Phantom Gate",
@@ -88,7 +89,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Sleeve -> toploader",
-      "date": 1788777118.8623915,
+      "date": 1789349755.2298713,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -219,7 +220,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Please ask for photo before purchasing :)",
-      "date": 1788777118.8623915,
+      "date": 1789349755.2298713,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -247,7 +248,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Daily Shipping",
-      "date": 1788777118.8623915,
+      "date": 1789349755.2298713,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -326,7 +327,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1788777118.8623915,
+      "date": 1789349755.2298713,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -592,20 +593,20 @@
       "card": "MGengar EX  (XY4 097)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_MGengar-EX-V2",
       "seller": {
-        "name": "Yaguri",
-        "country": "Item location: Germany"
+        "name": "AleTuz",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 2000.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10 last sold 2100",
-      "date": 1771408009.298233,
-      "ended": true,
-      "new": false,
+      "price": 1795.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10 - New Cert",
+      "date": 1789349755.2298713,
+      "ended": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1771408009.298233,
+      "first_date": 1789349755.2298713,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -624,17 +625,21 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 2100.0,
-      "quantity": 1,
+      "price": 1900.0,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - New Cert",
-      "date": 1788777118.8623915,
-      "ended": false,
-      "new": false,
+      "date": 1789176336.7572055,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           3500.0,
           1788402623.3829482
+        ],
+        [
+          2100.0,
+          1788777118.8623915
         ]
       ],
       "previous_quantities": [
@@ -645,9 +650,41 @@
         [
           0,
           1785862254.1093726
+        ],
+        [
+          1,
+          1789176336.7572055
         ]
       ],
       "first_date": 1781765445.837137,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MGengar EX  (XY4 097)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_MGengar-EX-V2",
+      "seller": {
+        "name": "Yaguri",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2000.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 last sold 2100",
+      "date": 1771408009.298233,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1771408009.298233,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

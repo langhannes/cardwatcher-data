@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": "False",
+  "market_language": "",
   "available": 7,
   "available_graded": 2,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "MCharizard EX (XY2 089)",
@@ -92,7 +93,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -321,7 +322,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -407,7 +408,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -538,7 +539,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "toploader or cardsaver",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -784,14 +785,19 @@
       },
       "language": "Japanese",
       "price": 1549.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 / Differenzbesteuert",
       "date": 1788793695.0448577,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788793695.0448577
+        ]
+      ],
       "first_date": 1788793695.0448577,
       "last_date": 0.0,
       "price_is_new": false,
@@ -880,7 +886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -936,7 +942,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 offers are welcome",
-      "date": 1788793695.0448577,
+      "date": 1789365682.317182,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1076,11 +1082,11 @@
       },
       "language": "Japanese",
       "price": 3999.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788419413.9188056,
-      "ended": true,
+      "date": 1789365682.317182,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -1091,6 +1097,10 @@
       "previous_quantities": [
         [
           1,
+          1788419413.9188056
+        ],
+        [
+          0,
           1788419413.9188056
         ]
       ],

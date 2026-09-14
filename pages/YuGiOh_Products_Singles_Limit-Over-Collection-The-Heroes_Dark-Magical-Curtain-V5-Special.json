@@ -10,9 +10,10 @@
     "Korean"
   ],
   "only_germany": false,
+  "market_language": "",
   "available": 2,
   "available_graded": 1,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -23,18 +24,27 @@
         "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 18995.0,
+      "price": 17695.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading 10 Grandmaster",
-      "date": 1788797272.2872112,
+      "date": 1789369812.3176315,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          18995.0,
+          1788797272.2872112
+        ],
+        [
+          17995.0,
+          1789197182.529833
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1787425977.159377,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -55,7 +65,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "017/100",
-      "date": 1788797272.2872112,
+      "date": 1789369812.3176315,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -85,7 +95,7 @@
       "comment": "PSA10 GMR #065/100 - Fast shipping",
       "date": 1788620352.2875185,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           25000.0,
@@ -101,7 +111,7 @@
       "first_date": 1787527809.9284236,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

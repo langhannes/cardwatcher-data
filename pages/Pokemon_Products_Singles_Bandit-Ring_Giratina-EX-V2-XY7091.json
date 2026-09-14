@@ -10,7 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
+  "market_language": "",
+  "available": 8,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -146,7 +147,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "custom slab not included",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -155,10 +156,19 @@
           1788583235.3660016
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788759425.4710815
+        ],
+        [
+          0,
+          1788759425.4710815
+        ]
+      ],
       "first_date": 1787612013.651539,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -212,7 +222,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "ask for pictures",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -273,6 +283,52 @@
       ],
       "previous_quantities": [],
       "first_date": 1765638588.282794,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "Sasmu1003",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 115.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1789332787.846376,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1779000678.4714603
+        ],
+        [
+          140.0,
+          1783515381.2446792
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783515381.2446792
+        ],
+        [
+          0,
+          1783515381.2446792
+        ]
+      ],
+      "first_date": 1773707623.979155,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -360,7 +416,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "9-22 (2) See pics. Double sleeved. daily shipping. contact for reduced shipping!",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -498,44 +554,6 @@
       "grade_source": "auto"
     },
     {
-      "card": "Giratina EX  (XY7 091)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
-      "seller": {
-        "name": "Sasmu1003",
-        "country": "Item location: Germany"
-      },
-      "language": "Korean",
-      "price": 140.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783515381.2446792,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1779000678.4714603
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783515381.2446792
-        ]
-      ],
-      "first_date": 1773707623.979155,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
       "card": "Giratina EX (XY7 091)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
       "seller": {
@@ -575,7 +593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 8",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -836,108 +854,15 @@
       "card": "Giratina EX  (XY7 091)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
       "seller": {
-        "name": "Djgivanno1",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 225.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1776446206.2112062,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          225.0,
-          1775170189.2649455
-        ],
-        [
-          220.0,
-          1775856384.4764876
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1775084390.4540648,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Giratina EX  (XY7 091)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
-      "seller": {
-        "name": "JK-Entertainment",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 225.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "-1§  PSA 9",
-      "date": 1740082731.4838037,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1715599470.7758136,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Giratina EX (XY7 091)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
-      "seller": {
-        "name": "JK-Entertainment-TCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 225.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 9 / Raum 493",
-      "date": 1714972911.4741876,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1711547704.379745,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Giratina EX  (XY7 091)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
-      "seller": {
         "name": "CardRome",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 236.99,
+      "price": 204.22,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1104,6 +1029,18 @@
         [
           237.04,
           1788583235.3660016
+        ],
+        [
+          236.99,
+          1788759425.4710815
+        ],
+        [
+          237.17,
+          1788986783.167847
+        ],
+        [
+          203.76,
+          1789159259.5293899
         ]
       ],
       "previous_quantities": [
@@ -1125,6 +1062,99 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "Djgivanno1",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 225.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1776446206.2112062,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          225.0,
+          1775170189.2649455
+        ],
+        [
+          220.0,
+          1775856384.4764876
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1775084390.4540648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "JK-Entertainment",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 225.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "-1§  PSA 9",
+      "date": 1740082731.4838037,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1715599470.7758136,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Giratina EX (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "JK-Entertainment-TCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 225.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 9 / Raum 493",
+      "date": 1714972911.4741876,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1711547704.379745,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -1172,7 +1202,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "### 12370",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1261,7 +1291,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unlimited. front perfect back with white dots",
-      "date": 1788759425.4710815,
+      "date": 1789332787.846376,
       "ended": false,
       "new": false,
       "previous_prices": [],

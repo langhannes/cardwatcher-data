@@ -9,10 +9,11 @@
     "French"
   ],
   "only_germany": false,
-  "available": 32,
-  "available_graded": 7,
+  "market_language": "",
+  "available": 37,
+  "available_graded": 9,
   "sold": 0,
-  "inserted": 5,
+  "inserted": 6,
   "listings": [
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -415,8 +416,8 @@
       "price": 3000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! 4373",
-      "date": 1788892815.1556282,
+      "comment": "4373",
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -482,7 +483,7 @@
       "first_date": 1780433549.206814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -501,8 +502,8 @@
       "price": 3000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! 4943 - Small whitening on the top right",
-      "date": 1788892815.1556282,
+      "comment": "4943 - will be in London",
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -523,8 +524,8 @@
       ],
       "first_date": 1780433549.206814,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -801,23 +802,27 @@
       },
       "language": "English",
       "price": 3200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "2545 lovely numer. small tiny white spot. write me",
-      "date": 1787334869.2026613,
-      "ended": true,
+      "comment": "RELISTED! 2545 lovely numer. small tiny white spot. write me",
+      "date": 1789236732.7726243,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1787334869.2026613
+        ],
+        [
+          0,
+          1787334869.2026613
         ]
       ],
       "first_date": 1786436149.4872959,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -935,21 +940,108 @@
       "price": 3300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "4933 / selling in person at regionals / very good condition",
-      "date": 1788892815.1556282,
+      "comment": "RELISTED! 4933 / selling in person at regionals / good condition",
+      "date": 1789236732.7726243,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788892815.1556282
+        ],
+        [
+          0,
+          1788892815.1556282
+        ]
+      ],
       "first_date": 1788892815.1556282,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "gadgame",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 3300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "274",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3600.0,
+          1789063905.2079177
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788736912.5859442,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "Bheid",
+        "country": "Item location: Poland"
+      },
+      "language": "English",
+      "price": 3300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9.5 poSsible pickup utrecht/prague",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          4300.0,
+          1783574218.5825777
+        ],
+        [
+          4150.0,
+          1785719425.297845
+        ],
+        [
+          3900.0,
+          1785820002.5117865
+        ],
+        [
+          3600.0,
+          1789063905.2079177
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782237393.383607,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -1439,7 +1531,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Nr.: 3884 & 3875",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1695,88 +1787,24 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
-        "name": "gadgame",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 3600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "274",
-      "date": 1788892815.1556282,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788736912.5859442,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
-        "name": "Bheid",
-        "country": "Item location: Poland"
-      },
-      "language": "English",
-      "price": 3600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "BGS 9.5 poSsible pickup utrecht/prague",
-      "date": 1788892815.1556282,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          4300.0,
-          1783574218.5825777
-        ],
-        [
-          4150.0,
-          1785719425.297845
-        ],
-        [
-          3900.0,
-          1785820002.5117865
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782237393.383607,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
         "name": "Nordine3107",
         "country": "Item location: Netherlands"
       },
       "language": "English",
       "price": 3600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Clean card! 4395*",
       "date": 1788892815.1556282,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788892815.1556282
+        ]
+      ],
       "first_date": 1788892815.1556282,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1941,112 +1969,6 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
-        "name": "Civan-Sama",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 3749.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788562459.042232,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          4900.0,
-          1784153409.3596497
-        ],
-        [
-          6500.0,
-          1784255299.1650634
-        ],
-        [
-          6900.0,
-          1784416567.3447516
-        ],
-        [
-          7900.0,
-          1784708185.4509919
-        ],
-        [
-          6000.0,
-          1785719425.297845
-        ],
-        [
-          4500.0,
-          1786279889.8707101
-        ],
-        [
-          3950.0,
-          1786812309.127411
-        ],
-        [
-          3850.0,
-          1786986595.4293795
-        ],
-        [
-          3800.0,
-          1787954118.1065054
-        ],
-        [
-          3490.0,
-          1788278965.902593
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784708185.4509919
-        ],
-        [
-          0,
-          1784708185.4509919
-        ],
-        [
-          1,
-          1785719425.297845
-        ],
-        [
-          0,
-          1785719425.297845
-        ],
-        [
-          1,
-          1786279889.8707101
-        ],
-        [
-          0,
-          1786279889.8707101
-        ],
-        [
-          1,
-          1787334869.2026613
-        ],
-        [
-          0,
-          1787334869.2026613
-        ],
-        [
-          1,
-          1788562459.042232
-        ]
-      ],
-      "first_date": 1784153409.3596497,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
         "name": "meandmycroco",
         "country": "Item location: Austria"
       },
@@ -2088,7 +2010,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2154,7 +2076,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. i'll be in Utrecht",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2178,11 +2100,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 3839.48,
+      "price": 3843.96,
       "quantity": 1,
       "condition": "NM",
       "comment": "4784/5000 - clean card. local meet up possible",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2329,6 +2251,14 @@
         [
           4076.12,
           1788736912.5859442
+        ],
+        [
+          3839.48,
+          1788892815.1556282
+        ],
+        [
+          3838.82,
+          1789063905.2079177
         ]
       ],
       "previous_quantities": [
@@ -2345,6 +2275,120 @@
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "Civan-Sama",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 3900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Clean // HH // 1456",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          4900.0,
+          1784153409.3596497
+        ],
+        [
+          6500.0,
+          1784255299.1650634
+        ],
+        [
+          6900.0,
+          1784416567.3447516
+        ],
+        [
+          7900.0,
+          1784708185.4509919
+        ],
+        [
+          6000.0,
+          1785719425.297845
+        ],
+        [
+          4500.0,
+          1786279889.8707101
+        ],
+        [
+          3950.0,
+          1786812309.127411
+        ],
+        [
+          3850.0,
+          1786986595.4293795
+        ],
+        [
+          3800.0,
+          1787954118.1065054
+        ],
+        [
+          3490.0,
+          1788278965.902593
+        ],
+        [
+          3749.0,
+          1788562459.042232
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784708185.4509919
+        ],
+        [
+          0,
+          1784708185.4509919
+        ],
+        [
+          1,
+          1785719425.297845
+        ],
+        [
+          0,
+          1785719425.297845
+        ],
+        [
+          1,
+          1786279889.8707101
+        ],
+        [
+          0,
+          1786279889.8707101
+        ],
+        [
+          1,
+          1787334869.2026613
+        ],
+        [
+          0,
+          1787334869.2026613
+        ],
+        [
+          1,
+          1788562459.042232
+        ],
+        [
+          0,
+          1788562459.042232
+        ]
+      ],
+      "first_date": 1784153409.3596497,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2459,17 +2503,25 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 3959.47,
+      "price": 3964.09,
       "quantity": 1,
       "condition": "NM",
       "comment": "2599. will be in London and Bristol Regionals for meetup",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           3956.24,
           1788736912.5859442
+        ],
+        [
+          3959.47,
+          1788892815.1556282
+        ],
+        [
+          3958.79,
+          1789063905.2079177
         ]
       ],
       "previous_quantities": [],
@@ -2627,8 +2679,8 @@
       "price": 4000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! sealed",
-      "date": 1788892815.1556282,
+      "comment": "sealed",
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2645,7 +2697,7 @@
       "first_date": 1788126275.6830914,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2665,7 +2717,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. pref meet up BE",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2717,6 +2769,47 @@
         ]
       ],
       "first_date": 1780433549.206814,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "theoffer",
+        "country": "Item location: Bulgaria"
+      },
+      "language": "English",
+      "price": 4000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "133/5000",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          5000.0,
+          1784255299.1650634
+        ],
+        [
+          6000.0,
+          1785225535.2298403
+        ],
+        [
+          5000.0,
+          1788892815.1556282
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782827096.37433,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2947,6 +3040,34 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
+        "name": "NokoSwitzerland",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 4999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789236732.7726243,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
         "name": "Salihovic97",
         "country": "Item location: Germany"
       },
@@ -2955,7 +3076,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2996,7 +3117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. only pick up. PM if interested",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3019,43 +3140,6 @@
         ]
       ],
       "first_date": 1780433549.206814,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
-        "name": "theoffer",
-        "country": "Item location: Bulgaria"
-      },
-      "language": "English",
-      "price": 5000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "133/5000 Will be judging BANDAI FEST CAN MEET THERE",
-      "date": 1788892815.1556282,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          5000.0,
-          1784255299.1650634
-        ],
-        [
-          6000.0,
-          1785225535.2298403
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782827096.37433,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3177,7 +3261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3205,7 +3289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3225,6 +3309,34 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
+        "name": "EnjoyTheDark",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 5999.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 10. DM me for AOG Link",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789063905.2079177,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
         "name": "sansda",
         "country": "Item location: Germany"
       },
@@ -3233,7 +3345,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nummer 1103",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3267,28 +3379,60 @@
       },
       "language": "English",
       "price": 6750.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "BGS 10 #207",
-      "date": 1788278965.902593,
-      "ended": true,
+      "comment": "RELISTED! BGS 10 #207",
+      "date": 1789236732.7726243,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1788278965.902593
+        ],
+        [
+          0,
+          1788278965.902593
         ]
       ],
       "first_date": 1787778990.5067716,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "caprisid",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 7000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Nr. 56 / near Munich",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789236732.7726243,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -3303,7 +3447,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3819/5000 / pick up Hamburg or Utrecht",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3383,7 +3527,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3449,7 +3593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "3852",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3474,60 +3618,6 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
-        "name": "menda98",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 10000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "N279. Pick up in Wolverhampton. Utrecht. and Sofia",
-      "date": 1788892815.1556282,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3500.0,
-          1780896670.7707663
-        ],
-        [
-          5000.0,
-          1783998074.8819673
-        ],
-        [
-          10000.0,
-          1787601893.280174
-        ],
-        [
-          4000.0,
-          1787778990.5067716
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1785225535.2298403
-        ],
-        [
-          0,
-          1785225535.2298403
-        ]
-      ],
-      "first_date": 1780433549.206814,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
-      "seller": {
         "name": "NumeroNove",
         "country": "Item location: Italy"
       },
@@ -3536,7 +3626,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 n* 2000/5000",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3564,7 +3654,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS10 - 3956/5000. Utrech and Allicante",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3699,7 +3789,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2578/5000        BGS 10",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3724,7 +3814,7 @@
       ],
       "first_date": 1787334869.2026613,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3786,7 +3876,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed meet up utrecht athen or prag possible hit me up with an offer",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3811,6 +3901,64 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
       "seller": {
+        "name": "menda98",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 20000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "N279. Pick up in Wolverhampton. Utrecht. and Sofia",
+      "date": 1789236732.7726243,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3500.0,
+          1780896670.7707663
+        ],
+        [
+          5000.0,
+          1783998074.8819673
+        ],
+        [
+          10000.0,
+          1787601893.280174
+        ],
+        [
+          4000.0,
+          1787778990.5067716
+        ],
+        [
+          10000.0,
+          1789063905.2079177
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785225535.2298403
+        ],
+        [
+          0,
+          1785225535.2298403
+        ]
+      ],
+      "first_date": 1780433549.206814,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Yamato-EB02-006-V1",
+      "seller": {
         "name": "RoccoN1",
         "country": "Item location: Germany"
       },
@@ -3819,7 +3967,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 | #2435",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3876,11 +4024,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 20397.23,
+      "price": 20421.04,
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3903,6 +4051,14 @@
         [
           20380.59,
           1788736912.5859442
+        ],
+        [
+          20397.23,
+          1788892815.1556282
+        ],
+        [
+          20393.73,
+          1789063905.2079177
         ]
       ],
       "previous_quantities": [],
@@ -3929,7 +4085,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10",
-      "date": 1788892815.1556282,
+      "date": 1789236732.7726243,
       "ended": false,
       "new": false,
       "previous_prices": [],

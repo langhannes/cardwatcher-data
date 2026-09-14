@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 18,
+  "market_language": "",
+  "available": 21,
   "available_graded": 4,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Mewtwo EX (BW3p 055)",
@@ -83,7 +84,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -427,7 +428,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -464,7 +465,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "A11",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -501,7 +502,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -592,11 +593,11 @@
       },
       "language": "Japanese",
       "price": 48.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PL",
       "comment": "PL+ | Shipping discounts available on all foreign countries",
-      "date": 1788231630.5621786,
-      "ended": true,
+      "date": 1789351955.3352149,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -610,6 +611,10 @@
         ],
         [
           1,
+          1788231630.5621786
+        ],
+        [
+          0,
           1788231630.5621786
         ]
       ],
@@ -636,7 +641,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "DE 1-2 Werktage Lieferung / Same day shipping",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -664,7 +669,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Front: Clean for Binder; Back: Waves and dents visible.",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -781,12 +786,40 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "104",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1787129731.7429483,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
+        "name": "CardHouseOfTheEast",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 69.49,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "dent on back. See shop for more!",
+      "date": 1789351955.3352149,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789006852.7621272,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -900,7 +933,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1027,7 +1060,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "DS25-317 // P3",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1060,7 +1093,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1113,15 +1146,56 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
+        "name": "pocketwizards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 78.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "NW-EX/EX-GD (front/back) see image",
+      "date": 1780943436.0047362,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778084694.970265
+        ],
+        [
+          0,
+          1778084694.970265
+        ],
+        [
+          1,
+          1780943436.0047362
+        ]
+      ],
+      "first_date": 1777211332.6656744,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
         "name": "Crimsondragon3",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 77.91,
+      "price": 78.11,
       "quantity": 1,
       "condition": "PL",
       "comment": "Front has a bit of the foil coming off around the edges please ask for pic.",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1336,6 +1410,18 @@
         [
           77.93,
           1788602334.1925833
+        ],
+        [
+          77.91,
+          1788779691.907026
+        ],
+        [
+          77.98,
+          1789006852.7621272
+        ],
+        [
+          78.09,
+          1789178647.8894525
         ]
       ],
       "previous_quantities": [
@@ -1353,47 +1439,6 @@
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mewtwo EX  (BW3p 055)",
-      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
-      "seller": {
-        "name": "pocketwizards",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 78.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "NW-EX/EX-GD (front/back) see image",
-      "date": 1780943436.0047362,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778084694.970265
-        ],
-        [
-          0,
-          1778084694.970265
-        ],
-        [
-          1,
-          1780943436.0047362
-        ]
-      ],
-      "first_date": 1777211332.6656744,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -1516,7 +1561,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "cool card",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1693,6 +1738,34 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
+        "name": "Gemvisory",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "140",
+      "date": 1789351955.3352149,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789351955.3352149,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
         "name": "EmeraldTCGshop",
         "country": "Item location: Spain"
       },
@@ -1828,20 +1901,20 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
-        "name": "Pyrite-Ship",
-        "country": "Item location: Germany"
+        "name": "Jatea",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 120.0,
       "quantity": 1,
-      "condition": "NM",
+      "condition": "EX",
       "comment": "",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1788404488.875064,
+      "first_date": 1777211332.6656744,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1856,20 +1929,25 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
-        "name": "Jatea",
-        "country": "Item location: France"
+        "name": "Pyrite-Ship",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 120.0,
-      "quantity": 1,
-      "condition": "EX",
+      "quantity": 0,
+      "condition": "NM",
       "comment": "",
-      "date": 1788779691.907026,
-      "ended": false,
+      "date": 1789006852.7621272,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1777211332.6656744,
+      "previous_quantities": [
+        [
+          1,
+          1789006852.7621272
+        ]
+      ],
+      "first_date": 1788404488.875064,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1982,55 +2060,6 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
-        "name": "LaxoCards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 149.96,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sleeve/Toploader   Mandy Single Cards in Stock :)",
-      "date": 1787654328.9508107,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783116104.9526217
-        ],
-        [
-          0,
-          1783116104.9526217
-        ],
-        [
-          1,
-          1784279851.100796
-        ],
-        [
-          0,
-          1784279851.100796
-        ],
-        [
-          1,
-          1787654328.9508107
-        ]
-      ],
-      "first_date": 1782274851.4745553,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mewtwo EX  (BW3p 055)",
-      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
-      "seller": {
         "name": "SenCaubergh",
         "country": "Item location: Belgium"
       },
@@ -2128,6 +2157,64 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
+        "name": "LaxoCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve/Toploader   Mandy Single Cards in Stock :)",
+      "date": 1789351955.3352149,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.96,
+          1787654328.9508107
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783116104.9526217
+        ],
+        [
+          0,
+          1783116104.9526217
+        ],
+        [
+          1,
+          1784279851.100796
+        ],
+        [
+          0,
+          1784279851.100796
+        ],
+        [
+          1,
+          1787654328.9508107
+        ],
+        [
+          0,
+          1787654328.9508107
+        ]
+      ],
+      "first_date": 1782274851.4745553,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -2377,6 +2464,39 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
+        "name": "milos-fero",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 389.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9 / Fast Shipping / more products available / Gemäß §25a UStG keine USt",
+      "date": 1789351955.3352149,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.99,
+          1789006852.7621272
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788006106.026721,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
         "name": "mecha-ray",
         "country": "Item location: Italy"
       },
@@ -2399,34 +2519,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mewtwo EX  (BW3p 055)",
-      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
-      "seller": {
-        "name": "milos-fero",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 399.99,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 / Fast Shipping / more products available / Gemäß §25a UStG keine USt",
-      "date": 1788779691.907026,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788006106.026721,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -2479,7 +2571,7 @@
       "card": "Mewtwo EX  (BW3p 055)",
       "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
       "seller": {
-        "name": "CatDoesThings",
+        "name": "CatCollects",
         "country": "Item location: Denmark"
       },
       "language": "Japanese",
@@ -2487,8 +2579,36 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789178647.8894525,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (BW3p 055)",
+      "canonical_name": "Pokemon_Products_Singles_Psycho-Drive_Mewtwo-EX-V2",
+      "seller": {
+        "name": "CatDoesThings",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1789006852.7621272,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2520,6 +2640,10 @@
         [
           0,
           1783283606.2882574
+        ],
+        [
+          2,
+          1789006852.7621272
         ]
       ],
       "first_date": 1777211332.6656744,
@@ -2545,7 +2669,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1788779691.907026,
+      "date": 1789351955.3352149,
       "ended": false,
       "new": false,
       "previous_prices": [

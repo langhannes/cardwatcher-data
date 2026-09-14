@@ -10,6 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
+  "market_language": "",
   "available": 4,
   "available_graded": 3,
   "sold": 1,
@@ -715,7 +716,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "contact me fro videos and pictures",
-      "date": 1788795334.6348224,
+      "date": 1789367728.6838334,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1162,7 +1163,7 @@
       "comment": "AOG 9 mint!",
       "date": 1788618301.5681188,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3600.0,
@@ -1182,7 +1183,7 @@
       "first_date": 1779273963.3450391,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1298,6 +1299,39 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
+        "name": "hudaseiii",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3999.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "AOG graded 9.0. ask for pictures. price negotiable",
+      "date": 1789195124.070398,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1789195124.070398
+        ]
+      ],
+      "first_date": 1789195124.070398,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
       "grade": 9.0,
       "grade_source": "auto"
     },
@@ -2077,11 +2111,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 8390.07,
+      "price": 8411.12,
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1788795334.6348224,
+      "date": 1789367728.6838334,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2208,6 +2242,18 @@
         [
           8392.01,
           1788618301.5681188
+        ],
+        [
+          8390.07,
+          1788795334.6348224
+        ],
+        [
+          8397.42,
+          1789023499.5198798
+        ],
+        [
+          8408.67,
+          1789195124.070398
         ]
       ],
       "previous_quantities": [],
@@ -2367,6 +2413,39 @@
       "card": "Pikachu  (XY-P 090)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
       "seller": {
+        "name": "Jommy07",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 10250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1789367728.6838334,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          11000.0,
+          1789195124.070398
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786411131.229822,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
         "name": "Tristanwolf16",
         "country": "Item location: Netherlands"
       },
@@ -2375,7 +2454,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1788795334.6348224,
+      "date": 1789367728.6838334,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2471,34 +2550,6 @@
         ]
       ],
       "first_date": 1755774006.9515474,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pikachu  (XY-P 090)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
-      "seller": {
-        "name": "Jommy07",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 11000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1788795334.6348224,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786411131.229822,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

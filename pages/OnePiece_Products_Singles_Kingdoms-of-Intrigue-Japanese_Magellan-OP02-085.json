@@ -10,10 +10,11 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 52,
+  "market_language": "",
+  "available": 51,
   "available_graded": 0,
-  "sold": 1,
-  "inserted": 2,
+  "sold": 2,
+  "inserted": 1,
   "listings": [
     {
       "card": "Magellan (OP02-085)",
@@ -134,7 +135,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -276,7 +277,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -317,8 +318,8 @@
       "price": 27.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! many OP cards available",
-      "date": 1788885009.29056,
+      "comment": "many OP cards available",
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -335,7 +336,35 @@
       "first_date": 1787076933.8289247,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magellan (OP02-085)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
+      "seller": {
+        "name": "Natoubrinks",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 28.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1789228649.7619078,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789228649.7619078,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -354,8 +383,8 @@
       "price": 29.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! box op MC",
-      "date": 1788885009.29056,
+      "comment": "box op MC",
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -372,7 +401,7 @@
       "first_date": 1786903807.3109682,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -533,17 +562,21 @@
         "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 29.83,
+      "price": 29.78,
       "quantity": 1,
       "condition": "NM",
-      "comment": "#4 Photos recto/verso",
-      "date": 1788885009.29056,
+      "comment": "#2 Photos recto/verso",
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           31.9,
           1784429151.0112345
+        ],
+        [
+          29.83,
+          1789056468.848865
         ]
       ],
       "previous_quantities": [
@@ -566,7 +599,7 @@
       ],
       "first_date": 1783617125.1224787,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -586,8 +619,8 @@
       "price": 29.83,
       "quantity": 1,
       "condition": "NM",
-      "comment": "#3 Photos recto/verso",
-      "date": 1788885009.29056,
+      "comment": "#4 Photos recto/verso",
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -614,13 +647,51 @@
       "price": 29.83,
       "quantity": 1,
       "condition": "NM",
-      "comment": "#2 Photos recto/verso",
-      "date": 1788885009.29056,
+      "comment": "#3 Photos recto/verso",
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788728771.7570467,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magellan (OP02-085)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
+      "seller": {
+        "name": "REDO-SHOP",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 29.88,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OPJP JP3",
+      "date": 1789228649.7619078,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          32.98,
+          1788885009.29056
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1782833842.8086133
+        ]
+      ],
+      "first_date": 1782833842.8086133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -643,7 +714,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -752,18 +823,23 @@
       },
       "language": "Japanese",
       "price": 29.93,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
-      "ended": false,
-      "new": false,
+      "date": 1789056468.848865,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789056468.848865
+        ]
+      ],
       "first_date": 1787955463.6469328,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -783,7 +859,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -811,7 +887,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -928,7 +1004,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -956,7 +1032,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -984,7 +1060,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1012,7 +1088,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1040,7 +1116,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PM if you need pics :)",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1068,7 +1144,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1280,7 +1356,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Look at my other cards too :)",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1333,39 +1409,6 @@
         ]
       ],
       "first_date": 1783176527.1052957,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Magellan (OP02-085)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
-      "seller": {
-        "name": "REDO-SHOP",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 32.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OPJP JP3",
-      "date": 1788885009.29056,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          4,
-          1782833842.8086133
-        ]
-      ],
-      "first_date": 1782833842.8086133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1454,7 +1497,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "R.P. - 351 - Ask for Photos",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1482,7 +1525,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "R.P. - 350 - Ask for Photos",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1510,7 +1553,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "R.P. - 349 - Ask for Photos",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1621,11 +1664,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 36.0,
+      "price": 36.04,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1732,6 +1775,14 @@
         [
           35.97,
           1788728771.7570467
+        ],
+        [
+          36.0,
+          1788885009.29056
+        ],
+        [
+          35.99,
+          1789056468.848865
         ]
       ],
       "previous_quantities": [
@@ -1821,7 +1872,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1928,7 +1979,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "NM SORTIE DE BOOSTER",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1965,7 +2016,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top!",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1998,7 +2049,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM- See my other cards JP2",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2026,7 +2077,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller. need help to grow :)",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2088,6 +2139,56 @@
       "card": "Magellan (OP02-085)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
       "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 39.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1789228649.7619078,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.95,
+          1788885009.29056
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784267541.8996782
+        ],
+        [
+          0,
+          1784267541.8996782
+        ],
+        [
+          1,
+          1784811455.4518254
+        ],
+        [
+          0,
+          1784811455.4518254
+        ]
+      ],
+      "first_date": 1782459912.345135,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magellan (OP02-085)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
+      "seller": {
         "name": "MercadiaGames",
         "country": "Item location: Portugal"
       },
@@ -2096,7 +2197,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Binder",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2165,7 +2266,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + Toploader",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2231,7 +2332,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve - Toploader",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2301,7 +2402,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-9",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2376,7 +2477,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Booster to Sleeve to Toploader",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2401,12 +2502,12 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster --> sleeve --> Toploader please ask for fotos :)",
-      "date": 1788885009.29056,
-      "ended": false,
-      "new": false,
+      "date": 1789056468.848865,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           42.99,
@@ -2421,12 +2522,16 @@
         [
           0,
           1787433390.7386663
+        ],
+        [
+          1,
+          1789056468.848865
         ]
       ],
       "first_date": 1783358924.5817952,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2446,7 +2551,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2474,7 +2579,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2536,51 +2641,6 @@
       "card": "Magellan (OP02-085)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
       "seller": {
-        "name": "Hansecollectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1788885009.29056,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784267541.8996782
-        ],
-        [
-          0,
-          1784267541.8996782
-        ],
-        [
-          1,
-          1784811455.4518254
-        ],
-        [
-          0,
-          1784811455.4518254
-        ]
-      ],
-      "first_date": 1782459912.345135,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Magellan (OP02-085)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
-      "seller": {
         "name": "Kuldotha-Bazaar",
         "country": "Item location: Italy"
       },
@@ -2589,7 +2649,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2609,15 +2669,43 @@
       "card": "Magellan (OP02-085)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
       "seller": {
+        "name": "Benimaru-Shinmon",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "( Perfect condition ) Safe and Fast delivery - Sleeve - Toploader",
+      "date": 1789228649.7619078,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782459912.345135,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magellan (OP02-085)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
+      "seller": {
         "name": "Anti-Meta",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 59.98,
+      "price": 60.05,
       "quantity": 2,
       "condition": "NM",
       "comment": "Anti-Meta - Professionally Packed",
-      "date": 1788885009.29056,
+      "date": 1789228649.7619078,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2664,40 +2752,20 @@
         [
           59.94,
           1788728771.7570467
+        ],
+        [
+          59.98,
+          1788885009.29056
+        ],
+        [
+          59.97,
+          1789056468.848865
         ]
       ],
       "previous_quantities": [],
       "first_date": 1786602078.7945645,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Magellan (OP02-085)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue-Japanese_Magellan-OP02-085",
-      "seller": {
-        "name": "Benimaru-Shinmon",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "( Perfect condition ) Safe and Fast delivery - Sleeve - Toploader",
-      "date": 1788885009.29056,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782459912.345135,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2753,7 +2821,7 @@
       "comment": "ACE 10",
       "date": 1788728771.7570467,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           90.12,
@@ -2813,7 +2881,7 @@
       "first_date": 1785811970.191704,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

@@ -12,9 +12,10 @@
     "Thai"
   ],
   "only_germany": "False",
-  "available": 27,
+  "market_language": "",
+  "available": 24,
   "available_graded": 0,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -73,6 +74,68 @@
       ],
       "previous_quantities": [],
       "first_date": 1770309912.443227,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "Pokevoltz",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1450.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed case - B2B possible DM for info",
+      "date": 1789210936.4828565,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1500.0,
+          1787626681.6512246
+        ],
+        [
+          1400.0,
+          1787804217.718082
+        ],
+        [
+          1600.0,
+          1788148649.7230332
+        ],
+        [
+          1550.0,
+          1788536800.9554505
+        ],
+        [
+          1500.0,
+          1788710328.4620404
+        ],
+        [
+          1550.0,
+          1788865847.3086927
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787626681.6512246
+        ],
+        [
+          1,
+          1787804217.718082
+        ]
+      ],
+      "first_date": 1787626681.6512246,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -190,7 +253,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP Sealed - Dm For info - B2B Possible- 30th anniversary items available",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -355,65 +418,7 @@
       ],
       "first_date": 1776242300.9086506,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
-        "name": "Pokevoltz",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1550.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Sealed case - B2B possible DM for info",
-      "date": 1788865847.3086927,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1500.0,
-          1787626681.6512246
-        ],
-        [
-          1400.0,
-          1787804217.718082
-        ],
-        [
-          1600.0,
-          1788148649.7230332
-        ],
-        [
-          1550.0,
-          1788536800.9554505
-        ],
-        [
-          1500.0,
-          1788710328.4620404
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1787626681.6512246
-        ],
-        [
-          1,
-          1787804217.718082
-        ]
-      ],
-      "first_date": 1787626681.6512246,
-      "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -644,14 +649,19 @@
       },
       "language": "Japanese",
       "price": 1600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RMP Paris Uniquement - B2B Possible",
       "date": 1788865847.3086927,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788865847.3086927
+        ]
+      ],
       "first_date": 1788710328.4620404,
       "last_date": 0.0,
       "price_is_new": false,
@@ -739,6 +749,34 @@
       ],
       "previous_quantities": [],
       "first_date": 1765786005.6088374,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "Mwbos",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1625.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP sealed On stock",
+      "date": 1789210936.4828565,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789038479.5324855,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1057,6 +1095,48 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
+        "name": "CuppeCards",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 1700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP Sealed / Fast Shipping / No VAT",
+      "date": 1789210936.4828565,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2100.0,
+          1782724975.498182
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782724975.498182
+        ],
+        [
+          0,
+          1782724975.498182
+        ]
+      ],
+      "first_date": 1781864821.3645177,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
         "name": "Niconator-63",
         "country": "Item location: France"
       },
@@ -1065,7 +1145,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "5 dispo sur commande. MP",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1177,7 +1257,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1549,7 +1629,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1916,7 +1996,7 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
-        "name": "TCGConsejo",
+        "name": "YagoCards4",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
@@ -1924,8 +2004,36 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed case - B2B possible",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789038479.5324855,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "TCGConsejo",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1900.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed case - B2B possible",
+      "date": 1788865847.3086927,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1933,7 +2041,12 @@
           1788301243.1400194
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788865847.3086927
+        ]
+      ],
       "first_date": 1787098940.705292,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2119,18 +2232,23 @@
       },
       "language": "Japanese",
       "price": 1950.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed Case",
-      "date": 1788865847.3086927,
-      "ended": false,
-      "new": false,
+      "date": 1789038479.5324855,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789038479.5324855
+        ]
+      ],
       "first_date": 1788710328.4620404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2427,11 +2545,11 @@
       },
       "language": "Japanese",
       "price": 1999.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
       "date": 1788865847.3086927,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2447,6 +2565,10 @@
         [
           0,
           1765871520.805564
+        ],
+        [
+          2,
+          1788865847.3086927
         ]
       ],
       "first_date": 1765786005.6088374,
@@ -2636,39 +2758,6 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
-        "name": "CuppeCards",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 2100.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed / Fast Shipping / VAT Exempt",
-      "date": 1782724975.498182,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782724975.498182
-        ]
-      ],
-      "first_date": 1781864821.3645177,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
         "name": "PokeChamps",
         "country": "Item location: Netherlands"
       },
@@ -2710,7 +2799,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed clean. Luftdicht mit Hydrometer gelagert. Pick up possible",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2723,6 +2812,39 @@
       "first_date": 1786543483.8357403,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
+        "name": "Weezymar",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "perfect condition",
+      "date": 1789210936.4828565,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2400.0,
+          1789038479.5324855
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784775203.1209197,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2927,7 +3049,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VAT | SEALED | FAST INSURED SHIPPING",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2952,11 +3074,11 @@
       },
       "language": "Japanese",
       "price": 2350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Really good Condition // original check with black light// Case shipping after 2 Days",
       "date": 1788865847.3086927,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2967,37 +3089,13 @@
         [
           0,
           1778128456.7447526
+        ],
+        [
+          1,
+          1788865847.3086927
         ]
       ],
       "first_date": 1777971644.2053041,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
-        "name": "Weezymar",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 2400.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Clean",
-      "date": 1788865847.3086927,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784775203.1209197,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3070,7 +3168,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3238,7 +3336,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3266,7 +3364,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "inkl. VAT [5012-m2a]",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3483,7 +3581,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1788865847.3086927,
+      "date": 1789210936.4828565,
       "ended": false,
       "new": false,
       "previous_prices": [],

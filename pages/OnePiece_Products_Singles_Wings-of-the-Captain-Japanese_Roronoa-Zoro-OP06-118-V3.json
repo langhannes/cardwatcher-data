@@ -10,9 +10,10 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 25,
-  "available_graded": 19,
-  "sold": 1,
+  "market_language": "",
+  "available": 29,
+  "available_graded": 21,
+  "sold": 0,
   "inserted": 1,
   "listings": [
     {
@@ -6877,11 +6878,11 @@
       },
       "language": "Japanese",
       "price": 1649.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "1 white dot",
-      "date": 1788271909.0234568,
-      "ended": true,
+      "date": 1789328478.763092,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -6896,6 +6897,10 @@
       "previous_quantities": [
         [
           1,
+          1788271909.0234568
+        ],
+        [
+          0,
           1788271909.0234568
         ]
       ],
@@ -7619,10 +7624,10 @@
       "price": 1850.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1788754573.2492938,
+      "comment": "Very good condition. Ask for picutres.",
+      "date": 1789328478.763092,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788754573.2492938,
@@ -7696,6 +7701,34 @@
       "card": "Roronoa Zoro (OP06-118) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
       "seller": {
+        "name": "Madagasi",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1949.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5 ( 9.5/9/10/10) For more pics and offers dm.",
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789328478.763092,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
         "name": "OmegaCardFest",
         "country": "Item location: Netherlands"
       },
@@ -7704,7 +7737,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8125,7 +8158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check out other listing. Ask for more pictures. perfect condition",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8431,7 +8464,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Lose - NM Condition",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8567,7 +8600,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / Number 318 pop 89",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8625,16 +8658,65 @@
       "card": "Roronoa Zoro (OP06-118) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
       "seller": {
-        "name": "Niko661",
+        "name": "momo929",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 2600.0,
       "quantity": 1,
       "condition": "MT",
+      "comment": "PSA10",
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2950.0,
+          1785570483.7419953
+        ],
+        [
+          2800.0,
+          1786560917.7338269
+        ],
+        [
+          2750.0,
+          1786768786.3704202
+        ],
+        [
+          2730.0,
+          1787293669.355034
+        ],
+        [
+          2700.0,
+          1789154930.5612328
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785373994.558318,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
+        "name": "Niko661",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2600.0,
+      "quantity": 0,
+      "condition": "MT",
       "comment": "PSA 10",
       "date": 1788754573.2492938,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8642,7 +8724,12 @@
           1788271909.0234568
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788754573.2492938
+        ]
+      ],
       "first_date": 1787946641.1141336,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8748,7 +8835,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8789,7 +8876,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9.5 dm for offer",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8837,51 +8924,6 @@
       "archived": false,
       "grade_company": "AOG",
       "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP06-118) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
-      "seller": {
-        "name": "momo929",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 2700.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA10 Abholung FFM 2650EUR",
-      "date": 1788754573.2492938,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          2950.0,
-          1785570483.7419953
-        ],
-        [
-          2800.0,
-          1786560917.7338269
-        ],
-        [
-          2750.0,
-          1786768786.3704202
-        ],
-        [
-          2730.0,
-          1787293669.355034
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1785373994.558318,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -9157,7 +9199,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 10 (10 - 9.5 Edges - 10 - 10)",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9204,11 +9246,11 @@
       },
       "language": "Japanese",
       "price": 2900.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 op06 - DM for pics - Booster -> Sleeve",
-      "date": 1787772135.3770611,
-      "ended": true,
+      "date": 1789328478.763092,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -9255,6 +9297,10 @@
         ],
         [
           1,
+          1787772135.3770611
+        ],
+        [
+          0,
           1787772135.3770611
         ]
       ],
@@ -9393,15 +9439,104 @@
       "card": "Roronoa Zoro (OP06-118) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
       "seller": {
+        "name": "SevilleCollector",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 2999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 10. nº 175. Dm before buying",
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2599.0,
+          1783161609.988788
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1772943432.0824277,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
+        "name": "Pokelenz",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2999.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5",
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785025343.281474,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
+        "name": "emilyp420",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10 /No.157",
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785570483.7419953,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP06-118) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
+      "seller": {
         "name": "causewaycards",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 2996.46,
+      "price": 3003.1,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 - Ships from Northern Ireland | Inside the EU customs area. arrives like any EU parcel",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9484,101 +9619,24 @@
         [
           2997.15,
           1788578398.726938
+        ],
+        [
+          2996.46,
+          1788754573.2492938
+        ],
+        [
+          2998.72,
+          1788982297.0116491
+        ],
+        [
+          2996.46,
+          1789154930.5612328
         ]
       ],
       "previous_quantities": [],
       "first_date": 1785025343.281474,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP06-118) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
-      "seller": {
-        "name": "SevilleCollector",
-        "country": "Item location: Spain"
-      },
-      "language": "S-Chinese",
-      "price": 2999.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 10. nº 175. Dm before buying",
-      "date": 1788754573.2492938,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          2599.0,
-          1783161609.988788
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1772943432.0824277,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP06-118) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
-      "seller": {
-        "name": "Pokelenz",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 2999.99,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 9.5",
-      "date": 1788754573.2492938,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785025343.281474,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP06-118) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Roronoa-Zoro-OP06-118-V3",
-      "seller": {
-        "name": "emilyp420",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 3000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA10 /No.157",
-      "date": 1788754573.2492938,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785570483.7419953,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9599,7 +9657,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9732,11 +9790,11 @@
       },
       "language": "Japanese",
       "price": 3300.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "Dm for Pictures",
-      "date": 1787772135.3770611,
-      "ended": true,
+      "date": 1789328478.763092,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -9772,6 +9830,10 @@
         [
           1,
           1787772135.3770611
+        ],
+        [
+          0,
+          1787772135.3770611
         ]
       ],
       "first_date": 1777971974.516809,
@@ -9797,7 +9859,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS10  /57*",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9825,7 +9887,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. Sleeved. check my list",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9853,7 +9915,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9919,7 +9981,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10052,7 +10114,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10077,23 +10139,27 @@
       },
       "language": "Japanese",
       "price": 3750.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - ORIGINAL BILD",
-      "date": 1788578398.726938,
-      "ended": true,
-      "new": true,
+      "date": 1789328478.763092,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1788578398.726938
+        ],
+        [
+          0,
           1788578398.726938
         ]
       ],
       "first_date": 1787293669.355034,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10113,7 +10179,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Gold",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10150,7 +10216,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10 POP 520 - tauschen/trading possible - North Germany",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10195,7 +10261,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1788754573.2492938,
+      "date": 1789328478.763092,
       "ended": false,
       "new": false,
       "previous_prices": [],

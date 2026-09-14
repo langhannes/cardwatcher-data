@@ -12,8 +12,8 @@
   ],
   "only_germany": "False",
   "market_language": "Japanese",
-  "available": 17,
-  "available_graded": 12,
+  "available": 18,
+  "available_graded": 13,
   "sold": 0,
   "inserted": 1,
   "listings": [
@@ -564,7 +564,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More pictures on request",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -980,7 +980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve->Toploader - mp photos",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1721,14 +1721,19 @@
       },
       "language": "S-Chinese",
       "price": 1299.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed - Safe and fast shipping",
       "date": 1788892085.247048,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788892085.247048
+        ]
+      ],
       "first_date": 1788892085.247048,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3864,7 +3869,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4282,7 +4287,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scratches on Backside. dm me for Info",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4446,7 +4451,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / pop 77",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4581,7 +4586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS10 - According to §19 UStG without stated VAT.",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4761,84 +4766,6 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "As-ce",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 3500.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "will be in Utrecht in September",
-      "date": 1788277974.1813064,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1850.0,
-          0.0
-        ],
-        [
-          1750.0,
-          0.0
-        ],
-        [
-          1710.0,
-          0.0
-        ],
-        [
-          1650.0,
-          0.0
-        ],
-        [
-          1700.0,
-          0.0
-        ],
-        [
-          1600.0,
-          0.0
-        ],
-        [
-          1550.0,
-          0.0
-        ],
-        [
-          1700.0,
-          0.0
-        ],
-        [
-          1650.0,
-          0.0
-        ],
-        [
-          1250.0,
-          1740082668.9020848
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1740082668.9020848
-        ],
-        [
-          1,
-          1788277974.1813064
-        ]
-      ],
-      "first_date": 1711533769.6269085,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
         "name": "TheGreatCollectorPSA",
         "country": "Item location: Spain"
       },
@@ -4885,7 +4812,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4897,7 +4824,7 @@
       "previous_quantities": [],
       "first_date": 1787333777.594678,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4988,7 +4915,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5011,6 +4938,92 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "As-ce",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "will be in London in october",
+      "date": 1789251392.6880448,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1850.0,
+          0.0
+        ],
+        [
+          1750.0,
+          0.0
+        ],
+        [
+          1710.0,
+          0.0
+        ],
+        [
+          1650.0,
+          0.0
+        ],
+        [
+          1700.0,
+          0.0
+        ],
+        [
+          1600.0,
+          0.0
+        ],
+        [
+          1550.0,
+          0.0
+        ],
+        [
+          1700.0,
+          0.0
+        ],
+        [
+          1650.0,
+          0.0
+        ],
+        [
+          1250.0,
+          1740082668.9020848
+        ],
+        [
+          3500.0,
+          1788277974.1813064
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1740082668.9020848
+        ],
+        [
+          1,
+          1788277974.1813064
+        ],
+        [
+          0,
+          1788277974.1813064
+        ]
+      ],
+      "first_date": 1711533769.6269085,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -5250,7 +5263,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5436,7 +5449,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5558,7 +5571,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5673,7 +5686,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5796,7 +5809,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6389,12 +6402,12 @@
         "country": "Item location: Netherlands"
       },
       "language": "English",
-      "price": 17500.0,
-      "quantity": 0,
+      "price": 18000.0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "RELISTED! PSA 10",
-      "date": 1787778115.0058234,
-      "ended": true,
+      "date": 1789251392.6880448,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -6404,6 +6417,10 @@
         [
           18500.0,
           1786985661.487701
+        ],
+        [
+          17500.0,
+          1787778115.0058234
         ]
       ],
       "previous_quantities": [
@@ -6434,12 +6451,16 @@
         [
           1,
           1787778115.0058234
+        ],
+        [
+          0,
+          1787778115.0058234
         ]
       ],
       "first_date": 1785199913.9851227,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6455,11 +6476,11 @@
         "country": "Item location: Belgium"
       },
       "language": "English",
-      "price": 18950.0,
+      "price": 18500.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Prices are firm - Ask for more pictures - USDC OK",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6494,12 +6515,16 @@
         [
           19500.0,
           1788735881.7564242
+        ],
+        [
+          18950.0,
+          1788892085.247048
         ]
       ],
       "previous_quantities": [],
       "first_date": 1718703312.4300199,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6520,7 +6545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed - open for offers",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6548,7 +6573,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6814,7 +6839,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1788892085.247048,
+      "date": 1789251392.6880448,
       "ended": false,
       "new": false,
       "previous_prices": [],

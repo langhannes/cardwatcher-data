@@ -10,10 +10,11 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 18,
-  "available_graded": 5,
-  "sold": 1,
-  "inserted": 3,
+  "market_language": "",
+  "available": 19,
+  "available_graded": 4,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Gengar EX  (XY4 033)",
@@ -60,7 +61,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Played front. Poor back",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -113,19 +114,52 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
+        "name": "tier12a",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 27.5,
+      "quantity": 1,
+      "condition": "PO",
+      "comment": "1)",
+      "date": 1789348758.4268706,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789175540.2331502,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
         "name": "c0rn1x",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 29.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "",
-      "date": 1788776395.047304,
-      "ended": false,
+      "date": 1789003094.460195,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789003094.460195
+        ]
+      ],
       "first_date": 1785237434.5129175,
       "last_date": 0.0,
       "price_is_new": false,
@@ -178,17 +212,21 @@
         "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 32.5,
+      "price": 31.5,
       "quantity": 1,
       "condition": "LP",
       "comment": "ABL-042",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           33.95,
           1784584375.8841422
+        ],
+        [
+          32.5,
+          1789175540.2331502
         ]
       ],
       "previous_quantities": [
@@ -203,7 +241,7 @@
       ],
       "first_date": 1782649578.3867354,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -224,7 +262,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "ex-",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -323,9 +361,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788776395.047304,
@@ -384,7 +422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -426,7 +464,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "+small scratches back | Keep cardgazing!^^",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -574,7 +612,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -602,7 +640,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -770,6 +808,34 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
+        "name": "Barricax",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1789348758.4268706,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789175540.2331502,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
         "name": "Fabricio",
         "country": "Item location: Spain"
       },
@@ -778,7 +844,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 7",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -886,7 +952,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pictures",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -968,7 +1034,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM/M",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -980,6 +1046,14 @@
         [
           0,
           1785061590.837715
+        ],
+        [
+          1,
+          1788776395.047304
+        ],
+        [
+          0,
+          1788776395.047304
         ]
       ],
       "first_date": 1783176187.875346,
@@ -987,6 +1061,76 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
+        "name": "alex-triplec",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 125.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Just ask if you want more pictures :)",
+      "date": 1789348758.4268706,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789003094.460195,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
+        "name": "Zeromaru-Shop",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 149.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "[JAPANESE VINTAGE/AR/SAR AVAILABLE]",
+      "date": 1789348758.4268706,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.99,
+          1789003094.460195
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1788003018.6863234
+        ],
+        [
+          0,
+          1788003018.6863234
+        ]
+      ],
+      "first_date": 1787829768.1959388,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -1063,43 +1207,6 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
-        "name": "Zeromaru-Shop",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 199.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "RELISTED! [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1788776395.047304,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1788003018.6863234
-        ],
-        [
-          0,
-          1788003018.6863234
-        ]
-      ],
-      "first_date": 1787829768.1959388,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 2,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Gengar EX  (XY4 033)",
-      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
-      "seller": {
         "name": "M0d1S",
         "country": "Item location: France"
       },
@@ -1110,7 +1217,7 @@
       "comment": "PSA 9",
       "date": 1788599136.1296537,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1121,7 +1228,7 @@
       "first_date": 1787651809.2996929,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -1199,6 +1306,43 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
+        "name": "ChoppaBr13",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - 1st Ed",
+      "date": 1789348758.4268706,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          650.0,
+          1789003094.460195
+        ],
+        [
+          850.0,
+          1789175540.2331502
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788401715.1670418,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
         "name": "Poke-Gallery",
         "country": "Item location: Germany"
       },
@@ -1207,7 +1351,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1331,34 +1475,6 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
-        "name": "ChoppaBr13",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10// ask for more pic",
-      "date": 1788776395.047304,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788401715.1670418,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Gengar EX  (XY4 033)",
-      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
-      "seller": {
         "name": "Poke-Gallery",
         "country": "Item location: Germany"
       },
@@ -1406,14 +1522,19 @@
       },
       "language": "Japanese",
       "price": 850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
       "date": 1788776395.047304,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788776395.047304
+        ]
+      ],
       "first_date": 1782649578.3867354,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1437,7 +1558,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1788776395.047304,
+      "date": 1789348758.4268706,
       "ended": false,
       "new": false,
       "previous_prices": [],

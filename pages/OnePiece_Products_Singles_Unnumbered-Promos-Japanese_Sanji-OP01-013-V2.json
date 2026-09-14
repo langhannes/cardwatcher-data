@@ -8,10 +8,11 @@
     "S-Chinese"
   ],
   "only_germany": "False",
+  "market_language": "",
   "available": 34,
-  "available_graded": 17,
+  "available_graded": 18,
   "sold": 1,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Sanji (OP01-013) (V.2)",
@@ -1729,7 +1730,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1741,7 +1742,7 @@
       "previous_quantities": [],
       "first_date": 1786338877.6199043,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1795,7 +1796,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1823,7 +1824,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2064,7 +2065,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2220,7 +2221,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCIC 8",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2400,7 +2401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and Toploader",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2495,7 +2496,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2938,58 +2939,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Luffy/Zoro/Sanji/Chopper Available",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788216570.173223,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sanji (OP01-013) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
-      "seller": {
-        "name": "Juanki9298",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect conditions",
-      "date": 1788906453.628545,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          699.0,
-          1779480721.8162858
-        ],
-        [
-          600.0,
-          1782547068.859497
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1786338877.6199043
-        ],
-        [
-          0,
-          1786338877.6199043
-        ]
-      ],
-      "first_date": 1779406183.7706902,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3012,7 +2967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve to toploader // ask for pics // same day shipping except weekend",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3038,6 +2993,56 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
+        "name": "Juanki9298",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Perfect conditions",
+      "date": 1789077569.9005952,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          699.0,
+          1779480721.8162858
+        ],
+        [
+          600.0,
+          1782547068.859497
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786338877.6199043
+        ],
+        [
+          0,
+          1786338877.6199043
+        ],
+        [
+          1,
+          1789077569.9005952
+        ]
+      ],
+      "first_date": 1779406183.7706902,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3292,18 +3297,27 @@
         "country": "Item location: United Kingdom"
       },
       "language": "S-Chinese",
-      "price": 539.93,
+      "price": 540.56,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          539.93,
+          1788906453.628545
+        ],
+        [
+          539.84,
+          1789077569.9005952
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1788906453.628545,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3419,7 +3433,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3457,7 +3471,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "TYGS 9.5",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3585,7 +3599,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3677,7 +3691,7 @@
       "comment": "",
       "date": 1788751211.4317076,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           697.98,
@@ -3701,7 +3715,7 @@
       "first_date": 1788216570.173223,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3721,7 +3735,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 10 Gem Mint",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3877,7 +3891,7 @@
       "quantity": 5,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3938,7 +3952,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4024,6 +4038,34 @@
       "card": "Sanji (OP01-013) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
       "seller": {
+        "name": "ResidentBarney",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 889.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1789250623.227229,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789077569.9005952,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sanji (OP01-013) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Sanji-OP01-013-V2",
+      "seller": {
         "name": "ninisse",
         "country": "Item location: France"
       },
@@ -4032,7 +4074,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4065,7 +4107,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4098,7 +4140,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4297,7 +4339,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 cert number 93357113",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4325,7 +4367,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4453,7 +4495,7 @@
       "quantity": 5,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4481,7 +4523,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4601,7 +4643,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Mint",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4861,7 +4903,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1788906453.628545,
+      "date": 1789250623.227229,
       "ended": false,
       "new": false,
       "previous_prices": [],

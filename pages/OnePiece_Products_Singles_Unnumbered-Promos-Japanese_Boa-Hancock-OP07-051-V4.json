@@ -9,10 +9,11 @@
     "Korean"
   ],
   "only_germany": false,
+  "market_language": "",
   "available": 19,
   "available_graded": 1,
-  "sold": 1,
-  "inserted": 1,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Boa Hancock (OP07-051) (V.4)",
@@ -1625,17 +1626,21 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 125.0,
+      "price": 115.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition. Shipping with Toploader.",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           100.0,
           1785243369.7521744
+        ],
+        [
+          125.0,
+          1789071297.8522284
         ]
       ],
       "previous_quantities": [
@@ -1650,7 +1655,7 @@
       ],
       "first_date": 1785243369.7521744,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1667,11 +1672,11 @@
         "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 130.0,
+      "price": 124.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and Toploader",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1682,12 +1687,16 @@
         [
           150.0,
           1788568894.1324046
+        ],
+        [
+          130.0,
+          1789071297.8522284
         ]
       ],
       "previous_quantities": [],
       "first_date": 1786084012.3647904,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1741,7 +1750,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "(Box-K)",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1795,7 +1804,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "clean",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1866,7 +1875,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PreGrade NM CCC Rmp possible Nord+Belgique",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1993,7 +2002,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan exclusive",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2055,12 +2064,66 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1786822202.0846875,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Boa Hancock (OP07-051) (V.4)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V4",
+      "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 189.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "From Pack to Sleeve / + cards in stock",
+      "date": 1789243992.8553476,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          79.99,
+          1771424865.290042
+        ],
+        [
+          69.99,
+          1772290878.4220676
+        ],
+        [
+          54.99,
+          1777895942.9057932
+        ],
+        [
+          300.0,
+          1788899451.361349
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1777895942.9057932
+        ],
+        [
+          0,
+          1777895942.9057932
+        ]
+      ],
+      "first_date": 1771229062.0408921,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2082,8 +2145,8 @@
       "price": 195.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
-      "date": 1788899451.361349,
+      "comment": "ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2100,7 +2163,7 @@
       "first_date": 1787859831.8813434,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2153,7 +2216,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2181,7 +2244,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2243,7 +2306,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed pack from the collection box",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2316,7 +2379,7 @@
       "comment": "Pressure marks on back! / Quick shipping! / DM for questions! / Check my other stuff!",
       "date": 1788744665.1015503,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           46.85,
@@ -2348,7 +2411,7 @@
       "first_date": 1781883648.9835198,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2368,7 +2431,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean Condition",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2413,7 +2476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2459,56 +2522,6 @@
       "card": "Boa Hancock (OP07-051) (V.4)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V4",
       "seller": {
-        "name": "trapcardtcg",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "From Pack to Sleeve / + cards in stock",
-      "date": 1788899451.361349,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          79.99,
-          1771424865.290042
-        ],
-        [
-          69.99,
-          1772290878.4220676
-        ],
-        [
-          54.99,
-          1777895942.9057932
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1777895942.9057932
-        ],
-        [
-          0,
-          1777895942.9057932
-        ]
-      ],
-      "first_date": 1771229062.0408921,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Boa Hancock (OP07-051) (V.4)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V4",
-      "seller": {
         "name": "M3Dstudio",
         "country": "Item location: Italy"
       },
@@ -2517,7 +2530,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2596,7 +2609,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Exclusive Japanese Version",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2720,7 +2733,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1788899451.361349,
+      "date": 1789243992.8553476,
       "ended": false,
       "new": false,
       "previous_prices": [

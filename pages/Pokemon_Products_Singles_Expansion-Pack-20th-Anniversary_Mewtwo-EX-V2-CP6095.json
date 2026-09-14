@@ -10,9 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 18,
+  "market_language": "",
+  "available": 17,
   "available_graded": 4,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -27,7 +28,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -55,7 +56,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "(Box-K)",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -83,7 +84,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "--",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -111,7 +112,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Exc+ leggero rialzamento angolo basso destro",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -139,7 +140,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics! :)",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -167,7 +168,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "SHOWCASE",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -195,7 +196,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -223,7 +224,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[::: CHECK OUR STOCK :::]",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -260,7 +261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -288,7 +289,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -313,18 +314,23 @@
       },
       "language": "Korean",
       "price": 185.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1788771068.3529837,
-      "ended": false,
-      "new": false,
+      "date": 1789170606.1060784,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789170606.1060784
+        ]
+      ],
       "first_date": 1786194079.9379349,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -340,11 +346,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Korean",
-      "price": 239.72,
+      "price": 240.25,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -403,6 +409,18 @@
         [
           239.78,
           1788593579.9700549
+        ],
+        [
+          239.72,
+          1788771068.3529837
+        ],
+        [
+          239.9,
+          1788998044.5557835
+        ],
+        [
+          239.72,
+          1789170606.1060784
         ]
       ],
       "previous_quantities": [],
@@ -429,7 +447,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -457,7 +475,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "GXF - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -490,7 +508,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -514,12 +532,45 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 650.0,
+      "price": 599.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9. for more pictures pls pm",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          625.0,
+          1789170606.1060784
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788998044.5557835,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mewtwo EX  (CP6 095)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Mewtwo-EX-V2-CP6095",
+      "seller": {
+        "name": "Whoopy29",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Psa 9. for more pictures pls pm",
+      "date": 1788771068.3529837,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -535,7 +586,12 @@
           1788259623.6970077
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1788771068.3529837
+        ]
+      ],
       "first_date": 1786996742.3683877,
       "last_date": 0.0,
       "price_is_new": false,
@@ -559,7 +615,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 Mint",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -620,7 +676,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1788771068.3529837,
+      "date": 1789343544.7618477,
       "ended": false,
       "new": false,
       "previous_prices": [],
