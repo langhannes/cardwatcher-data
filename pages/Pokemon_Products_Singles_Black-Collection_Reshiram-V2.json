@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 13,
+  "available": 12,
   "available_graded": 1,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -244,7 +244,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -272,7 +272,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Ug Blu",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -391,34 +391,6 @@
       "card": "Reshiram  (BW1b 055)",
       "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
       "seller": {
-        "name": "JapanesePokeworld",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 55.0,
-      "quantity": 1,
-      "condition": "PL",
-      "comment": "FRONT GOOD / BACK PL",
-      "date": 1789210388.4066572,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1777222746.892649,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Reshiram  (BW1b 055)",
-      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
-      "seller": {
         "name": "MortiCards",
         "country": "Item location: Spain"
       },
@@ -427,7 +399,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "New Cards every week!",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -447,6 +419,14 @@
         [
           0,
           1784668904.0453918
+        ],
+        [
+          1,
+          1789383069.1667142
+        ],
+        [
+          0,
+          1789383069.1667142
         ]
       ],
       "first_date": 1777222746.892649,
@@ -454,6 +434,39 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Reshiram  (BW1b 055)",
+      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
+      "seller": {
+        "name": "JapanesePokeworld",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 0,
+      "condition": "PL",
+      "comment": "FRONT GOOD / BACK PL",
+      "date": 1789943399.1954863,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1789943399.1954863
+        ]
+      ],
+      "first_date": 1777222746.892649,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -505,7 +518,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "101",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -533,7 +546,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "MP Photos",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -661,6 +674,43 @@
       "card": "Reshiram  (BW1b 055)",
       "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
       "seller": {
+        "name": "Judanius",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "J8",
+      "date": 1790203574.100749,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1789383069.1667142
+        ],
+        [
+          0,
+          1789383069.1667142
+        ]
+      ],
+      "first_date": 1789383069.1667142,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Reshiram  (BW1b 055)",
+      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
+      "seller": {
         "name": "ThepokegalleryBV",
         "country": "Item location: Netherlands"
       },
@@ -748,7 +798,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Little scratch. Sleeved. Toploader. Ask for pics.",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -823,7 +873,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -958,7 +1008,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1066,11 +1116,11 @@
       },
       "language": "Japanese",
       "price": 130.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "gesleevt + Toploader",
-      "date": 1789210388.4066572,
-      "ended": false,
+      "date": 1789622190.9341214,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1094,6 +1144,10 @@
         [
           0,
           1780505862.1657999
+        ],
+        [
+          1,
+          1789622190.9341214
         ]
       ],
       "first_date": 1777222746.892649,
@@ -1119,7 +1173,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 8",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1147,7 +1201,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "UNLIMITED NM- Ask for Pics! Sleeve+Toploader",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1180,7 +1234,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1789210388.4066572,
+      "date": 1790203574.100749,
       "ended": false,
       "new": false,
       "previous_prices": [],

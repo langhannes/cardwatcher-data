@@ -11,11 +11,39 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 5,
-  "available_graded": 1,
-  "sold": 1,
+  "available": 4,
+  "available_graded": 0,
+  "sold": 0,
   "inserted": 1,
   "listings": [
+    {
+      "card": "MGengar EX  (XY4 097)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_MGengar-EX-V2",
+      "seller": {
+        "name": "magma-cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 99.95,
+      "quantity": 1,
+      "condition": "PO",
+      "comment": "more high rare cards available",
+      "date": 1790173137.064839,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790173137.064839,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
     {
       "card": "MGengar EX (097) - Phantom Gate",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_MGengar-EX-V2",
@@ -89,7 +117,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Sleeve -> toploader",
-      "date": 1789349755.2298713,
+      "date": 1790173137.064839,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -220,7 +248,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Please ask for photo before purchasing :)",
-      "date": 1789349755.2298713,
+      "date": 1790173137.064839,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -245,11 +273,11 @@
       },
       "language": "Japanese",
       "price": 449.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Daily Shipping",
-      "date": 1789349755.2298713,
-      "ended": false,
+      "date": 1789740729.2651725,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -261,7 +289,12 @@
           1786392356.6126893
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789740729.2651725
+        ]
+      ],
       "first_date": 1781324215.4989064,
       "last_date": 0.0,
       "price_is_new": false,
@@ -327,7 +360,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1789349755.2298713,
+      "date": 1790173137.064839,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -598,14 +631,19 @@
       },
       "language": "Japanese",
       "price": 1795.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 - New Cert",
       "date": 1789349755.2298713,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789349755.2298713
+        ]
+      ],
       "first_date": 1789349755.2298713,
       "last_date": 0.0,
       "price_is_new": false,
@@ -631,7 +669,7 @@
       "comment": "PSA 10 - New Cert",
       "date": 1789176336.7572055,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3500.0,
@@ -659,7 +697,7 @@
       "first_date": 1781765445.837137,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,

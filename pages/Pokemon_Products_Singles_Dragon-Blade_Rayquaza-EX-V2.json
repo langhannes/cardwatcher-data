@@ -11,10 +11,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 6,
-  "available_graded": 1,
-  "sold": 1,
-  "inserted": 1,
+  "available": 5,
+  "available_graded": 0,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Rayquaza EX (BW5e 053)",
@@ -534,7 +534,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #390",
-      "date": 1789209013.389293,
+      "date": 1790202058.0035803,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1026,16 +1026,44 @@
       "card": "Rayquaza EX  (BW5e 053)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
       "seller": {
+        "name": "bigoudytcg",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 349.99,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "",
+      "date": 1790202058.0035803,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789769769.2253215,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Rayquaza EX  (BW5e 053)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
+      "seller": {
         "name": "ThomasZurlo",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Front Good Back Lp",
-      "date": 1789209013.389293,
-      "ended": false,
+      "date": 1789620899.3210835,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1043,7 +1071,12 @@
           1787259131.4859993
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789620899.3210835
+        ]
+      ],
       "first_date": 1786733900.03696,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1064,14 +1097,19 @@
       },
       "language": "Japanese",
       "price": 399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "PSA 4",
-      "date": 1789209013.389293,
-      "ended": false,
+      "date": 1789381738.4296844,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789381738.4296844
+        ]
+      ],
       "first_date": 1789036540.3651724,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1141,7 +1179,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "A-146. Front GD+. Back LP+",
-      "date": 1789209013.389293,
+      "date": 1790202058.0035803,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1199,7 +1237,7 @@
       "comment": "For pics check ebay:  nit9171",
       "date": 1789036540.3651724,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1210,7 +1248,7 @@
       "first_date": 1787785694.275996,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -1327,10 +1365,10 @@
       "price": 1000.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "ask for pics/sale",
-      "date": 1789209013.389293,
+      "comment": "ASK FOR PRICE",
+      "date": 1790202058.0035803,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1789209013.389293,
@@ -1356,7 +1394,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for more pictures",
-      "date": 1789209013.389293,
+      "date": 1790202058.0035803,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1417,7 +1455,7 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "RELISTED! PSA 9 MINT // Questions? Feel free to ask! :)",
-      "date": 1787259131.4859993,
+      "date": 1789620899.3210835,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -1441,6 +1479,14 @@
         [
           1,
           1787259131.4859993
+        ],
+        [
+          0,
+          1787259131.4859993
+        ],
+        [
+          1,
+          1789620899.3210835
         ]
       ],
       "first_date": 1784018067.8897457,

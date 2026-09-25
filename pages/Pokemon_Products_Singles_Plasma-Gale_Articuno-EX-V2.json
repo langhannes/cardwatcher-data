@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 10,
+  "available": 11,
   "available_graded": 3,
   "sold": 0,
   "inserted": 0,
@@ -61,7 +61,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #114",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -103,7 +103,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #146",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -252,7 +252,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -280,7 +280,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -573,7 +573,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Ask for pictures",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -982,11 +982,11 @@
       },
       "language": "Japanese",
       "price": 155.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "With Sleeve + Toploader",
-      "date": 1785604335.2880561,
-      "ended": true,
+      "date": 1790173614.277378,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1000,6 +1000,10 @@
         ],
         [
           1,
+          1785604335.2880561
+        ],
+        [
+          0,
           1785604335.2880561
         ]
       ],
@@ -1311,7 +1315,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 6!",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1339,7 +1343,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1376,7 +1380,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA6",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1446,7 +1450,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and toploader. Very clean!. pictures can be made",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1524,7 +1528,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1789350266.5038266,
+      "date": 1790173614.277378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1601,6 +1605,39 @@
         ]
       ],
       "first_date": 1786572471.433589,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Articuno EX  (BW7 072)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Articuno-EX-V2",
+      "seller": {
+        "name": "Palakazam",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 2500.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 cert 73630876",
+      "date": 1789741127.2517095,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1789741127.2517095
+        ]
+      ],
+      "first_date": 1789741127.2517095,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

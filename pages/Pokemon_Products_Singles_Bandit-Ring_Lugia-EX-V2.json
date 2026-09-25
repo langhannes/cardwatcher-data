@@ -11,10 +11,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 13,
-  "available_graded": 5,
-  "sold": 0,
-  "inserted": 1,
+  "available": 9,
+  "available_graded": 2,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Lugia EX  (XY7 092)",
@@ -276,7 +276,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -429,7 +429,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -561,7 +561,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "[JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -664,7 +664,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -703,11 +703,11 @@
       },
       "language": "Japanese",
       "price": 219.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "RELISTED! good+",
       "date": 1789333177.7956724,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -718,12 +718,16 @@
         [
           0,
           1788987370.304493
+        ],
+        [
+          1,
+          1789333177.7956724
         ]
       ],
       "first_date": 1788269776.5312245,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -804,7 +808,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1322,7 +1326,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 7.5 ship only parcel",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1408,7 +1412,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1510,7 +1514,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 7.5",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1632,7 +1636,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 9",
-      "date": 1789333177.7956724,
+      "date": 1790159535.0352926,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1856,14 +1860,19 @@
       },
       "language": "Japanese",
       "price": 700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
       "date": 1789333177.7956724,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789333177.7956724
+        ]
+      ],
       "first_date": 1789159733.8037848,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1996,23 +2005,41 @@
       "card": "Lugia EX  (XY7 092)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Lugia-EX-V2",
       "seller": {
-        "name": "Mussundwerdich",
-        "country": "Item location: Germany"
+        "name": "CrobatPokemon88",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 2500.0,
-      "quantity": 1,
+      "price": 2000.0,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "PSA 10 Graded!",
-      "date": 1789333177.7956724,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789159733.8037848,
+      "comment": "PSA 10",
+      "date": 1789900563.5019734,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          3000.0,
+          1787944373.8688767
+        ],
+        [
+          2350.0,
+          1788269776.5312245
+        ],
+        [
+          3000.0,
+          1789726427.0075414
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789900563.5019734
+        ]
+      ],
+      "first_date": 1777976111.6875856,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -2024,29 +2051,25 @@
       "card": "Lugia EX  (XY7 092)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Lugia-EX-V2",
       "seller": {
-        "name": "CrobatPokemon88",
-        "country": "Item location: Italy"
+        "name": "Mussundwerdich",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 3000.0,
-      "quantity": 1,
+      "price": 2500.0,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "PSA 10",
+      "comment": "PSA 10 Graded!",
       "date": 1789333177.7956724,
-      "ended": false,
+      "ended": true,
       "new": false,
-      "previous_prices": [
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          3000.0,
-          1787944373.8688767
-        ],
-        [
-          2350.0,
-          1788269776.5312245
+          1,
+          1789333177.7956724
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1777976111.6875856,
+      "first_date": 1789159733.8037848,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

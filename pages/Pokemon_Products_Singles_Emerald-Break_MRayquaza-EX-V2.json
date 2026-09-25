@@ -352,14 +352,19 @@
       },
       "language": "Japanese",
       "price": 550.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Front nm back good",
       "date": 1789339759.9251294,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789339759.9251294
+        ]
+      ],
       "first_date": 1787824477.5259693,
       "last_date": 0.0,
       "price_is_new": false,
@@ -465,7 +470,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Little dmg on corner. Clean surfaces - Ask for anything!!",
-      "date": 1789339759.9251294,
+      "date": 1790166304.7438612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -514,9 +519,9 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Ask for scans",
-      "date": 1789339759.9251294,
+      "date": 1790166304.7438612,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1789339759.9251294,
@@ -524,6 +529,56 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
+        "name": "CyCardSeller",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 900.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Takes 2 weeks to ship / Open to offers",
+      "date": 1790166304.7438612,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          999.0,
+          1789907025.5841272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786948872.8928542
+        ],
+        [
+          0,
+          1786948872.8928542
+        ],
+        [
+          1,
+          1787477471.1217644
+        ],
+        [
+          0,
+          1787477471.1217644
+        ]
+      ],
+      "first_date": 1786948872.8928542,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -575,7 +630,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "A-196",
-      "date": 1789339759.9251294,
+      "date": 1790166304.7438612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -585,51 +640,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MRayquaza EX  (XY6 086)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
-      "seller": {
-        "name": "CyCardSeller",
-        "country": "Item location: Cyprus"
-      },
-      "language": "Japanese",
-      "price": 999.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Takes 2 weeks to ship / Open to offers",
-      "date": 1789339759.9251294,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1786948872.8928542
-        ],
-        [
-          0,
-          1786948872.8928542
-        ],
-        [
-          1,
-          1787477471.1217644
-        ],
-        [
-          0,
-          1787477471.1217644
-        ]
-      ],
-      "first_date": 1786948872.8928542,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
@@ -659,6 +669,34 @@
         ]
       ],
       "first_date": 1774616726.1834688,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MRayquaza EX  (XY6 086)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MRayquaza-EX-V2",
+      "seller": {
+        "name": "BibouLaTerreur",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1299.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Strong 9 MINT CCC Grading (grade report included)",
+      "date": 1790166304.7438612,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790166304.7438612,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -785,7 +823,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "strong BGS 8.5! Great Card. should be PSA 9",
-      "date": 1789339759.9251294,
+      "date": 1790166304.7438612,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -12,10 +12,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 4,
+  "available": 3,
   "available_graded": 2,
-  "sold": 0,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Shaymin EX  (BXY 188)",
@@ -294,9 +294,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sous sleeve. top loader ask for more pic",
-      "date": 1789362460.0845895,
+      "date": 1790185394.7717817,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1789362460.0845895,
@@ -319,23 +319,28 @@
       },
       "language": "Korean",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Very rare corean version",
-      "date": 1789362460.0845895,
-      "ended": false,
-      "new": false,
+      "date": 1789925767.4063048,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1500.0,
           1787665430.7190902
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789925767.4063048
+        ]
+      ],
       "first_date": 1783422498.793494,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -558,7 +563,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1789362460.0845895,
+      "date": 1790185394.7717817,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -665,7 +670,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - 79000313",
-      "date": 1789362460.0845895,
+      "date": 1790185394.7717817,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -11,9 +11,9 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 3,
+  "available": 2,
   "available_graded": 0,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -67,7 +67,7 @@
       "comment": "sealed case - shipping in extra package ! incl vat",
       "date": 1789031604.8960345,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -78,7 +78,7 @@
       "first_date": 1789031604.8960345,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -95,11 +95,11 @@
       },
       "language": "Japanese",
       "price": 2499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1789203595.5604687,
-      "ended": false,
+      "date": 1789615455.4544542,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -111,6 +111,10 @@
         [
           2,
           1788268945.6301818
+        ],
+        [
+          1,
+          1789615455.4544542
         ]
       ],
       "first_date": 1788268945.6301818,
@@ -169,7 +173,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed case",
-      "date": 1789203595.5604687,
+      "date": 1790198913.2286227,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -197,7 +201,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1789203595.5604687,
+      "date": 1790198913.2286227,
       "ended": false,
       "new": false,
       "previous_prices": [],

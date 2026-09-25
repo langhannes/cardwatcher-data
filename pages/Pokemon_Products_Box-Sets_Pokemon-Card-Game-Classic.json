@@ -11,10 +11,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 28,
+  "available": 30,
   "available_graded": 0,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Pokémon Card Game Classic",
@@ -25,14 +25,19 @@
       },
       "language": "Japanese",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "!!Nur das Card Game Spieleboard samt Zubehör und Sleeves!! ohne Decks",
-      "date": 1789329538.4053905,
-      "ended": false,
-      "new": true,
+      "date": 1789567673.7568905,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789567673.7568905
+        ]
+      ],
       "first_date": 1789329538.4053905,
       "last_date": 0.0,
       "price_is_new": false,
@@ -56,7 +61,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Complete box (NO CARDS) with sleeves. deckboxes and Toolbox..",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -117,7 +122,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "!!nur das Card Game Spielfeld und Zubehör!! - KEINE DECKS!",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3989,7 +3994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "box opend. cards stil in seal ask for pic",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4124,6 +4129,85 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
+        "name": "AmbitionZlatan",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 770.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed in original Japanese shipping carton",
+      "date": 1790155675.7615414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          790.0,
+          1789567673.7568905
+        ],
+        [
+          780.0,
+          1789896726.9599154
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788579309.5036886,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Card Game Classic",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
+      "seller": {
+        "name": "Phantombreaker",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 775.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed in original packing box from japan",
+      "date": 1790155675.7615414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          795.0,
+          1788755592.2880616
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788755592.2880616
+        ],
+        [
+          0,
+          1788755592.2880616
+        ]
+      ],
+      "first_date": 1787295199.3607986,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Card Game Classic",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
+      "seller": {
         "name": "schreibschwach",
         "country": "Item location: Switzerland"
       },
@@ -4152,55 +4236,72 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
-        "name": "AmbitionZlatan",
+        "name": "GameCollect",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 790.0,
-      "quantity": 1,
+      "price": 779.0,
+      "quantity": 4,
       "condition": "NM",
-      "comment": "Sealed in original Japanese shipping carton",
-      "date": 1789329538.4053905,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788579309.5036886,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Card Game Classic",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
-      "seller": {
-        "name": "Collectibles-DK",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 790.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1789329538.4053905,
+      "comment": "OVP Sealed In original shipping Cardboard / Inc. VAT",
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          830.0,
-          1787474998.7964473
+          384.0,
+          1.0
+        ],
+        [
+          375.0,
+          324.0
+        ],
+        [
+          369.0,
+          7871.9
+        ],
+        [
+          439.0,
+          1766529393.5788314
+        ],
+        [
+          409.0,
+          1768160931.318946
+        ],
+        [
+          734.0,
+          1780327852.353903
+        ],
+        [
+          849.0,
+          1786770282.8905075
+        ],
+        [
+          800.0,
+          1789329538.4053905
+        ],
+        [
+          790.0,
+          1789896726.9599154
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1782670498.5829651,
+      "previous_quantities": [
+        [
+          0,
+          1768160931.318946
+        ],
+        [
+          2,
+          1780327852.353903
+        ],
+        [
+          0,
+          1780327852.353903
+        ]
+      ],
+      "first_date": 1755774113.757516,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4221,7 +4322,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in original case",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4254,7 +4355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4287,39 +4388,6 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
-        "name": "Phantombreaker",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 795.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "sealed in original packing box from japan",
-      "date": 1788755592.2880616,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1788755592.2880616
-        ]
-      ],
-      "first_date": 1787295199.3607986,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Card Game Classic",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
-      "seller": {
         "name": "Enji3000",
         "country": "Item location: Germany"
       },
@@ -4328,7 +4396,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in original Japanese shipping carton. 2x available. discount if you take both!",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4391,76 +4459,6 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
-        "name": "GameCollect",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 4,
-      "condition": "NM",
-      "comment": "OVP Sealed In Cardboard / Inc. VAT",
-      "date": 1789329538.4053905,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          384.0,
-          1.0
-        ],
-        [
-          375.0,
-          324.0
-        ],
-        [
-          369.0,
-          7871.9
-        ],
-        [
-          439.0,
-          1766529393.5788314
-        ],
-        [
-          409.0,
-          1768160931.318946
-        ],
-        [
-          734.0,
-          1780327852.353903
-        ],
-        [
-          849.0,
-          1786770282.8905075
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1768160931.318946
-        ],
-        [
-          2,
-          1780327852.353903
-        ],
-        [
-          0,
-          1780327852.353903
-        ]
-      ],
-      "first_date": 1755774113.757516,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Card Game Classic",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
-      "seller": {
         "name": "Tonzi",
         "country": "Item location: Italy"
       },
@@ -4469,7 +4467,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed straight from Japan",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4519,7 +4517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SELAED",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4552,7 +4550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4659,21 +4657,62 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
+        "name": "Collectibles-DK",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 840.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790155675.7615414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          830.0,
+          1787474998.7964473
+        ],
+        [
+          790.0,
+          1789567673.7568905
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782670498.5829651,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Card Game Classic",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
+      "seller": {
         "name": "Kellehx",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 850.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in original case",
-      "date": 1788983200.737688,
-      "ended": true,
+      "date": 1790155675.7615414,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1788983200.737688
+        ],
+        [
+          0,
           1788983200.737688
         ]
       ],
@@ -4771,7 +4810,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. will be shipped in original shipping box",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4869,7 +4908,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed Safe Shipping",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4946,8 +4985,8 @@
       "price": 1000.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed - Ask if want picture",
-      "date": 1789329538.4053905,
+      "comment": "Sealed in original Japanesse shiping",
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5012,7 +5051,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New in original box",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5049,7 +5088,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed In Original Case- Sammlungsauflösung",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5099,7 +5138,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in original case",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5145,7 +5184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller - sealed - Daily shipping",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5174,6 +5213,34 @@
       "card": "Pokémon Card Game Classic",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
       "seller": {
+        "name": "GinvadeTradingCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1400.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "19% VAT incl.",
+      "date": 1790155675.7615414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789896726.9599154,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Card Game Classic",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Card-Game-Classic",
+      "seller": {
         "name": "Pasqualers",
         "country": "Item location: Greece"
       },
@@ -5182,7 +5249,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New-Sealed-Fast shipping",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5244,7 +5311,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New sealed",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5300,7 +5367,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEW SEALED OVP Fabric carton unopened. Well secured",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5333,7 +5400,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed Sammlungsauflösung",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5375,7 +5442,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP seald",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5468,7 +5535,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "molto altro disponibile",
-      "date": 1789329538.4053905,
+      "date": 1790155675.7615414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5498,11 +5565,11 @@
       },
       "language": "Japanese",
       "price": 9999.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "inkl. 19% Mwst./VAT",
-      "date": 1789329538.4053905,
-      "ended": false,
+      "date": 1789722955.8015177,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5558,6 +5625,10 @@
         [
           0,
           1787644169.469986
+        ],
+        [
+          1,
+          1789722955.8015177
         ]
       ],
       "first_date": 1778864752.449949,

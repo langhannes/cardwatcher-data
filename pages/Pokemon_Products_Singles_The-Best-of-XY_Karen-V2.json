@@ -12,10 +12,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 6,
-  "available_graded": 5,
-  "sold": 0,
-  "inserted": 2,
+  "available": 3,
+  "available_graded": 2,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Karen (BXY 183)",
@@ -75,7 +75,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Quelques défauts sur l'arrière",
-      "date": 1789360867.937343,
+      "date": 1790184087.6815307,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -103,7 +103,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 STRONG New Label Open to Offers",
-      "date": 1789360867.937343,
+      "date": 1790184087.6815307,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -128,11 +128,11 @@
       },
       "language": "Japanese",
       "price": 1149.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! PSA 9",
       "date": 1789360867.937343,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -168,12 +168,16 @@
         [
           0,
           1789015971.5145636
+        ],
+        [
+          1,
+          1789360867.937343
         ]
       ],
       "first_date": 1768771587.838974,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -279,11 +283,11 @@
       },
       "language": "Japanese",
       "price": 1650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! BGS 9.5 | 3x 9.5 subs + 10",
       "date": 1789360867.937343,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -310,12 +314,16 @@
         [
           0,
           1789015971.5145636
+        ],
+        [
+          1,
+          1789360867.937343
         ]
       ],
       "first_date": 1776163047.7191446,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -335,7 +343,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1789360867.937343,
+      "date": 1790184087.6815307,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -388,18 +396,23 @@
       },
       "language": "Japanese",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10 GRADED",
-      "date": 1789360867.937343,
-      "ended": false,
-      "new": false,
+      "date": 1789924305.2168324,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789924305.2168324
+        ]
+      ],
       "first_date": 1755855983.9827147,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

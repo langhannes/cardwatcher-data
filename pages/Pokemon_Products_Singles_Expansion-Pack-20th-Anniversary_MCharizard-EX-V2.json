@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 9,
-  "available_graded": 2,
-  "sold": 1,
+  "available": 11,
+  "available_graded": 3,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -61,7 +61,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -89,11 +89,20 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "LP/PL - safe shipping - ask for more pictures - new seller",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1789581672.6783035
+        ],
+        [
+          0,
+          1789581672.6783035
+        ]
+      ],
       "first_date": 1789169164.1018913,
       "last_date": 0.0,
       "price_is_new": false,
@@ -183,7 +192,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PKM8 - 1 - 9",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -208,12 +217,12 @@
       },
       "language": "Korean",
       "price": 299.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1789169164.1018913,
-      "ended": true,
-      "new": true,
+      "date": 1790168739.381379,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           289.99,
@@ -232,12 +241,16 @@
         [
           1,
           1789169164.1018913
+        ],
+        [
+          0,
+          1789169164.1018913
         ]
       ],
       "first_date": 1786196348.474071,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -285,7 +298,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics! :)",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -313,7 +326,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -341,7 +354,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "KOR Sleeve + Toploader",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -449,7 +462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -745,7 +758,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 8. make an offer",
-      "date": 1789342014.8564522,
+      "date": 1790168739.381379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -840,6 +853,100 @@
       "card": "MCharizard EX  (CP6 091)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
       "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3199.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1790168739.381379,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789735516.4557254,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MCharizard EX  (CP6 091)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
+      "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 3495.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1789581672.6783035,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          3995.0,
+          1789342014.8564522
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789581672.6783035
+        ]
+      ],
+      "first_date": 1786196348.474071,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MCharizard EX  (CP6 091)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
+      "seller": {
+        "name": "resqcards",
+        "country": "Item location: Slovenia"
+      },
+      "language": "Japanese",
+      "price": 3599.9,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5 quad / RC-2026-001486",
+      "date": 1790168739.381379,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789735516.4557254,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MCharizard EX  (CP6 091)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
+      "seller": {
         "name": "Melobou",
         "country": "Item location: France"
       },
@@ -867,34 +974,6 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MCharizard EX  (CP6 091)",
-      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MCharizard-EX-V2",
-      "seller": {
-        "name": "Poke-Gallery",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 3995.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1789342014.8564522,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786196348.474071,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
       "grade_source": "auto"
     }
   ]
