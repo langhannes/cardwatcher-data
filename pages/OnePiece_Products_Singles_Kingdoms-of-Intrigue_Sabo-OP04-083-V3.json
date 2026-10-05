@@ -9,10 +9,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 84,
-  "available_graded": 28,
-  "sold": 2,
-  "inserted": 6,
+  "available": 77,
+  "available_graded": 26,
+  "sold": 4,
+  "inserted": 0,
   "listings": [
     {
       "card": "Sabo (OP04-083) (V.3)",
@@ -109,13 +109,59 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "FIRE & DICE",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           499.9,
           1789920947.5904448
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790180420.0561419
+        ],
+        [
+          0,
+          1790180420.0561419
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "Siroco",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "2 light scratches on the back",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1789920947.5904448
+        ],
+        [
+          450.0,
+          1790998432.3139706
         ]
       ],
       "previous_quantities": [],
@@ -908,39 +954,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Siroco",
-        "country": "Item location: Belgium"
-      },
-      "language": "English",
-      "price": 450.0,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          500.0,
-          1789920947.5904448
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "XixoCCG",
         "country": "Item location: Germany"
       },
@@ -1432,6 +1445,48 @@
       "archived": false,
       "grade_company": "UNK",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "Urabrask",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 480.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Tiny whitening spot on the back.",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1790386844.7141562
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ],
+        [
+          0,
+          1790386844.7141562
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1991,6 +2046,44 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1713811341.079731,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "Flokke",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Tiny whitening on back",
+      "date": 1790717057.6713395,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          555.0,
+          1790386844.7141562
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790717057.6713395
+        ]
+      ],
+      "first_date": 1790386844.7141562,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2802,6 +2895,76 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "Sunshine1",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790998432.3139706,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "KC-Yonko",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Freshly pulled from a booster box",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1790386844.7141562
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ],
+        [
+          0,
+          1790386844.7141562
+        ]
+      ],
+      "first_date": 1790180420.0561419,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "DC-Trading",
         "country": "Item location: Austria"
       },
@@ -3349,6 +3512,43 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "LightningTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 599.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 9.5 GEM MINT",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          629.99,
+          1790560962.9234693
+        ],
+        [
+          619.99,
+          1790717057.6713395
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "HomeOfTrading",
         "country": "Item location: Germany"
       },
@@ -3385,68 +3585,12 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "back right side is slightly damaged",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "Urabrask",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Tiny whitening spot on the back.",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "KC-Yonko",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Freshly pulled from a booster box",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1790180420.0561419,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3725,14 +3869,19 @@
       },
       "language": "English",
       "price": 610.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Fast and cheap shipping. small white dot bottom right",
-      "date": 1790180420.0561419,
-      "ended": false,
+      "date": 1790885666.6997879,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790885666.6997879
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3904,18 +4053,27 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "LightningTCG",
+        "name": "Eneeeergii",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 629.99,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "AOG 9.5 GEM MINT",
-      "date": 1790180420.0561419,
+      "condition": "NM",
+      "comment": "Top Condition | self pulled | sleeved and magholded right after pull | ask for pics",
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          799.99,
+          1789920947.5904448
+        ],
+        [
+          689.99,
+          1790560962.9234693
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
@@ -3924,8 +4082,8 @@
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "AOG",
-      "grade": 9.5,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -4031,20 +4189,62 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "ChobanovGamesLtd",
-        "country": "Item location: Bulgaria"
+        "name": "Cortios",
+        "country": "Item location: Austria"
       },
       "language": "English",
       "price": 650.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Fast and cheap shipping.",
-      "date": 1790180420.0561419,
+      "comment": "OP04. self pulled -> booster to sleeve to top loader",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          675.0,
+          1790386844.7141562
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ],
+        [
+          0,
+          1790386844.7141562
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "Yayanosuke",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Remise en main propre possible sur Paris",
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1789920947.5904448,
+      "first_date": 1790717057.6713395,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4067,11 +4267,53 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Little whitening",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ],
+        [
+          0,
+          1790386844.7141562
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "ChobanovGamesLtd",
+        "country": "Item location: Bulgaria"
+      },
+      "language": "English",
+      "price": 650.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fast and cheap shipping.",
+      "date": 1790885666.6997879,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1790885666.6997879
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4158,14 +4400,19 @@
       },
       "language": "English",
       "price": 660.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
-      "ended": false,
+      "date": 1790386844.7141562,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4252,56 +4499,33 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Cortios",
-        "country": "Item location: Austria"
-      },
-      "language": "English",
-      "price": 675.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OP04. self pulled -> booster to sleeve to top loader",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "Eneeeergii",
+        "name": "Chriswow92",
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 689.99,
-      "quantity": 1,
+      "price": 680.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Top Condition | self pulled | sleeved and magholded right after pull | ask for pics",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
+      "comment": "Clean + save in case",
+      "date": 1790998432.3139706,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          799.99,
-          1789920947.5904448
+          725.0,
+          1790560962.9234693
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790998432.3139706
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4321,7 +4545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Classeur X",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4349,7 +4573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Op04",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4377,7 +4601,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "clean",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4489,7 +4713,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Booster to sleeve",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4517,7 +4741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "- CCC 9 - Envoi rapide et soigné -",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4531,6 +4755,72 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "burakkoo",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OG BGS gem mint 9.5  9/9.5/9.5/9.5",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          750.0,
+          1790998432.3139706
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "Berfin12",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Bgs 9.5",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          770.0,
+          1790885666.6997879
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790386844.7141562,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -4835,7 +5125,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OP04",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4936,6 +5226,44 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "Federica97",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 720.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790998432.3139706,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          790.0,
+          1790717057.6713395
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790998432.3139706
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "Kashiano",
         "country": "Item location: United Kingdom"
       },
@@ -4964,34 +5292,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Chriswow92",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 725.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Clean + save in case",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "Expain",
         "country": "Item location: Austria"
       },
@@ -5000,7 +5300,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5082,7 +5382,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve/Toploader/TeamBag",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5121,7 +5421,7 @@
       "comment": "Booster -> Sleeve -> Toploader",
       "date": 1789920947.5904448,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           850.0,
@@ -5137,7 +5437,7 @@
       "first_date": 1712317347.6739862,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5190,7 +5490,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sammlungsauflösung",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5238,34 +5538,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "burakkoo",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 750.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OG BGS gem mint 9.5  9/9.5/9.5/9.5",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "davk98",
         "country": "Item location: Austria"
       },
@@ -5274,7 +5546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Very clean",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5302,7 +5574,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "tiny dot on back on oppening fresh from booster",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5330,7 +5602,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "from booster to sleeve + top loader (little dmg on the top : ask for image)",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5538,34 +5810,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Berfin12",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 770.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Bgs 9.5",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "nicolasrv",
         "country": "Item location: Spain"
       },
@@ -5574,9 +5818,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1790180420.0561419,
@@ -5594,6 +5838,39 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "Berfin12",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 770.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Bgs 9.5",
+      "date": 1790180420.0561419,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790180420.0561419
+        ]
+      ],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "BuiBui",
         "country": "Item location: Germany"
       },
@@ -5602,35 +5879,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "Federica97",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 790.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5658,7 +5907,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "New from PSA. 9 (OP04 v.3)",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5822,7 +6071,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5855,9 +6104,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1790180420.0561419,
@@ -5883,7 +6132,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "*Mega*Stock*Fast*Shipping*",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5911,7 +6160,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 9",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5925,6 +6174,39 @@
       "archived": false,
       "grade_company": "AOG",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "macncheese2",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 800.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1600.0,
+          1790560962.9234693
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -6298,23 +6580,32 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 840.14,
-      "quantity": 1,
+      "price": 838.33,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
-      "ended": false,
+      "date": 1790386844.7141562,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           840.77,
           1789920947.5904448
+        ],
+        [
+          840.14,
+          1790180420.0561419
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790386844.7141562
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6373,7 +6664,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "NEXT GRADIND  10!!!",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6401,7 +6692,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6429,9 +6720,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 9.5 (10/9.5/10/10)",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1790180420.0561419,
@@ -6644,7 +6935,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6672,7 +6963,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.5] BGS 9.5",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6692,6 +6983,39 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "Sakazuki-Aizen",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 900.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "CCC 10",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          990.0,
+          1790717057.6713395
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "Cardpoint",
         "country": "Item location: Slovenia"
       },
@@ -6702,7 +7026,7 @@
       "comment": "Box A",
       "date": 1789920947.5904448,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -6713,7 +7037,7 @@
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6860,7 +7184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "aigrading 9.5",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6888,7 +7212,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 GEM MINT",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7179,34 +7503,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Sakazuki-Aizen",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 990.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "CCC 10",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "Sluur-Inc",
         "country": "Item location: Netherlands"
       },
@@ -7215,7 +7511,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "op04",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7281,7 +7577,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7342,9 +7638,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 (9 - 10 - 10 - 9.5) - MCS26",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1790180420.0561419,
@@ -7370,7 +7666,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7436,7 +7732,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "### 11464",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7485,7 +7781,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7513,7 +7809,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7533,6 +7829,39 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "maximilianD",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1050.0,
+          1790717057.6713395
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790717057.6713395,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "turbomonta",
         "country": "Item location: Italy"
       },
@@ -7541,7 +7870,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7683,6 +8012,80 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
+        "name": "LaciCsacsi",
+        "country": "Item location: Slovakia"
+      },
+      "language": "English",
+      "price": 1020.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10. do not hesitate to ask any questions ;)",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1200.0,
+          1789920947.5904448
+        ],
+        [
+          1199.0,
+          1790386844.7141562
+        ],
+        [
+          1120.0,
+          1790560962.9234693
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "LionSinTony",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Boosterfresh + Double Sleeved + Top Loader",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1790180420.0561419
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
         "name": "BiasiTheKing",
         "country": "Item location: Italy"
       },
@@ -7691,7 +8094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 QUAD 9.5",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7705,6 +8108,39 @@
       "archived": false,
       "grade_company": "BGS",
       "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "maximilianD",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 1050.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1790560962.9234693,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790560962.9234693
+        ]
+      ],
+      "first_date": 1790560962.9234693,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -7747,7 +8183,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping in toploader!",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7771,17 +8207,41 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 1080.17,
+      "price": 1091.3,
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 10 - OP04 Print",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           1080.99,
           1789920947.5904448
+        ],
+        [
+          1080.17,
+          1790180420.0561419
+        ],
+        [
+          1077.85,
+          1790386844.7141562
+        ],
+        [
+          1077.79,
+          1790560962.9234693
+        ],
+        [
+          1080.42,
+          1790717057.6713395
+        ],
+        [
+          1085.17,
+          1790885666.6997879
+        ],
+        [
+          1090.72,
+          1790998432.3139706
         ]
       ],
       "previous_quantities": [],
@@ -7836,7 +8296,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GSG 9 (10/8.5/9.5/10) dm for pictures",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7978,39 +8438,6 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "LaciCsacsi",
-        "country": "Item location: Slovakia"
-      },
-      "language": "English",
-      "price": 1199.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10. do not hesitate to ask any questions ;)",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1200.0,
-          1789920947.5904448
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "mezzanine88",
         "country": "Item location: Hungary"
       },
@@ -8019,7 +8446,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for images/video. Perfect condition",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8082,15 +8509,48 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "McLovinn",
+        "name": "Massti21",
         "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1249.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS10",
+      "date": 1791170941.4096417,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1549.0,
+          1790560962.9234693
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789920947.5904448,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sabo (OP04-083) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
+      "seller": {
+        "name": "danielefinauro",
+        "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1250.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8110,19 +8570,24 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "danielefinauro",
-        "country": "Item location: Italy"
+        "name": "McLovinn",
+        "country": "Item location: Germany"
       },
       "language": "English",
       "price": 1250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
-      "ended": false,
+      "date": 1790717057.6713395,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790717057.6713395
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8192,7 +8657,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8281,7 +8746,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 - ASK FOR PHOTOS",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8309,7 +8774,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8337,7 +8802,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[GRAAD 10.0]",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8362,51 +8827,28 @@
       },
       "language": "English",
       "price": 1400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
-      "ended": false,
+      "date": 1790998432.3139706,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790998432.3139706
+        ]
+      ],
       "first_date": 1790180420.0561419,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "LionSinTony",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1400.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Boosterfresh + Double Sleeved + Top Loader",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -8449,7 +8891,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8477,7 +8919,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8525,79 +8967,28 @@
       "card": "Sabo (OP04-083) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
       "seller": {
-        "name": "Massti21",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1549.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS10",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
-        "name": "macncheese2",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1600.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 9.5",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789920947.5904448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sabo (OP04-083) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Kingdoms-of-Intrigue_Sabo-OP04-083-V3",
-      "seller": {
         "name": "BigMaik58",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 1700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 9.5 Gem Mint",
-      "date": 1790180420.0561419,
-      "ended": false,
-      "new": false,
+      "date": 1790998432.3139706,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790998432.3139706
+        ]
+      ],
       "first_date": 1789920947.5904448,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8838,7 +9229,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sleeve / Toploader - Mint",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8927,7 +9318,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8955,7 +9346,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 10. more manga's available too!",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9039,7 +9430,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCG - 10 graded",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9067,7 +9458,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9095,7 +9486,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Prague/Dresden/Leipzig Handover.",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9209,7 +9600,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9270,7 +9661,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Op04",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9331,7 +9722,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9359,7 +9750,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "excellent FOR RS",
-      "date": 1790180420.0561419,
+      "date": 1791170941.4096417,
       "ended": false,
       "new": false,
       "previous_prices": [],

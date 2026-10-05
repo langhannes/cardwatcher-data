@@ -12,10 +12,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 4,
-  "available_graded": 3,
+  "available": 6,
+  "available_graded": 5,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "N (BXY 180)",
@@ -81,11 +81,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 840.14,
+      "price": 848.79,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! ",
-      "date": 1790184508.9985106,
+      "comment": "",
+      "date": 1791174535.9048893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -220,6 +220,30 @@
         [
           839.01,
           1788414027.5907059
+        ],
+        [
+          840.14,
+          1790184508.9985106
+        ],
+        [
+          838.33,
+          1790390854.901015
+        ],
+        [
+          838.28,
+          1790564985.7625587
+        ],
+        [
+          840.33,
+          1790721018.3967593
+        ],
+        [
+          844.02,
+          1790889828.4567964
+        ],
+        [
+          848.34,
+          1791001960.9144714
         ]
       ],
       "previous_quantities": [
@@ -235,12 +259,49 @@
       "first_date": 1782593415.1658444,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "N (BXY 180)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
+      "seller": {
+        "name": "moebiuus",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 980.0,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "PSA 9 | 2 AVAILABLE",
+      "date": 1791174535.9048893,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1150.0,
+          1790184508.9985106
+        ],
+        [
+          1100.0,
+          1790564985.7625587
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784177565.5914772,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -308,34 +369,6 @@
       "card": "N (BXY 180)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
       "seller": {
-        "name": "moebiuus",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1150.0,
-      "quantity": 2,
-      "condition": "MT",
-      "comment": "PSA 9 | 2 AVAILABLE",
-      "date": 1790184508.9985106,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784177565.5914772,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "N (BXY 180)",
-      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
-      "seller": {
         "name": "Kelz0rDK",
         "country": "Item location: Denmark"
       },
@@ -344,7 +377,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SOR // Graded 9.5 - Guard&Grading",
-      "date": 1790184508.9985106,
+      "date": 1791174535.9048893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -353,7 +386,16 @@
           1780265781.7024374
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790390854.901015
+        ],
+        [
+          0,
+          1790390854.901015
+        ]
+      ],
       "first_date": 1771286416.9627044,
       "last_date": 0.0,
       "price_is_new": false,
@@ -407,11 +449,11 @@
       },
       "language": "Japanese",
       "price": 1399.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! BGS 9 - 9 | 9.5 | 9.5 | 8.5",
-      "date": 1789361409.5279872,
-      "ended": true,
+      "comment": "BGS 9 - 9 | 9.5 | 9.5 | 8.5",
+      "date": 1791174535.9048893,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -462,6 +504,10 @@
         ],
         [
           1,
+          1789361409.5279872
+        ],
+        [
+          0,
           1789361409.5279872
         ]
       ],
@@ -679,11 +725,11 @@
       },
       "language": "Japanese",
       "price": 2399.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10",
-      "date": 1789361409.5279872,
-      "ended": true,
+      "comment": "PSA 10",
+      "date": 1791174535.9048893,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -730,6 +776,10 @@
         ],
         [
           1,
+          1789361409.5279872
+        ],
+        [
+          0,
           1789361409.5279872
         ]
       ],

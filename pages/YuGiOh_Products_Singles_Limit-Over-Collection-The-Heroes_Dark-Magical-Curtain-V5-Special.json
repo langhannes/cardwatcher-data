@@ -11,8 +11,8 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 3,
-  "available_graded": 2,
+  "available": 2,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -24,15 +24,25 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 14950.0,
-      "quantity": 1,
+      "price": 13500.0,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Grading 9 - Best price !!",
-      "date": 1790193263.5541542,
-      "ended": false,
+      "date": 1790897438.2661424,
+      "ended": true,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
+      "previous_prices": [
+        [
+          14950.0,
+          1790399469.1132667
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790897438.2661424
+        ]
+      ],
       "first_date": 1789761160.0435479,
       "last_date": 0.0,
       "price_is_new": false,
@@ -52,11 +62,11 @@
         "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 17695.0,
+      "price": 17195.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading 10 Grandmaster",
-      "date": 1790193263.5541542,
+      "date": 1791181737.4266367,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -67,6 +77,10 @@
         [
           17995.0,
           1789197182.529833
+        ],
+        [
+          17695.0,
+          1790399469.1132667
         ]
       ],
       "previous_quantities": [],
@@ -93,7 +107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "017/100",
-      "date": 1790193263.5541542,
+      "date": 1791181737.4266367,
       "ended": false,
       "new": false,
       "previous_prices": [],

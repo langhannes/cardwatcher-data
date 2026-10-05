@@ -11,10 +11,10 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 54,
-  "available_graded": 16,
-  "sold": 2,
-  "inserted": 10,
+  "available": 48,
+  "available_graded": 17,
+  "sold": 3,
+  "inserted": 3,
   "listings": [
     {
       "card": "Roronoa Zoro (PRB02-006)",
@@ -58,14 +58,19 @@
       },
       "language": "S-Chinese",
       "price": 220.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1790213389.5783794,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790213389.5783794
+        ]
+      ],
       "first_date": 1790213389.5783794,
       "last_date": 0.0,
       "price_is_new": false,
@@ -827,11 +832,11 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "RELISTED! Open to reasonable offers",
       "date": 1790213389.5783794,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -847,12 +852,16 @@
         [
           0,
           1787444991.1706986
+        ],
+        [
+          1,
+          1790213389.5783794
         ]
       ],
       "first_date": 1787264383.468338,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1039,6 +1048,48 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "Sebbe2024",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 399.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "",
+      "date": 1790747467.6628194,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1790213389.5783794
+        ],
+        [
+          444.0,
+          1790419205.2800617
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790747467.6628194
+        ]
+      ],
+      "first_date": 1787615465.5994034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "Kanoshou",
         "country": "Item location: Italy"
       },
@@ -1146,6 +1197,84 @@
         ]
       ],
       "first_date": 1777788681.4947917,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "xMoon1608",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          320.0,
+          1781334222.9704175
+        ],
+        [
+          314.0,
+          1781908893.1591568
+        ],
+        [
+          550.0,
+          1782796903.5631151
+        ],
+        [
+          570.0,
+          1784052497.2440755
+        ],
+        [
+          600.0,
+          1785013196.6563387
+        ],
+        [
+          450.0,
+          1785708204.3269026
+        ],
+        [
+          470.0,
+          1788290539.3550963
+        ],
+        [
+          550.0,
+          1790363358.6946516
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784052497.2440755
+        ],
+        [
+          0,
+          1784052497.2440755
+        ],
+        [
+          1,
+          1785013196.6563387
+        ],
+        [
+          0,
+          1785013196.6563387
+        ]
+      ],
+      "first_date": 1780857823.4254918,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1527,7 +1656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2 (Rmp Possible à Paris)",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1651,8 +1780,8 @@
       "price": 450.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Anche a mano a Milano",
-      "date": 1790213389.5783794,
+      "comment": "Anche a mano a Milano",
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1674,7 +1803,7 @@
       "first_date": 1785013196.6563387,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1823,14 +1952,61 @@
       },
       "language": "Japanese",
       "price": 489.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "because of many orders delivery takes 5-8 Days!",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": true,
+      "date": 1790915098.9519374,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790915098.9519374
+        ]
+      ],
+      "first_date": 1790213389.5783794,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "ChoKoco",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 490.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790915098.9519374,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1790591771.6100674
+        ],
+        [
+          495.0,
+          1790747467.6628194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790915098.9519374
+        ]
+      ],
       "first_date": 1790213389.5783794,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1883,11 +2059,11 @@
         "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 499.0,
+      "price": 494.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! TOPLOADER / PM OFFER",
-      "date": 1790213389.5783794,
+      "comment": "TOPLOADER / PM OFFER",
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1898,6 +2074,10 @@
         [
           529.0,
           1789780706.9891014
+        ],
+        [
+          499.0,
+          1790591771.6100674
         ]
       ],
       "previous_quantities": [
@@ -1908,37 +2088,17 @@
         [
           0,
           1789780706.9891014
+        ],
+        [
+          1,
+          1790213389.5783794
+        ],
+        [
+          0,
+          1790213389.5783794
         ]
       ],
       "first_date": 1788290539.3550963,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
-        "name": "Sebbe2024",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 500.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "A bit whitening on the top. look Picture",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1787615465.5994034,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1961,7 +2121,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Factory white dot on middle back",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2027,22 +2187,55 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "ChoKoco",
-        "country": "Item location: France"
+        "name": "Yugiohcollector",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Very Clean / Ask for pics / PSA 10 contender",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791199800.0396664,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "GearBear1",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 500.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          580.0,
+          1791027210.0667095
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1790213389.5783794,
+      "first_date": 1790363358.6946516,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2060,14 +2253,36 @@
       },
       "language": "Japanese",
       "price": 500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "ASK FOR PICS. SLEEVED + TOPLOADER / PSA 10 CANDIDATE",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
+      "comment": "ASK FOR PICS. SLEEVED + TOPLOADER / PSA 10 CANDIDATE/ CARD DECLARED FOR 10 EUR IN SHIPPING",
+      "date": 1790915098.9519374,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1790213389.5783794
+        ],
+        [
+          505.0,
+          1790747467.6628194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790213389.5783794
+        ],
+        [
+          0,
+          1790213389.5783794
+        ],
+        [
+          1,
+          1790915098.9519374
+        ]
+      ],
       "first_date": 1790213389.5783794,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2397,7 +2612,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "vetrina",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2458,7 +2673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2504,7 +2719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Lil white dot center back / Fast and carefull shipping tho",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2571,69 +2786,37 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "xMoon1608",
-        "country": "Item location: Germany"
+        "name": "Yugiohcollector",
+        "country": "Item location: Switzerland"
       },
-      "language": "S-Chinese",
+      "language": "Japanese",
       "price": 550.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
+      "comment": "Very Clean / Ask for pics",
+      "date": 1791027210.0667095,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          320.0,
-          1781334222.9704175
+          650.0,
+          1788725592.0270772
         ],
         [
-          314.0,
-          1781908893.1591568
-        ],
-        [
-          550.0,
-          1782796903.5631151
-        ],
-        [
-          570.0,
-          1784052497.2440755
-        ],
-        [
-          600.0,
-          1785013196.6563387
-        ],
-        [
-          450.0,
-          1785708204.3269026
-        ],
-        [
-          470.0,
-          1788290539.3550963
+          725.0,
+          1790915098.9519374
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1784052497.2440755
-        ],
-        [
-          0,
-          1784052497.2440755
-        ],
-        [
-          1,
-          1785013196.6563387
-        ],
-        [
-          0,
-          1785013196.6563387
+          1791027210.0667095
         ]
       ],
-      "first_date": 1780857823.4254918,
+      "first_date": 1786531733.7660763,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2797,15 +2980,73 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "Zkittles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 580.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfect condition",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          670.0,
+          1788290539.3550963
+        ],
+        [
+          665.0,
+          1788551952.4762435
+        ],
+        [
+          660.0,
+          1788881438.6534803
+        ],
+        [
+          590.0,
+          1790915098.9519374
+        ],
+        [
+          600.0,
+          1791027210.0667095
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788881438.6534803
+        ],
+        [
+          0,
+          1788881438.6534803
+        ]
+      ],
+      "first_date": 1787791648.7110703,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "TheCardBothy",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 580.91,
+      "price": 588.09,
       "quantity": 1,
       "condition": "NM",
       "comment": "Zero Imperfections! More One Piece Available!",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2868,6 +3109,34 @@
         [
           582.5,
           1789953215.380652
+        ],
+        [
+          580.91,
+          1790213389.5783794
+        ],
+        [
+          580.37,
+          1790363358.6946516
+        ],
+        [
+          580.84,
+          1790419205.2800617
+        ],
+        [
+          580.81,
+          1790591771.6100674
+        ],
+        [
+          582.81,
+          1790747467.6628194
+        ],
+        [
+          586.37,
+          1790915098.9519374
+        ],
+        [
+          587.78,
+          1791027210.0667095
         ]
       ],
       "previous_quantities": [],
@@ -3015,6 +3284,34 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "TEMPEST-STORE",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 599.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "* Tempest Upgraded - Cards Above the Rest *",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790915098.9519374,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "Wil21",
         "country": "Item location: France"
       },
@@ -3061,7 +3358,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> sleeve -> toploader",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3081,19 +3378,70 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "StoreCollect",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          679.99,
+          1787965423.3354416
+        ],
+        [
+          620.0,
+          1790747467.6628194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1787965423.3354416
+        ],
+        [
+          0,
+          1787965423.3354416
+        ]
+      ],
+      "first_date": 1787087562.753461,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "Tronico6",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": true,
+      "date": 1790747467.6628194,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790747467.6628194
+        ]
+      ],
       "first_date": 1790213389.5783794,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3246,61 +3594,24 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "StoreCollect",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 620.0,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          679.99,
-          1787965423.3354416
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1787965423.3354416
-        ],
-        [
-          0,
-          1787965423.3354416
-        ]
-      ],
-      "first_date": 1787087562.753461,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "Pokemon-PAY",
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 630.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "From booster to sleeve",
-      "date": 1790213389.5783794,
-      "ended": false,
+      "date": 1790419205.2800617,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790419205.2800617
+        ]
+      ],
       "first_date": 1789396942.040859,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3323,8 +3634,8 @@
       "price": 640.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! HIGH END! - 36780",
-      "date": 1790213389.5783794,
+      "comment": "HIGH END! - 36780",
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3349,8 +3660,8 @@
       ],
       "first_date": 1786739536.2498095,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3408,7 +3719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3440,8 +3751,8 @@
       "price": 649.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1790213389.5783794,
+      "comment": "RELISTED! ",
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3453,9 +3764,63 @@
         [
           0,
           1787791648.7110703
+        ],
+        [
+          1,
+          1790915098.9519374
+        ],
+        [
+          0,
+          1790915098.9519374
         ]
       ],
       "first_date": 1787444991.1706986,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "PortaCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 649.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ASK for pictures! :)",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          729.9,
+          1788881438.6534803
+        ],
+        [
+          699.9,
+          1790915098.9519374
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1787791648.7110703
+        ],
+        [
+          0,
+          1787791648.7110703
+        ]
+      ],
+      "first_date": 1786739536.2498095,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3561,48 +3926,6 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "Zkittles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 660.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Safe & Fast shipping",
-      "date": 1788881438.6534803,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          670.0,
-          1788290539.3550963
-        ],
-        [
-          665.0,
-          1788551952.4762435
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1788881438.6534803
-        ]
-      ],
-      "first_date": 1787791648.7110703,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "Owlcapone",
         "country": "Item location: Germany"
       },
@@ -3654,11 +3977,11 @@
       },
       "language": "Japanese",
       "price": 680.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader. No whitening!",
-      "date": 1790213389.5783794,
-      "ended": false,
+      "date": 1790591771.6100674,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3674,6 +3997,10 @@
         [
           2,
           1783542838.48811
+        ],
+        [
+          1,
+          1790591771.6100674
         ]
       ],
       "first_date": 1783136873.7407274,
@@ -3699,7 +4026,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3761,48 +4088,6 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "PortaCards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 699.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "ASK for pictures! :)",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          729.9,
-          1788881438.6534803
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1787791648.7110703
-        ],
-        [
-          0,
-          1787791648.7110703
-        ]
-      ],
-      "first_date": 1786739536.2498095,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "Hansecollectibles",
         "country": "Item location: Germany"
       },
@@ -3811,7 +4096,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3847,6 +4132,34 @@
         ]
       ],
       "first_date": 1777788681.4947917,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "Maou0703",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 699.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "pulled from godpack potential 10 no whitening no damages",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791027210.0667095,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4054,6 +4367,60 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "Reymond-TCG",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "very clean / ask for picture",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          640.0,
+          1787264383.468338
+        ],
+        [
+          750.0,
+          1787615465.5994034
+        ],
+        [
+          640.0,
+          1787965423.3354416
+        ],
+        [
+          750.0,
+          1790747467.6628194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789053287.2254727
+        ],
+        [
+          0,
+          1789053287.2254727
+        ]
+      ],
+      "first_date": 1787087562.753461,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "xocolono",
         "country": "Item location: Spain"
       },
@@ -4125,28 +4492,28 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "Yugiohcollector",
+        "name": "SadCrobat",
         "country": "Item location: Switzerland"
       },
       "language": "Japanese",
-      "price": 725.0,
-      "quantity": 1,
+      "price": 720.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Very Clean / Ask for pics",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
+      "comment": "<3",
+      "date": 1791027210.0667095,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          650.0,
-          1788725592.0270772
+          1,
+          1791027210.0667095
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1786531733.7660763,
+      "first_date": 1790591771.6100674,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4219,8 +4586,8 @@
       "price": 748.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1789637127.5684488,
+      "comment": "RELISTED! ",
+      "date": 1790747467.6628194,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -4245,6 +4612,14 @@
         [
           1,
           1789637127.5684488
+        ],
+        [
+          0,
+          1789637127.5684488
+        ],
+        [
+          1,
+          1790747467.6628194
         ]
       ],
       "first_date": 1782295361.253088,
@@ -4308,7 +4683,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ORIGINAL BILD - TOPLOADER",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4328,59 +4703,17 @@
         [
           0,
           1788551952.4762435
-        ]
-      ],
-      "first_date": 1784763945.9540663,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
-        "name": "Reymond-TCG",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 750.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          640.0,
-          1787264383.468338
         ],
-        [
-          750.0,
-          1787615465.5994034
-        ],
-        [
-          640.0,
-          1787965423.3354416
-        ]
-      ],
-      "previous_quantities": [
         [
           1,
-          1789053287.2254727
+          1790213389.5783794
         ],
         [
           0,
-          1789053287.2254727
+          1790213389.5783794
         ]
       ],
-      "first_date": 1787087562.753461,
+      "first_date": 1784763945.9540663,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4497,6 +4830,47 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "GS-GameOn",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 800.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "[PSA 10.0]",
+      "date": 1791027210.0667095,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790363358.6946516
+        ],
+        [
+          0,
+          1790363358.6946516
+        ],
+        [
+          1,
+          1791027210.0667095
+        ]
+      ],
+      "first_date": 1790363358.6946516,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -4714,6 +5088,60 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "Bennibo25",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 925.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CGC 10",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          1788290539.3550963
+        ],
+        [
+          990.0,
+          1790213389.5783794
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788290539.3550963
+        ],
+        [
+          0,
+          1788290539.3550963
+        ],
+        [
+          1,
+          1790213389.5783794
+        ],
+        [
+          0,
+          1790213389.5783794
+        ]
+      ],
+      "first_date": 1786531733.7660763,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "BELLO-CARDS",
         "country": "Item location: Germany"
       },
@@ -4722,7 +5150,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ORIGINAL BILD - TOPLOADER",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4742,6 +5170,14 @@
         [
           0,
           1788551952.4762435
+        ],
+        [
+          1,
+          1790213389.5783794
+        ],
+        [
+          0,
+          1790213389.5783794
         ]
       ],
       "first_date": 1784763945.9540663,
@@ -4759,97 +5195,6 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "KPTreasures",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 980.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 Check images on Kptreasures.ch better deal by there too",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1700.0,
-          1787264383.468338
-        ],
-        [
-          1400.0,
-          1787965423.3354416
-        ],
-        [
-          1200.0,
-          1789225511.2440777
-        ],
-        [
-          1020.0,
-          1789780706.9891014
-        ],
-        [
-          955.0,
-          1789953215.380652
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784471567.2440612,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
-        "name": "Bennibo25",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 990.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "CGC 10",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1000.0,
-          1788290539.3550963
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1788290539.3550963
-        ],
-        [
-          0,
-          1788290539.3550963
-        ]
-      ],
-      "first_date": 1786531733.7660763,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "CGC",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "OnePieceLuxembourg",
         "country": "Item location: Luxembourg"
       },
@@ -4858,9 +5203,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BECKETT 9.5 New slab",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1790213389.5783794,
@@ -4886,7 +5231,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4901,6 +5246,14 @@
         [
           1200.0,
           1785488384.6340911
+        ],
+        [
+          1000.0,
+          1790419205.2800617
+        ],
+        [
+          800.0,
+          1791027210.0667095
         ]
       ],
       "previous_quantities": [
@@ -4915,7 +5268,7 @@
       ],
       "first_date": 1785013196.6563387,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4938,7 +5291,7 @@
       "comment": "very rare",
       "date": 1789953215.380652,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4957,7 +5310,7 @@
       "first_date": 1779607705.8704817,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5040,11 +5393,11 @@
       },
       "language": "Japanese",
       "price": 1020.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10 based Milano/Monza",
-      "date": 1790213389.5783794,
-      "ended": false,
+      "date": 1790747467.6628194,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5052,7 +5405,12 @@
           1789780706.9891014
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790747467.6628194
+        ]
+      ],
       "first_date": 1789637127.5684488,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5061,6 +5419,86 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "EAG-TCG",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1700.0,
+          1786268878.1752439
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786268878.1752439
+        ],
+        [
+          0,
+          1786268878.1752439
+        ]
+      ],
+      "first_date": 1784471567.2440612,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "scopxy",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1050.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "ACE 10  Gem Mint // Ask for pics",
+      "date": 1790419205.2800617,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1100.0,
+          1790213389.5783794
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790419205.2800617
+        ]
+      ],
+      "first_date": 1788725592.0270772,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "ACE",
       "grade": 10.0,
       "grade_source": "auto"
     },
@@ -5078,7 +5516,7 @@
       "comment": "BGS 9.5 // Kleinunternehmer nach $19 UStG. // Fast & Secure Shipping",
       "date": 1789953215.380652,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1200.0,
@@ -5094,7 +5532,7 @@
       "first_date": 1788881438.6534803,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5147,7 +5585,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[GRAAD 10.0]",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5172,34 +5610,6 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "scopxy",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "ACE 10  Gem Mint // Ask for pics",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788725592.0270772,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "ACE",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "Alliostore",
         "country": "Item location: France"
       },
@@ -5208,7 +5618,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - IG : Alliostore",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5266,14 +5676,19 @@
       },
       "language": "Japanese",
       "price": 1150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10 candidate purchased in Tokyo - ask for pictures",
       "date": 1790213389.5783794,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790213389.5783794
+        ]
+      ],
       "first_date": 1788290539.3550963,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5330,7 +5745,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 Gem Mint // 1x GIFT PROMO PAR COMMANDE ! 07-26",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5358,7 +5773,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 Gem Mint (2x9.5. 2x10)",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5378,6 +5793,59 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "KPTreasures",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 1250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Check images on Kptreasures.ch better deal by there too",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1700.0,
+          1787264383.468338
+        ],
+        [
+          1400.0,
+          1787965423.3354416
+        ],
+        [
+          1200.0,
+          1789225511.2440777
+        ],
+        [
+          1020.0,
+          1789780706.9891014
+        ],
+        [
+          955.0,
+          1789953215.380652
+        ],
+        [
+          980.0,
+          1790591771.6100674
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784471567.2440612,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "Orhan-alp",
         "country": "Item location: Switzerland"
       },
@@ -5386,7 +5854,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 / Missing Japanese on Label (Beckett fault) Only Switzerland (Abholung in Zürich möglich)",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5502,6 +5970,34 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1399.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10 - Fast Secured Shipping",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790363358.6946516,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "BELLO-CARDS",
         "country": "Item location: Germany"
       },
@@ -5510,7 +6006,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5522,6 +6018,14 @@
         [
           0,
           1788551952.4762435
+        ],
+        [
+          1,
+          1790213389.5783794
+        ],
+        [
+          0,
+          1790213389.5783794
         ]
       ],
       "first_date": 1788551952.4762435,
@@ -5572,6 +6076,39 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
+        "name": "MrCris94",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1580.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1791199800.0396664,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1080.0,
+          1790591771.6100674
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790591771.6100674,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
         "name": "Duboga7",
         "country": "Item location: Germany"
       },
@@ -5580,7 +6117,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5605,16 +6142,49 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "mondomeme",
-        "country": "Item location: Italy"
+        "name": "unfingered",
+        "country": "Item location: Greece"
       },
       "language": "Japanese",
       "price": 1600.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "BGS 10 Pristine",
-      "date": 1790213389.5783794,
+      "comment": "BGS 10",
+      "date": 1791199800.0396664,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1700.0,
+          1790213389.5783794
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789225511.2440777,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (PRB02-006)",
+      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
+      "seller": {
+        "name": "mondomeme",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1600.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "BGS 10 Pristine",
+      "date": 1790419205.2800617,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5622,7 +6192,12 @@
           1787444991.1706986
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790419205.2800617
+        ]
+      ],
       "first_date": 1785189643.636848,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5713,11 +6288,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1676.85,
+      "price": 1697.57,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5848,6 +6423,34 @@
         [
           1681.43,
           1789953215.380652
+        ],
+        [
+          1676.85,
+          1790213389.5783794
+        ],
+        [
+          1675.29,
+          1790363358.6946516
+        ],
+        [
+          1676.65,
+          1790419205.2800617
+        ],
+        [
+          1676.56,
+          1790591771.6100674
+        ],
+        [
+          1682.33,
+          1790747467.6628194
+        ],
+        [
+          1692.6,
+          1790915098.9519374
+        ],
+        [
+          1696.68,
+          1791027210.0667095
         ]
       ],
       "previous_quantities": [],
@@ -5866,34 +6469,6 @@
       "card": "Roronoa Zoro (PRB02-006)",
       "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
       "seller": {
-        "name": "unfingered",
-        "country": "Item location: Greece"
-      },
-      "language": "Japanese",
-      "price": 1700.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "BGS 10",
-      "date": 1790213389.5783794,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789225511.2440777,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
         "name": "ChrysaK",
         "country": "Item location: Greece"
       },
@@ -5901,49 +6476,25 @@
       "price": 1700.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1790213389.5783794,
+      "comment": "RELISTED! PSA 10",
+      "date": 1791199800.0396664,
       "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1786915592.0092556,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (PRB02-006)",
-      "canonical_name": "OnePiece_Products_Singles_Egghead-Crisis-Asia-Region-Legal_Roronoa-Zoro-PRB02-006",
-      "seller": {
-        "name": "EAG-TCG",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1700.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1786268878.1752439,
-      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1786268878.1752439
+          1790915098.9519374
+        ],
+        [
+          0,
+          1790915098.9519374
         ]
       ],
-      "first_date": 1784471567.2440612,
+      "first_date": 1786915592.0092556,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5963,7 +6514,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster sleeve toploader send the offert",
-      "date": 1790213389.5783794,
+      "date": 1791199800.0396664,
       "ended": false,
       "new": false,
       "previous_prices": [

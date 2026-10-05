@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 8,
-  "available_graded": 1,
-  "sold": 0,
+  "available": 9,
+  "available_graded": 2,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -24,14 +24,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 89.99,
+      "price": 79.99,
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #106",
-      "date": 1790166937.1404998,
+      "date": 1791157935.958727,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          89.99,
+          1790871993.6777918
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -94,14 +99,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 109.99,
+      "price": 99.99,
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #499",
-      "date": 1790166937.1404998,
+      "date": 1791157935.958727,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          109.99,
+          1790871993.6777918
+        ]
+      ],
       "previous_quantities": [
         [
           1,
@@ -127,19 +137,108 @@
       "card": "Winona (XY6 088)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
       "seller": {
+        "name": "Otakuya",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Formerly LA-collectibles-We buy your cards-Daily shipping-safely packed",
+      "date": 1791157935.958727,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          129.95,
+          1790871993.6777918
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1790984776.5212934
+        ]
+      ],
+      "first_date": 1790871993.6777918,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Winona (XY6 088)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
+      "seller": {
+        "name": "PokekaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 129.9,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #1106",
+      "date": 1791157935.958727,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.99,
+          1789733689.4306796
+        ],
+        [
+          179.99,
+          1790871993.6777918
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782194335.621187
+        ],
+        [
+          0,
+          1782194335.621187
+        ]
+      ],
+      "first_date": 1780504932.1430182,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Winona (XY6 088)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
+      "seller": {
         "name": "LA-collectibles",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 129.95,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1790166937.1404998,
-      "ended": false,
+      "date": 1790702732.1833358,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1790702732.1833358
+        ]
+      ],
       "first_date": 1777222678.2932582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -163,7 +262,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EX -",
-      "date": 1790166937.1404998,
+      "date": 1791157935.958727,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -206,48 +305,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1736842151.755949,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Winona (XY6 088)",
-      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Winona-V2",
-      "seller": {
-        "name": "PokekaTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 179.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #1106",
-      "date": 1790166937.1404998,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          199.99,
-          1789733689.4306796
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782194335.621187
-        ],
-        [
-          0,
-          1782194335.621187
-        ]
-      ],
-      "first_date": 1780504932.1430182,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -336,7 +393,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster -> sleeve",
-      "date": 1790166937.1404998,
+      "date": 1791157935.958727,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -453,11 +510,11 @@
       },
       "language": "Japanese",
       "price": 258.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1789167096.6352954,
-      "ended": true,
+      "date": 1791157935.958727,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -468,6 +525,10 @@
       "previous_quantities": [
         [
           1,
+          1789167096.6352954
+        ],
+        [
+          0,
           1789167096.6352954
         ]
       ],
@@ -547,11 +608,11 @@
       },
       "language": "Japanese",
       "price": 499.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10",
-      "date": 1789340129.7153802,
-      "ended": true,
+      "comment": "PSA 10",
+      "date": 1791157935.958727,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -565,6 +626,10 @@
         ],
         [
           1,
+          1789340129.7153802
+        ],
+        [
+          0,
           1789340129.7153802
         ]
       ],
@@ -591,7 +656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1790166937.1404998,
+      "date": 1791157935.958727,
       "ended": false,
       "new": false,
       "previous_prices": [],

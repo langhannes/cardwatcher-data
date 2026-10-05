@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 13,
-  "available_graded": 5,
+  "available": 12,
+  "available_graded": 4,
   "sold": 1,
   "inserted": 0,
   "listings": [
@@ -70,7 +70,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Buy more. save on shipping",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -107,7 +107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -140,7 +140,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ship in 24h | albertorex92 on Ebay",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -168,7 +168,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics! :)",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -193,14 +193,19 @@
       },
       "language": "Korean",
       "price": 30.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790169110.066453,
-      "ended": false,
+      "date": 1790705573.9717052,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790705573.9717052
+        ]
+      ],
       "first_date": 1786196704.5110261,
       "last_date": 0.0,
       "price_is_new": false,
@@ -224,7 +229,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller! Ask for photo. sleeved",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -493,12 +498,12 @@
       },
       "language": "Japanese",
       "price": 99.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "005S4",
-      "date": 1789910064.7302463,
-      "ended": true,
-      "new": true,
+      "date": 1791160182.937956,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           89.95,
@@ -517,12 +522,16 @@
         [
           1,
           1789910064.7302463
+        ],
+        [
+          0,
+          1789910064.7302463
         ]
       ],
       "first_date": 1713720130.496157,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -575,7 +584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -595,15 +604,56 @@
       "card": "MPidgeot EX  (CP6 097)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MPidgeot-EX-V2",
       "seller": {
+        "name": "resqcards",
+        "country": "Item location: Slovenia"
+      },
+      "language": "Japanese",
+      "price": 139.9,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9 / RC-2026-001410",
+      "date": 1790987267.3206258,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790169110.066453
+        ],
+        [
+          0,
+          1790169110.066453
+        ],
+        [
+          1,
+          1790987267.3206258
+        ]
+      ],
+      "first_date": 1789169571.9930427,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MPidgeot EX  (CP6 097)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MPidgeot-EX-V2",
+      "seller": {
         "name": "Hidden-Gem-Cards",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 138.63,
+      "price": 139.98,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -686,6 +736,30 @@
         [
           138.73,
           1789910064.7302463
+        ],
+        [
+          138.63,
+          1790169110.066453
+        ],
+        [
+          138.22,
+          1790375846.4934776
+        ],
+        [
+          138.33,
+          1790550265.0591176
+        ],
+        [
+          138.66,
+          1790705573.9717052
+        ],
+        [
+          139.27,
+          1790874719.8210406
+        ],
+        [
+          139.64,
+          1790987267.3206258
         ]
       ],
       "previous_quantities": [],
@@ -704,34 +778,6 @@
       "card": "MPidgeot EX  (CP6 097)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MPidgeot-EX-V2",
       "seller": {
-        "name": "resqcards",
-        "country": "Item location: Slovenia"
-      },
-      "language": "Japanese",
-      "price": 139.9,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 / RC-2026-001410",
-      "date": 1790169110.066453,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789169571.9930427,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MPidgeot EX  (CP6 097)",
-      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_MPidgeot-EX-V2",
-      "seller": {
         "name": "Collector-Plaza",
         "country": "Item location: Italy"
       },
@@ -740,7 +786,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 10",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -768,7 +814,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -890,7 +936,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9 / Lokal Store in Esslingen",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -918,7 +964,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790169110.066453,
+      "date": 1791160182.937956,
       "ended": false,
       "new": false,
       "previous_prices": [],

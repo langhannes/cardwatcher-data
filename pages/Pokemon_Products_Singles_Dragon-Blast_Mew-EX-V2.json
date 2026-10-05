@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 2,
-  "available_graded": 1,
+  "available": 4,
+  "available_graded": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -826,6 +826,39 @@
       "card": "Mew EX  (BW5t 051)",
       "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Mew-EX-V2",
       "seller": {
+        "name": "Earrgh",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Great Card. Ask for fotos",
+      "date": 1791156016.9116683,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          900.0,
+          1790545769.2962778
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790545769.2962778,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mew EX  (BW5t 051)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Mew-EX-V2",
+      "seller": {
         "name": "Pokecarnage",
         "country": "Item location: Italy"
       },
@@ -862,7 +895,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1790164946.274926,
+      "date": 1791156016.9116683,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -890,7 +923,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790164946.274926,
+      "date": 1791156016.9116683,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -913,6 +946,39 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mew EX  (BW5t 051)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blast_Mew-EX-V2",
+      "seller": {
+        "name": "bug82",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 6600.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1791156016.9116683,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          6200.0,
+          1790982551.6918633
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790371644.5765674,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     }
   ]

@@ -13,11 +13,65 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 88,
+  "available": 85,
   "available_graded": 31,
-  "sold": 2,
-  "inserted": 3,
+  "sold": 3,
+  "inserted": 2,
   "listings": [
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "XiaoJinglingTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "T-Chinese",
+      "price": 16.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Fast Shipping",
+      "date": 1790975129.5655036,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          18.0,
+          1790692816.026763
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1787262989.6222973
+        ],
+        [
+          0,
+          1787262989.6222973
+        ],
+        [
+          1,
+          1789724199.502865
+        ],
+        [
+          0,
+          1789724199.502865
+        ],
+        [
+          1,
+          1790975129.5655036
+        ]
+      ],
+      "first_date": 1787262989.6222973,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
     {
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
@@ -30,7 +84,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -107,7 +161,7 @@
       "comment": "More cards in my profile",
       "date": 1789897899.3621705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -116,47 +170,6 @@
         ]
       ],
       "first_date": 1789897899.3621705,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "XiaoJinglingTCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "T-Chinese",
-      "price": 18.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Fast Shipping",
-      "date": 1789724199.502865,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1787262989.6222973
-        ],
-        [
-          0,
-          1787262989.6222973
-        ],
-        [
-          1,
-          1789724199.502865
-        ]
-      ],
-      "first_date": 1787262989.6222973,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -212,7 +225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Toploader !",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -263,14 +276,19 @@
       },
       "language": "T-Chinese",
       "price": 19.94,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
-      "ended": false,
+      "date": 1790363955.41279,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790363955.41279
+        ]
+      ],
       "first_date": 1789724199.502865,
       "last_date": 0.0,
       "price_is_new": false,
@@ -291,15 +309,48 @@
       },
       "language": "T-Chinese",
       "price": 19.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1790156994.2932365,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790156994.2932365
+        ]
+      ],
+      "first_date": 1788580753.807496,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "LPPCOLLECTING-IT-SRL",
+        "country": "Item location: Italy"
+      },
+      "language": "T-Chinese",
+      "price": 20.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1788580753.807496,
+      "first_date": 1790363955.41279,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -322,7 +373,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "verschickt in Sleeve und Toploader",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -356,7 +407,7 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "EinfachHille",
+        "name": "Bastius11",
         "country": "Item location: Germany"
       },
       "language": "T-Chinese",
@@ -364,8 +415,74 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1789569340.9626281,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "Pablo-cards",
+        "country": "Item location: Spain"
+      },
+      "language": "T-Chinese",
+      "price": 20.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Perfect condition // Fast shipping",
+      "date": 1790975129.5655036,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          30.0,
+          1790862546.794594
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790975129.5655036
+        ]
+      ],
+      "first_date": 1789569340.9626281,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "EinfachHille",
+        "country": "Item location: Germany"
+      },
+      "language": "T-Chinese",
+      "price": 20.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790363955.41279,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -389,37 +506,13 @@
         [
           0,
           1786738318.3407383
+        ],
+        [
+          1,
+          1790363955.41279
         ]
       ],
       "first_date": 1785048704.5184681,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "Bastius11",
-        "country": "Item location: Germany"
-      },
-      "language": "T-Chinese",
-      "price": 20.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789569340.9626281,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -562,7 +655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SLEEVE+TOP",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -623,7 +716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve. also Reshiram available",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -651,7 +744,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Photo on demand / Quick shipping",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -696,7 +789,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condition like a picture. Reshiram also available       (Lotto 14)",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -733,7 +826,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -775,11 +868,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790156994.2932365
+        ],
+        [
+          0,
+          1790156994.2932365
+        ]
+      ],
       "first_date": 1787963665.004788,
       "last_date": 0.0,
       "price_is_new": false,
@@ -833,14 +935,19 @@
       },
       "language": "T-Chinese",
       "price": 26.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "19% Ust. BD",
-      "date": 1790156994.2932365,
-      "ended": false,
+      "date": 1790363955.41279,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790363955.41279
+        ]
+      ],
       "first_date": 1789897899.3621705,
       "last_date": 0.0,
       "price_is_new": false,
@@ -864,7 +971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -901,7 +1008,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -929,7 +1036,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#diff",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -998,8 +1105,8 @@
       "price": 29.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "x",
-      "date": 1790156994.2932365,
+      "comment": "RELISTED! x",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1019,40 +1126,20 @@
         [
           0,
           1788135758.2026842
+        ],
+        [
+          1,
+          1790862546.794594
+        ],
+        [
+          0,
+          1790862546.794594
         ]
       ],
       "first_date": 1784707040.1886902,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "Pablo-cards",
-        "country": "Item location: Spain"
-      },
-      "language": "T-Chinese",
-      "price": 30.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect condition // I have reshiram too",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789569340.9626281,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1068,16 +1155,87 @@
         "country": "Item location: France"
       },
       "language": "T-Chinese",
-      "price": 40.0,
+      "price": 34.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve + toploader -> envoie rapide et soigné",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          40.0,
+          1790538865.2317517
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1788288987.6677713,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "Bimbacards",
+        "country": "Item location: Spain"
+      },
+      "language": "T-Chinese",
+      "price": 38.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Compra con Seguridad",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1790975129.5655036
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790975129.5655036,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "serranizares",
+        "country": "Item location: Spain"
+      },
+      "language": "T-Chinese",
+      "price": 41.5,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          45.0,
+          1790538865.2317517
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1788135758.2026842,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1100,7 +1258,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1134,11 +1292,11 @@
       },
       "language": "T-Chinese",
       "price": 44.93,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "A0075",
-      "date": 1790156994.2932365,
-      "ended": false,
+      "date": 1790538865.2317517,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1149,6 +1307,10 @@
         [
           0,
           1784798036.8340611
+        ],
+        [
+          1,
+          1790538865.2317517
         ]
       ],
       "first_date": 1784707040.1886902,
@@ -1174,40 +1336,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve-Toploader",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1787443804.376297,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "serranizares",
-        "country": "Item location: Spain"
-      },
-      "language": "T-Chinese",
-      "price": 45.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788135758.2026842,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1263,7 +1397,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1407,7 +1541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "G7236-DM for shipping discounts outside NL-",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1444,7 +1578,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "More jp AR/SAR/SR/Vintage in stock!",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1479,14 +1613,19 @@
       },
       "language": "Japanese",
       "price": 59.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Sleeve  / Toploader",
-      "date": 1790156994.2932365,
-      "ended": false,
+      "date": 1790538865.2317517,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790538865.2317517
+        ]
+      ],
       "first_date": 1787086407.033049,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1507,10 +1646,10 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 9 - Fast shipping. feel free to ask questions",
-      "date": 1790156994.2932365,
+      "comment": "PSA 9 - Fast shipping. feel free to ask questions",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1547,12 +1686,16 @@
         [
           0,
           1788288987.6677713
+        ],
+        [
+          2,
+          1790862546.794594
         ]
       ],
       "first_date": 1785792746.3049476,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1572,7 +1715,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1592,20 +1735,20 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "SandroBischof",
-        "country": "Item location: Switzerland"
+        "name": "aiori",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 60.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeved. Versand im Toploader",
-      "date": 1790156994.2932365,
+      "comment": "",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784707040.1886902,
+      "first_date": 1790156994.2932365,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1620,20 +1763,25 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "aiori",
-        "country": "Item location: Spain"
+        "name": "SandroBischof",
+        "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 60.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": true,
+      "comment": "Sleeved. Versand im Toploader",
+      "date": 1790692816.026763,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1790156994.2932365,
+      "previous_quantities": [
+        [
+          1,
+          1790692816.026763
+        ]
+      ],
+      "first_date": 1784707040.1886902,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1681,6 +1829,39 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
+        "name": "Chrischi",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 63.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790538865.2317517,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790538865.2317517
+        ]
+      ],
+      "first_date": 1790363955.41279,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
         "name": "SkySpell",
         "country": "Item location: Switzerland"
       },
@@ -1689,7 +1870,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1714,6 +1895,34 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
+        "name": "Yumeya",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Plus de photos sur demande",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790975129.5655036,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
         "name": "Davideiaco04",
         "country": "Item location: Italy"
       },
@@ -1722,7 +1931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1755,7 +1964,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "J",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1780,15 +1989,48 @@
       },
       "language": "Japanese",
       "price": 66.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve  / Toploader",
-      "date": 1790156994.2932365,
+      "date": 1790538865.2317517,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790538865.2317517
+        ]
+      ],
+      "first_date": 1787086407.033049,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "FantastischeWelten",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 66.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1787086407.033049,
+      "first_date": 1790692816.026763,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1811,7 +2053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> sleeve + toploader",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1844,7 +2086,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 - Ask photos. more PSA in profile",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1856,7 +2098,7 @@
       "previous_quantities": [],
       "first_date": 1787443804.376297,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1877,7 +2119,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1897,23 +2139,64 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "resqcards",
-        "country": "Item location: Slovenia"
+        "name": "Towerseller",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 69.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "COL-2026-0005",
-      "date": 1790156994.2932365,
+      "comment": "",
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1788757156.1002018,
+      "first_date": 1790692816.026763,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "resqcards",
+        "country": "Item location: Slovenia"
+      },
+      "language": "Japanese",
+      "price": 69.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "COL-2026-0005",
+      "date": 1790975129.5655036,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790156994.2932365
+        ],
+        [
+          0,
+          1790156994.2932365
+        ],
+        [
+          1,
+          1790975129.5655036
+        ]
+      ],
+      "first_date": 1788757156.1002018,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1933,40 +2216,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Complete 25th JP/ English Masterset in Stock :)  Sleeve/Toploader  Many Single Cards in Stock :)",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1788984580.8925283,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "J-Productions",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 69.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1788580753.807496,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1989,7 +2244,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2022,12 +2277,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pictures !",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1787790108.0701516,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "J-Productions",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 69.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1790156994.2932365,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790156994.2932365
+        ]
+      ],
+      "first_date": 1788580753.807496,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2190,7 +2478,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "If you take a lot of cards from me. i can give a pretty solid discount. :)",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2203,7 +2491,7 @@
       "first_date": 1787790108.0701516,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2327,7 +2615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2335,6 +2623,75 @@
       "first_date": 1784798036.8340611,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "Kittydekat",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790363955.41279,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "Forbiddenplanet",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 75.01,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          74.72,
+          1790692816.026763
+        ],
+        [
+          75.09,
+          1790862546.794594
+        ],
+        [
+          75.07,
+          1790975129.5655036
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790692816.026763,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2421,7 +2778,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Mannheim kommt vorbei",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2435,6 +2792,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "F15Eagle",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9 !",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790692816.026763,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -2490,7 +2875,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sammelauflösung",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2518,7 +2903,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "best texture cards ever. +10.000 cards on sale",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2716,7 +3101,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2744,7 +3129,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2777,7 +3162,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Ask photos. more PSA in profile",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2789,7 +3174,7 @@
       "previous_quantities": [],
       "first_date": 1787443804.376297,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2843,7 +3228,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping. many cards in stock! JP-2-2",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2871,7 +3256,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ask for picture",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2899,7 +3284,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE graded 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2990,23 +3375,27 @@
       },
       "language": "Japanese",
       "price": 109.9,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1788984580.8925283,
-      "ended": true,
+      "comment": "RELISTED! PSA 9",
+      "date": 1791147941.5776331,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1788984580.8925283
+        ],
+        [
+          0,
+          1788984580.8925283
         ]
       ],
       "first_date": 1784707040.1886902,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3022,11 +3411,11 @@
         "country": "Item location: Cyprus"
       },
       "language": "Japanese",
-      "price": 125.0,
+      "price": 115.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3037,18 +3426,50 @@
         [
           140.0,
           1788580753.807496
+        ],
+        [
+          125.0,
+          1790975129.5655036
         ]
       ],
       "previous_quantities": [],
       "first_date": 1784707040.1886902,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "BGS",
       "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "Tommo777",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Graad 10 = BGS = PSA. I have also Reshiram Graad 10",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790692816.026763,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -3063,7 +3484,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 9.5",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3091,7 +3512,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Collect Aura 10 Perfect",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3119,12 +3540,40 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Zekrom & Reshiram Set available!",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1789897899.3621705,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "ThreeForOne-AT",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 155.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "HIGH END! - 37030 - PSA 10",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790862546.794594,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3147,7 +3596,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3175,7 +3624,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3212,7 +3661,7 @@
       "quantity": 5,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3242,6 +3691,60 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
+        "name": "NordKollekt",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 169.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 :-) Have also Reshiram (sequential)",
+      "date": 1790692816.026763,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          269.0,
+          1790363955.41279
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784798036.8340611
+        ],
+        [
+          0,
+          1784798036.8340611
+        ],
+        [
+          1,
+          1786262813.4453878
+        ],
+        [
+          0,
+          1786262813.4453878
+        ],
+        [
+          1,
+          1790692816.026763
+        ]
+      ],
+      "first_date": 1784707040.1886902,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
         "name": "Thokemen",
         "country": "Item location: Netherlands"
       },
@@ -3250,7 +3753,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Fast shipping. contact for questions/pics",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3303,34 +3806,6 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "CatCollects",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 170.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789157105.2494273,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
         "name": "EdoM7778",
         "country": "Item location: France"
       },
@@ -3339,7 +3814,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3376,7 +3851,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "*PSA10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3399,6 +3874,39 @@
         ]
       ],
       "first_date": 1786914134.166559,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
+        "name": "CatCollects",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 170.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1790156994.2932365,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790156994.2932365
+        ]
+      ],
+      "first_date": 1789157105.2494273,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3471,7 +3979,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "1§  CGC 10 6136895172",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3499,7 +4007,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "2§  CGC 10 6136895173",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3634,7 +4142,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10 PRISTINE",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3708,7 +4216,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3769,7 +4277,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3797,7 +4305,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3817,6 +4325,39 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
+        "name": "rrobee",
+        "country": "Item location: Hungary"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 10 - Fast dispatch. secure packaging! New seller. buy with confidence. Ask for more photos",
+      "date": 1791147941.5776331,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          250.0,
+          1790975129.5655036
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789330870.4127636,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Zekrom  (s8a-P 021)",
+      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
+      "seller": {
         "name": "that-sells",
         "country": "Item location: Germany"
       },
@@ -3825,7 +4366,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 sofort verfügbar",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3859,34 +4400,6 @@
       "card": "Zekrom  (s8a-P 021)",
       "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
       "seller": {
-        "name": "rrobee",
-        "country": "Item location: Hungary"
-      },
-      "language": "Japanese",
-      "price": 250.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "BGS 10 - Fast dispatch. secure packaging! New seller. buy with confidence. Ask for more photos",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789330870.4127636,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
         "name": "Huilokoil",
         "country": "Item location: Germany"
       },
@@ -3895,7 +4408,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3956,57 +4469,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1787790108.0701516,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Zekrom  (s8a-P 021)",
-      "canonical_name": "Pokemon_Products_Singles_25th-Anniversary-Edition_Zekrom",
-      "seller": {
-        "name": "NordKollekt",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 269.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 :-) Have also Reshiram (sequential)",
-      "date": 1790156994.2932365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784798036.8340611
-        ],
-        [
-          0,
-          1784798036.8340611
-        ],
-        [
-          1,
-          1786262813.4453878
-        ],
-        [
-          0,
-          1786262813.4453878
-        ]
-      ],
-      "first_date": 1784707040.1886902,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4029,7 +4497,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4099,7 +4567,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[GRAAD 10.0] Price for bundle with Reshiram s8a-P Graad 10",
-      "date": 1790156994.2932365,
+      "date": 1791147941.5776331,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 6,
+  "available": 8,
   "available_graded": 1,
   "sold": 1,
   "inserted": 0,
@@ -52,14 +52,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 249.99,
+      "price": 199.99,
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #267",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          249.99,
+          1790843890.5946014
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1785083884.1138792,
       "last_date": 0.0,
@@ -109,70 +114,25 @@
       "card": "Iris (BW9 082)",
       "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
       "seller": {
-        "name": "mijumaru-",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 339.0,
-      "quantity": 0,
-      "condition": "LP",
-      "comment": "RELISTED! LP+",
-      "date": 1789348274.116338,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1788598624.61149
-        ],
-        [
-          0,
-          1788598624.61149
-        ],
-        [
-          1,
-          1789002742.816311
-        ],
-        [
-          0,
-          1789002742.816311
-        ],
-        [
-          1,
-          1789348274.116338
-        ]
-      ],
-      "first_date": 1788228376.7894263,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Iris (BW9 082)",
-      "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
-      "seller": {
         "name": "RiceForLife",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 340.0,
+      "price": 310.0,
       "quantity": 1,
       "condition": "LP",
       "comment": "please check image",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           360.0,
           1783909447.115098
+        ],
+        [
+          340.0,
+          1790957607.831087
         ]
       ],
       "previous_quantities": [
@@ -195,7 +155,7 @@
       ],
       "first_date": 1780849050.3976173,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -212,11 +172,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 348.99,
+      "price": 318.99,
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #700",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -231,6 +191,10 @@
         [
           349.99,
           1784832870.3274076
+        ],
+        [
+          348.99,
+          1790843890.5946014
         ]
       ],
       "previous_quantities": [
@@ -262,21 +226,83 @@
         "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 349.99,
-      "quantity": 0,
+      "price": 319.99,
+      "quantity": 1,
       "condition": "GD",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1789348274.116338,
-      "ended": true,
+      "date": 1791130424.1693265,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1789348274.116338
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789348274.116338
+        ],
+        [
+          0,
+          1789348274.116338
+        ]
+      ],
+      "first_date": 1784033143.1068678,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Iris (BW9 082)",
+      "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
+      "seller": {
+        "name": "mijumaru-",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 339.0,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "LP+",
+      "date": 1791130424.1693265,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1788598624.61149
+        ],
+        [
+          0,
+          1788598624.61149
+        ],
+        [
+          1,
+          1789002742.816311
+        ],
+        [
+          0,
+          1789002742.816311
+        ],
+        [
+          1,
+          1789348274.116338
+        ],
+        [
+          0,
           1789348274.116338
         ]
       ],
-      "first_date": 1784033143.1068678,
+      "first_date": 1788228376.7894263,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -299,7 +325,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sleeve and top loader",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -430,7 +456,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 4",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -475,7 +501,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "1x GIFT PROMO PAR COMMANDE ! 07-26",
-      "date": 1790113613.2361958,
+      "date": 1791130424.1693265,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -489,6 +515,39 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Iris (BW9 082)",
+      "canonical_name": "Pokemon_Products_Singles_Megalo-Cannon_Iris-V2",
+      "seller": {
+        "name": "Niklas1102",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2495.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10 Top Condition 5-8 Days delivery",
+      "date": 1790843890.5946014,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790843890.5946014
+        ]
+      ],
+      "first_date": 1790843890.5946014,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -531,7 +590,7 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 cert 88944878",
-      "date": 1789822807.819379,
+      "date": 1790957607.831087,
       "ended": true,
       "new": true,
       "previous_prices": [],
@@ -539,6 +598,14 @@
         [
           1,
           1789822807.819379
+        ],
+        [
+          0,
+          1789822807.819379
+        ],
+        [
+          1,
+          1790957607.831087
         ]
       ],
       "first_date": 1785860821.1173851,

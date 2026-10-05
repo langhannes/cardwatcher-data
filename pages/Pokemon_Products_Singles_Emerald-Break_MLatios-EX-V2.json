@@ -25,11 +25,11 @@
       },
       "language": "Japanese",
       "price": 72.02,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
       "date": 1790202516.2475824,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -385,11 +385,15 @@
         [
           0,
           1783430567.5111392
+        ],
+        [
+          1,
+          1790202516.2475824
         ]
       ],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -420,6 +424,34 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MLatios EX  (XY6 083)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_MLatios-EX-V2",
+      "seller": {
+        "name": "ThepokegalleryBV",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 249.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791190720.9003541,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790408399.5487375,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",

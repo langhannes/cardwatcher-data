@@ -12,7 +12,7 @@
   "only_germany": "False",
   "market_language": "",
   "available": 11,
-  "available_graded": 3,
+  "available_graded": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -28,7 +28,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Le segnature sono visibili nella foto. in generale è in buone condizioni.",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -56,7 +56,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -84,7 +84,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXCELLENT COND. WITH SLEEVE --> MANY OTHER CARDS AVAILABLE !",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -112,7 +112,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "STORE - ARCORE (MB)",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -146,14 +146,19 @@
       },
       "language": "Korean",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1790167856.5294275,
-      "ended": false,
+      "date": 1790703819.1875205,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790703819.1875205
+        ]
+      ],
       "first_date": 1786195150.9060836,
       "last_date": 0.0,
       "price_is_new": false,
@@ -177,7 +182,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "(DIV_AM) - GTradingCards(at)",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -411,7 +416,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -439,7 +444,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -500,7 +505,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -509,7 +514,16 @@
           1787795267.5693889
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790167856.5294275
+        ],
+        [
+          0,
+          1790167856.5294275
+        ]
+      ],
       "first_date": 1786919199.47085,
       "last_date": 0.0,
       "price_is_new": false,
@@ -566,7 +580,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - POP 10",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -718,6 +732,39 @@
       "card": "Dragonite EX  (CP6 098)",
       "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
       "seller": {
+        "name": "Niklas1102",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2250.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA10! top Condition! make offers",
+      "date": 1790872998.4753077,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1790872998.4753077
+        ]
+      ],
+      "first_date": 1790549009.9561825,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Dragonite EX  (CP6 098)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
+      "seller": {
         "name": "VanORIER",
         "country": "Item location: France"
       },
@@ -726,7 +773,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1790167856.5294275,
+      "date": 1791158824.9295244,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -736,6 +783,34 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Dragonite EX  (CP6 098)",
+      "canonical_name": "Pokemon_Products_Singles_Expansion-Pack-20th-Anniversary_Dragonite-EX-V2-CP6098",
+      "seller": {
+        "name": "Jonathan011201",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2999.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1791158824.9295244,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790985726.5710664,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",

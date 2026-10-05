@@ -11,8 +11,8 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 22,
-  "available_graded": 3,
+  "available": 21,
+  "available_graded": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -28,7 +28,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "PL-",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -85,23 +85,27 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 110.0,
+      "price": 99.0,
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           120.0,
           1789574299.453534
+        ],
+        [
+          110.0,
+          1790979643.8702362
         ]
       ],
       "previous_quantities": [],
       "first_date": 1789574299.453534,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -185,11 +189,11 @@
       },
       "language": "Japanese",
       "price": 159.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Strict grading | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1790162345.3647635,
-      "ended": false,
+      "date": 1790697782.8750782,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -213,8 +217,46 @@
           1789335919.710089
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790697782.8750782
+        ]
+      ],
       "first_date": 1780332490.8849957,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
+        "name": "Otakuya",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 164.98,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Strict grading | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
+      "date": 1791152773.8629146,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          159.95,
+          1790867370.1701295
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790867370.1701295,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -237,7 +279,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -271,14 +313,19 @@
       },
       "language": "Japanese",
       "price": 189.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "",
-      "date": 1790162345.3647635,
-      "ended": false,
+      "date": 1790543387.459478,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1790543387.459478
+        ]
+      ],
       "first_date": 1787095247.1982515,
       "last_date": 0.0,
       "price_is_new": false,
@@ -344,6 +391,48 @@
       "card": "Primal Groudon EX  (XY7 094)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
       "seller": {
+        "name": "SCARTE",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Photo Dispo Envoi rapide sous 48h. carte protégée en sleeve/toploader. emballage soigné",
+      "date": 1791152773.8629146,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          249.99,
+          1790697782.8750782
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782587845.1095302
+        ],
+        [
+          0,
+          1782587845.1095302
+        ]
+      ],
+      "first_date": 1779439418.9056501,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
         "name": "LogPoseHouse",
         "country": "Item location: Italy"
       },
@@ -352,7 +441,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -446,7 +535,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Kyogre available",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -483,7 +572,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Photos available upon request! Fast and secure shipping. Kept in a sleeve within a binder.",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -511,7 +600,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Image available under request",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -572,43 +661,6 @@
       "card": "Primal Groudon EX  (XY7 094)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
       "seller": {
-        "name": "SCARTE",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 249.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Photo Dispo Envoi rapide sous 48h. carte protégée en sleeve/toploader. emballage soigné",
-      "date": 1790162345.3647635,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782587845.1095302
-        ],
-        [
-          0,
-          1782587845.1095302
-        ]
-      ],
-      "first_date": 1779439418.9056501,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Primal Groudon EX  (XY7 094)",
-      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
-      "seller": {
         "name": "Hgatvvjdb",
         "country": "Item location: Austria"
       },
@@ -617,7 +669,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Check out other listing. Ask for more pictures. perfect condition",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -645,7 +697,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "NM/EX Back see images | Video on drive request link",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -715,7 +767,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+/ask for photos",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -743,7 +795,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -771,7 +823,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Mini whitening (back)",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -799,7 +851,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A-099",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -824,11 +876,11 @@
       },
       "language": "Japanese",
       "price": 320.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Very good exc",
-      "date": 1790162345.3647635,
-      "ended": false,
+      "date": 1790867370.1701295,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -839,6 +891,10 @@
         [
           0,
           1789162066.940108
+        ],
+        [
+          1,
+          1790867370.1701295
         ]
       ],
       "first_date": 1788989847.5470781,
@@ -864,7 +920,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -901,7 +957,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for scans",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1160,6 +1216,34 @@
       "card": "Primal Groudon EX  (XY7 094)",
       "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
       "seller": {
+        "name": "TheBazaarTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 8",
+      "date": 1791152773.8629146,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1790697782.8750782,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Groudon EX  (XY7 094)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Primal-Groudon-EX",
+      "seller": {
         "name": "Melobou",
         "country": "Item location: France"
       },
@@ -1408,7 +1492,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1567,17 +1651,21 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 1499.95,
+      "price": 1449.99,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Kyogre available aswell (§19 Ustg)",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           1579.95,
           1788586377.6005569
+        ],
+        [
+          1499.95,
+          1790697782.8750782
         ]
       ],
       "previous_quantities": [
@@ -1654,7 +1742,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 GEM MT",
-      "date": 1790162345.3647635,
+      "date": 1791152773.8629146,
       "ended": false,
       "new": false,
       "previous_prices": [],
