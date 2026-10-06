@@ -11,9 +11,9 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 11,
+  "available": 10,
   "available_graded": 0,
-  "sold": 3,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -102,7 +102,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Includes deck box. dice and storage box. Promo cards are NOT included.",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -144,7 +144,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "all set (main box. deck box. storage. sleeves. dons and dices) without cards",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1040,7 +1040,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "perfect sealed + shipping fast",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1479,12 +1479,12 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791055007.1801825,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           500.0,
@@ -1559,12 +1559,16 @@
         [
           0,
           1789042252.8331351
+        ],
+        [
+          1,
+          1791055007.1801825
         ]
       ],
       "first_date": 1770715673.974332,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1634,7 +1638,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many cards in stock",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1662,7 +1666,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1695,7 +1699,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed Safe and Fast Shipping",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1790,11 +1794,11 @@
         "country": "Item location: Poland"
       },
       "language": "Japanese",
-      "price": 751.39,
+      "price": 751.78,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2093,6 +2097,10 @@
         [
           749.58,
           1790941985.6094687
+        ],
+        [
+          751.39,
+          1791055007.1801825
         ]
       ],
       "previous_quantities": [
@@ -2291,7 +2299,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2340,7 +2348,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED in Brown box",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2488,7 +2496,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "new / sealed in brown Box never openend!",
-      "date": 1791055007.1801825,
+      "date": 1791227640.7271266,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2523,7 +2531,7 @@
       "comment": "ovp sealed Brown box",
       "date": 1790941985.6094687,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2534,7 +2542,7 @@
       "first_date": 1789252868.1741595,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
