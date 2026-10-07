@@ -11,10 +11,10 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 31,
+  "available": 37,
   "available_graded": 2,
-  "sold": 7,
-  "inserted": 1,
+  "sold": 1,
+  "inserted": 7,
   "listings": [
     {
       "card": "Marshall.D.Teach (OP09-081)",
@@ -1125,8 +1125,8 @@
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1547,7 +1547,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "for binder",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1575,7 +1575,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1603,7 +1603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve > Toploader",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1673,7 +1673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1719,7 +1719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1747,7 +1747,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1916,7 +1916,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1961,7 +1961,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Check my other card",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2106,7 +2106,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2134,7 +2134,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Envoie soigner photo sur demande",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2187,28 +2187,28 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "ElzoK",
-        "country": "Item location: France"
+        "name": "muT3schuasta",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 72.99,
-      "quantity": 0,
+      "price": 72.0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
         [
-          1,
-          1790947990.7319405
+          90.0,
+          1791061482.4849467
         ]
       ],
-      "first_date": 1790595696.8156247,
+      "previous_quantities": [],
+      "first_date": 1781891037.8137784,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2299,12 +2299,12 @@
       },
       "language": "Japanese",
       "price": 73.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! _*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           49.95,
@@ -2423,12 +2423,16 @@
         [
           1,
           1790947990.7319405
+        ],
+        [
+          0,
+          1790947990.7319405
         ]
       ],
       "first_date": 1771237000.894393,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2705,7 +2709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfetta + Sleeve + Toploader",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2779,17 +2783,59 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "ElzoK",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 77.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          72.99,
+          1790947990.7319405
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1790947990.7319405
+        ],
+        [
+          0,
+          1790947990.7319405
+        ]
+      ],
+      "first_date": 1790595696.8156247,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "EAG-TCG",
         "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 78.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! RMP Paris or delivry",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2803,12 +2849,16 @@
         [
           1,
           1790947990.7319405
+        ],
+        [
+          0,
+          1790947990.7319405
         ]
       ],
       "first_date": 1784568974.7414577,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2863,12 +2913,12 @@
       },
       "language": "Japanese",
       "price": 78.89,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "#2 Photos recto/verso",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! #2 Photos recto/verso",
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           79.0,
@@ -2903,12 +2953,16 @@
         [
           1,
           1790947990.7319405
+        ],
+        [
+          0,
+          1790947990.7319405
         ]
       ],
       "first_date": 1783624948.5845797,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2925,12 +2979,12 @@
       },
       "language": "Japanese",
       "price": 78.89,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "#1 Photos recto/verso",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! #1 Photos recto/verso",
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           83.83,
@@ -2945,12 +2999,16 @@
         [
           1,
           1790947990.7319405
+        ],
+        [
+          0,
+          1790947990.7319405
         ]
       ],
       "first_date": 1788729793.6950667,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3221,7 +3279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check out other stock ;)",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3307,40 +3365,32 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "NiceGuy88",
-        "country": "Item location: Germany"
+        "name": "TsuCG",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 80.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "all 4 Leader of the set are available top condicion. pls ask for pic's",
-      "date": 1791061482.4849467,
+      "comment": "RELISTED! PM if you need pics :)",
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1786603465.921646
+          1790947990.7319405
         ],
         [
           0,
-          1786603465.921646
-        ],
-        [
-          1,
-          1788264158.0037692
-        ],
-        [
-          0,
-          1788264158.0037692
+          1790947990.7319405
         ]
       ],
-      "first_date": 1784412156.0440097,
+      "first_date": 1788556115.7931721,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3352,25 +3402,41 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "TsuCG",
-        "country": "Item location: France"
+        "name": "NiceGuy88",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 80.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "PM if you need pics :)",
-      "date": 1790947990.7319405,
+      "comment": "all 4 Leader of the set are available top condicion. pls ask for pic's",
+      "date": 1791061482.4849467,
       "ended": true,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1790947990.7319405
+          1786603465.921646
+        ],
+        [
+          0,
+          1786603465.921646
+        ],
+        [
+          1,
+          1788264158.0037692
+        ],
+        [
+          0,
+          1788264158.0037692
+        ],
+        [
+          1,
+          1791061482.4849467
         ]
       ],
-      "first_date": 1788556115.7931721,
+      "first_date": 1784412156.0440097,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
@@ -3568,7 +3634,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kein Ausweis von Umsatzsteuer aufgrund der Anwendung der Kleinunternehmerregelung gemäß § 19 UStG.",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3602,15 +3668,48 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
+        "name": "hoangphuong",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 84.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PM for pictures",
+      "date": 1789401072.2818406,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1789401072.2818406
+        ]
+      ],
+      "first_date": 1788729793.6950667,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Marshall.D.Teach (OP09-081)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
+      "seller": {
         "name": "Atonmain",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 84.84,
+      "price": 84.99,
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3805,6 +3904,10 @@
         [
           84.63,
           1790947990.7319405
+        ],
+        [
+          84.84,
+          1791061482.4849467
         ]
       ],
       "previous_quantities": [
@@ -3848,39 +3951,6 @@
       "card": "Marshall.D.Teach (OP09-081)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
       "seller": {
-        "name": "hoangphuong",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 84.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PM for pictures",
-      "date": 1789401072.2818406,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1789401072.2818406
-        ]
-      ],
-      "first_date": 1788729793.6950667,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
-      "seller": {
         "name": "AmiBoi",
         "country": "Item location: Germany"
       },
@@ -3889,7 +3959,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3939,7 +4009,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4152,7 +4222,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCG10",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4167,34 +4237,6 @@
         ]
       ],
       "first_date": 1787691320.6834826,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Marshall.D.Teach (OP09-081)",
-      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MarshallDTeach-OP09-081",
-      "seller": {
-        "name": "muT3schuasta",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 90.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791061482.4849467,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781891037.8137784,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4266,8 +4308,8 @@
       "price": 99.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sleeved + Toploader",
-      "date": 1791061482.4849467,
+      "comment": "Sleeved + Toploader",
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4284,7 +4326,7 @@
       "first_date": 1783079539.160516,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4301,23 +4343,27 @@
       },
       "language": "Japanese",
       "price": 99.9,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1790947990.7319405,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1791272171.6260622,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1790947990.7319405
+        ],
+        [
+          0,
           1790947990.7319405
         ]
       ],
       "first_date": 1782179686.4031396,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4337,7 +4383,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4485,7 +4531,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4513,7 +4559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4541,7 +4587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4569,7 +4615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster direkt in Sleeve",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4606,7 +4652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Near Mint or better",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4634,7 +4680,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4696,23 +4742,27 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 279.9,
+      "price": 249.9,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 GEM MINT",
-      "date": 1791061482.4849467,
+      "date": 1791272171.6260622,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           299.9,
           1790217619.1806133
+        ],
+        [
+          279.9,
+          1791061482.4849467
         ]
       ],
       "previous_quantities": [],
       "first_date": 1788037915.329517,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

@@ -13,9 +13,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 21,
+  "available": 23,
   "available_graded": 0,
-  "sold": 2,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -144,7 +144,7 @@
       "comment": "",
       "date": 1791019971.336765,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1600.0,
@@ -192,7 +192,7 @@
       "first_date": 1785024813.307057,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -603,7 +603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -855,7 +855,7 @@
       "comment": "",
       "date": 1791019971.336765,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -866,7 +866,7 @@
       "first_date": 1790409720.4695268,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1025,7 +1025,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "3 available. DM for photo",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1062,7 +1062,7 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": true,
+      "archived": false,
       "grade_company": "",
       "grade": null,
       "grade_source": "auto"
@@ -1242,7 +1242,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed 19% mwst",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1292,7 +1292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast and safe dispatch - with Shrink OVP SEALED - Ask for Photos",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1575,7 +1575,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1898,6 +1898,39 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
+        "name": "YagoCards4",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1800.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed case - B2B possible",
+      "date": 1791336979.513369,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1900.0,
+          1791192330.4079075
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1789038479.5324855,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
         "name": "KvnMck",
         "country": "Item location: Netherlands"
       },
@@ -1906,7 +1939,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2259,34 +2292,6 @@
         ]
       ],
       "first_date": 1784483701.9497488,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
-        "name": "YagoCards4",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1900.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed case - B2B possible",
-      "date": 1791192330.4079075,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789038479.5324855,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2825,7 +2830,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3047,7 +3052,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "perfect condition",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3264,7 +3269,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VAT | SEALED | FAST INSURED SHIPPING",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3383,7 +3388,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3551,7 +3556,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3579,7 +3584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "inkl. VAT [5012-m2a]",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3735,7 +3740,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed clean. Luftdicht mit Hydrometer gelagert. Pick up possible",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3755,7 +3760,7 @@
       "previous_quantities": [],
       "first_date": 1786543483.8357403,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3837,7 +3842,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1791192330.4079075,
+      "date": 1791336979.513369,
       "ended": false,
       "new": false,
       "previous_prices": [],

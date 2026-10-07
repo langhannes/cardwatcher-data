@@ -14,10 +14,10 @@
   ],
   "only_germany": false,
   "market_language": "German",
-  "available": 1990,
+  "available": 1986,
   "available_graded": 0,
-  "sold": 102,
-  "inserted": 52,
+  "sold": 18,
+  "inserted": 14,
   "listings": [
     {
       "card": "Destined Rivals Elite Trainer Box",
@@ -61,12 +61,12 @@
       },
       "language": "Italian",
       "price": 80.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed piccolo difetto alla base del box",
       "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           90.0,
@@ -81,12 +81,16 @@
         [
           0,
           1790433969.710804
+        ],
+        [
+          1,
+          1791212491.6631963
         ]
       ],
       "first_date": 1789968527.2068045,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -473,6 +477,34 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
+        "name": "Dragonite1234567",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Piccolo difetto",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791358223.854133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
         "name": "Pokehunter104",
         "country": "Item location: Italy"
       },
@@ -774,99 +806,17 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "BlackArrowCollect",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 96.95,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "New and SEALED!",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          107.99,
-          1788875045.062893
-        ],
-        [
-          107.97,
-          1789046667.03902
-        ],
-        [
-          108.12,
-          1789218968.9240265
-        ],
-        [
-          108.15,
-          1789390688.2775953
-        ],
-        [
-          108.19,
-          1789630488.895718
-        ],
-        [
-          108.1,
-          1789968527.2068045
-        ],
-        [
-          101.75,
-          1790227106.7458603
-        ],
-        [
-          101.74,
-          1790604021.4765105
-        ],
-        [
-          102.09,
-          1790759936.0708656
-        ],
-        [
-          102.71,
-          1790927788.0134532
-        ],
-        [
-          102.96,
-          1791040414.183404
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1790433969.710804
-        ],
-        [
-          1,
-          1790604021.4765105
-        ]
-      ],
-      "first_date": 1788875045.062893,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
         "name": "User54",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
       "price": 97.01,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           107.99,
@@ -949,12 +899,106 @@
         [
           1,
           1791040414.183404
+        ],
+        [
+          3,
+          1791212491.6631963
+        ]
+      ],
+      "first_date": 1788875045.062893,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "BlackArrowCollect",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 97.08,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "New and SEALED!",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          107.99,
+          1788875045.062893
+        ],
+        [
+          107.97,
+          1789046667.03902
+        ],
+        [
+          108.12,
+          1789218968.9240265
+        ],
+        [
+          108.15,
+          1789390688.2775953
+        ],
+        [
+          108.19,
+          1789630488.895718
+        ],
+        [
+          108.1,
+          1789968527.2068045
+        ],
+        [
+          101.75,
+          1790227106.7458603
+        ],
+        [
+          101.74,
+          1790604021.4765105
+        ],
+        [
+          102.09,
+          1790759936.0708656
+        ],
+        [
+          102.71,
+          1790927788.0134532
+        ],
+        [
+          102.96,
+          1791040414.183404
+        ],
+        [
+          96.95,
+          1791212491.6631963
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1790433969.710804
+        ],
+        [
+          1,
+          1790604021.4765105
+        ],
+        [
+          3,
+          1791212491.6631963
         ]
       ],
       "first_date": 1788875045.062893,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 2,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -970,11 +1014,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 97.01,
+      "price": 97.14,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1791212491.6631963,
+      "comment": "",
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -989,6 +1033,10 @@
         [
           101.97,
           1789046667.03902
+        ],
+        [
+          97.01,
+          1791212491.6631963
         ]
       ],
       "previous_quantities": [
@@ -1004,7 +1052,7 @@
       "first_date": 1788718753.9493384,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1221,8 +1269,8 @@
       "price": 99.49,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! foro sulla pellicola",
-      "date": 1791212491.6631963,
+      "comment": "foro sulla pellicola",
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1247,7 +1295,7 @@
       "first_date": 1789046667.03902,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1680,97 +1728,24 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 100.04,
+      "price": 100.18,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1791212491.6631963,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
-        "name": "Lunchsa",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 101.86,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! Factory sealed - bought from amazon",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          100.91,
-          1789218968.9240265
-        ],
-        [
-          100.94,
-          1789390688.2775953
-        ],
-        [
-          100.9,
-          1789795783.466004
-        ],
-        [
-          100.89,
-          1789968527.2068045
-        ],
-        [
-          100.62,
-          1790227106.7458603
-        ],
-        [
-          100.6,
-          1790604021.4765105
-        ],
-        [
-          100.94,
-          1790759936.0708656
-        ],
-        [
-          101.56,
-          1790927788.0134532
+          100.04,
+          1791212491.6631963
         ]
       ],
-      "previous_quantities": [
-        [
-          1,
-          1789390688.2775953
-        ],
-        [
-          0,
-          1789390688.2775953
-        ],
-        [
-          1,
-          1790927788.0134532
-        ],
-        [
-          0,
-          1790927788.0134532
-        ]
-      ],
-      "first_date": 1789218968.9240265,
+      "previous_quantities": [],
+      "first_date": 1791212491.6631963,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1808,6 +1783,88 @@
       "first_date": 1788875045.062893,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "Lunchsa",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 102.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Factory sealed - bought from amazon",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          100.91,
+          1789218968.9240265
+        ],
+        [
+          100.94,
+          1789390688.2775953
+        ],
+        [
+          100.9,
+          1789795783.466004
+        ],
+        [
+          100.89,
+          1789968527.2068045
+        ],
+        [
+          100.62,
+          1790227106.7458603
+        ],
+        [
+          100.6,
+          1790604021.4765105
+        ],
+        [
+          100.94,
+          1790759936.0708656
+        ],
+        [
+          101.56,
+          1790927788.0134532
+        ],
+        [
+          101.86,
+          1791212491.6631963
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789390688.2775953
+        ],
+        [
+          0,
+          1789390688.2775953
+        ],
+        [
+          1,
+          1790927788.0134532
+        ],
+        [
+          0,
+          1790927788.0134532
+        ]
+      ],
+      "first_date": 1789218968.9240265,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1890,11 +1947,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 103.07,
+      "price": 103.21,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1933,6 +1990,10 @@
         [
           103.02,
           1791040414.183404
+        ],
+        [
+          103.07,
+          1791212491.6631963
         ]
       ],
       "previous_quantities": [
@@ -1972,7 +2033,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Perfectly sealed",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1984,7 +2045,7 @@
       "previous_quantities": [],
       "first_date": 1790927788.0134532,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2002,18 +2063,23 @@
       },
       "language": "English",
       "price": 104.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NO MINT ->  Zie foto",
       "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791212491.6631963
+        ]
+      ],
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2033,7 +2099,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2076,23 +2142,28 @@
       },
       "language": "English",
       "price": 105.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           122.5,
           1791040414.183404
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791212491.6631963
+        ]
+      ],
       "first_date": 1789630488.895718,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2460,7 +2531,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condizioni perfette",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2854,11 +2925,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 109.1,
+      "price": 109.25,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2901,6 +2972,10 @@
         [
           109.04,
           1791040414.183404
+        ],
+        [
+          109.1,
+          1791212491.6631963
         ]
       ],
       "previous_quantities": [],
@@ -2923,11 +2998,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 109.13,
+      "price": 109.28,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2958,6 +3033,10 @@
         [
           109.08,
           1791040414.183404
+        ],
+        [
+          109.13,
+          1791212491.6631963
         ]
       ],
       "previous_quantities": [
@@ -2985,7 +3064,7 @@
       "first_date": 1789968527.2068045,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3054,7 +3133,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3072,6 +3151,76 @@
       "first_date": 1790759936.0708656,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "PaulGOD",
+        "country": "Item location: Estonia"
+      },
+      "language": "English",
+      "price": 109.95,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          119.99,
+          1788718753.9493384
+        ],
+        [
+          109.99,
+          1788875045.062893
+        ],
+        [
+          109.95,
+          1789795783.466004
+        ],
+        [
+          119.95,
+          1790433969.710804
+        ],
+        [
+          115.95,
+          1790759936.0708656
+        ],
+        [
+          109.95,
+          1791040414.183404
+        ],
+        [
+          114.95,
+          1791212491.6631963
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788718753.9493384
+        ],
+        [
+          3,
+          1789795783.466004
+        ],
+        [
+          0,
+          1789795783.466004
+        ]
+      ],
+      "first_date": 1788718753.9493384,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3163,10 +3312,10 @@
       },
       "language": "English",
       "price": 110.0,
-      "quantity": 3,
+      "quantity": 1,
       "condition": "NM",
       "comment": "NO MINT. they are damaged. seal rips. corner damage. NO MINT",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3239,12 +3388,16 @@
         [
           4,
           1791040414.183404
+        ],
+        [
+          3,
+          1791212491.6631963
         ]
       ],
       "first_date": 1785367693.385392,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3261,10 +3414,10 @@
       },
       "language": "English",
       "price": 110.0,
-      "quantity": 286,
+      "quantity": 285,
       "condition": "NM",
       "comment": "b2b possible. NO MINT. they are damaged. seal rips. corner damage. NO MINT",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3317,12 +3470,16 @@
         [
           296,
           1791040414.183404
+        ],
+        [
+          286,
+          1791212491.6631963
         ]
       ],
       "first_date": 1785367693.385392,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -10,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3342,7 +3499,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3370,7 +3527,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed with traspartent acrilic protector",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3407,7 +3564,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3436,6 +3593,62 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
+        "name": "JuusoS406",
+        "country": "Item location: Finland"
+      },
+      "language": "English",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Hi! Selling a brand new. factory sealed Pokémon TCG:Scarlet&Violet-Destined Rivals Elite Trainer box",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791358223.854133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "Losbustatoreseriale",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 110.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed perfetti",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791358223.854133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
         "name": "MattiaZari1993",
         "country": "Item location: Italy"
       },
@@ -3444,7 +3657,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3472,7 +3685,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3507,7 +3720,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           110.0,
@@ -3563,7 +3776,7 @@
       "first_date": 1788718753.9493384,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4331,7 +4544,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4389,72 +4602,6 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "PaulGOD",
-        "country": "Item location: Estonia"
-      },
-      "language": "English",
-      "price": 114.95,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          119.99,
-          1788718753.9493384
-        ],
-        [
-          109.99,
-          1788875045.062893
-        ],
-        [
-          109.95,
-          1789795783.466004
-        ],
-        [
-          119.95,
-          1790433969.710804
-        ],
-        [
-          115.95,
-          1790759936.0708656
-        ],
-        [
-          109.95,
-          1791040414.183404
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1788718753.9493384
-        ],
-        [
-          3,
-          1789795783.466004
-        ],
-        [
-          0,
-          1789795783.466004
-        ]
-      ],
-      "first_date": 1788718753.9493384,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
         "name": "asterisguy",
         "country": "Item location: Greece"
       },
@@ -4463,7 +4610,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4476,7 +4623,7 @@
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4498,7 +4645,7 @@
       "comment": "Sealed",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           129.99,
@@ -4566,7 +4713,7 @@
       "first_date": 1788025547.355716,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4588,7 +4735,7 @@
       "comment": "Sealed - can have tiny imperfections",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           129.99,
@@ -4616,7 +4763,7 @@
       "first_date": 1788252224.5209663,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -5,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4638,7 +4785,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4649,7 +4796,89 @@
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "MyBinderTrade",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 115.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Dented corner | New/Sealed",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          147.0,
+          1787505162.3548617
+        ],
+        [
+          140.0,
+          1789795783.466004
+        ],
+        [
+          130.0,
+          1790433969.710804
+        ],
+        [
+          115.0,
+          1791040414.183404
+        ],
+        [
+          130.0,
+          1791212491.6631963
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1787505162.3548617
+        ],
+        [
+          2,
+          1788423601.9496212
+        ],
+        [
+          0,
+          1788423601.9496212
+        ],
+        [
+          2,
+          1789795783.466004
+        ],
+        [
+          3,
+          1790433969.710804
+        ],
+        [
+          2,
+          1790604021.4765105
+        ],
+        [
+          1,
+          1791040414.183404
+        ],
+        [
+          2,
+          1791212491.6631963
+        ]
+      ],
+      "first_date": 1787505162.3548617,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4666,18 +4895,23 @@
       },
       "language": "English",
       "price": 115.0,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "NM",
       "comment": "SEAled",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1791212491.6631963
+        ]
+      ],
       "first_date": 1791212491.6631963,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4697,7 +4931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brand new! Also got whole case of 10 sale for 1250e",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5293,6 +5527,34 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
+        "name": "Card-Arena",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 115.34,
+      "quantity": 5,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791358223.854133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
         "name": "Leylines",
         "country": "Item location: United Kingdom"
       },
@@ -5358,6 +5620,34 @@
         ]
       ],
       "first_date": 1788423601.9496212,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "Dariolino12",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 117.5,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Seald. dm for pictures",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791358223.854133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5487,7 +5777,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed - Perfect Condition",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5529,6 +5819,48 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "Sanadar",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 118.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! sealed ovp",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          185.0,
+          1780528916.0453124
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780528916.0453124
+        ],
+        [
+          0,
+          1780528916.0453124
+        ]
+      ],
+      "first_date": 1780411404.9575605,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5735,7 +6067,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "THE CARDS YOU WANT",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5793,7 +6125,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5821,7 +6153,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5841,48 +6173,6 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "eXtremexFinK",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 119.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Nuovo con pellicola - Spedizione 24h!!",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          120.0,
-          1791040414.183404
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1790927788.0134532
-        ],
-        [
-          3,
-          1791040414.183404
-        ]
-      ],
-      "first_date": 1790927788.0134532,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
         "name": "marcoflaco",
         "country": "Item location: Italy"
       },
@@ -5891,7 +6181,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5919,7 +6209,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed perfect",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5956,7 +6246,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Seald",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5975,6 +6265,52 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "eXtremexFinK",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 119.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Nuovo con pellicola - Spedizione 24h!!",
+      "date": 1791212491.6631963,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          120.0,
+          1791040414.183404
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1790927788.0134532
+        ],
+        [
+          3,
+          1791040414.183404
+        ],
+        [
+          1,
+          1791212491.6631963
+        ]
+      ],
+      "first_date": 1790927788.0134532,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6450,7 +6786,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "see picture (Deutschland info: Versand 1x pro Woche aus Deutschland möglich)",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6496,7 +6832,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "see picture (Deutschland info: Versand 1x pro Woche aus Deutschland möglich)",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6529,7 +6865,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed - Professional seller. ships everyday!",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6636,7 +6972,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "perfectly sealed - fast shipping",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6730,6 +7066,68 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
+        "name": "la-Forestanera",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 119.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.0,
+          1785018291.3986475
+        ],
+        [
+          149.99,
+          1789390688.2775953
+        ],
+        [
+          129.99,
+          1791212491.6631963
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1779320934.852678
+        ],
+        [
+          0,
+          1779320934.852678
+        ],
+        [
+          4,
+          1785018291.3986475
+        ],
+        [
+          0,
+          1785018291.3986475
+        ],
+        [
+          4,
+          1789390688.2775953
+        ]
+      ],
+      "first_date": 1778026533.6475723,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
         "name": "Pokestop3",
         "country": "Item location: Italy"
       },
@@ -6738,7 +7136,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6788,34 +7186,6 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "BIJUCARDS",
-        "country": "Item location: Romania"
-      },
-      "language": "English",
-      "price": 119.99,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1789218968.9240265,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
         "name": "NotADitto",
         "country": "Item location: Ireland"
       },
@@ -6824,7 +7194,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "New/Sealed",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6842,6 +7212,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "BIJUCARDS",
+        "country": "Item location: Romania"
+      },
+      "language": "English",
+      "price": 119.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1791212491.6631963,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1791212491.6631963
+        ]
+      ],
+      "first_date": 1789218968.9240265,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7156,7 +7559,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7190,20 +7593,20 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "nvasiliadis",
-        "country": "Item location: Greece"
+        "name": "kapie92",
+        "country": "Item location: Netherlands"
       },
       "language": "English",
       "price": 120.0,
-      "quantity": 3,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Top Condition",
-      "date": 1791212491.6631963,
+      "comment": "New. sealed",
+      "date": 1791358223.854133,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1791040414.183404,
+      "first_date": 1791358223.854133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7226,7 +7629,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791212491.6631963,
+      "date": 1791358223.854133,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7246,6 +7649,95 @@
         ]
       ],
       "first_date": 1778190835.657665,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "JJsTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP sealed. acryl can be included for 16",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1791212491.6631963
+        ]
+      ],
+      "first_date": 1790604021.4765105,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "KrouKrouKrou",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791358223.854133,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791040414.183404,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Destined Rivals Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
+      "seller": {
+        "name": "nvasiliadis",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Top Condition",
+      "date": 1791212491.6631963,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7307,62 +7799,6 @@
         ]
       ],
       "first_date": 1788423601.9496212,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
-        "name": "JJsTCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 120.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "OVP sealed. acryl can be included for 16",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1790604021.4765105,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
-        "name": "KrouKrouKrou",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 120.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7929,7 +8365,7 @@
       "comment": "perfect sealed",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7940,7 +8376,7 @@
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7962,7 +8398,7 @@
       "comment": "Perfect sealed posible entrega en Madrid",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7973,7 +8409,7 @@
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7995,7 +8431,7 @@
       "comment": "Sealed 100% con",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8010,7 +8446,7 @@
       "first_date": 1790604021.4765105,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9321,7 +9757,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           119.84,
@@ -9393,7 +9829,7 @@
       "first_date": 1788545418.5209763,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9482,7 +9918,7 @@
       ],
       "first_date": 1788423601.9496212,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9584,7 +10020,7 @@
       ],
       "first_date": 1788423601.9496212,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9630,7 +10066,7 @@
       ],
       "first_date": 1789795783.466004,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9667,7 +10103,7 @@
       "previous_quantities": [],
       "first_date": 1790927788.0134532,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9690,7 +10126,7 @@
       "comment": "Perfect condition. fast shipping and will be shipped with care.",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -10288,7 +10724,7 @@
       ],
       "first_date": 1790433969.710804,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10311,7 +10747,7 @@
       "comment": "Small tear in seal! Fast shipping!",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           139.95,
@@ -10343,7 +10779,7 @@
       "first_date": 1786800176.7478302,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10613,7 +11049,7 @@
       "comment": "Ovp sealed. Shipped with care <3",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -10628,7 +11064,7 @@
       "first_date": 1789968527.2068045,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11181,7 +11617,7 @@
       "comment": "Fast Shipping - Mint",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -11237,7 +11673,7 @@
       "comment": "OVP Sealed | Fast & secure shipping",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -11296,7 +11732,7 @@
       ],
       "first_date": 1789046667.03902,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11356,7 +11792,7 @@
       "comment": "New. sealed",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -11474,7 +11910,7 @@
       "comment": "Default de scellage léger. voir photo",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           135.0,
@@ -11514,7 +11950,7 @@
       "first_date": 1786594059.4558978,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12610,7 +13046,7 @@
       ],
       "first_date": 1777970491.622445,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -12823,7 +13259,7 @@
       "previous_quantities": [],
       "first_date": 1788025547.355716,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -13152,7 +13588,7 @@
       "previous_quantities": [],
       "first_date": 1788423601.9496212,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -14037,7 +14473,7 @@
       "first_date": 1790433969.710804,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 9,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14332,64 +14768,6 @@
         ]
       ],
       "first_date": 1788025547.355716,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
-        "name": "la-Forestanera",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 129.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          149.0,
-          1785018291.3986475
-        ],
-        [
-          149.99,
-          1789390688.2775953
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1779320934.852678
-        ],
-        [
-          0,
-          1779320934.852678
-        ],
-        [
-          4,
-          1785018291.3986475
-        ],
-        [
-          0,
-          1785018291.3986475
-        ],
-        [
-          4,
-          1789390688.2775953
-        ]
-      ],
-      "first_date": 1778026533.6475723,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14986,80 +15364,6 @@
       "card": "Destined Rivals Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
       "seller": {
-        "name": "MyBinderTrade",
-        "country": "Item location: Czech Republic"
-      },
-      "language": "English",
-      "price": 130.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "OVP/MINT | New/Sealed | PET case",
-      "date": 1791212491.6631963,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          147.0,
-          1787505162.3548617
-        ],
-        [
-          140.0,
-          1789795783.466004
-        ],
-        [
-          130.0,
-          1790433969.710804
-        ],
-        [
-          115.0,
-          1791040414.183404
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1787505162.3548617
-        ],
-        [
-          2,
-          1788423601.9496212
-        ],
-        [
-          0,
-          1788423601.9496212
-        ],
-        [
-          2,
-          1789795783.466004
-        ],
-        [
-          3,
-          1790433969.710804
-        ],
-        [
-          2,
-          1790604021.4765105
-        ],
-        [
-          1,
-          1791040414.183404
-        ]
-      ],
-      "first_date": 1787505162.3548617,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
         "name": "WishOfWonders",
         "country": "Item location: Italy"
       },
@@ -15395,7 +15699,7 @@
       "first_date": 1780986206.2333798,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 19,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -15580,7 +15884,7 @@
       "comment": "",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -15664,7 +15968,7 @@
       "comment": "sealed OVP",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -15785,7 +16089,7 @@
       "comment": "OVP/MINT | New/Sealed | PET case",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -15800,7 +16104,7 @@
       "first_date": 1790604021.4765105,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -15822,7 +16126,7 @@
       "comment": "Inc 19% mwst",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -15841,7 +16145,7 @@
       "first_date": 1790759936.0708656,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -21,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -17426,7 +17730,7 @@
       "comment": "CTNS00326997 · en",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -17437,7 +17741,7 @@
       "first_date": 1789630488.895718,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18179,7 +18483,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           179.98,
@@ -18259,7 +18563,7 @@
       "first_date": 1786594059.4558978,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -10,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18281,7 +18585,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           179.98,
@@ -18369,7 +18673,7 @@
       "first_date": 1786594059.4558978,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -14,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -20439,7 +20743,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -20450,7 +20754,7 @@
       "first_date": 1790604021.4765105,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -20728,7 +21032,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           148.99,
@@ -20744,7 +21048,7 @@
       "first_date": 1790604021.4765105,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22050,7 +22354,7 @@
       "first_date": 1790227106.7458603,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22126,7 +22430,7 @@
       "comment": "RELISTED! differenzbesteuert",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           159.95,
@@ -22154,7 +22458,7 @@
       "first_date": 1789630488.895718,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22654,7 +22958,7 @@
       "first_date": 1777970491.622445,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23181,7 +23485,7 @@
       "comment": "sceller fr avec protection souple",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -23377,7 +23681,7 @@
       "comment": "FR Neuf et scellé (photos en MP) + Envoi avec protection souple",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23396,7 +23700,7 @@
       "first_date": 1790227106.7458603,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23418,7 +23722,7 @@
       "comment": "ovp sealed pictures via DM",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           200.0,
@@ -23450,7 +23754,7 @@
       "first_date": 1778122828.448216,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23472,7 +23776,7 @@
       "comment": "Perfect condition",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23483,7 +23787,7 @@
       "first_date": 1790433969.710804,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23505,7 +23809,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23516,7 +23820,7 @@
       "first_date": 1790759936.0708656,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -25974,7 +26278,7 @@
       ],
       "first_date": 1788718753.9493384,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -26413,7 +26717,7 @@
       "previous_quantities": [],
       "first_date": 1790927788.0134532,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -28239,7 +28543,7 @@
       "previous_quantities": [],
       "first_date": 1788718753.9493384,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -28337,7 +28641,7 @@
       ],
       "first_date": 1788423601.9496212,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -31392,7 +31696,7 @@
       "first_date": 1791040414.183404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -31605,7 +31909,7 @@
       "first_date": 1778753371.8104095,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -31781,7 +32085,7 @@
       "first_date": 1790927788.0134532,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32200,7 +32504,7 @@
       "comment": "Envoi sous protection souple. N'hésitez pas à demander des photos si besoin.",
       "date": 1791212491.6631963,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791212491.6631963,
@@ -32486,7 +32790,7 @@
       "comment": "",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           145.0,
@@ -32510,7 +32814,7 @@
       "first_date": 1789390688.2775953,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32532,7 +32836,7 @@
       "comment": "Seald. guter Zustand - einkerbungen der Sicherung. gerne Fotos auf Anfrage. Auflösung Sammlung",
       "date": 1791040414.183404,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -32543,7 +32847,7 @@
       "first_date": 1790227106.7458603,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -35205,7 +35509,7 @@
       ],
       "first_date": 1777970491.622445,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -35340,7 +35644,7 @@
       "comment": "Seit 2020 im Game / Neu auf Cardmarket. Sicher verpackter Versand",
       "date": 1790927788.0134532,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -35351,7 +35655,7 @@
       "first_date": 1787325810.302944,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -44322,39 +44626,6 @@
         ]
       ],
       "first_date": 1780986206.2333798,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Destined Rivals Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Destined-Rivals-Elite-Trainer-Box",
-      "seller": {
-        "name": "Sanadar",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 185.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "sealed ovp",
-      "date": 1780528916.0453124,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780528916.0453124
-        ]
-      ],
-      "first_date": 1780411404.9575605,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

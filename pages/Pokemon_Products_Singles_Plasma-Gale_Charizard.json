@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 9,
-  "available_graded": 7,
-  "sold": 0,
+  "available": 7,
+  "available_graded": 5,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -497,7 +497,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1014,7 +1014,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "BGS 5.5",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1278,7 +1278,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1334,7 +1334,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "grading 7 - unlimited! (rarer) (seltener)",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1451,7 +1451,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "CGC 6.5",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1524,7 +1524,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 6 ig: tcgcollector19",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1561,7 +1561,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7 POP 30 VB! inkl. 19% MwSt.",
-      "date": 1791164619.5992837,
+      "date": 1791310557.419748,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1649,12 +1649,12 @@
       },
       "language": "Japanese",
       "price": 20000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10 More Photos and Vidéos in private message",
       "date": 1791164619.5992837,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           9000.0,
@@ -1665,11 +1665,16 @@
           1773925567.6769118
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791164619.5992837
+        ]
+      ],
       "first_date": 1764750789.8694246,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -1686,12 +1691,12 @@
       },
       "language": "Japanese",
       "price": 20000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Unlimited PSA10 More Photos and Vidéos in private message",
       "date": 1791164619.5992837,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           9500.0,
@@ -1702,11 +1707,16 @@
           1773925567.6769118
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791164619.5992837
+        ]
+      ],
       "first_date": 1764750789.8694246,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

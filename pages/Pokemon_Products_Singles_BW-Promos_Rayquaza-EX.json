@@ -13,7 +13,7 @@
   "market_language": "",
   "available": 0,
   "available_graded": 0,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -86,12 +86,12 @@
       },
       "language": "Japanese",
       "price": 14900.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "HAVE ONLY 1 LITTLE CREASE - THIS CARD IS PART OF MY PERSONAL COLLECTION",
       "date": 1791192831.0313244,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -117,12 +117,16 @@
         [
           0,
           1788149620.044623
+        ],
+        [
+          1,
+          1791192831.0313244
         ]
       ],
       "first_date": 1770204762.887126,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true,

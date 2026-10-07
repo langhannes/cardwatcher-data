@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 12,
+  "available": 11,
   "available_graded": 1,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -244,7 +244,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -272,7 +272,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Ug Blu",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -399,7 +399,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "New Cards every week!",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -518,7 +518,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "101",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -543,23 +543,28 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "MP Photos",
       "date": 1791191742.2745245,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           100.0,
           1780962204.316156
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791191742.2745245
+        ]
+      ],
       "first_date": 1780962204.316156,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -682,7 +687,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "J8",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -790,6 +795,39 @@
       "card": "Reshiram  (BW1b 055)",
       "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
       "seller": {
+        "name": "TCTopia",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 94.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1791336497.1044662,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          99.0,
+          1791191742.2745245
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783851125.199726,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Reshiram  (BW1b 055)",
+      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
+      "seller": {
         "name": "TGCardshop",
         "country": "Item location: Netherlands"
       },
@@ -798,7 +836,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Little scratch. Sleeved. Toploader. Ask for pics.",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -859,34 +897,6 @@
       "archived": false,
       "grade_company": "UNK",
       "grade": 8.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Reshiram  (BW1b 055)",
-      "canonical_name": "Pokemon_Products_Singles_Black-Collection_Reshiram-V2",
-      "seller": {
-        "name": "TCTopia",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 99.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1791191742.2745245,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783851125.199726,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1008,7 +1018,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1173,7 +1183,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 8",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1201,7 +1211,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "UNLIMITED NM- Ask for Pics! Sleeve+Toploader",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1234,7 +1244,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791191742.2745245,
+      "date": 1791336497.1044662,
       "ended": false,
       "new": false,
       "previous_prices": [],

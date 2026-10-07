@@ -9,9 +9,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 77,
+  "available": 75,
   "available_graded": 2,
-  "sold": 1,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -213,34 +213,6 @@
         ]
       ],
       "first_date": 1783978978.9164214,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": true,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "ElzoK",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 399.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "No cards / box + playmat + sleeve",
-      "date": 1791203456.8975458,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1790588885.013145,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4156,7 +4128,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brownbox. original box. mat. sleeves and cards. Cards and sleeves are opened and sleeved.",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4184,7 +4156,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Without brown box - everything else sealed.  Only In hand meet up Milan",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4279,7 +4251,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Only the cards. offer avaliable while no cards sell individually",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4325,7 +4297,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No brown box. everything sealed",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4341,7 +4313,7 @@
       "previous_quantities": [],
       "first_date": 1789633086.815466,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4362,7 +4334,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No brown box but complete",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4387,12 +4359,12 @@
       },
       "language": "English",
       "price": 3200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Opened to sleeve the cards. Only Spain",
       "date": 1791203456.8975458,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           10000.0,
@@ -4435,12 +4407,16 @@
         [
           0,
           1782838012.3654842
+        ],
+        [
+          1,
+          1791203456.8975458
         ]
       ],
       "first_date": 1779955523.0047085,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4462,7 +4438,7 @@
       "comment": "RELISTED! brown box opened (but included). sleaves and playmath sealed",
       "date": 1791031046.9432867,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           4500.0,
@@ -4506,7 +4482,7 @@
       "first_date": 1786593543.4969997,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true,
@@ -4668,6 +4644,39 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "ElzoK",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 3499.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "No brown box / Card -> toploader",
+      "date": 1791348838.869612,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.99,
+          1791203456.8975458
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790588885.013145,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": true,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "Drosi23",
         "country": "Item location: Italy"
       },
@@ -4676,7 +4685,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Only cards but all potential 10s",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4706,12 +4715,12 @@
       },
       "language": "English",
       "price": 3500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "brown box is open",
       "date": 1791203456.8975458,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           2800.0,
@@ -4730,11 +4739,16 @@
           1789633086.815466
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791203456.8975458
+        ]
+      ],
       "first_date": 1769939631.8460474,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4837,6 +4851,51 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "Arnhorn",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 3600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Brown Box geöffnet. Abholung in Bayern möglich",
+      "date": 1791348838.869612,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          4950.0,
+          1787325155.3713756
+        ],
+        [
+          4700.0,
+          1787689956.135283
+        ],
+        [
+          4450.0,
+          1790588885.013145
+        ],
+        [
+          3850.0,
+          1791203456.8975458
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786413824.82835,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "MirageTCG",
         "country": "Item location: Italy"
       },
@@ -4845,7 +4904,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cards in Toploader / Little Rip on Red External Packaging",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4882,7 +4941,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellée carton marron. RMP Paris.",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5217,7 +5276,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Fully sealed in brown Box / Shipping fee difference will be refunded",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5336,47 +5395,6 @@
         ]
       ],
       "first_date": 1779832184.9587376,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Arnhorn",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 3850.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Brown Box geöffnet. Abholung in Bayern möglich",
-      "date": 1791203456.8975458,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          4950.0,
-          1787325155.3713756
-        ],
-        [
-          4700.0,
-          1787689956.135283
-        ],
-        [
-          4450.0,
-          1790588885.013145
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1786413824.82835,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5553,7 +5571,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brown box sealed",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5581,7 +5599,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in Acrylic Case",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5609,7 +5627,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Fully sealed in brown Box. Abholung in Berlin möglich",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5637,7 +5655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box! DM me first for more pictures :)",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5711,7 +5729,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Opened the box only to check. Everything in there. ask for photos",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6244,7 +6262,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6272,7 +6290,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed aber ohne braune Box. viel in Deutschland unterwegs. Übergabe möglich",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6403,7 +6421,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed with brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6556,7 +6574,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Original sealed box- pref pickup",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7159,7 +7177,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Opened. Cards sleeved. Sleeves and Mat OVP. Ask for pics",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7196,7 +7214,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No brown box. Pick up only. In Utrecht during BCF",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7476,7 +7494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brand new. only opened to take pictures",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7679,7 +7697,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brown Box little damage but sealed!",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7847,7 +7865,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Opened only to sleeve the cards",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7897,7 +7915,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "All sealed. no brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7963,7 +7981,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8000,7 +8018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Purchased and opened to verify the contents. Complete. without the brown outer box.",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8262,7 +8280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory Sealed",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8290,7 +8308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cartas + Tapete + Caja",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8533,7 +8551,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8608,7 +8626,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Not open. but no brown box. Ask for pictures",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8682,7 +8700,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/Sealed - In brown Box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8843,7 +8861,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Whit brown box..New seller numerous feeds on other sites",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9056,7 +9074,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed with brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9110,7 +9128,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - BROWN BOX - Pick up in Vienna also possible",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9213,7 +9231,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9341,7 +9359,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box - top condition",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9382,7 +9400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BROWN BOX SEALED & PERFECT",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9510,7 +9528,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ACE 10 Sequential Set with Box - Perfect Subgrades",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9538,7 +9556,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed with Brown Box - Only pick up - DM before buying",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9571,7 +9589,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9599,7 +9617,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "in the distribution packaging box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9645,7 +9663,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed brown box. if buy this and 2nd annoversary sealed. 7500",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9682,7 +9700,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/Sealed - In brown Box - Ask for pics",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9715,7 +9733,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed brown box",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9765,7 +9783,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brown Box / OVP / Sealed",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9907,7 +9925,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp sealed brown box - differenzbesteuert",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9969,7 +9987,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed in brown box. perfect condition and perfect seal!",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10002,7 +10020,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791203456.8975458,
+      "date": 1791348838.869612,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10807,7 +10825,7 @@
       ],
       "first_date": 1767869083.658967,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

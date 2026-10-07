@@ -11,10 +11,10 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 63,
-  "available_graded": 39,
-  "sold": 0,
-  "inserted": 5,
+  "available": 65,
+  "available_graded": 42,
+  "sold": 2,
+  "inserted": 4,
   "listings": [
     {
       "card": "Nami (OP01-016)",
@@ -3280,8 +3280,8 @@
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -3559,8 +3559,8 @@
       "price": 569.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Perfect to grade",
-      "date": 1791217895.4444423,
+      "comment": "Perfect to grade",
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3577,7 +3577,7 @@
       "first_date": 1785021930.747895,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3630,7 +3630,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3695,8 +3695,8 @@
       "price": 575.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! VIT",
-      "date": 1791217895.4444423,
+      "comment": "VIT",
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3713,7 +3713,7 @@
       "first_date": 1789241246.755999,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4642,23 +4642,28 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791217895.4444423,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           650.0,
           1790609029.88363
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791217895.4444423
+        ]
+      ],
       "first_date": 1790439669.9093566,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4942,6 +4947,88 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "LootSpot19",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 610.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791362056.683682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1782818021.2906897
+        ],
+        [
+          880.0,
+          1783563061.023223
+        ],
+        [
+          800.0,
+          1783937461.2795322
+        ],
+        [
+          750.0,
+          1787681399.1305811
+        ],
+        [
+          650.0,
+          1788028034.1806715
+        ],
+        [
+          720.0,
+          1791045258.6469338
+        ],
+        [
+          650.0,
+          1791217895.4444423
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782818021.2906897
+        ],
+        [
+          0,
+          1782818021.2906897
+        ],
+        [
+          1,
+          1785021930.747895
+        ],
+        [
+          0,
+          1785021930.747895
+        ],
+        [
+          1,
+          1788254556.1897137
+        ],
+        [
+          0,
+          1788254556.1897137
+        ]
+      ],
+      "first_date": 1782548167.022601,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "Dzafo99",
         "country": "Item location: Switzerland"
       },
@@ -5046,7 +5133,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5636,84 +5723,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
-        "name": "LootSpot19",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791217895.4444423,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          600.0,
-          1782818021.2906897
-        ],
-        [
-          880.0,
-          1783563061.023223
-        ],
-        [
-          800.0,
-          1783937461.2795322
-        ],
-        [
-          750.0,
-          1787681399.1305811
-        ],
-        [
-          650.0,
-          1788028034.1806715
-        ],
-        [
-          720.0,
-          1791045258.6469338
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782818021.2906897
-        ],
-        [
-          0,
-          1782818021.2906897
-        ],
-        [
-          1,
-          1785021930.747895
-        ],
-        [
-          0,
-          1785021930.747895
-        ],
-        [
-          1,
-          1788254556.1897137
-        ],
-        [
-          0,
-          1788254556.1897137
-        ]
-      ],
-      "first_date": 1782548167.022601,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -6373,7 +6382,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6500,7 +6509,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6661,8 +6670,8 @@
       "price": 699.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1791217895.4444423,
+      "comment": "",
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6679,7 +6688,7 @@
       "first_date": 1790439669.9093566,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6732,7 +6741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "* Tempest Upgraded - Cards Above the Rest *",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6760,7 +6769,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask 4 pics",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6802,7 +6811,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7266,7 +7275,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7308,7 +7317,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7432,7 +7441,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7946,7 +7955,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "NEO 9.5 - with cardholder",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8135,7 +8144,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 Strong (39/40)",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8536,7 +8545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8564,7 +8573,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8580,7 +8589,7 @@
       "previous_quantities": [],
       "first_date": 1790059928.3709486,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8933,7 +8942,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9.5",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9007,7 +9016,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Serial number [160]. unique in the world. 20 times rarer than jap.",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9356,7 +9365,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 10 Pristine",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9653,7 +9662,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "insta: cardpacksplaza (C)",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9764,7 +9773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRADED PSA 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9810,7 +9819,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9918,7 +9927,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "photo in pvt",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9941,39 +9950,6 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
-        "name": "GINA-TCG",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 999.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "SERIAL n304 BGS 9.5",
-      "date": 1788741710.2781334,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1788741710.2781334
-        ]
-      ],
-      "first_date": 1787681399.1305811,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -10020,8 +9996,8 @@
       "price": 999.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10",
-      "date": 1791217895.4444423,
+      "comment": "PSA 10",
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10038,7 +10014,7 @@
       "first_date": 1790932556.8671305,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10108,6 +10084,62 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "[BGS 9.5]",
+      "date": 1791362056.683682,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791362056.683682,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "TCGCollectibles",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA10 We buy all your cards",
+      "date": 1791362056.683682,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791362056.683682,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "Moberri",
         "country": "Item location: Netherlands"
       },
@@ -10116,7 +10148,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Serial #081  BGS 9.5",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10144,7 +10176,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10251,7 +10283,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE Graded 10",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10296,7 +10328,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10378,7 +10410,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Clean and gradeable.",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10639,28 +10671,75 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "GINA-TCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! BGS 9.5 - Serial #304",
+      "date": 1791362056.683682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          999.0,
+          1788741710.2781334
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788741710.2781334
+        ],
+        [
+          0,
+          1788741710.2781334
+        ]
+      ],
+      "first_date": 1787681399.1305811,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "xSoldier01",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1050.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
       "date": 1791217895.4444423,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1100.0,
           1791045258.6469338
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791217895.4444423
+        ]
+      ],
       "first_date": 1789802573.2637618,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10712,8 +10791,8 @@
       "price": 1088.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! BGS 9.5: 9.5. 9.5. 10. 9",
-      "date": 1791217895.4444423,
+      "comment": "BGS 9.5: 9.5. 9.5. 10. 9",
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10739,7 +10818,7 @@
       "first_date": 1783861977.0401213,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10805,7 +10884,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[AOG 10] Prückis Cards TCG Store Berlin » Fragen: wa.me/pruckis",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10941,7 +11020,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10995,7 +11074,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Strong BGS 9.5",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11023,7 +11102,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11056,7 +11135,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Strong BGS 9.5 (9.5-10-10-9.5)",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11089,7 +11168,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 sur PARIS",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11117,7 +11196,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11425,7 +11504,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ORIGINAL BILD - TOPLOADER",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11478,7 +11557,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 /  Only Switzerland (Abholung in Zürich möglich)",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11572,7 +11651,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 (ask for photo) scambio a mano a milano e dintorni",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11659,7 +11738,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - PARIS - INSTA : KOLLECTOOR_TCG",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11687,7 +11766,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10 info dm",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11852,7 +11931,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12161,7 +12240,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 10.0]",
-      "date": 1791217895.4444423,
+      "date": 1791362056.683682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12183,6 +12262,34 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "OpNami",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1299.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 10",
+      "date": 1791362056.683682,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1791362056.683682,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
       "grade": 10.0,
       "grade_source": "auto"
     },

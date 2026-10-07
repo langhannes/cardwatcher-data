@@ -11,9 +11,9 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 10,
-  "available_graded": 2,
-  "sold": 0,
+  "available": 9,
+  "available_graded": 1,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -244,7 +244,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #119",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -294,7 +294,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #3005",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -331,7 +331,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Sehr selten! Gemäß § 19 UStG wird keine Umsatzsteuer berechnet.",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -381,7 +381,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -548,7 +548,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #728",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -598,7 +598,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 6",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -654,7 +654,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -786,7 +786,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "real NM",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -844,7 +844,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "GD/LP. Light dent/bend on top. Thousands of Japanese Holo's and Bulk! Old + Modern!",
-      "date": 1791132731.774125,
+      "date": 1791278752.9960842,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -910,12 +910,12 @@
       },
       "language": "Japanese",
       "price": 499.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 9",
       "date": 1791132731.774125,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -941,12 +941,16 @@
         [
           0,
           1789355056.0714781
+        ],
+        [
+          1,
+          1791132731.774125
         ]
       ],
       "first_date": 1788235195.387099,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

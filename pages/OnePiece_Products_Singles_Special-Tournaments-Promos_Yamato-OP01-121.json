@@ -9,10 +9,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 7,
-  "available_graded": 4,
-  "sold": 1,
-  "inserted": 1,
+  "available": 4,
+  "available_graded": 2,
+  "sold": 3,
+  "inserted": 0,
   "listings": [
     {
       "card": "Yamato (OP01-121)",
@@ -3502,18 +3502,23 @@
       },
       "language": "English",
       "price": 2000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791214727.2208564,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791214727.2208564
+        ]
+      ],
       "first_date": 1791214727.2208564,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3533,7 +3538,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed.",
-      "date": 1791214727.2208564,
+      "date": 1791359562.2359872,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3566,7 +3571,7 @@
       ],
       "first_date": 1786074984.7363467,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3584,12 +3589,12 @@
       },
       "language": "English",
       "price": 2200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Beckett 9.5",
       "date": 1791214727.2208564,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1800.0,
@@ -3644,12 +3649,16 @@
         [
           0,
           1788119917.3112519
+        ],
+        [
+          1,
+          1791214727.2208564
         ]
       ],
       "first_date": 1775643908.8117056,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3671,7 +3680,7 @@
       "comment": "BGS 9",
       "date": 1791042316.4497905,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           3200.0,
@@ -3707,7 +3716,7 @@
       "first_date": 1786646169.4095075,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3766,12 +3775,12 @@
       },
       "language": "English",
       "price": 3000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Graded 9.5 by CCC",
       "date": 1791214727.2208564,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3781,12 +3790,16 @@
         [
           0,
           1789237055.9699743
+        ],
+        [
+          1,
+          1791214727.2208564
         ]
       ],
       "first_date": 1788272524.501629,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3942,7 +3955,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10. dm for pictures",
-      "date": 1791214727.2208564,
+      "date": 1791359562.2359872,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4008,7 +4021,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1791214727.2208564,
+      "date": 1791359562.2359872,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4269,7 +4282,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791214727.2208564,
+      "date": 1791359562.2359872,
       "ended": false,
       "new": false,
       "previous_prices": [
