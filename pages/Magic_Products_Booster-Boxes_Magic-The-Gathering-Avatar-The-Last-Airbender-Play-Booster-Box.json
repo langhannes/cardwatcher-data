@@ -14,10 +14,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 999,
+  "available": 998,
   "available_graded": 0,
-  "sold": 12,
-  "inserted": 6,
+  "sold": 5,
+  "inserted": 4,
   "listings": [
     {
       "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
@@ -2763,7 +2763,7 @@
       "comment": "SEALED",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           110.0,
@@ -2799,7 +2799,7 @@
       "first_date": 1777380314.958598,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3239,7 +3239,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Arena Direct prize - New - Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3264,18 +3264,23 @@
       },
       "language": "English",
       "price": 109.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Arena Direct prize",
       "date": 1791334499.5124948,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1791334499.5124948
+        ]
+      ],
       "first_date": 1790581465.0731611,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3423,7 +3428,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selling entire collection! Check it out !!",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3502,10 +3507,10 @@
       },
       "language": "English",
       "price": 110.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3530,12 +3535,16 @@
         [
           2,
           1790736991.6886578
+        ],
+        [
+          1,
+          1791334499.5124948
         ]
       ],
       "first_date": 1769071139.8912957,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4323,7 +4332,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Can deliver in-hand in Lisbon area",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4351,7 +4360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. straight from wotc. produced in the USA",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4397,7 +4406,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "x5 disponibili. scambio a mano su milano",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4447,7 +4456,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4476,43 +4485,6 @@
       "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
       "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
       "seller": {
-        "name": "DEFCONDUEZERO",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 115.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791189567.3637898,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1785795150.5055408
-        ],
-        [
-          1,
-          1791189567.3637898
-        ]
-      ],
-      "first_date": 1777380314.958598,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
-      "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
-      "seller": {
         "name": "Liyla",
         "country": "Item location: France"
       },
@@ -4523,7 +4495,7 @@
       "comment": "",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           124.0,
@@ -4547,7 +4519,7 @@
       "first_date": 1789941336.4534335,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5459,7 +5431,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5501,7 +5473,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed & tracked shipping",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5874,7 +5846,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5903,7 +5875,7 @@
       ],
       "first_date": 1769071139.8912957,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5954,10 +5926,10 @@
       },
       "language": "English",
       "price": 119.9,
-      "quantity": 8,
+      "quantity": 5,
       "condition": "NM",
       "comment": "Sealed - Professional seller. ships everyday!",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6046,12 +6018,16 @@
         [
           10,
           1791189567.3637898
+        ],
+        [
+          8,
+          1791334499.5124948
         ]
       ],
       "first_date": 1777380314.958598,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6290,7 +6266,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6491,7 +6467,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6557,7 +6533,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf. scellé - Jamais ouvert",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6603,6 +6579,52 @@
       "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
       "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
       "seller": {
+        "name": "DEFCONDUEZERO",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1791445025.5029893,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          115.0,
+          1791189567.3637898
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1785795150.5055408
+        ],
+        [
+          1,
+          1791189567.3637898
+        ],
+        [
+          0,
+          1791189567.3637898
+        ]
+      ],
+      "first_date": 1777380314.958598,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
+      "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
+      "seller": {
         "name": "MScards",
         "country": "Item location: Portugal"
       },
@@ -6611,7 +6633,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6639,7 +6661,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6684,7 +6706,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6712,7 +6734,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Arena direct prize / entrega em mãos em Lisboa",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6754,7 +6776,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6787,7 +6809,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "I have 4 left. all in English",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6817,7 +6839,7 @@
       "first_date": 1789379881.8960297,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8901,7 +8923,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP / Sealed. Helsinki",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8977,7 +8999,7 @@
       "comment": "",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           140.0,
@@ -9037,7 +9059,7 @@
       "first_date": 1769071139.8912957,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9555,7 +9577,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9989,7 +10011,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "BUYWITHCONFIDENCE  rib play boosters",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10079,7 +10101,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10175,7 +10197,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10377,7 +10399,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10410,7 +10432,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10438,7 +10460,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10466,7 +10488,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10528,7 +10550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10558,7 +10580,7 @@
       "comment": "",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -10569,7 +10591,7 @@
       "first_date": 1788282091.1771064,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11760,15 +11782,48 @@
       "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
       "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
       "seller": {
+        "name": "ambrosius",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 127.5,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1788532992.185875,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1788532992.185875
+        ]
+      ],
+      "first_date": 1788282091.1771064,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
+      "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
+      "seller": {
         "name": "Haydn2424",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 127.5,
+      "price": 127.58,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11795,45 +11850,16 @@
         [
           127.32,
           1791189567.3637898
+        ],
+        [
+          127.5,
+          1791334499.5124948
         ]
       ],
       "previous_quantities": [],
       "first_date": 1790201493.4704888,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Magic: The Gathering | Avatar: The Last Airbender Play Booster Box",
-      "canonical_name": "Magic_Products_Booster-Boxes_Magic-The-Gathering-Avatar-The-Last-Airbender-Play-Booster-Box",
-      "seller": {
-        "name": "ambrosius",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 127.5,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1788532992.185875,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1788532992.185875
-        ]
-      ],
-      "first_date": 1788282091.1771064,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11923,7 +11949,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12594,7 +12620,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi hyper protégé.",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12771,9 +12797,9 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791334499.5124948,
@@ -12799,7 +12825,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "Fast Shipping. Madrid Store",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13013,7 +13039,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13113,7 +13139,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13159,7 +13185,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13196,7 +13222,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13226,7 +13252,7 @@
       "comment": "EXTENDED Time Offer! - The cards you WISH!",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           119.9,
@@ -13258,7 +13284,7 @@
       "first_date": 1777380314.958598,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13319,7 +13345,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13352,7 +13378,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Fast Dispatch",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13459,7 +13485,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "* Visita nuestra tienda física en Madrid *",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13501,7 +13527,7 @@
       "first_date": 1765794325.78365,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13521,7 +13547,7 @@
       "quantity": 22,
       "condition": "NM",
       "comment": "OVP / Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13621,7 +13647,7 @@
       "comment": "RELISTED! ",
       "date": 1791189567.3637898,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           129.99,
@@ -13685,7 +13711,7 @@
       "first_date": 1780285893.0830517,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14179,7 +14205,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14261,7 +14287,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14298,7 +14324,7 @@
       "quantity": 20,
       "condition": "NM",
       "comment": "Vendu mar case scellé si 6 prise",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14344,7 +14370,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEUF / SCELLE / ENVOI 24-48H",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14430,9 +14456,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791334499.5124948,
@@ -14458,7 +14484,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791334499.5124948,
+      "date": 1791445025.5029893,
       "ended": false,
       "new": false,
       "previous_prices": [],

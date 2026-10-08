@@ -11,10 +11,10 @@
   ],
   "only_germany": "False",
   "market_language": "",
-  "available": 68,
-  "available_graded": 28,
-  "sold": 0,
-  "inserted": 3,
+  "available": 64,
+  "available_graded": 27,
+  "sold": 5,
+  "inserted": 1,
   "listings": [
     {
       "card": "Nami (OP01-016)",
@@ -3416,23 +3416,28 @@
       },
       "language": "Japanese",
       "price": 119.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "perfect front. flaw on the back",
       "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           149.0,
           1790211234.234311
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791342741.1098187
+        ]
+      ],
       "first_date": 1789635049.6510005,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7324,7 +7329,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fresh pack. status Mint",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7478,7 +7483,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7645,6 +7650,43 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Bao-Cards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 170.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1791452924.3230686,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          200.0,
+          1791197689.8079345
+        ],
+        [
+          180.0,
+          1791342741.1098187
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790417124.1469345,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -8235,18 +8277,23 @@
       },
       "language": "Japanese",
       "price": 176.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791342741.1098187
+        ]
+      ],
       "first_date": 1789951120.2074835,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8299,7 +8346,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8469,85 +8516,6 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
       "seller": {
-        "name": "hoangphuong",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PM for pictures",
-      "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          195.0,
-          1788304315.2105935
-        ],
-        [
-          200.0,
-          1790745474.5459046
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1788304315.2105935
-        ],
-        [
-          0,
-          1788304315.2105935
-        ]
-      ],
-      "first_date": 1787980160.1236644,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
-      "seller": {
-        "name": "Bao-Cards",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          200.0,
-          1791197689.8079345
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1790417124.1469345,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
-      "seller": {
         "name": "Pacogsm",
         "country": "Item location: Spain"
       },
@@ -8556,7 +8524,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8582,6 +8550,56 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "hoangphuong",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PM for pictures",
+      "date": 1791342741.1098187,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          195.0,
+          1788304315.2105935
+        ],
+        [
+          200.0,
+          1790745474.5459046
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1788304315.2105935
+        ],
+        [
+          0,
+          1788304315.2105935
+        ],
+        [
+          1,
+          1791342741.1098187
+        ]
+      ],
+      "first_date": 1787980160.1236644,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8894,7 +8912,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Diff. Taxation /",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9235,7 +9253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9263,7 +9281,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Small white dot on back. can send pictures",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9692,7 +9710,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "small whitening on the back",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9859,7 +9877,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10262,7 +10280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve -> toploader",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10673,11 +10691,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 206.42,
+      "price": 206.55,
       "quantity": 1,
       "condition": "NM",
       "comment": "clean",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10872,6 +10890,10 @@
         [
           206.14,
           1791197689.8079345
+        ],
+        [
+          206.42,
+          1791342741.1098187
         ]
       ],
       "previous_quantities": [],
@@ -10898,7 +10920,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "ZH",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11018,6 +11040,60 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
       "seller": {
+        "name": "Collectium",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 214.79,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Schneller Versand & sichere Verpackung",
+      "date": 1791452924.3230686,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          228.71,
+          1787102025.3043203
+        ],
+        [
+          238.66,
+          1788151577.45516
+        ],
+        [
+          218.77,
+          1788304315.2105935
+        ],
+        [
+          238.66,
+          1789951120.2074835
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1789951120.2074835
+        ],
+        [
+          0,
+          1789951120.2074835
+        ]
+      ],
+      "first_date": 1785442261.1465836,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
+      "seller": {
         "name": "G-Card-Corp",
         "country": "Item location: Germany"
       },
@@ -11109,7 +11185,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11166,7 +11242,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11203,7 +11279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Weißer Binder - 6",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11339,29 +11415,20 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
       "seller": {
-        "name": "ZurisShop",
-        "country": "Item location: Germany"
+        "name": "RoujeS92",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 220.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "More Singles. Local Store Wuppertal",
-      "date": 1791342741.1098187,
+      "comment": "",
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782624765.3257365
-        ],
-        [
-          0,
-          1782624765.3257365
-        ]
-      ],
-      "first_date": 1781921563.5373387,
+      "previous_quantities": [],
+      "first_date": 1791197689.8079345,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11376,23 +11443,36 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
       "seller": {
-        "name": "RoujeS92",
-        "country": "Item location: Italy"
+        "name": "ZurisShop",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 220.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
+      "comment": "More Singles. Local Store Wuppertal",
       "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1791197689.8079345,
+      "previous_quantities": [
+        [
+          1,
+          1782624765.3257365
+        ],
+        [
+          0,
+          1782624765.3257365
+        ],
+        [
+          1,
+          1791342741.1098187
+        ]
+      ],
+      "first_date": 1781921563.5373387,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11579,7 +11659,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11627,52 +11707,6 @@
         ]
       ],
       "first_date": 1769497418.464822,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
-      "seller": {
-        "name": "Collectium",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 238.66,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Schneller Versand & sichere Verpackung",
-      "date": 1789951120.2074835,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          228.71,
-          1787102025.3043203
-        ],
-        [
-          238.66,
-          1788151577.45516
-        ],
-        [
-          218.77,
-          1788304315.2105935
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1789951120.2074835
-        ]
-      ],
-      "first_date": 1785442261.1465836,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12270,7 +12304,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12364,7 +12398,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12406,7 +12440,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm or better. booster -> sleeve + TL",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12534,7 +12568,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GM 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12821,7 +12855,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "enfoncement en haut au milieu",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12951,8 +12985,8 @@
       "price": 265.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! BGS9.5 + Slabguard",
-      "date": 1791342741.1098187,
+      "comment": "BGS9.5 + Slabguard",
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12973,8 +13007,8 @@
       ],
       "first_date": 1790211234.234311,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13190,7 +13224,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13218,7 +13252,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13246,7 +13280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13274,9 +13308,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AI Grading 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791342741.1098187,
@@ -13364,7 +13398,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ccc grading 9.5",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13471,7 +13505,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ARS 10 (comes with certificate). More cards on my profile !",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13517,7 +13551,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13681,7 +13715,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[GRAAD 9.5]",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13739,7 +13773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.5]",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13805,7 +13839,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13833,7 +13867,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13948,7 +13982,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 / PG",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13976,7 +14010,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14004,7 +14038,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14054,9 +14088,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1791342741.1098187,
@@ -14248,7 +14282,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14303,12 +14337,12 @@
       },
       "language": "Japanese",
       "price": 339.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10 /417*",
       "date": 1791342741.1098187,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           199.99,
@@ -14319,12 +14353,16 @@
         [
           0,
           1767728634.9225662
+        ],
+        [
+          1,
+          1791342741.1098187
         ]
       ],
       "first_date": 1766080105.617108,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14418,7 +14456,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Slab danneggiato ai bordi. Regalo crystal display",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14496,7 +14534,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14939,7 +14977,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10  /  PG",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15000,7 +15038,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15056,7 +15094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1791342741.1098187,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15109,6 +15147,97 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
       "seller": {
+        "name": "PaperPepp",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Graded PSA 10/fast shipping",
+      "date": 1791452924.3230686,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          480.0,
+          1790913143.7229078
+        ],
+        [
+          450.0,
+          1791197689.8079345
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1790913143.7229078,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "WeilerTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 /Abholung in Mainz möglich",
+      "date": 1791452924.3230686,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          390.0,
+          1780519265.860239
+        ],
+        [
+          400.0,
+          1780976544.2553825
+        ],
+        [
+          750.0,
+          1784462060.2411695
+        ],
+        [
+          550.0,
+          1791197689.8079345
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780976544.2553825
+        ],
+        [
+          0,
+          1780976544.2553825
+        ]
+      ],
+      "first_date": 1779797930.6289608,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
+      "seller": {
         "name": "giovic99",
         "country": "Item location: Italy"
       },
@@ -15117,7 +15246,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1791197689.8079345,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15158,7 +15287,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1791197689.8079345,
+      "date": 1791452924.3230686,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15550,39 +15679,6 @@
         ]
       ],
       "first_date": 1782536536.5773797,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
-      "seller": {
-        "name": "PaperPepp",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 450.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Graded PSA 10/fast shipping",
-      "date": 1791197689.8079345,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          480.0,
-          1790913143.7229078
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1790913143.7229078,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16146,56 +16242,6 @@
         ]
       ],
       "first_date": 1769940769.794006,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Awakening-of-the-New-Era-Japanese_Nami-OP01-016",
-      "seller": {
-        "name": "WeilerTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 550.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1791197689.8079345,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          390.0,
-          1780519265.860239
-        ],
-        [
-          400.0,
-          1780976544.2553825
-        ],
-        [
-          750.0,
-          1784462060.2411695
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780976544.2553825
-        ],
-        [
-          0,
-          1780976544.2553825
-        ]
-      ],
-      "first_date": 1779797930.6289608,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

@@ -11,9 +11,9 @@
   ],
   "only_germany": false,
   "market_language": "",
-  "available": 10,
+  "available": 9,
   "available_graded": 0,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -128,7 +128,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "I accept cards as 20%-30% payment",
-      "date": 1791332514.0773845,
+      "date": 1791443165.6538186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -198,7 +198,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Trade g Riftbound",
-      "date": 1791332514.0773845,
+      "date": 1791443165.6538186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -235,7 +235,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "FREE SHIPPING within the EEA with DPD on orders over 150 euros at checkout!",
-      "date": 1791332514.0773845,
+      "date": 1791443165.6538186,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -265,18 +265,23 @@
       },
       "language": "Japanese",
       "price": 2000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed",
       "date": 1791332514.0773845,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1791332514.0773845
+        ]
+      ],
       "first_date": 1787431430.6024883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
